@@ -1,0 +1,17 @@
+{
+  "name": "txt2classid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "txt2classid.js",
+  "bin": "./txt2classid.js",
+  "scripts": {
+    "dev": "node txt2classid.js",
+    "pkg": "pkg . -t node14-win"
+  },
+  "keywords": [],
+  "author": "Black phoen1x",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.21.0"
+  }
+}
