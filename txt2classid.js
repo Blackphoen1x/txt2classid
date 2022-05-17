@@ -2,6 +2,7 @@ const xlsx = require('node-xlsx');
 const path = require('path');
 const fs = require('fs');
 const readline = require('readline');
+const {NTIPAliasClassID} = require('./NTItemAlias.dbl');
 
 function finish() {
     console.log("按任意键退出...");
@@ -24,7 +25,6 @@ function txt2classid() {
         handleList.forEach(fileName => {
             // 1.读取
             let modRows;
-            let originalRows;
             try {
                 modRows = xlsx.parse(path.join(__dirname, `txt_mod/${fileName}.txt`))[0].data;
             } catch (e) {
@@ -32,33 +32,34 @@ function txt2classid() {
                 reject();
             }
 
-            try {
-                originalRows = xlsx.parse(path.join(__dirname, `txt_original/${fileName}.txt`))[0].data;
-            } catch (e) {
-                console.log(`读取txt文件失败：txt_original/${fileName}.txt`);
-                reject();
-            }
-
             // 2.处理
             const tableHeadRow = modRows.shift();
-            const originalTableHeadRow = originalRows.shift();
             const nameIndex = tableHeadRow.includes('*name') ? tableHeadRow.indexOf('*name') : tableHeadRow.indexOf('name');
             const codeIndex = tableHeadRow.indexOf('code');
-            const originalNameIndex = originalTableHeadRow.includes('*name') ? originalTableHeadRow.indexOf('*name') : originalTableHeadRow.indexOf('name');
-            const originalCodeIndex = originalTableHeadRow.indexOf('code');
 
             if (nameIndex === -1 || codeIndex === -1) {
                 console.log("找不到表头中name或code所在列");
                 reject();
             }
+
             modRows.forEach(row => {
                 if (row[0] === "Expansion") {
                     return;
                 }
                 const itemCode = row[codeIndex];
-                const itemInOriginal = originalRows.find(row => row[originalCodeIndex] === itemCode);
-                let itemName = !!itemInOriginal ? itemInOriginal[originalNameIndex] : row[nameIndex];
-                itemName = !!itemName ? itemName.replace(/\s+/g, "").toLowerCase() : "";
+                const isModCode = NTIPAliasClassID[itemCode] === "undefined";
+                let itemName = "";
+                if (isModCode) {
+                    itemName = row[nameIndex];
+                    itemName = !!itemName ? itemName.replace(/\s+/g, "").toLowerCase() : "";
+                } else {
+                    for (let key in NTIPAliasClassID) {
+                        if (NTIPAliasClassID[key] === NTIPAliasClassID[itemCode] && key !== itemCode) {
+                            itemName = key;
+                        }
+                    }
+                }
+
                 const line = itemName ?
                     `NTIPAliasClassID["${itemCode}"] = ${classid}; NTIPAliasClassID["${itemName}"] = ${classid};` :
                     `NTIPAliasClassID["${itemCode}"] = ${classid}`;
