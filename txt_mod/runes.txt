@@ -1,0 +1,171 @@
+Name	Rune Name	complete	server	itype1	itype2	itype3	itype4	itype5	itype6	etype1	etype2	etype3	*runes	Rune1	Rune2	Rune3	Rune4	Rune5	Rune6	T1Code1	T1Param1	T1Min1	T1Max1	T1Code2	T1Param2	T1Min2	T1Max2	T1Code3	T1Param3	T1Min3	T1Max3	T1Code4	T1Param4	T1Min4	T1Max4	T1Code5	T1Param5	T1Min5	T1Max5	T1Code6	T1Param6	T1Min6	T1Max6	T1Code7	T1Param7	T1Min7	T1Max7	eol
+Runeword1	Ancient's Pledge	1		shld									RalOrtTal	r08	r09	r07				pr35		30	30	pr41		13	13	pr5		50	50	pr30		10	10													0
+Runeword2	Armageddon												ThulIoNef																																			0
+Runeword3	Authority												JahGulEth																																			0
+Runeword4	The Beast	1		axe	scep	hamm							EthRalOrtTal	r30	r03	r22	r23	r17		pr56		40	40	pr125		9	9	pr29		240	270	pr7		25	40	pr243	sk247	5	13	pr265	sk228	3	3	pr265	sk224	3	3	0
+Runeword5	beauty	1		tors									AmnElIthTirSol	r35	r33	r30	r34			pr41		30	50	pr5		200	300	pr77		45	45	pr59		88	88	pr268	sk1	6	363	pr104			3	pr7		40	40	0
+Runeword6	Black	1		club	hamm	mace							AmnRalThul	r10	r16	r04				pr108		40	40	pr29		120	120	pr56		15	15	pr6		2	2	pr15		200	200	pr243	sk74	12	4					0
+Runeword7	Blood	1		tors									TirRal	r35	r32	r31	r30			pr5		200	300	pr29		200	400	pr56		25	25	pr265	sk364	1	30	pr125	sk104	12	30	pr80		20	40					0
+Runeword8	Bone	1		tors									HelLumFal	r12	r22	r22				pr127	sk84	15	10	pr128	sk68	15	10	pr69		2	2	pr11		100	150													0
+Runeword9	Bramble	1		tors									OrtSol	r08	r27	r29	r05			pr80		50	50	pr0		300	300	pr125	sk103	15	21	pr253		13	13	pr247		25	50	pr39		100	100	pr243	sk246	33	13	0
+Runeword10	Brand	1		miss									IthElEth	r31	r28	r23	r25			pr29		260	340	pr98		280	330	pr127	sk84	100	18	pr128	sk66	35	14	pr60		1	1	pr94		1	1	pr120		15	15	0
+Runeword11	Breath of the Dying	1		weap									ShaelKoNef	r26	r15	r01	r02	r33	r05	pr56		60	60	pr99		125	125	pr66		12	15	pr94		1	1	pr258	sk92	50	20	pr29		350	400	pr251		30	30	0
+Runeword12	Broken Promise												LumIoSolEth																																			0
+Runeword13	Call to Arms	1		weap									NefTir	r11	r08	r23	r24	r27		pr56		40	40	pr29		200	240	pr104		1	1	pr265	sk155	2	6	pr265	sk149	1	6	pr265	sk146	1	4	pr53		12	12	0
+Runeword14	Bound by Duty	1		tors									NefSolIth	r14	r22	r30	r24			pr41		50	50	pr5		70	70	pr98		200	200	pr99		100	100	pr66		8	8	pr104		2	2	pr7		20	20	0
+Runeword15	Chance												ShaelEth																																			0
+Runeword16	Chaos	1		h2h									DolEldHelIstTirVex	r19	r27	r22				pr111		15	15	pr29		240	290	pr136		216	471	pr265	sk151	1	1	pr56		35	35	pr127	sk64	9	11	pr127	sk38	11	9	0
+Runeword17	Crescent Moon	1		axe	swor	pole							NefLum	r13	r22	r03				pr233		35	35	pr92		1	1	pr29		180	220	pr48		9	11	pr243	sk227	30	18	pr127	sk42	7	13	pr127	sk53	10	17	0
+Runeword18	Darkness												TalEth																																			0
+Runeword19	Daylight												TirEl																																			0
+Runeword20	Death	1		swor	axe								AmnTir	r15	r01	r26	r09	r25		pr29		300	385	pr177	sk4			pr243	sk85	15	22	pr126	sk55	25	18	pr259	sk53	100	44	pr108		50	50	pr242		1	1	0
+Runeword21	Deception												TalDolMal																																			0
+Runeword22	Delirium	1		helm									LemKoTir	r20	r24	r16				pr127	sk81	11	18	pr243	sk86	60	17	pr128	sk77	14	13	pr0		261	261	pr128	sk273	6	14	pr128	sk350	1	50	pr104		2	2	0
+Runeword23	Desire												DolIo																																			0
+Runeword24	Despair	1		wand									OrtEth	r35	r33					pr69		1	3	pr232		1	30	pr275		1	30	pr125	sk122	12	30	pr235		1	30									0
+Runeword25	Destruction	1		pole	swor								DolUmBerIst	r26	r28	r30	r31	r18		pr29		350	350	pr136		100	180	pr127	sk229	5	23	pr259	sk56	100	45	pr126	sk48	15	22	pr127	sk244	23	12	pr94		1	1	0
+Runeword26	Doomsayer	1		axe	pole	hamm							RalOhmSurEth	r15	r27	r22	r28	r32		pr29		280	320	pr125	sk114	12	12	pr56		45	45	pr94		1	1	pr234		40	60	pr104		2	2	pr127	sk244	5	18	0
+Runeword27	Dragon	1		tors	shld								VexHelElEldZodEth	r29	r28	r12				pr0		360	360	pr1		230	230	pr147	sk3			pr127	sk62	12	15	pr128	sk278	20	18	pr125	sk102	14	14	pr251		3	5	0
+Runeword28	Dread												AmnRalMalIstOhm																																			0
+Runeword29	Dream	1		helm	shld								ShaelUmTir	r16	r31	r21				pr0		150	220	pr128	sk81	10	15	pr144	sk5			pr41		5	20	pr81		20	30	pr125	sk118	15	15	pr59		12	25	0
+Runeword30	Duress	1		tors									LemIstIo	r13	r22	r10				pr137	sk50	37	133	pr29		10	20	pr5		150	200	pr80		20	20	pr107		33	33	pr108		15	15	pr116		-20	-20	0
+Runeword31	Edge	1		miss									HelOhmUmLoCham	r03	r07	r11				pr98		320	380	pr99		280	280	pr56		35	35	pr94		1	1	pr125	sk103	15	15	pr251		5	10	pr254		15	15	0
+Runeword32	Destiny's Daughter												JahIthBer																																			0
+Runeword33	Enigma	1		tors									ShaelUmPulLum	r31	r06	r30				pr0		750	775	pr253		14	14	pr77		45	45	pr147	sk6			pr104		2	2	pr167	sk8			pr265	sk54	1	1	0
+Runeword34	Enlightenment	1		tors									AmnBerIstSolSur	r21	r08	r12				pr127	sk47	5	15	pr128	sk46	5	15	pr70		2	2	pr265	sk37	1	1													0
+Runeword35	Envy												VexOhmIstDol																																			0
+Runeword36	Eternity	1		mele									FalOhmOrtJah	r11	r30	r24	r12	r29		pr29		260	310	pr242		1	1	pr114		33	33	pr243	sk95	88	8	pr53		16	16	pr62		16	16	pr115		1	1	0
+Runeword37	Exile's Path	1		pala									SurChamAmnLo	r26	r27	r24	r14			pr83		30	30	pr106		1	1	pr5		220	260	pr125	sk104	13	16	pr124	sk10	2	2	pr127	sk82	15	5	pr179	sk25			0
+Runeword38	Faith	1		miss									KoVexPulThul	r27	r31	r20	r02			pr29		280	280	pr96		300	300	pr134		120	120	pr41		15	15	pr125	sk122	12	15	pr117	sk1	10	10	pr104		1	2	0
+Runeword39	Famine	1		axe	hamm								MalUmGulFal	r19	r27	r09	r31			pr29		270	320	pr66		12	12	pr56		30	30	pr94		1	1	pr136		180	200	pr248	sk100	50	200	pr264		1	1	0
+Runeword40	Flickering Flame												DolOrtEldLem																																			0
+Runeword41	Fortitude	1		weap	tors								FalUmPul	r01	r12	r14	r28			pr5		200	200	pr29		300	300	pr87		25	25	pr128	sk60	20	15	pr30		12	12	pr143		8	12	pr41		25	30	0
+Runeword42	Fortune's Favor												KoKoMal																																			0
+Runeword43	Amity												FalOhmUm																																			0
+Runeword44	Fury	1		mele									BerTirUmMalLum	r31	r25	r05				pr29		209	209	pr56		40	40	pr94		1	1	pr107		66	66	pr66		6	6	pr113		33	33	pr123	sk147	5	5	0
+Runeword45	Gloom	1		tors										r19	r22	r21				pr5		170	230	pr41		30	30	pr128	sk71	15	3	pr80		10	10	pr30		5	5	pr73		-3	-3	pr95		1	1	0
+Runeword46	Glory																																															0
+Runeword47	Widowmaker	1		swor	axe									r05	r03	r28	r23	r08		pr170	sk15			pr89		340	400	pr57		30	40	pr127	sk278	35	15	pr235		20	25	pr92		1	1	pr253		10	15	0
+Runeword48	Hand of Justice	1		weap										r29	r32	r11	r28			pr56		33	33	pr29		280	330	pr125	sk102	16	16	pr260	sk46	100	36	pr259	sk56	100	48	pr92		1	1	pr232		20	20	0
+Runeword49	Harmony	1		miss										r03	r06	r12	r18			pr29		200	275	pr248		55	160	pr243	sk95	25	20	pr125	sk115	10	10	pr265	sk32	2	6	pr62		20	20	pr73		2	2	0
+Runeword50	Hatred												TalThulOrtAmn																																			0
+Runeword51	Heart of the Oak	1		staf	mace								EthLum	r18	r26	r21	r10			pr86		40	40	pr243	sk226	25	4	pr12		15	15	pr104		3	3	pr53		20	20	pr41		30	40	pr243	sk221	60	14	0
+Runeword52	Heaven's Will																																															0
+Runeword53	Holy Tears																																															0
+Runeword54	Holy Thunder	1		scep									ShaelUmThul	r05	r08	r09	r07			pr29		60	60	pr135		20	60	pr28		10	10	pr33		60	60	pr34		5	5	pr123	sk118	3	3	pr243	sk53	60	7	0
+Runeword55	Honor	1		mele										r11	r01	r06	r03	r12		pr29		160	160	pr53		10	10	pr104		1	1	pr15		200	200	pr113		25	25	pr7		10	10					0
+Runeword56	Dweomer																																															0
+Runeword57	Humility																																															0
+Runeword58	Hunger																																															0
+Runeword59	Ice	1		miss										r11	r13	r31	r28			pr29		140	210	pr125	sk114	18	18	pr246		25	30	pr127	sk44	25	22	pr260	sk59	100	40	pr234		20	20	pr166	sk25			0
+Runeword60	Infinity	1		pole									ShaelPulMalLum	r30	r23	r30	r24			pr29		255	325	pr78		35	35	pr150	sk4			pr125	sk123	12	12	pr258	sk53	50	20	pr233		45	55	pr243	sk235	30	21	0
+Runeword61	Innocence												HelKoThulEthFal																																			0
+Runeword62	Insight	1		pole	staf									r08	r03	r07	r12			pr29		200	260	pr96		180	250	pr59		23	23	pr265	sk9	1	6	pr86		35	35	pr125	sk120	12	17	pr251		5	5	0
+Runeword63	Jealousy																																															0
+Runeword64	Judgment	1		weap									TirIthSolKo	r35	r34	r33	r22			pr29		325	325	pr78		35	35	pr274		1	50	pr125	sk414	12	60	pr66		10	50	pr108		50	50			8	8	0
+Runeword65	King's Grace	1		swor	scep									r11	r08	r10				pr29		100	100	pr15		150	150	pr98		100	100	pr99		50	50	pr100		100	100	pr101		100	100					0
+Runeword66	Kingslayer	1		swor	axe									r23	r22	r25	r19			pr56		30	30	pr29		230	270	pr93		25	25	pr108		33	33	pr107		25	25	pr265	sk111	1	1	pr58		40	40	0
+Runeword67	Knight's Vigil												ElSolDolLo																																			0
+Runeword68	Thirst for Knowledge																																															0
+Runeword69	Last Wish	1		swor	hamm	axe								r31	r23	r31	r29	r31	r30	pr29		330	375	pr126	sk38	20	20	pr127	sk82	10	18	pr128	sk267	6	11	pr108		40	50	pr167	sk4			pr125	sk98	17	17	0
+Runeword70	Law																																															0
+Runeword71	Lawbringer	1		swor	hamm	scep							OhmJahLemEld	r11	r20	r18				pr137		130	180	pr134		150	210	pr125	sk119	16	18	pr127	sk87	20	15	pr1		200	250	pr255		1	1	pr93		50	50	0
+Runeword72	Leaf	1		staf										r03	r08					pr103		3	3	pr141		16	16	pr35		33	33	pr123	sk41	3	3	pr123	sk36	3	3	pr123	sk37	3	3					0
+Runeword73	Lightning																																															0
+Runeword74	Lionheart	1		tors										r15	r17	r19				pr7		15	15	pr9		20	20	pr8		15	15	pr29		20	20	pr13		50	50	pr41		30	30					0
+Runeword75	Lore	1		helm										r09	r12					pr10		10	10	pr104		1	1	pr73		2	2	pr110		2	2													0
+Runeword76	The Lovers																																															0
+Runeword77	Loyalty												SolUmUm																																			0
+Runeword78	Lust												JahLoMalGul																																			0
+Runeword79	Madness																																															0
+Runeword81	Malice	1		mele										r06	r01	r05				pr107		100	100	pr97		-100	-100	pr94		1	1	pr29		33	33	pr73		-1	-1	pr53		-5	-5					0
+Runeword82	Melody	1		miss										r13	r18	r04				pr29		50	50	pr124		3	3	pr123	sk9	3	3	pr123	sk13	3	3	pr123	sk17	3	3	pr99		300	300					0
+Runeword83	Memory	1		staf										r17	r16	r12	r05			pr12		20	20	pr6		7	7	pr5		50	50	pr86		33	33	pr70		3	3	pr123	sk58	3	3	pr123	sk42	2	2	0
+Runeword84	Mist																																															0
+Runeword85	Morning Dew												HelElVexOrtGul																																			0
+Runeword86	Mystery	1		glov	boot									r30	r15	r24	r20			pr81		20	20	pr11		50	50	pr1		100	100	pr9		22	22	pr87		15	25	pr48		3	8	pr104		1	1	0
+Runeword87	Myth	1		tors										r15	r11	r04				pr127	sk137	10	1	pr128	sk130	3	1	pr71		2	2	pr53		10	10													0
+Runeword88	Nadir	1		helm										r04	r03					pr5		50	50	pr0		10	10	pr73		-3	-3	pr243		9	13	pr58		-33	-33	pr7		5	5					0
+Runeword89	Nature's Kingdom																																															0
+Runeword90	Nightfall												VexLoBerJahKo																																			0
+Runeword91	Oath	1		swor	axe	mace							SurLoSol	r13	r21	r23	r17			pr29		210	340	pr55		30	30	pr127	sk93	30	20	pr243	sk90	14	17	pr243		20	16	pr48		10	15	pr242		1	1	0
+Runeword92	Obedience	1		pole										r15	r18	r10	r05	r19		pr29		370	370	pr108		40	40	pr258	sk52	30	21	pr232		25	25	pr0		200	300	pr81		40	40	pr41		20	30	0
+Runeword93	Oblivion												IoJahPul																																			0
+Runeword94	Obsession																																															0
+Runeword95	Passion	1		weap									TirTalAmn	r14	r09	r02	r20			pr29		160	210	pr265	sk106	1	1	pr96		50	80	pr265	sk152	1	1	pr56		25	25	pr243	sk236	12	3	pr91		10	10	0
+Runeword96	Patience												PulRalSur																																			0
+Runeword97	Pattern	1		h2h										r07	r09	r03				pr96		10	10	pr29		40	80	pr134		12	32	pr41		15	15	pr7		6	6	pr8		6	6	pr83		30	30	0
+Runeword98	Peace	1		tors										r13	r10	r11				pr127	sk32	2	15	pr128	sk17	4	5	pr67		2	2	pr265	sk9	2	2													0
+Runeword99	Winter	1		swor	mace									r20	r18	r01	r02			pr98		220	350	pr99		280	300	pr137		100	220	pr234		24	24	pr127	sk45	18	20	pr127	sk64	15	13	pr115		1	1	0
+Runeword100	Penitence																																															0
+Runeword101	Peril	1		belt										r35	r31					pr104			2	pr125	sk120	12	30	pr75		-50	-50	pr4		1	20													0
+Runeword102	Pestilence												AmnShaelJahLo																																			0
+Runeword103	Phoenix	1		weap	shld								BerMalBerIst	r26	r26	r28	r31			pr29		350	400	pr1		350	400	pr127		40	22	pr260	sk46	100	40	pr232		28	28	pr125	sk124	10	15	pr44		15	21	0
+Runeword104	Piety																																															0
+Runeword105	Pillar of Faith												RalTirTalSol																																			0
+Runeword106	Plague	1		weap										r32	r19	r22				pr98		260	380	pr128	sk91	20	12	pr127	sk92	25	15	pr235		23	23	pr177	sk3			pr125	sk109	13	17	pr104		1	2	0
+Runeword107	Praise	1		boot										r35	r24	r34	r24			pr104			2	pr125	sk115	12	30	pr77		30	50	pr80		40	40	pr75		-50	-50									0
+Runeword108	Prayer	1		glov										r35	r13	r34	r31			pr104			2	pr86		20	20	pr125	sk109	12	30	pr12		189	189	pr75		-50	-50									0
+Runeword109	Pride	1		pole									JahMalJahSurJahBer	r32	r29	r16	r28			pr170	sk8			pr135		50	280	pr96		260	300	pr125	sk113	16	20	pr128	sk51	25	17	pr53		8	8	pr166	sk15			0
+Runeword110	Principle	1		tors										r08	r25	r02				pr127	sk101	100	5	pr68		2	2	pr13		100	150	pr99		50	50													0
+Runeword111	Prowess in Battle												AmnLemKo																																			0
+Runeword112	Prudence	1		tors										r23	r03					pr5		140	170	pr6		10	10	pr3		3	3	pr41		25	35	pr80		25	25	pr179	sk25			pr73		1	1	0
+Runeword113	Punishment	1		orb	hamm									r35	r33	r31				pr104			2	pr232		1	30	pr233		1	30	pr246		1	50													0
+Runeword114	Purity																																															0
+Runeword115	Question																																															0
+Runeword116	Radiance	1		helm										r04	r12	r06				pr73		5	5	pr10		10	10	pr9		10	10	pr6		3	3	pr11		33	33	pr5		75	75					0
+Runeword117	Rain	1		tors										r09	r23	r06				pr127	sk240	5	15	pr128	sk235	5	15	pr121		2	2	pr11		100	150													0
+Runeword118	Reason																																															0
+Runeword119	Red	1		head									HelAmnNef	r35	r34					pr104			2	pr275		1	30	pr235		1	30	pr232		1	30	pr346		20	35	pr16		35	35	pr83		35	35	0
+Runeword120	Rhyme	1		shld										r13	r05					pr83		20	20	pr16		20	20	pr41		25	25	pr115		1	1	pr58		50	50	pr59		25	25					0
+Runeword121	Rift	1		pole	scep								TalOrtTir	r15	r18	r20	r25			pr136		160	250	pr134		60	180	pr30		38	38	pr127	sk245	20	16	pr126	sk64	16	21	pr243	sk76	40	15	pr251		5	10	0
+Runeword122	Sanctuary	1		shld									ShaelThulAmn	r18	r18	r23				pr16		20	20	pr83		20	20	pr5		130	160	pr1		250	250	pr41		50	70	pr80		20	20	pr243	sk17	60	12	0
+Runeword123	Serendipity	1		pole										r27	r24	r27	r22			pr29		200	200	pr78		35	35	pr274		1	30	pr125	sk414	10	35	pr66		10	30	pr108		33	33			8	8	0
+Runeword124	Shadow	1		swor	shld									r25	r24	r23	r12			pr81		55	55	pr11		88	88	pr87		30	30	pr104			2	pr274		1	30	pr41		30	40					0
+Runeword125	Shadow of Doubt	1		swor	shld									r25	r24	r23	r11			pr81		55	55	pr11		88	88	pr87		30	30	pr104			2	pr275		1	30	pr41		30	40					0
+Runeword126	Silence	1		weap									VexVexLoJah	r14	r02	r15	r24	r03	r26	pr65		4	4	pr91		33	33	pr29		200	200	pr56		20	20	pr41		75	75	pr104		2	2	pr80		20	20	0
+Runeword127	Siren's Song	1		swor	shld									r25	r24	r23	r09			pr81		55	55	pr11		88	88	pr87		30	30	pr104			2	pr233		1	30	pr41		30	40					0
+Runeword128	Smoke	1		tors										r04	r17					pr1		250	250	pr5		75	75	pr41		50	50	pr80		20	20	pr73		-1	-1	pr243		18	6					0
+Runeword129	Sorrow	1		swor	shld								ChamFalUm	r25	r24	r23	r08			pr81		55	55	pr11		88	88	pr87		30	30	pr104			2	pr232		1	30	pr41		30	40					0
+Runeword130	Spirit	1		swor	shld									r07	r10	r09	r11			pr81		55	55	pr11		89	112	pr1		250	250	pr9		22	22	pr87		25	35	pr48		3	8	pr104		2	2	0
+Runeword131	Splendor	1		shld										r05	r17					pr73		3	3	pr58		50	50	pr59		20	20	pr5		60	100	pr83		20	20	pr86		10	10	pr104		1	1	0
+Runeword132	Starlight												ChamSurIoLo																																			0
+Runeword133	Stealth	1		tors									RalGulEld	r07	r05					pr6		3	3	pr8		6	6	pr63		15	15	pr77		25	25	pr86		25	25	pr80		25	25					0
+Runeword134	Steel	1		swor	axe	mace								r03	r01					pr56		25	25	pr27		3	3	pr28		3	3	pr107		50	50	pr29		20	20									0
+Runeword135	Still Water												MalTir																																			0
+Runeword136	Sting																																															0
+Runeword137	Stone	1		tors										r13	r22	r21	r17			pr5		220	260	pr243	sk75	16	16	pr1		300	300	pr243	sk229	80	16	pr7		16	16	pr9		16	16	pr80		40	40	0
+Runeword138	Storm	1		tors										r33	r34	r35				pr5		200	300	pr77		45	45	pr253		14	14	pr147	sk8			pr167	sk10			pr265	sk54	3	3	pr104			3	0
+Runeword139	Strength	1		mele									OrtMalIth	r11	r03					pr7		20	20	pr29		35	35	pr9		10	10	pr108		25	25													0
+Runeword140	Tempest																																															0
+Runeword141	Temptation																																															0
+Runeword142	Terror												HelKoLemGul																																			0
+Runeword143	Thirst																																															0
+Runeword144	Thought																																															0
+Runeword145	Thunder	1		ajav										r35	r34	r26				pr104			2	pr274		1	30	pr246		1	50	pr233		1	30	pr66		6	15									0
+Runeword146	Time																																															0
+Runeword147	Tradition																																															0
+Runeword148	Treachery	1		tors										r13	r10	r20				pr127	sk278	25	15	pr128	sk267	5	15	pr122		2	2	pr56		45	45													0
+Runeword149	Trust	1		weap										r35	r33	r31	r11	r08		pr56		40	40	pr29		200	240	pr104			2	pr265	sk155	1	30	pr265	sk149	1	30	pr265	sk138	1	30					0
+Runeword150	Truth	1		phlm									ShaelThulLem	r35	r33	r30				pr104			2	pr274		1	30	pr235		1	30	pr275		1	30	pr66		15	15									0
+Runeword151	Unbending Will	1		helm										r35	r22	r31				pr66		1	20	pr265	sk153	1	10	pr113		66	66	pr274		1	50													0
+Runeword152	Valor	1		h2h										r35	r11	r26				pr104			2	pr274		1	30	pr233		1	30	pr246		1	50	pr265	sk151	1	1	pr89		200	450	pr108		1	30	0
+Runeword153	Vengeance			weap										r06	r11	r01																																0
+Runeword154	Venom	1		weap										r07	r14	r23				pr138	sk175	312	312	pr92		1	1	pr243	sk83	27	15	pr243	sk92	11	13	pr65		7	7									0
+Runeword155	Victory	1		shld									IthAmnEl	r35	r34	r32	r30			pr81		55	55	pr11		89	112	pr358		250	250	pr9		22	22	pr87		25	35	pr4		10	30	pr104		3	3	0
+Runeword156	Voice			helm										r03	r06																																	0
+Runeword157	Void	1		shld									TirIth	r35	r34	r33	r31			pr104			2	pr0			300	pr41			35	pr60			75	pr83			55	pr86			45	pr350		1	30	0
+Runeword158	War	1		ashd										r35	r34	r33	r32			pr104			2	pr233		1	30	pr275		1	30	pr232		1	30													0
+Runeword159	Water	1		weap										r35	r23	r28	r30	r22		pr29		511	511	pr66		10	15	pr65		10	15	pr274		1	30	pr108		40	50	pr246		100	300	pr125	sk122	12	30	0
+Runeword160	Wealth	1		tors										r20	r18	r03				pr58		250	250	pr59		100	100																					0
+Runeword161	Whisper	1		helm										r35	r33	r35				pr104			2	pr275		1	30	pr232		1	30	pr233		1	30	pr235		1	30	pr80		20	20	pr75		-50	-50	0
+Runeword162	White	1		wand									EthTirLoMalRal	r14	r16					pr124	sk7	3	3	pr6		4	4	pr86		20	20	pr11		13	13	pr123	sk68	3	3	pr123	sk84	2	2	pr123	sk69	4	4	0
+Runeword163	Wind	1		mele									SurEl	r29	r01					pr29		120	160	pr56		40	40	pr77		20	20	pr93		50	50	pr127	sk245	10	9	pr243	sk240	127	13	pr80		15	15	0
+Runeword164	Wings of Hope	1		swor	hamm	axe	weap							r35	r23	r34	r29	r31	r30	pr29		330	375	pr104			2	pr66		10	15	pr356		1	30	pr108		40	50									0
+Runeword165	Wisdom	1		shld									LemKoElEld	r35	r33	r35	r26			pr104			2	pr233		1	30	pr232		1	30	pr92		1	1	pr125	sk124	12	30	pr246		1	50	pr235		1	30	0
+Runeword166	Woe	1		shld										r35	r34	r33	r35			pr29		330	375	pr66		10	15	pr104			2	pr356		1	30	pr108		40	50	pr13		100	300	pr5		350	511	0
+Runeword167	Wonder	1		hamm										r35	r34	r33	r32			pr104			3	pr59			55	pr85			35	pr41			25	pr234		1	30	pr232		1	30	pr235		1	30	0
+Runeword168	Wrath	1		miss									NefSolIst	r21	r17	r30	r23			pr98		300	300	pr99		250	300	pr135		41	240	pr136		85	120	pr127	sk82	5	10	pr127	sk87	30	1	pr115		1	1	0
+Runeword169	Youth	1		scep									PulLumBerMal	r35	r34	r26	r30	r11		pr104			2	pr232		1	30	pr233		1	30	pr275		1	30	pr66		6	15									0
+Runeword170	Zephyr	1		miss										r09	r05					pr77		25	25	pr56		25	25	pr29		33	33	pr15		66	66	pr128	sk240	7	1	pr0		25	25					0
+Runeword171	GodBlessYou	1		vcha										r34	r35	r33	r34			pr104		3	3	pr41		20	20	pr357		20	20	pr373		50	50	pr333		40	40	pr348		10	10	pr347		88	88	0

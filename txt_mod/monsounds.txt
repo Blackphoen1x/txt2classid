@@ -1,0 +1,142 @@
+Id	Attack1	Weapon1	Att1Del	Wea1Del	Att1Prb	Wea1Vol	Attack2	Weapon2	Att2Del	Wea2Del	Att2Prb	Wea2Vol	HitSound	DeathSound	HitDelay	DeaDelay	Skill1	Skill2	Skill3	Skill4	Footstep	FootstepLayer	FsCnt	FsOff	FsPrb	Neutral	NeuTime	Init	Taunt	Flee	CvtMo1	CvtSk1	CvtTgt1	CvtMo2	CvtSk2	CvtTgt2	CvtMo3	CvtSk3	CvtTgt3	EOL
+mo0	so0	so0					so0	so0					so0	so0			so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo1	so0	so0					so0	so0					so1603	so1607			so0	so0	so0	so0	so2768	so0	2		100	so0		so0	so0	so0										0
+mo2	so0	so292		8		255	so0	so292		8		255	so1132	so1136			so0	so0	so0	so0	so2768	so0	2		100	so0		so0	so0	so0										0
+mo3	so0	so286		5		255	so0	so286		5		255	so1194	so1198			so0	so0	so0	so0	so2768	so0	2		100	so0		so0	so0	so0										0
+mo4	so0	so268		5		255	so0	so268		5		255	so2902	so2907	2		so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo5	so439	so304		5	70	180	so439	so304		5	70	180	so443	so447	2	1	so0	so0	so0	so0	so0	so2874	2		100	so0		so0	so4629	so0										0
+mo6	so1819	so1825	2	4	100	255	so1819	so1825	2	4	100	255	so1836	so1842	2	1	so0	so0	so0	so0	so2720	so0	3		100	so1848	150	so0	so0	so0										0
+mo7	so457	so0			100		so458	so0	2		100		so468	so463	2		so475	so477	so476	so0	so2816	so2874	2		100	so0		so0	so4631	so0										0
+mo8	so457	so0			100		so458	so0	2		100		so468	so463	2		so475	so477	so476	so0	so2816	so2874	2		100	so0		so0	so4633	so0										0
+mo9	so480	so292	2	5	100	255	so480	so304	2	4	100	255	so488	so484	2		so0	so0	so0	so0	so2816	so0	2		100	so0		so0	so0	so0										0
+mo10	so492	so0			100		so0	so0					so388	so496	2		so500	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo11	so504	so255		4	100	180	so504	so255		4	100	180	so509	so515	2	1	so0	so0	so0	so0	so2768	so0	2		100	so520	150	so0	so0	so0										0
+mo12	so0	so0					so0	so0					so0	so529			so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo13	so0	so0					so0	so0					so0	so0			so0	so0	so0	so0	so0	so0				so2682	600	so0	so0	so0										0
+mo14	so532	so0			100		so552	so0			100	255	so537	so543	2	1	so0	so549	so0	so0	so0	so1155	2		100	so0		so0	so0	so0										0
+mo15	so768	so286		5	80	180	so768	so274		6	80	170	so779	so0	2		so784	so0	so0	so0	so2816	so2868	2		100	so774	1800	so0	so0	so0										0
+mo16	so555	so0			100		so571	so0			100	255	so559	so563	2	1	so0	so0	so0	so0	so2816	so0	2		100	so567	150	so0	so0	so0										0
+mo17	so0	so0					so0	so0					so0	so593		1	so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo18	so1040	so0			100		so1040	so0			100		so1044	so1048			so1049	so0	so0	so0	so2816	so1050	2		100	so0		so0	so0	so0										0
+mo19	so597	so304		4	95	255	so597	so304		6	95	255	so601	so605	2		so0	so0	so0	so0	so2816	so2871	2		100	so1279	150	so0	so0	so0										0
+mo20	so0	so0					so0	so0					so613	so617	2	1	so618	so0	so0	so0	so2768	so0	2		100	so0		so0	so4634	so0										0
+mo21	so622	so0			100		so622	so0			100		so626	so633			so644	so0	so0	so0	so2720	so638	2		100	so0		so0	so0	so0										0
+mo22	so0	so0					so0	so0					so0	so756		1	so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo23	so0	so0					so0	so0					so1774	so2455			so1802	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo24	so2142	so255		3	60	180	so2142	so255		6	60	180	so2146	so2150	2	1	so0	so0	so0	so0	so2816	so0	2		100	so2154	150	so0	so0	so0										0
+mo25	so0	so0					so0	so0					so0	so2688			so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo26	so0	so0					so0	so0					so0	so2712			so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo27	so2187	so268		5	80	160	so2187	so268		5	80	160	so2179	so2183	2	1	so2174	so0	so0	so0	so2768	so2199	2		10	so2199	300	so0	so0	so0										0
+mo28	so655	so0			100		so0	so0					so656	so661	2		so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo29	so0	so0					so0	so0					so0	so0			so666	so0	so0	so0	so2768	so0	2		100	so0		so0	so0	so0										0
+mo30	so0	so0					so0	so0					so0	so0			so2692	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo31	so1728	so0			100		so1722	so0	3		100		so1734	so1740	2	1	so0	so0	so0	so0	so0	so0				so1746	150	so0	so0	so0	WL	sk107	A2							0
+mo32	so1054	so0			100		so1054	so0			100		so1058	so1062			so1063	so0	so0	so0	so2816	so1064	2		100	so0		so0	so0	so0										0
+mo33	so0	so0					so0	so0					so0	so668			so0	so0	so0	so0	so0	so0				so0		so667	so0	so0										0
+mo34	so670	so268	5	7	70	180	so670	so268	5	7	70	180	so676	so682	2	1	so0	so0	so0	so0	so2768	so0	2		100	so687	150	so0	so0	so0										0
+mo35	so2158	so268		5	80	160	so2158	so268		5	80	160	so2162	so2166	2	1	so0	so0	so0	so0	so2768	so0	2		100	so2170	150	so0	so0	so0										0
+mo36	so693	so268	5	7	70	180	so693	so268	5	7	70	180	so698	so703	2	1	so0	so0	so0	so0	so2768	so0	2		100	so0		so0	so4636	so0										0
+mo37	so0	so0					so0	so0					so0	so0			so0	so0	so0	so0	so0	so0				so2698	150	so0	so0	so0										0
+mo38	so0	so314				255	so0	so314				255	so676	so682	2	1	so0	so0	so0	so0	so2768	so0	2		100	so687	150	so0	so0	so0										0
+mo39	so670	so292	5	7	70	180	so670	so292	5	7	70	180	so676	so682	2	1	so0	so0	so0	so0	so2768	so0	2		100	so687	150	so0	so0	so0										0
+mo40	so0	so0					so0	so0					so0	so1163		1	so1160	so0	so0	so0	so0	so0				so0		so1159	so0	so0										0
+mo41	so0	so0					so0	so0					so0	so705		1	so0	so0	so0	so0	so2816	so0	2		100	so0		so0	so0	so0										0
+mo42	so706	so274		3	80	190	so730	so0	5		100		so711	so716			so0	so0	so0	so0	so2768	so0	1		100	so720	90	so0	so0	so0										0
+mo43	so733	so304		6	100	120	so733	so304		10	100	120	so739	so745	2		so0	so0	so754	so766	so2816	so0	2		100	so748	150	so0	so0	so0										0
+mo44	so1997	so268	4	8	90	120	so1997	so268	4	8	90	120	so2001	so2005	2	1	so0	so0	so0	so0	so2816	so0	2		100	so2009	150	so0	so0	so0										0
+mo45	so0	so0					so0	so0					so2878	so1170	2	1	so0	so0	so0	so0	so2768	so0	2		100	so0		so1166	so0	so0										0
+mo46	so0	so0					so0	so0					so0	so0			so767	so0	so0	so0	so2768	so0	2		100	so0		so0	so0	so0										0
+mo47	so0	so0					so0	so0					so0	so810		1	so813	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo48	so876	so304		5	100	120	so876	so304		5	100	120	so881	so885	2	1	so0	so0	so0	so0	so0	so886	1	6	100	so0		so0	so4641	so0										0
+mo49	so0	so0					so0	so0					so0	so1139			so0	so0	so0	so0	so0	so0				so0		so2576	so0	so0										0
+mo50	so890	so251		5	60	160	so890	so251		5	60	160	so895	so900	2	1	so939	so913	so0	so0	so2720	so0	2		100	so907	300	so0	so0	so917										0
+mo51	so922	so251	3	7	70	160	so922	so251	3	7	70	160	so926	so930	2	1	so938	so0	so0	so0	so2720	so0	2		100	so934	300	so0	so0	so0	A2	sk181	S1							0
+mo52	so0	so0					so0	so0					so0	so0			so940	so0	so0	so0	so2768	so0	2		100	so0		so0	so0	so0										0
+mo53	so1492	so251		5	60	160	so1492	so251		5	60	160	so1498	so1504	2	1	so939	so0	so0	so0	so2720	so0	2		100	so1510	600	so0	so0	so0										0
+mo54	so1516	so0			100		so1516	so0			100		so1498	so1504	2	1	so939	so0	so0	so0	so2720	so0	2		100	so0		so0	so0	so0										0
+mo55	so1543	so0			60		so1543	so0			60		so1526	so1531	2	1	so938	so0	so0	so0	so2720	so0	2		100	so1537	300	so0	so0	so0	SC	sk181	S1							0
+mo56	so941	so0			100		so941	so0			100		so945	so949	2	1	so0	so0	so0	so0	so0	so0				so0		so962	so0	so0										0
+mo57	so1068	so0			100		so1068	so0			100		so1072	so1076			so1077	so0	so0	so0	so2816	so1078	2		100	so0		so2574	so0	so0										0
+mo58	so1705	so0	10		100		so1705	so0	10		100		so1709	so1713	2	1	so0	so0	so0	so0	so0	so0				so0		so1721	so0	so0										0
+mo59	so1143	so251		5	70	120	so1143	so251		5	70	120	so1147	so1151	2	1	so0	so0	so0	so0	so0	so1155	2		100	so0		so0	so0	so0										0
+mo60	so980	so0			100		so980	so0			100		so986	so991	2	1	so0	so0	so0	so0	so0	so2864	1		100	so996	150	so0	so0	so0										0
+mo61	so999	so274		6	100	190	so0	so0					so1003	so0			so0	so0	so0	so0	so2816	so0	1		100	so1013	150	so0	so0	so0										0
+mo62	so0	so0					so0	so0					so388	so1022	1	1	so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo63	so1025	so268	5	8	70	190	so1025	so268	5	8	70	190	so1029	so1033	2	1	so0	so0	so0	so0	so2768	so0	2		100	so0		so0	so0	so0										0
+mo64	so0	so0					so0	so0					so388	so1139	1		so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo65	so0	so0					so0	so0					so0	so0			so1142	so1214	so0	so0	so2768	so0	2		100	so0		so0	so0	so0										0
+mo66	so0	so0					so0	so0					so0	so0			so0	so0	so0	so0	so2816	so0	2		100	so0		so0	so0	so0										0
+mo67	so1336	so274		6	100	190	so1336	so274		6	100	190	so1342	so1346	2	1	so0	so0	so0	so0	so2768	so0	2		100	so1351	150	so0	so0	so0										0
+mo68	so0	so0					so0	so0					so0	so1170		1	so0	so1166	so0	so0	so0	so0				so0		so2574	so0	so0										0
+mo69	so1178	so0			100		so0	so0					so1179	so1183	1	1	so1174	so0	so0	so0	so2720	so0	2		100	so1190	90	so0	so0	so0										0
+mo70	so1082	so0			100		so1082	so0			100		so1086	so1090			so1091	so0	so0	so0	so2816	so1092	2		100	so0		so0	so0	so0										0
+mo71	so1201	so0			100		so1201	so0			100		so1205	so1209	2	1	so0	so0	so0	so0	so2768	so0	2		100	so0		so0	so4643	so0										0
+mo72	so0	so0					so0	so0					so0	so1212		1	so0	so0	so0	so0	so0	so0				so0		so1211	so0	so0										0
+mo73	so0	so0					so0	so0					so0	so0			so1213	so1214	so0	so0	so2768	so0	2		100	so0		so0	so0	so0										0
+mo74	so0	so0					so0	so0					so0	so2708			so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo75	so1253	so0			100		so1253	so0			100		so0	so1257			so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo76	so0	so0					so0	so0					so0	so1243		1	so1248	so1239	so0	so0	so0	so0				so0		so1252	so0	so0										0
+mo77	so0	so0					so0	so0					so0	so0			so0	so0	so0	so0	so2720	so0	2		100	so0		so0	so0	so0										0
+mo78	so1636	so0			100		so1636	so0			100		so1642	so1648	2	1	so0	so0	so0	so0	so0	so0				so1654	150	so0	so0	so0										0
+mo79	so0	so0					so0	so0					so0	so1660		1	so0	so0	so0	so0	so0	so0				so1664	150	so0	so0	so0										0
+mo80	so0	so0					so0	so0					so1615	so1672	2	1	so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo81	so0	so0					so0	so0					so0	so0			so0	so0	so0	so0	so2768	so0	2		100	so0		so0	so0	so0										0
+mo82	so1262	so274	6	8	80	180	so1262	so274	6	8	80	180	so1268	so1274	2	1	so0	so0	so0	so0	so2816	so0	2		100	so1279	150	so0	so0	so0										0
+mo83	so1284	so0			100		so1284	so0			100		so1288	so1292	2	1	so0	so0	so0	so0	so0	so0				so0		so1293	so4645	so0										0
+mo84	so1298	so274	7	3	100	190	so1298	so274	7	3	100	190	so1302	so0	2		so0	so0	so0	so0	so2816	so0	2		100	so1324	150	so0	so0	so0										0
+mo85	so1356	so0			100		so1356	so0			100		so1366	so1371	2	1	so1361	so0	so0	so0	so0	so0				so0		so1375	so0	so0	A2	sk206	S1							0
+mo86	so1376	so0			100		so1376	so0			100		so1382	so1387	2	1	so0	so0	so0	so0	so2720	so0	2		100	so1391	300	so0	so0	so0										0
+mo87	so0	so1798				255	so0	so1798				255	so1774	so1781			so1802	so0	so0	so0	so2720	so1792	2		100	so0		so0	so0	so0										0
+mo88	so0	so268		6		190	so0	so268		6		190	so1774	so1781			so1802	so0	so0	so0	so2720	so1792	2		100	so0		so0	so0	so0										0
+mo89	so0	so268		6		190	so0	so268		6		190	so0	so0			so0	so0	so0	so0	so0	so0				so0		so0	so4653	so0										0
+mo90	so1395	so280		4	100	190	so1416	so1420		9	100	255	so1400	so1405	2	1	so1429	so1425	so0	so0	so2816	so2868	2		100	so1411	150	so0	so0	so0										0
+mo91	so1433	so262		12	60	160	so1433	so262		12	60	160	so1437	so1441	2	1	so0	so0	so0	so0	so2768	so0	2		100	so1445	150	so0	so0	so0										0
+mo92	so1450	so274		4	80	120	so1450	so274		4	80	120	so1456	so1461	2	1	so0	so0	so0	so0	so2816	so2871	2		100	so1466	150	so0	so0	so0										0
+mo93	so1470	so251		4	100	190	so0	so0					so1479	so1475	2	1	so1485	so1491	so0	so0	so0	so0				so1486	150	so0	so0	so0										0
+mo94	so1854	so0			100		so1866	so0			100		so1858	so1862	5	4	so0	so0	so0	so0	so0	so0				so1870	150	so0	so0	so0										0
+mo95	so1096	so280		4	100	190	so1128	so0			100		so1101	so1107	2	1	so1118	so1122	so1123	so0	so2816	so2868	2		100	so1112	150	so0	so4647	so0	SC	sk157	S1	SC	sk182	S2	SC	sk181	S3	0
+mo96	so0	so0					so0	so0					so0	so2712			so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo97	so816	so0	3		100		so816	so0	3		100		so0	so821		1	so0	so0	so0	so0	so0	so1155	2		100	so0		so0	so0	so0										0
+mo98	so1549	so274		2	80	255	so1549	so280		2	100	255	so1556	so1563	2	1	so1570	so2220	so0	so0	so2768	so0	2		100	so1574	300	so0	so0	so0										0
+mo99	so1582	so0			100		so1582	so0	3		100		so1587	so1591	2	1	so0	so0	so0	so0	so0	so0				so1595	150	so0	so0	so0										0
+mo100	so1215	so251		5	70	120	so1215	so251		5	70	120	so1225	so1229	2	1	so1215	so0	so0	so0	so2720	so0	2		100	so1234	300	so0	so0	so0	A1	sk132	S1							0
+mo101	so1609	so0			100		so1609	so0			100		so1615	so1621	2	1	so0	so0	so0	so0	so0	so0				so1625	150	so0	so0	so0										0
+mo102	so1683	so268		5	100	190	so1683	so268		5	100	190	so1689	so1694	2	1	so0	so0	so0	so0	so2768	so0	2		100	so1699	150	so0	so0	so0										0
+mo103	so0	so0					so0	so0					so0	so1394		1	so2545	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo104	so572	so292		7	70	190	so572	so268		5	70	190	so577	so581	2	1	so0	so0	so0	so0	so2720	so0	2		100	so585	150	so0	so0	so0										0
+mo105	so0	so292		8		255	so0	so292		8		255	so2312	so2308	2	1	so0	so0	so0	so2317	so2768	so0	2		100	so0		so0	so0	so0										0
+mo106	so1749	so286		5	100	190	so1749	so0			100		so1759	so1764	1	1	so1749	so1749	so0	so0	so2816	so2871	2		100	so1769	150	so0	so0	so0										0
+mo107	so0	so314		4		255	so0	so314		4		255	so1774	so1781			so1802	so0	so0	so0	so2720	so1786	2		100	so0		so0	so0	so0										0
+mo108	so0	so1798				255	so0	so1798				255	so1774	so1781			so1802	so0	so0	so0	so2720	so1786	2		100	so0		so0	so0	so0										0
+mo109	so0	so268		6		190	so0	so268		6		190	so1774	so1781			so1802	so0	so0	so0	so2720	so1786	2		100	so0		so0	so0	so0										0
+mo110	so0	so0					so0	so0					so1437	so1441	2	1	so0	so0	so0	so0	so2768	so0	2		100	so1445	150	so0	so0	so0										0
+mo111	so1806	so280		2	80	170	so1806	so280		2	80	170	so1812	so1816	2	1	so0	so0	so0	so0	so2816	so0	2		100	so1817	150	so0	so4650	so0										0
+mo112	so0	so0					so0	so0					so0	so0			so0	so0	so0	so0	so0	so0				so0		so2577	so0	so0										0
+mo113	so1806	so280		2	80	170	so1806	so280		2	80	170	so1812	so1816	2	1	so0	so0	so0	so0	so2816	so0	2		100	so1817	150	so0	so4649	so0										0
+mo114	so0	so0					so0	so0					so0	so2716			so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo115	so0	so0					so0	so0					so0	so2587	2	1	so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo116	so1874	so0	3		100		so1874	so0	3		100		so1879	so1884	2	1	so0	so1889	so0	so0	so0	so1155	2		30	so0		so0	so0	so0										0
+mo117	so0	so0					so0	so0					so1302	so1163	2	1	so1320	so0	so0	so0	so2816	so1332	2		30	so0		so0	so0	so0										0
+mo118	so0	so0					so0	so0					so1899	so1903	2	1	so0	so0	so0	so0	so2768	so0	2		100	so0		so0	so4651	so0										0
+mo119	so1904	so0			100		so1904	so0			100		so1908	so1908	2	1	so0	so0	so0	so0	so0	so0				so0		so1913	so0	so0										0
+mo120	so1914	so0			100		so1914	so0			100		so1919	so1923	2	1	so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo121	so1933	so0			100		so1933	so0			100		so1938	so1943	2	1	so0	so0	so0	so0	so0	so0				so1948	150	so0	so0	so0										0
+mo122	so1957	so274		3	80	120	so1957	so274		7	80	120	so1961	so1965	2	1	so0	so0	so0	so0	so2816	so2871	2		100	so1969	300	so0	so0	so0										0
+mo123	so1972	so0	6		100		so1972	so0	6		100		so1977	so1986	2	1	so0	so0	so0	so0	so0	so0				so1990	150	so0	so0	so0										0
+mo124	so1972	so0	6		100		so1972	so0	6		100		so1977	so1981	2	1	so0	so0	so0	so0	so0	so0				so1990	150	so0	so0	so0										0
+mo125	so0	so0					so0	so0					so0	so1994		1	so0	so0	so0	so0	so0	so0				so0		so0	so0	so0										0
+mo126	so1096	so280		4	100	190	so1128	so0			100		so1101	so1107	2	1	so1118	so1122	so1123	so0	so2816	so2868	2		100	so1112	150	so0	so0	so0	SC	sk157	S1	SC	sk182	S2	SC	sk181	S3	0
+mo127	so2267	so292	4	8	100	255	so2267	so292	4	8	100	255	so2271	so2276	2	1	so0	so0	so0	so0	so2768	so0	2		100	so0		so2266	so0	so0										0
+mo128	so2013	so0			100		so2013	so0			100		so2017	so2021	2	1	so2030	so0	so0	so0	so0	so0				so2026	150	so0	so0	so0	SC		S1							0
+mo129	so2031	so0	8		100		so2031	so0	8		100		so2036	so2041	2	1	so0	so0	so0	so0	so2720	so2046	2		15	so0		so0	so0	so0										0
+mo130	so2051	so268		7	100	190	so2051	so268		7	100	190	so2056	so2061	2	1	so2070	so0	so0	so0	so0	so2864	2	3	100	so2065	150	so0	so0	so0										0
+mo131	so2074	so0			100		so2074	so0			100		so2079	so2085	2	1	so0	so0	so0	so0	so0	so2095	1		100	so2090	300	so0	so0	so0										0
+mo132	so838	so274	5	4	80	120	so838	so274	6	4	80	120	so851	so0	2		so0	so0	so847	so0	so2816	so2868	2		100	so842	150	so0	so0	so0										0
+mo133	so857	so255	5	5	85	150	so857	so255	5	5	85	150	so870	so0	2		so0	so0	so866	so0	so2816	so0	2		100	so861	150	so0	so0	so0										0
+mo134	so2101	so0			100		so2101	so0			100		so2105	so2109	2	1	so2113	so2117	so0	so0	so0	so0				so0		so2121	so0	so0	SC		S2							0
+mo135	so822	so286	6	3	100	255	so822	so286	6	3	100	255	so833	so784	2	1	so0	so0	so0	so0	so2720	so0	2		100	so828	1600	so0	so0	so0										0
+mo136	so2122	so0			100		so2122	so0			100		so2127	so2133	2	1	so0	so0	so0	so0	so0	so0				so2137	150	so0	so0	so0										0
+mo137	so2187	so268		7	80	160	so2187	so268		3	80	160	so2191	so2195	2	1	so0	so0	so0	so0	so2768	so0	2		100	so2199	300	so0	so0	so0										0
+mo138	so2203	so0			100		so2203	so0			100		so2209	so2215	2	1	so2227	so0	so0	so0	so2720	so0	2		100	so2219	300	so0	so0	so0										0
+mo139	so2203	so0			100		so2203	so0			100		so2209	so2215	2	1	so2227	so0	so0	so0	so2720	so0	2		100	so2224	300	so0	so0	so0										0
+mo140	so733	so304		6	100	120	so733	so304		10	100	120	so739	so745	2		so0	so0	so754	so766	so2816	so0	2		100	so748	150	so0	so4640	so0										0

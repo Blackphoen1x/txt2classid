@@ -1,0 +1,72 @@
+name	letter	transform	code	nummods	weaponMod1Code	weaponMod1Param	weaponMod1Min	weaponMod1Max	weaponMod2Code	weaponMod2Param	weaponMod2Min	weaponMod2Max	weaponMod3Code	weaponMod3Param	weaponMod3Min	weaponMod3Max	helmMod1Code	helmMod1Param	helmMod1Min	helmMod1Max	helmMod2Code	helmMod2Param	helmMod2Min	helmMod2Max	helmMod3Code	helmMod3Param	helmMod3Min	helmMod3Max	shieldMod1Code	shieldMod1Param	shieldMod1Min	shieldMod1Max	shieldMod2Code	shieldMod2Param	shieldMod2Min	shieldMod2Max	shieldMod3Code	shieldMod3Param	shieldMod3Min	shieldMod3Max
+Chipped Amethyst		18	gcv	3	pr15		40	40									pr7		3	3									pr0		8	8								
+Flawed Amethyst		18	gfv	3	pr15		60	60									pr7		4	4									pr0		12	12								
+Amethyst		18	gsv	3	pr15		80	80									pr7		6	6									pr0		18	18								
+Flawless Amethyst		18	gzv	3	pr15		100	100									pr7		8	8									pr0		24	24								
+Perfect Amethyst		17	gpv	3	pr15		150	150									pr7		10	10									pr0		30	30								
+Chipped Saphire		5	gcb	3	pr17		1	1	pr18		3	3	pr19		25	25	pr11		10	10									pr35		12	12								
+Flawed Saphire		5	gfb	3	pr17		3	3	pr18		5	5	pr19		35	35	pr11		17	17									pr35		16	16								
+Saphire		5	gsb	3	pr17		4	4	pr18		7	7	pr19		50	50	pr11		24	24									pr35		22	22								
+Flwless Saphire		5	glb	3	pr17		6	6	pr18		10	10	pr19		60	60	pr11		31	31									pr35		28	28								
+Perfect Saphire		6	gpb	3	pr17		10	10	pr18		14	14	pr19		75	75	pr11		38	38									pr35		40	40								
+Chipped Emerald		11	gcg	3	pr24		34	34	pr25		34	34	pr26		75	75	pr8		3	3									pr39		12	12								
+Flawed Emerald		11	gfg	3	pr24		51	51	pr25		51	51	pr26		100	100	pr8		4	4									pr39		16	16								
+Emerald		11	gsg	3	pr24		82	82	pr25		82	82	pr26		125	125	pr8		6	6									pr39		22	22								
+Flawless Emerald		11	glg	3	pr24		101	101	pr25		101	101	pr26		152	152	pr8		8	8									pr39		28	28								
+Perfect Emerald		12	gpg	3	pr24		143	143	pr25		143	143	pr26		179	179	pr8		10	10									pr39		40	40								
+Chipped Ruby		8	gcr	3	pr20		3	3	pr21		4	4					pr13		10	10									pr31		12	12								
+Flawed Ruby		8	gfr	3	pr20		5	5	pr21		8	8					pr13		17	17									pr31		16	16								
+Ruby		8	gsr	3	pr20		8	8	pr21		12	12					pr13		24	24									pr31		22	22								
+Flawless Ruby		8	glr	3	pr20		10	10	pr21		16	16					pr13		31	31									pr31		28	28								
+Perfect Ruby		9	gpr	3	pr20		15	15	pr21		20	20					pr13		38	38									pr31		40	40								
+Chipped Diamond		1	gcw	3	pr99		28	28									pr15		20	20									pr41		6	6								
+Flawed Diamond		1	gfw	3	pr99		34	34									pr15		40	40									pr41		8	8								
+Diamond		1	gsw	3	pr99		44	44									pr15		60	60									pr41		11	11								
+Flawless Diamond		1	glw	3	pr99		54	54									pr15		80	80									pr41		14	14								
+Perfect Diamond			gpw	3	pr99		68	68									pr15		100	100									pr41		19	19								
+Chipped Topaz		14	gcy	3	pr22		1	1	pr23		8	8					pr59		9	9									pr33		12	12								
+Flawed Topaz		14	gfy	3	pr22		1	1	pr23		14	14					pr59		13	13									pr33		16	16								
+Topaz		14	gsy	3	pr22		1	1	pr23		22	22					pr59		16	16									pr33		22	22								
+Flawless Topaz		14	gly	3	pr22		1	1	pr23		30	30					pr59		20	20									pr33		28	28								
+Perfect Topaz		13	gpy	3	pr22		1	1	pr23		40	40					pr59		24	24									pr33		40	40								
+Chipped Skull		2	skc	3	pr65		1	1	pr66		2	2					pr53		2	2	pr62		8	8					pr54		4	4								
+Flawed Skull		2	skf	3	pr65		2	2	pr66		2	2					pr53		3	3	pr62		8	8					pr54		8	8								
+Skull		2	sku	3	pr65		2	2	pr66		3	3					pr53		3	3	pr62		12	12					pr54		12	12								
+Flawless Skull		2	skl	3	pr65		3	3	pr66		3	3					pr53		4	4	pr62		12	12					pr54		16	16								
+Perfect Skull		3	skz	3	pr65		3	3	pr66		4	4					pr53		5	5	pr62		19	19					pr54		20	20								
+Expansion																																								
+El Rune	El	18	r01	1	pr73		1	1	pr15		50	50					pr73		1	1	pr0		15	15					pr73		1	1	pr0		15	15				
+Eld Rune	Eld	18	r02	1	pr101		50	50	pr99		75	75					pr116		15	15									pr16		7	7								
+Tir Rune	Tir	18	r03	1	pr110		2	2									pr110		2	2									pr110		2	2								
+Nef Rune	Nef	18	r04	1	pr60		1	1									pr1		30	30									pr1		30	30								
+Eth Rune	Eth	18	r05	1	pr93		25	25									pr62		15	15									pr62		15	15								
+Ith Rune	Ith	18	r06	1	pr28		9	9									pr30		15	15									pr30		15	15								
+Tal Rune	Tal	18	r07	1	pr138	125	154	154									pr39		30	30									pr39		35	35								
+Ral Rune	Ral	18	r08	1	pr134		5	30									pr31		30	30									pr31		35	35								
+Ort Rune	Ort	18	r09	1	pr135		1	50									pr33		30	30									pr33		35	35								
+Thul Rune	Thul	18	r10	1	pr137	75	3	14									pr35		30	30									pr35		35	35								
+Amn Rune	Amn	18	r11	1	pr66		7	7									pr54		14	14									pr54		14	14								
+Sol Rune	Sol	18	r12	1	pr27		9	9									pr3		7	7									pr3		7	7								
+Shael Rune	Shael	18	r13	1	pr56		20	20									pr80		20	20									pr83		20	20								
+Dol Rune	Dol	18	r14	1	pr90		32	32									pr53		7	7									pr53		7	7								
+Hel Rune	Hel	18	r15	1	pr75		-20	-20									pr75		-15	-15									pr75		-15	-15								
+Io Rune	Io	18	r16	1	pr9		10	10									pr9		10	10									pr9		10	10								
+Lum Rune	Lum	18	r17	1	pr10		10	10									pr10		10	10									pr10		10	10								
+Ko Rune	Ko	18	r18	1	pr8		10	10									pr8		10	10									pr8		10	10								
+Fal Rune	Fal	18	r19	1	pr7		10	10									pr7		10	10									pr7		10	10								
+Lem Rune	Lem	18	r20	1	pr58		75	75									pr58		50	50									pr58		50	50								
+Pul Rune	Pul	18	r21	1	pr100		100	100	pr98		75	75					pr5		30	30									pr5		30	30								
+Um Rune	Um	18	r22	1	pr107		25	25									pr41		15	15									pr41		22	22								
+Mal Rune	Mal	18	r23	1	pr94		1	1									pr6		7	7									pr6		7	7								
+Ist Rune	Ist	18	r24	1	pr59		30	30									pr59		25	25									pr59		25	25								
+Gul Rune	Gul	18	r25	1	pr96		20	20									pr40		5	5									pr40		5	5								
+Vex Rune	Vex	18	r26	1	pr65		7	7									pr32		5	5									pr32		5	5								
+Ohm Rune	Ohm	18	r27	1	pr29		50	50									pr36		5	5									pr36		5	5								
+Lo Rune	Lo	18	r28	1	pr113		20	20									pr34		5	5									pr34		5	5								
+Sur Rune	Sur	18	r29	1	pr91		1	1									pr12		5	5									pr11		50	50								
+Ber Rune	Ber	18	r30	1	pr108		20	20									pr4		8	8									pr4		8	8								
+Jah Rune	Jah	18	r31	1	pr92		1	1									pr14		5	5									pr13		50	50								
+Cham Rune	Cham	18	r32	1	pr106		3	3									pr115		1	1									pr115		1	1								
+Zod Rune	Zod	18	r33	1	pr242		1	1									pr242		1	1									pr242		1	1								
+Ling Rune	Ling	18	r34	1	pr273		1	1									pr273		2	2									pr273		2	2								
+Shen Rune	Shen	18	r35	1	pr38		1	1									pr38		1	1									pr38		1	1								

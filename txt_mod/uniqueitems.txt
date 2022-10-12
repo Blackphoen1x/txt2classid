@@ -1,0 +1,688 @@
+index	version	enabled	ladder	rarity	nolimit	lvl	lvl req	code	*type	*uber	carry1	cost mult	cost add	chrtransform	invtransform	flippyfile	invfile	dropsound	dropsfxframe	usesound	prop1	par1	min1	max1	prop2	par2	min2	max2	prop3	par3	min3	max3	prop4	par4	min4	max4	prop5	par5	min5	max5	prop6	par6	min6	max6	prop7	par7	min7	max7	prop8	par8	min8	max8	prop9	par9	min9	max9	prop10	par10	min10	max10	prop11	par11	min11	max11	prop12	par12	min12	max12	*eol
+The Gnasher		1		5	1	7	5	hax	Hand Axe			5	5000	dyel			invhaxu	so0		so0	pr7		8	8	pr107		50	50	pr108		20	20	pr29		60	70																																	0
+Deathspade		1		5	1	12	9	axe	Axe			5	5000	dgld			invaxeu	so0		so0	pr91		1	1	pr27		8	8	pr96		15	15	pr110		4	4	pr29		60	70																													0
+Bladebone		1		5	1	20	15	2ax	Double Axe			5	5000	lgry	lgry			so0		so0	pr99		100	100	pr101		40	40	pr56		20	20	pr0		20	20	pr20		8	8	pr21		12	12	pr29		30	50																					0
+Mindrend		1		5	1	28	21	mpi	Military Pick			5	5000	lgrn			invmpiu	so0		so0	pr91		2	2	pr62		20	20	pr22		1	1	pr23		12	15	pr15		50	100	pr29		60	100	pr107		15	15																					0
+Rakescar		1		5	1	36	27	wax	War Axe			5	5000	dgry	dgry			so0		so0	pr24		128	128	pr25		128	128	pr26		75	75	pr15		50	50	pr39		50	50	pr29		75	150	pr56		30	30																					0
+Fechmars Axe		1		5	1	11	8	lax	Large Axe			5	5000	lpur	lpur			so0		so0	pr29		70	90	pr106		3	3	pr35		50	50	pr73		2	2																																	0
+Goreshovel		1		5	1	19	14	bax	Broad Axe			5	5000	dpur	dpur			so0		so0	pr57		30	30	pr7		25	25	pr107		60	60	pr29		40	50	pr28		9	9																													0
+The Chieftan		1		5	1	26	19	btx	Battle Axe			5	5000	oran			invbtxu	so0		so0	pr29		100	100	pr41		10	20	pr110		6	6	pr56		20	20	pr135		1	40																													0
+Brainhew		1		5	1	34	25	gax	Great Axe			5	5000	whit			invgaxu	so0		so0	pr27		14	14	pr11		25	25	pr73		4	4	pr65		10	13	pr29		50	80	pr134		15	35																									0
+The Humongous		1		5	1	39	29	gix	Giant Axe			5	5000	blac	blac			so0		so0	pr7		20	30	pr27		8	8	pr28		15	25	pr108		33	33	pr75		20	20	pr29		80	120																									0
+Iros Torch		1		5	1	7	5	wnd	Wand			5	5000	cred			invwndu	so0		so0	pr69		1	1	pr66		6	6	pr134		5	9	pr73		3	3	pr10		10	10	pr62		5	5																									0
+Maelstromwrath		1		5	1	19	14	ywn	Yew Wand			5	5000	dblu	dblu			so0		so0	pr22		1	1	pr23		9	9	pr33		40	40	pr11		13	13	pr86		30	30	pr123	74	1	3	pr123	77	1	3	pr123	66	1	3	pr123	76	1	3													0
+Gravenspine		1		5	1	27	20	bwn	Bone Wand			5	5000	cgrn			invbwnu	so0		so0	pr7		10	10	pr8		10	10	pr17		4	4	pr18		8	8	pr19		75	75	pr65		5	5	pr69		2	2	pr11		25	50																	0
+Umes Lament		1		5	1	38	28	gwn	Grim Wand			5	5000	lblu	lblu			so0		so0	pr69		2	2	pr11		40	40	pr86		20	20	pr90		64	64	pr123	77	3	3	pr123	87	2	2																									0
+Felloak		1		5	1	4	3	clb	Club			5	5000	lgry			invclbu	so0		so0	pr33		60	60	pr31		20	20	pr60		1	1	pr20		6	6	pr21		8	8	pr29		70	80																									0
+Knell Striker		1		5	1	7	5	scp	Scepter			5	5000	dred	dred			so0		so0	pr108		25	25	pr31		20	20	pr39		20	20	pr11		15	15	pr15		35	35	pr29		70	80																									0
+Rusthandle		1		5	1	23	17	gsc	Grand Scepter			5	5000	lgld	lgld			so0		so0	pr68		1	1	pr140		3	7	pr6		1	1	pr66		8	8	pr29		50	60	pr99		50	60	pr123	111	1	3	pr123	103	3	3																	0
+Stormeye		1		5	1	31	23	wsp	War Scepter			5	5000	cred	cred			so0		so0	pr135		1	6	pr137	75	3	5	pr53		10	10	pr29		80	120	pr123	110	3	5	pr123	118	3	3	pr123	121	1	1																					0
+Stoutnail		1		5	1	7	5	spc	Spiked Club			5	5000	dgry			invspcu	so0		so0	pr54		3	10	pr29		100	100	pr9		7	7	pr6		2	2																																	0
+Crushflange		1		5	1	12	9	mac	Mace			5	5000	blac	blac			so0		so0	pr7		15	15	pr60		1	1	pr73		2	2	pr31		50	50	pr29		50	60	pr108		33	33																									0
+Bloodrise		1		5	1	20	15	mst	Morning Star			5	5000	lblu			invmstu	so0		so0	pr29		120	120	pr96		50	50	pr107		25	25	pr73		2	2	pr55		10	10	pr123	96	3	3	pr66		5	5																					0
+The Generals Tan Do Li Ga		1		5	1	28	21	fla	Flail			5	5000	dblu	dblu			so0		so0	pr27		1	1	pr28		20	20	pr114		50	50	pr0		25	25	pr65		5	5	pr29		50	60	pr56		20	20																					0
+Ironstone		1		5	1	36	27	whm	War Hammer			5	5000	cblu	cblu			so0		so0	pr15		100	150	pr29		100	150	pr22		1	1	pr23		10	10	pr7		10	10			-5	-5																									0
+Bonesob		1		5	1	32	24	mau	Maul			5	5000	lred			invmauu	so0		so0	pr29		200	300	pr108		40	40	pr31		30	30	pr35		30	30	pr99		50	50																													0
+Steeldriver		1		5	1	39	29	gma	Great Maul			5	5000	cgrn	cgrn		invgma	so0		so0	pr75		-50	-50	pr57		40	40	pr61		25	25	pr29		150	250																																	0
+Rixots Keen		1		5	1	3	2	ssd	Short Sword			5	5000	blac	blac			so0		so0	pr27		5	5	pr96		20	20	pr73		2	2	pr108		25	25	pr0		25	25	pr29		100	100																									0
+Blood Crescent		1		5	1	10	7	scm	Scimitar			5	5000	lblu			invscmu	so0		so0	pr41		15	15	pr29		60	80	pr13		15	15	pr73		4	4	pr107		33	33	pr56		15	15	pr66		15	15																					0
+Krintizs Skewer		1		5	1	14	10	sbr	Saber			5	5000	cblu			inv9sbu	so0		so0	pr92		1	1	pr7		10	10	pr8		10	10	pr65		7	7	pr29		50	50	pr140		3	7																									0
+Gleamscythe		1		5	1	18	13	flc	Falchion			5	5000	lred			invflcu	so0		so0	pr73		3	3	pr11		30	30	pr0		20	20	pr56		20	20	pr29		60	100	pr137	50	3	5																									0
+Azurewrath				5	1	18	13	crs	Crystal Sword			5	5000	lgry			invcrsu	so0		so0	pr113		50	50	pr59		10	10	pr137	100	3	6	pr29		100	100	pr51		25	25	pr136		5	10																									0
+Griswolds Edge		1		5	1	23	17	bsd	Broad Sword			5	5000	cred			invbsdu	so0		so0	pr20		10	12	pr21		15	25	pr15		100	100	pr55		10	10	pr60		1	1	pr29		80	120	pr7		12	12																					0
+Hellplague		1		5	1	30	22	lsd	Long Sword			5	5000	dred			invlsdu	so0		so0	pr65		5	5	pr66		5	5	pr24		48	48	pr25		96	96	pr26		150	150	pr29		70	80	pr134		25	75	pr103		2	2																	0
+Culwens Point		1		5	1	39	29	wsd	War Sword			5	5000	whit	whit			so0		so0	pr104		1	1	pr88		50	50	pr80		20	20	pr56		20	20	pr15		60	60	pr29		70	80																									0
+Shadowfang		1		5	1	16	12	2hs	2-Handed Sword			5	5000	cgrn			inv2hsu	so0		so0	pr65		9	9	pr35		20	20	pr73		-2	-2	pr137	150	10	30	pr29		100	100	pr66		9	9																									0
+Soulflay		1		5	1	26	19	clm	Claymore			5	5000	dgrn	dgrn			so0		so0	pr65		4	10	pr66		4	4	pr29		70	100	pr41		5	5	pr56		10	10																													0
+Kinemils Awl		1		5	1	31	23	gis	Giant Sword			5	5000	dblu			invgisu	so0		so0	pr15		100	150	pr11		20	20	pr20		6	6	pr21		20	40	pr29		80	100	pr123	102	6	6																									0
+Blacktongue		1		5	1	35	26	bsw	Bastard Sword			5	5000	lgrn			invbswu	so0		so0	pr138	150	192	192	pr94		1	1	pr15		50	50	pr39		50	50	pr29		50	60			-10	-10																									0
+Ripsaw		1		5	1	35	26	flb	Flamberge			5	5000	cblu	cblu			so0		so0	pr107		80	80	pr28		15	15	pr65		6	6	pr29		80	100																																	0
+The Patriarch		1		5	1	39	29	gsd	Great Sword			5	5000	cred			invgsdu	so0		so0	pr3		3	3	pr6		3	3	pr91		1	1	pr58		100	100	pr29		100	120	pr7		10	10																									0
+Gull		1		5	1	6	4	dgr	Dagger			5	5000	lgry	lgry			so0		so0	pr27		1	1	pr28		15	15	pr59		100	100	pr11		-5	-5																																	0
+The Diggler		1		5	1	15	11	dir	Dirk			5	5000	dgry	dgry			so0		so0	pr8		10	10	pr29		50	50	pr57		30	30	pr35		25	25	pr31		25	25	pr92		1	1																									0
+The Jade Tan Do		1		5	1	26	19	kri	Kris			5	5000	oran			invkrsu	so0		so0	pr15		100	150	pr115		1	1	pr138	100	460	460	pr39		95	95	pr40		20	20																													0
+Irices Shard		1		5	1	34	25	bld	Blade			5	5000	dblu	dblu			so0		so0	pr87		50	50	pr11		50	50	pr15		55	55	pr41		10	10																																	0
+The Dragon Chang		1		5	1	11	8	spr	Spear			5	5000	dpur	dpur			so0		so0	pr15		35	35	pr27		10	10	pr73		2	2	pr99		100	100	pr134		3	6																													0
+Razortine		1		5	1	16	12	tri	Trident			5	5000	oran			invtriu	so0		so0	pr114		25	25	pr93		50	50	pr7		15	15	pr8		8	8	pr56		30	30	pr29		30	50																									0
+Bloodthief		1		5	1	23	17	brn	Brandistock			5	5000	whit	whit			so0		so0	pr107		35	35	pr7		10	10	pr66		8	12	pr13		26	26	pr29		50	70																													0
+Lance of Yaggai		1		5	1	30	22	spt	Spetum			5	5000	lred	lred			so0		so0	pr54		8	8	pr22		1	1	pr23		60	60	pr41		15	15	pr56		40	40																													0
+The Tannr Gorerod		1		5	1	36	27	pik	Pike			5	5000	lgry	lgry			so0		so0	pr20		23	23	pr21		54	54	pr32		15	15	pr13		30	30	pr15		60	60	pr73		3	3	pr31		15	15	pr29		80	100																	0
+Dimoaks Hew		1		5	1	11	8	bar	Bardiche			5	5000	blac	blac			so0		so0	pr8		15	15	pr29		100	100	pr56		20	20	pr0		-8	-8																																	0
+Steelgoad		1		5	1	19	14	vou	Voulge			5	5000	cgrn	cgrn			so0		so0	pr90		96	96	pr113		30	30	pr15		30	30	pr41		5	5	pr29		60	80	pr51		20	40																									0
+Soul Harvest		1		5	1	26	19	scy	Scythe			5	5000	dgry			invscyu	so0		so0	pr107		30	30	pr15		45	45	pr41		20	20	pr29		50	90	pr65		10	10	pr10		5	5																									0
+The Battlebranch		1		5	1	34	25	pax	Poleaxe			5	5000	lblu	lblu			so0		so0	pr57		30	30	pr8		10	10	pr29		50	70	pr15		50	100	pr66		7	7																													0
+Woestave		1		5	1	38	28	hal	Halberd			5	5000	dblu	dblu			so0		so0	pr114		50	50	pr107		50	50	pr91		3	3	pr97		-50	-50	pr106		1	1	pr73		-3	-3	pr94		1	1	pr29		20	40			-30	-30													0
+The Grim Reaper		1		5	1	39	29	wsc	War Scythe			5	5000	lpur	lpur			so0		so0	pr113		100	100	pr94		1	1	pr65		5	5	pr29		20	20	pr27		15	15			-20	-20																									0
+Bane Ash		1		5	1	7	5	sst	Short Staff			5	5000	lgrn	lgrn			so0		so0	pr20		4	4	pr21		6	6	pr31		50	50	pr11		30	30	pr56		20	20	pr29		50	60	pr123	36	5	5	pr123	37	2	2																	0
+Serpent Lord		1		5	1	12	9	lst	Long Staff			5	5000	cgrn	cgrn			so0		so0	pr138	75	40	40	pr39		50	50	pr73		-1	-1	pr11		10	10	pr29		30	40	pr65		100	100	pr93		50	50																					0
+Lazarus Spire		1		5	1	24	18	cst	Gnarled Staff			5	5000	lgry			invcstu	so0		so0	pr33		75	75	pr3		5	5	pr10		15	15	pr123	53	1	1	pr123	49	2	2	pr123	42	3	3	pr62		43	43	pr135		1	28	pr70		1	1													0
+The Salamander		1		5	1	28	21	bst	Battle Staff			5	5000	dred	dred			so0		so0	pr134		15	32	pr31		30	30	pr123	51	1	1	pr123	47	2	2	pr123	37	3	3	pr103		2	2																									0
+The Iron Jang Bong		1		5	1	38	28	wst	War Staff			5	5000	dyel	dyel			so0		so0	pr0		30	30	pr87		20	20	pr29		100	100	pr96		50	50	pr123	48	2	2	pr123	46	2	2	pr123	44	3	3	pr70		2	2																	0
+Pluckeye		1		5	1	10	7	sbw	Short Bow			5	5000	cblu	cblu			so0		so0	pr15		28	28	pr29		100	100	pr13		10	10	pr73		2	2	pr65		3	3	pr110		2	2																									0
+Witherstring		1		5	1	18	13	hbw	Hunter’s Bow			5	5000	lred	lred			so0		so0	pr57		30	30	pr27		1	1	pr28		3	3	pr15		50	50	pr119		3	3	pr29		40	50																									0
+Rimeraven		1		5	1	20	15	lbw	Long Bow			5	5000	dred	dred			so0		so0	pr96		50	50	pr8		3	3	pr120		3	3	pr7		3	3	pr29		60	70																													0
+Piercerib		1		5	1	27	20	cbw	Composite Bow			5	5000	cred			invcbwu	so0		so0	pr41		10	10	pr113		30	30	pr15		60	60	pr99		100	100	pr29		40	60	pr56		50	50																									0
+Pullspite		1		5	1	34	25	sbb	Short Battle Bow			5	5000	lgrn			invsbbu	so0		so0	pr135		1	30	pr7		8	8	pr15		28	28	pr118		25	25	pr33		25	25	pr29		70	90																									0
+Wizendraw		1		5	1	35	26	lbb	Long Battle Bow			5	5000	dgrn	dgrn			so0		so0	pr119		5	5	pr11		30	30	pr56		20	20	pr35		26	26	pr15		50	100	pr29		70	80	pr10		15	15	pr234		20	35																	0
+Hellclap		1		5	1	36	27	swb	Short War Bow			5	5000	cgrn			invswbu	so0		so0	pr55		10	10	pr20		15	15	pr21		30	50	pr15		50	75	pr31		40	40	pr8		12	12	pr29		70	90	pr103		1	1																	0
+Blastbark		1		5	1	38	28	lwb	Long War Bow			5	5000	lyel	lyel			so0		so0	pr29		70	130	pr7		5	5	pr67		1	1	pr65		3	3	pr123	16	2	2																													0
+Leadcrow		1		5	1	12	9	lxb	Light Crossbow			5	5000	dyel			invlxbu	so0		so0	pr8		10	10	pr13		10	10	pr29		70	70	pr39		30	30	pr113		25	25	pr15		40	40																									0
+Ichorsting		1		5	1	24	18	mxb	Crossbow			5	5000	lgld			invmxbu	so0		so0	pr138	75	102	102	pr8		20	20	pr118		50	50	pr15		50	50	pr29		50	50	pr56		20	20																									0
+Hellcast		1		5	1	36	27	hxb	Heavy Crossbow			5	5000	dgld			invhxbu	so0		so0	pr120		5	5	pr32		15	15	pr31		15	15	pr15		70	70	pr56		20	20	pr29		70	80	pr134		15	35																					0
+Doomspittle		1		5	1	38	28	rxb	Repeating Crossbow			5	5000	lpur			invrxbu	so0		so0	pr67		1	1	pr118		35	35	pr57		30	30	pr13		15	15	pr29		60	100																													0
+War Bonnet		1		5	1	4	3	cap	Cap			5	5000	dpur			invcapu	so0		so0	pr13		15	15	pr15		30	30	pr29		30	30	pr11		15	15	pr0		14	14																													0
+Tarnhelm		1		5	1	20	15	skp	Skull Cap			5	5000	oran	oran			so0		so0	pr58		75	75	pr59		25	50	pr104		1	1																																					0
+Coif of Glory		1		5	1	19	14	hlm	Helm			5	5000	whit			invhlmu	so0		so0	pr105		7	7	pr91		1	1	pr33		15	15	pr1		100	100	pr0		10	10																													0
+Duskdeep		1		5	1	23	17	fhl	Full Helm			5	5000	lgry			invfhlu	so0		so0	pr73		-2	-2	pr41		15	15	pr3		7	7	pr28		8	8	pr0		10	20	pr5		30	50																									0
+Wormskull		1		5	1	28	21	bhm	Bone Helm			5	5000	lgrn			invbhmu	so0		so0	pr69		1	1	pr66		5	5	pr11		10	10	pr39		25	25	pr138	200	102	102																													0
+Howltusk		1		5	1	34	25	ghm	Great Helm			5	5000	dgry	dgry			so0		so0	pr6		2	2	pr54		3	3	pr5		80	80	pr30		35	35	pr60		1	1	pr90		33	33																									0
+Undead Crown		1		5	1	39	29	crn	Crown			5	5000	blac	blac			so0		so0	pr66		5	5	pr0		40	40	pr39		50	50	pr95		1	1	pr5		30	60	pr99		50	50	pr101		50	100	pr123	69	3	3																	0
+The Face of Horror		1		5	1	27	20	msk	Mask			5	5000	lblu	lblu			so0		so0	pr90		64	64	pr7		20	20	pr41		10	10	pr99		50	50	pr0		25	25																													0
+Greyform		1		5	1	10	7	qui	Quilted Armor			5	5000	lgry	lgry			so0		so0	pr6		3	3	pr35		20	20	pr31		20	20	pr8		10	10	pr66		5	5	pr0		20	20																									0
+Blinkbats Form		1		5	1	16	12	lea	Leather Armor			5	5000	dred	dred			so0		so0	pr1		50	50	pr77		10	10	pr0		25	25	pr20		3	3	pr21		6	6	pr80		40	40																									0
+The Centurion		1		5	1	19	14	hla	Hard Leather			5	5000	cred	cred			so0		so0	pr0		30	30	pr15		50	50	pr3		2	2	pr13		15	15	pr11		15	15	pr63		15	15	pr53		5	5	pr116		25	25																	0
+Twitchthroe		1		5	1	22	16	stu	Studded Leather			5	5000	lgrn	lgrn			so0		so0	pr56		20	20	pr8		10	10	pr16		25	25	pr0		25	25	pr7		10	10	pr80		20	20																									0
+Darkglow		1		5	1	19	14	rng	Ring Mail			5	5000	dgrn	dgrn			so0		so0	pr15		20	20	pr42		5	5	pr73		3	3	pr2		50	50	pr41		10	10	pr5		70	100																									0
+Hawkmail		1		5	1	20	15	scl	Scale Mail			5	5000	cgrn	cgrn			so0		so0	pr5		80	100	pr36		15	15	pr35		15	15	pr115		1	1	pr77		10	10																													0
+Sparking Mail		1		5	1	23	17	chn	Chain Mail			5	5000	lyel	lyel			so0		so0	pr5		75	85	pr135		1	20	pr105		10	14	pr33		30	30																																	0
+Venomsward		1		5	1	27	20	brs	Breast Plate			5	5000	dyel	dyel			so0		so0	pr40		15	15	pr88		50	50	pr39		90	90	pr73		2	2	pr5		60	100																													0
+Iceblink		1		5	1	30	22	spl	Splint Mail			5	5000	lgld	lgld			so0		so0	pr106		1	1	pr35		30	30	pr73		4	4	pr6		1	1	pr5		70	80																													0
+Boneflesh		1		5	1	35	26	plt	Plate Mail			5	5000	dgld	dgld			so0		so0	pr66		5	5	pr5		100	120	pr15		35	35	pr107		25	25																																	0
+Rockfleece		1		5	1	38	28	fld	Field Plate			5	5000	dgry	dgry			so0		so0	pr75		-10	-10	pr5		100	130	pr4		10	10	pr3		5	5	pr7		5	5																													0
+Rattlecage		1		5	1	39	29	gth	Gothic Plate			5	5000	dpur	dpur			so0		so0	pr90		52	52	pr15		45	45	pr108		25	25	pr0		200	200																																	0
+Goldskin		1		5	1	38	28	ful	Full Plate Mail			5	5000	oran			invfulu	so0		so0	pr5		120	150	pr41		35	35	pr54		10	10	pr73		2	2	pr58		100	100																													0
+Victors Silk		1		5	1	38	28	aar	AncientArmor			5	5000	dblu			invaaru	so0		so0	pr65		5	5	pr104		1	1	pr73		2	2	pr5		100	120																																	0
+Heavenly Garb		1		5	1	39	29	ltp	Light Plate			5	5000	cblu	cblu			so0		so0	pr5		100	100	pr41		10	10	pr62		25	25	pr10		15	15	pr99		50	50	pr101		100	100																									0
+Pelta Lunata		1		5	1	3	2	buc	Buckler			5	5000	whit			invbucu	so0		so0	pr0		30	30	pr9		10	10	pr7		2	2	pr10		10	10	pr5		30	40	pr16		20	20	pr83		40	40	pr51		8	12																	0
+Umbral Disk		1		5	1	12	9	sml	Small Shield			5	5000	lgry			invsmlu	so0		so0	pr91		1	1	pr8		10	10	pr0		30	30	pr13		20	20	pr73		-2	-2	pr5		40	50	pr16		30	30	pr51		10	15																	0
+Stormguild		1		5	1	18	13	lrg	Large Shield			5	5000	dgry			invlrgu	so0		so0	pr6		1	1	pr33		25	25	pr0		30	30	pr135		1	6	pr5		50	60	pr16		30	30	pr105		3	3	pr51		10	15																	0
+Wall of the Eyeless		1		5	1	27	20	bsh	Bone Shield			5	5000	lgld			invbshu	so0		so0	pr110		5	5	pr65		3	3	pr86		20	20	pr39		20	20	pr5		30	40	pr0		10	10																									0
+Swordback Hold		1		5	1	20	15	spk	Spiked Shield			5	5000	lred			invspku	so0		so0	pr54		5	5	pr16		20	20	pr107		50	50	pr112		3	5	pr5		30	60	pr54		5	5	pr0		10	10																					0
+Steelclash		1		5	1	23	17	kit	Kite Shield			5	5000	blac			invkitu	so0		so0	pr16		25	25	pr68		1	1	pr3		3	3	pr73		3	3	pr5		60	100	pr83		20	20	pr41		15	15	pr0		20	20	pr51		15	20													0
+Bverrit Keep		1		5	1	26	19	tow	Tower Shield			5	5000	lblu			invtowu	so0		so0	pr0		30	30	pr31		75	75	pr7		5	5	pr6		5	5	pr5		80	120	pr16		10	10	pr51		80	100																					0
+The Ward		1		5	1	35	26	gts	Gothic Shield			5	5000	dblu			invgtsu	so0		so0	pr0		40	40	pr6		2	2	pr7		10	10	pr16		10	10	pr5		100	100	pr41		30	50																									0
+The Hand of Broc		1		5	1	7	5	lgl	Gloves			5	5000	cblu	cblu			so0		so0	pr65		3	3	pr66		3	3	pr39		10	10	pr11		20	20	pr0		10	10	pr5		10	20																									0
+Bloodfist		1		5	1	12	9	vgl	Heavy Gloves			5	5000	oran	oran			so0		so0	pr27		5	5	pr13		40	40	pr80		30	30	pr0		10	10	pr5		10	20	pr56		10	10																									0
+Chance Guards		1		5	1	20	15	mgl	Bracers			5	5000	lred	lred			so0		so0	pr58		200	200	pr59		25	40	pr15		25	25	pr0		15	15	pr73		2	2	pr5		20	30																									0
+Magefist		1		5	1	31	23	tgl	Light Gauntlets			5	5000	lgry	lgry			so0		so0	pr87		20	20	pr62		25	25	pr103		1	1	pr134		1	6	pr0		10	10	pr5		20	30																									0
+Frostburn		1		5	1	39	29	hgl	Gauntlets			5	5000	dred	dred			so0		so0	pr0		30	30	pr29		5	5	pr12		40	40	pr137	50	1	6	pr5		10	20																													0
+Hotspur		1		5	1	7	5	lbt	Leather Boots			5	5000	cred	cred			so0		so0	pr32		15	15	pr13		15	15	pr134		3	6	pr0		6	6	pr31		45	45	pr5		10	20																									0
+Gorefoot		1		5	1	12	9	vbt	Heavy Boots			5	5000	dblu	dblu			so0		so0	pr112		3	5	pr77		20	20	pr65		2	2	pr54		2	2	pr0		12	12	pr5		20	30	pr123	132	2	2																					0
+Treads of Cthon		1		5	1	20	15	mbt	Chain Boots			5	5000	lgrn	lgrn			so0		so0	pr77		30	30	pr1		50	50	pr116		50	50	pr13		10	10	pr0		12	12	pr5		30	40																									0
+Goblin Toe		1		5	1	30	22	tbt	Light Plate Boots			5	5000	dgry	dgry			so0		so0	pr108		25	25	pr3		1	1	pr6		1	1	pr0		15	15	pr73		-1	-1	pr5		50	60																									0
+Tearhaunch		1		5	1	39	29	hbt	Plate Boots			5	5000	dgrn	dgrn			so0		so0	pr0		35	35	pr7		5	5	pr8		5	5	pr77		20	20	pr41		10	10	pr5		60	80	pr123	115	2	2																					0
+Lenyms Cord		1		5	1	10	7	lbl	Sash			5	5000	cgrn	cgrn			so0		so0	pr11		15	15	pr62		30	30	pr41		5	5	pr73		1	1																																	0
+Snakecord		1		5	1	16	12	vbl	Light Belt			5	5000	blac	blac			so0		so0	pr138	75	40	40	pr39		25	25	pr0		10	10	pr5		20	30	pr53		5	5	pr88		50	50																									0
+Nightsmoke		1		5	1	27	20	mbl	Belt			5	5000	lyel	lyel			so0		so0	pr41		10	10	pr30		50	50	pr11		20	20	pr3		2	2	pr0		15	15	pr5		30	50																									0
+Goldwrap		1		5	1	36	27	tbl	Heavy Belt			5	5000	lblu	lblu			so0		so0	pr59		30	30	pr73		2	2	pr0		25	25	pr56		10	10	pr5		40	60	pr58		50	80																									0
+Bladebuckle		1		5	1	39	29	hbl	Girdle			5	5000	dyel	dyel			so0		so0	pr54		8	8	pr0		30	30	pr3		3	3	pr7		5	5	pr8		10	10	pr5		80	100	pr80		30	30																					0
+Nokozan Relic		1		100	1	14	10	amu	Amulet			5	5000	lgld				so0		so0	pr134		3	6	pr32		10	10	pr31		50	50	pr73		3	3	pr80		20	20																													0
+The Eye of Etlich		1		100	1	20	15	amu	Amulet			5	5000	dgld				so0		so0	pr1		10	40	pr73		1	5	pr104		1	1	pr66		3	7	pr17		1	2	pr18		3	5	pr19		50	250																					0
+The Mahim-Oak Curio		1		100	1	34	25	amu	Amulet			5	5000	lpur				so0		so0	pr8		10	10	pr7		10	10	pr10		10	10	pr9		10	10	pr0		10	10	pr96		10	10	pr41		10	10	pr5		10	10																	0
+Nagelring		1		100	1	10	7	rin	Ring			5	5000	dpur				so0		so0	pr6		3	3	pr54		3	3	pr15		50	75	pr59		15	30																																	0
+Manald Heal		1		100	1	20	15	rin	Ring			5	5000	oran				so0		so0	pr65		4	7	pr53		5	8	pr13		20	20	pr62		20	20																																	0
+The Stone of Jordan		1		5	1	39	29	rin	Ring			5	5000	whit				so0		so0	pr11		20	20	pr12		25	25	pr22		1	1	pr104		1	1	pr23		12	12																													0
+Amulet of the Viper		1		5	1			vip	Amulet			5	5000	lgry				so0		so0	pr11		10	10	pr39		25	25	pr13		10	10																																					0
+Staff of Kings		1		5	1			msf	Staff			5	5000	dgry				so0		so0	pr41		10	10	pr57		50	50																																									0
+Horadric Staff		1		5	1			hst	Staff			5	5000	blac				so0		so0	pr11		10	10	pr39		25	25	pr13		10	10	pr41		10	10	pr57		50	50																													0
+Hell Forge Hammer		1		5	1			hfh	Hammer			5	5000	cred				so0		so0	pr20		5	5	pr21		20	20	pr31		40	40	pr0		35	35																																	0
+KhalimFlail		1		5	1			qf1	Flail			5	5000	dblu				so0		so0	pr22		1	1	pr23		20	20	pr57		50	50	pr15		40	40																																	0
+SuperKhalimFlail		1		5	1			qf2	Flail			5	5000	dblu				so0		so0	pr22		1	1	pr23		40	40	pr57		50	50	pr15		40	40	pr65		6	6	pr66		6	6																									0
+Expansion																																																																					0
+Coldkill	100	1		5	1	44	36	9ha	Hatchet			5	5000	cblu	cblu		invhaxu	so0		so0	pr137	50	40	40	pr35		15	15	pr36		15	15	pr57		30	30	pr127	45	10	10	pr128	44	10	5	pr29		150	190																					0
+Butcher's Pupil	100	1		5	1	47	39	9ax	Cleaver			5	5000	cblu	cblu		invaxeu	so0		so0	pr113		35	35	pr107		25	25	pr29		150	200	pr242		1	1	pr57		30	30	pr140		30	50																									0
+Islestrike	100	1		5	1	51	43	92a	Twin Axe			5	5000					so0		so0	pr121		2	2	pr7		10	10	pr8		10	10	pr9		10	10	pr10		10	10	pr1		50	50	pr108		25	25	pr29		170	190	pr123	233	1	1	pr123	248	1	1									0
+Pompe's Wrath	100	1		5	1	53	45	9mp	Crowbill			5	5000	cred	cred		invmpiu	so0		so0	pr127	244	4	8	pr114		50	50	pr134		35	150	pr60		1	1	pr29		140	170																													0
+Guardian Naga	100	1		5	1	56	48	9wa	Naga			5	5000					so0		so0	pr127	92	5	8	pr54		15	15	pr39		30	30	pr29		150	180	pr138	250	256	256	pr28		20	20																									0
+Warlord's Trust	100	1		5	1	43	35	9la	Military Axe			5	5000	whit	whit			so0		so0	pr0		75	75	pr53		20	20	pr150	4			pr41		10	10	pr179	25			pr29		175	175																									0
+Spellsteel	100	1		5	1	47	39	9ba	Bearded Axe			5	5000	whit	whit			so0		so0	pr75		-60	-60	pr11		100	100	pr6		12	15	pr85		10	10	pr29		165	165	pr62		25	25	pr243	54	20	1	pr243	87	30	3	pr243	101	100	10	pr243	225	60	12									0
+Stormrider	100	1		5	1	49	41	9bt	Tabar			5	5000	lred	lred		inv9btu	so0		so0	pr127	53	5	10	pr127	38	10		pr135		1	200	pr140		35	75	pr29		100	100	pr51		50	50	pr105		15	15	pr128	38	15	5																	0
+Boneslayer Blade	100	1		5	1	50	42	9ga	Gothic Axe			5	5000				invgaxu	so0		so0	pr173	10			pr171	20			pr7		8	8	pr56		20	20	pr96		35	35	pr29		180	220	pr243	101	200	20	pr128	101	50																		0
+The Minataur	100	1		5	1	53	45	9gi	Ancient Axe			5	5000				inv9giu	so0		so0	pr91		2	2	pr95		1	1	pr7		15	20	pr114		50	50	pr108		30	30	pr140		20	30	pr29		140	200																					0
+Suicide Branch	100	1		5	1	41	33	9wn	Burnt Wand			5	5000					so0		so0	pr54		25	25	pr86		50	50	pr41		10	10	pr12		10	10	pr13		40	40	pr104		1	1																									0
+Carin Shard	100	1		5	1	43	35	9yw	Petrified Wand			5	5000	cblu	cblu			so0		so0	pr143	10			pr86		10	10	pr144	10			pr80		30	30	pr53		5	5	pr69		1	1	pr124	8	2	2																					0
+Arm of King Leoric	100	1		5	1	44	36	9bw	Tomb Wand			5	5000				invbwnu	so0		so0	pr124	8	2	2	pr128	93	5	10	pr144	10			pr128	88	10	2	pr85		10	10	pr124	7	2	2	pr123	77	2	2	pr123	80	2	2	pr123	69	3	3	pr123	70	3	3									0
+Blackhand Key	100	1		5	1	49	41	9gw	Grave Wand			5	5000	blac	blac		inv9gwu	so0		so0	pr124	6	1	1	pr30		20	20	pr13		50	50	pr73		-2	-2	pr87		30	30	pr31		37	37	pr69		2	2	pr243	150	30	13																	0
+Dark Clan Crusher	100	1		5	1	42	34	9cl	Cudgel			5	5000	dgld	dgld		invclbu	so0		so0	pr121		2	2	pr98		200	200	pr100		200	200	pr29		195	195	pr96		20	25	pr111		15	15																									0
+Zakarum's Hand	100	1		5	1	45	37	9sc	Rune Scepter			5	5000	lpur	lpur			so0		so0	pr65		8	8	pr92		1	1	pr62		10	10	pr61		15	15	pr127	59	6	5	pr29		180	220	pr56		30	30	pr123	114	2	2	pr123	118	2	2													0
+The Fetid Sprinkler	100	1		5	1	46	38	9qs	Holy Water Sprinkler			5	5000					so0		so0	pr68		2	2	pr127	87	5	1	pr127	81	10	1	pr138	100	409	409	pr29		160	190	pr15		150	200	pr140		15	25																					0
+Hand of Blessed Light	100	1		5	1	50	42	9ws	Divine Scepter			5	5000	lyel				so0		so0	pr68		2	2	pr29		130	160	pr96		100	100	pr0		50	50	pr62		15	15	pr73		4	4	pr140		20	45	pr123	101	4	4	pr123	121	2	2	pr127	121	5	4									0
+Fleshrender	100	1		5	1	46	38	9sp	Barbed Club			5	5000	blac			invspcu	so0		so0	pr107		25	25	pr94		1	1	pr108		20	20	pr113		20	20	pr140		35	50	pr29		130	200	pr121		1	1	pr124	16	2	2	pr51		20	20													0
+Sureshrill Frost	100	1		5	1	47	39	9ma	Flanged Mace			5	5000					so0		so0	pr137	125	63	112	pr115		1	1	pr29		150	180	pr140		5	10	pr106		3	3	pr243	64	50	9																									0
+Moonfall	100	1		5	1	50	42	9mt	Jagged Star			5	5000				invmstu	so0		so0	pr127	56	5	6	pr134		55	115	pr6		9	12	pr29		120	150	pr73		2	2	pr243	56	60	11	pr140		10	15																					0
+Baezil's Vortex	100	1		5	1	53	45	9fl	Knout			5	5000	dblu	dblu			so0		so0	pr127	48	5	8	pr135		1	150	pr11		100	100	pr33		25	25	pr29		160	200	pr56		20	20	pr243	48	80	15																					0
+Earthshaker	100	1		5	1	51	43	9wh	Battle Hammer			5	5000					so0		so0	pr127	234	5	7	pr60		1	1	pr57		30	30	pr29		180	180	pr91		1	1	pr124	17	3	3	pr51		50	50																					0
+Bloodtree Stump	100	1		5	1	56	48	9m9	War Club			5	5000	dred				so0		so0	pr108		50	50	pr29		180	220	pr41		20	20	pr7		25	25	pr124	13	2	2	pr123	129	3	3	pr51		40	40																					0
+The Gavel of Pain	100	1		5	1	53	45	9gm	Martel de Fer			5	5000				inv9gmu	so0		so0	pr127	66	5	1	pr128	76	5	1	pr54		26	26	pr242		1	1	pr140		12	30	pr29		130	160	pr243	66	3	8																					0
+Bloodletter	100	1		5	1	38	30	9ss	Gladius			5	5000	cred	cred			so0		so0	pr140		12	45	pr15		90	90	pr66		8	8	pr116		10	10	pr56		20	20	pr29		140	140	pr123	127	2	4	pr123	151	1	3	pr51		30	30													0
+Coldsteel Eye	100	1		5	1	39	31	9sm	Cutlass			5	5000	dgry			invscmu	so0		so0	pr91		1	1	pr114		30	30	pr113		50	50	pr51		50	50	pr29		200	250	pr56		20	20	pr65		6	6																					0
+Hexfire	100	1		5	1	41	33	9sb	Shamshir			5	5000				invsbru	so0		so0	pr243	62	36	6	pr92		1	1	pr31		25	25	pr32		10	10	pr140		35	40	pr29		140	160	pr103		3	3																					0
+Blade of Ali Baba	100	1		5	1	43	35	9fc	Tulwar			5	5000	cred	cred			so0		so0	pr133	3			pr166	20			pr167	8			pr11		15	15	pr29		60	120	pr8		5	15																									0
+Ginther's Rift	100	1		5	1	45	37	9cr	Dimensional Blade			5	5000	cblu			inv9cru	so0		so0	pr6		7	12	pr56		30	30	pr179	20			pr51		40	40	pr136		50	120	pr29		100	150																									0
+Headstriker	100	1		5	1	47	39	9bs	Battle Sword			5	5000	bwht	bwht			so0		so0	pr94		1	1	pr7		15	15	pr177	12			pr145	8			pr29		150	150																													0
+Plague Bearer	100	1		5	1	49	41	9ls	Rune Sword			5	5000				inv9lsu	so0		so0	pr127	92	5	4	pr138	200	384	384	pr140		10	45	pr29		150	150	pr39		45	45	pr123	238	5	5																									0
+The Atlantian	100	1		5	1	50	42	9wd	Ancient Sword			5	5000	lblu	lblu			so0		so0	pr51		100	100	pr0		75	75	pr7		16	16	pr8		12	12	pr9		8	8	pr29		200	250	pr68		2	2	pr96		50	50																	0
+Crainte Vomir	100	1		5	1	50	42	92h	Espadon			5	5000	lgld			inv2hsu	so0		so0	pr114		35	35	pr97		-70	-70	pr77		20	20	pr4		10	10	pr29		160	200	pr57		50	50																									0
+Bing Sz Wang	100	1		5	1	51	43	9cm	Dacian Falx			5	5000					so0		so0	pr75		-30	-30	pr137	75	50	140	pr7		20	20	pr106		2	2	pr127	64	5	3	pr29		130	160																									0
+The Vile Husk	100	1		5	1	52	44	9gs	Tusk Sword			5	5000	dgry	dgry		invgisu	so0		so0	pr127	66	6	1	pr171	60			pr39		50	50	pr138	150	426	426	pr29		150	200	pr173	20																											0
+Cloudcrack	100	1		5	1	53	45	9b9	Gothic Sword			5	5000				invbswu	so0		so0	pr127	121	6	7	pr135		1	240	pr0		30	30	pr73		2	2	pr34		10	10	pr29		150	200	pr105		15	15	pr124	10	2	2	pr124	11	2	2													0
+Todesfaelle Flamme	100	1		5	1	54	46	9fb	Zweihander			5	5000				inv9fbu	so0		so0	pr134		50	200	pr31		40	40	pr44		10	10	pr126	47	10	6	pr29		120	160	pr243	52	45	10	pr243	51	20	10																					0
+Swordguard	100	1		5	1	55	48	9gd	Executioner Sword			5	5000	bwht	bwht		invgsdu	so0		so0	pr75		-50	-50	pr141	40			pr41		10	20	pr1		100	100	pr30		30	30	pr29		170	180	pr2		200	200	pr80		20	20	pr16		20	20													0
+Spineripper	100	1		5	1	40	32	9dg	Poignard			5	5000					so0		so0	pr92		1	1	pr66		8	8	pr94		1	1	pr57		15	15	pr8		10	10	pr29		200	240	pr140		15	27	pr69		1	1																	0
+Heart Carver	100	1		5	1	44	36	9di	Rondel			5	5000					so0		so0	pr113		35	35	pr92		1	1	pr140		15	35	pr29		190	240	pr123	131	4	4	pr123	142	4	4	pr123	150	4	4																					0
+Blackbog's Sharp	100	1		5	1	46	38	9kr	Cinquedeas			5	5000				invkrsu	so0		so0	pr114		50	50	pr0		50	50	pr140		15	45	pr57		30	30	pr138	250	500	500	pr123	73	5	5	pr123	83	4	4	pr123	92	4	4																	0
+Stormspike	100	1		5	1	49	41	9bl	Stilleto			5	5000	cblu	cblu		inv9blu	so0		so0	pr135		1	120	pr105		20	20	pr128	38	25	3	pr29		150	150	pr159	8																															0
+The Impaler	100	1		5	1	39	31	9sr	War Spear			5	5000	lred	lred			so0		so0	pr92		1	1	pr15		150	150	pr56		20	20	pr107		40	40	pr94		1	1	pr29		140	170	pr123	19	5	5	pr123	14	3	3																	0
+Kelpie Snare	100	1		5	1	41	33	9tr	Fuscina			5	5000				invtriu	so0		so0	pr114		75	75	pr31		50	50	pr143	10			pr140		30	50	pr7		10	10	pr29		140	180																									0
+Soulfeast Tine	100	1		5	1	43	35	9br	War Fork			5	5000	lyel	lyel		inv9bru	so0		so0	pr75		-20	-20	pr66		7	7	pr65		7	7	pr116		20	20	pr29		150	190	pr15		150	250	pr51		15	15																					0
+Hone Sundan	100	1		5	1	45	37	9st	Yari			5	5000					so0		so0	pr133	3			pr140		20	40	pr108		45	45	pr179	10			pr29		160	200																													0
+Spire of Honor	100	1		5	1	47	39	9p9	Lance			5	5000	lgry	lgry			so0		so0	pr96		25	25	pr73		3	3	pr53		20	20	pr80		20	20	pr140		20	40	pr170	12			pr29		150	200	pr124	9	3	3	pr5		25	25													0
+The Meat Scraper	100	1		5	1	49	41	9b7	Lochaber Axe			5	5000	dred	dred			so0		so0	pr29		150	200	pr56		30	30	pr66		10	10	pr107		50	50	pr59		25	25	pr124	13	3	3																									0
+Blackleach Blade	100	1		5	1	50	42	9vo	Bill			5	5000	blac	blac			so0		so0	pr75		-25	-25	pr127	72	5	5	pr73		-2	-2	pr66		8	8	pr145	10			pr29		100	140																									0
+Athena's Wrath	100	1		5	1	50	42	9s8	Battle Scythe			5	5000				inv9s8u	so0		so0	pr121		1	3	pr8		15	15	pr56		30	30	pr143	8			pr145	8			pr29		150	180																									0
+Pierre Tombale Couant	100	1		5	1	51	43	9pa	Partizan			5	5000	lgld	lgld			so0		so0	pr113		55	55	pr71		3	3	pr80		30	30	pr65		6	6	pr140		12	20	pr29		160	220	pr15		100	200																					0
+Husoldal Evo	100	1		5	1	52	44	9h9	Bec-de-Corbin			5	5000					so0		so0	pr53		20	20	pr15		200	250	pr94		1	1	pr140		20	32	pr29		160	200	pr56		20	20																									0
+Grim's Burning Dead	100	1		5	1	52	45	9wc	Grim Scythe			5	5000	cred	cred			so0		so0	pr134		131	232	pr31		45	45	pr29		140	180	pr54		8	8	pr75		-50	-50	pr69		3	3	pr93		50	50	pr5		20	20	pr15		200	250													0
+Razorswitch	100	1		5	1	36	28	8ss	Jo Stalf			5	5000	lpur				so0		so0	pr87		30	30	pr54		15	15	pr11		175	175	pr13		80	80	pr6		15	15	pr41		50	50	pr104		1	1																					0
+Ribcracker	100	1		5	1	39	31	8ls	Quarterstaff			5	5000	lblu	lblu			so0		so0	pr140		30	65	pr29		200	300	pr108		50	50	pr8		15	15	pr0		100	100	pr5		100	100	pr80		50	50	pr56		50	50	pr51		100	100													0
+Chromatic Ire	100	1		5	1	43	35	8cs	Cedar Staff			5	5000				invcstu	so0		so0	pr70		3	3	pr41		20	40	pr85		20	20	pr105		20	20	pr14		20	25	pr123	61	1	1	pr123	63	1	1	pr123	65	1	1																	0
+Warpspear	100	1		5	1	47	39	8bs	Gothic Staff			5	5000	cblu	cblu			so0		so0	pr70		3	3	pr92		1	1	pr123	54	3	3	pr123	43	3	3	pr123	58	3	3	pr1		250	250		54	50	1		54	25	1																	0
+Skullcollector	100	1		5	1	49	41	8ws	Rune Staff			5	5000	blac	blac		inv8wsu	so0		so0	pr12		20	20	pr110		20	20	pr104		2	2	pr167	8																																			0
+Skystrike	100	1		5	1	36	28	8sb	Edge Bow			5	5000					so0		so0	pr135		1	250	pr15		100	100	pr10		10	10	pr57		30	30	pr29		150	200	pr127	56	2	6	pr67		1	1																					0
+Riphook	100	1		5	1	39	31	8hb	Razor Bow			5	5000	cred	cred			so0		so0	pr107		30	30	pr29		180	220	pr114		30	30	pr11		35	35	pr56		30	30	pr66		7	10																									0
+Kuko Shakaku	100	1		5	1	41	33	8lb	CedarBow			5	5000	lpur	lpur		inv8lbu	so0		so0	pr123	27	3	3	pr120		7	7	pr29		150	180	pr118		50	50	pr134		40	180	pr124		3	3																									0
+Endlesshail	100	1		5	1	44	36	8cb	Double Bow			5	5000				invcbwu	so0		so0	pr35		35	35	pr11		40	40	pr1		50	50	pr123	26	3	5	pr29		180	220	pr137	75	15	30																									0
+Whichwild String	100	1		5	1	47	39	8s8	Short Siege Bow			5	5000	lblu	lblu		inv8s8u	so0		so0	pr127	66	2	5	pr41		40	40	pr177	8			pr29		150	170	pr119		20	20	pr133	2																											0
+Cliffkiller	100	1		5	1	49	41	8l8	Long Siege Bow			5	5000	dgld				so0		so0	pr67		2	2	pr29		190	230	pr1		80	80	pr60		1	1	pr13		50	50	pr27		5	10	pr28		20	30																					0
+Magewrath	100	1		5	1	51	43	8sw	Rune Bow			5	5000	oran			invswbu	so0		so0	pr65		15	15	pr6		9	13	pr123	22	3	3	pr15		200	250	pr8		10	10	pr91		1	1	pr140		25	50	pr29		120	150	pr67		1	1													0
+Godstrike Arch	100	1		5	1	54	46	8lw	Gothic Bow			5	5000	lgry	lgry			so0		so0	pr29		200	250	pr96		100	150	pr99		100	200	pr98		100	200	pr127	121	5	7	pr56		50	50	pr53		12	12																					0
+Langer Briser	100	1		5	1	40	32	8lx	Arbalest			5	5000				inv8lxu	so0		so0	pr60		1	1	pr29		170	200	pr59		30	60	pr13		30	30	pr28		10	30	pr107		33	33	pr135		1	212																					0
+Pus Spiter	100	1		5	1	44	36	8mx	Siege Crossbow			5	5000	cgrn	cgrn		inv8mxu	so0		so0	pr138	200	192	192	pr127	91	4	1	pr69		2	2	pr75		-60	-60	pr128	92	9	6	pr56		10	10	pr29		150	220	pr151	10																			0
+Buriza-Do Kyanon	100	1		5	1	59	41	8hx	Balista			5	5000				invhxbu	so0		so0	pr118		100	100	pr8		35	35	pr0		75	150	pr145	20			pr56		80	80	pr29		150	200	pr106		3	3	pr137	200	32	196																	0
+Demon Machine	100	1		5	1	57	49	8rx	Chu-Ko-Nu			5	5000	blac	blac		invrxbu	so0		so0	pr0		321	321	pr11		36	36	pr118		66	66	pr120		6	6	pr28		66	66	pr29		123	123	pr15		632	632																					0
+Armor																		so0		so0																																																	0
+Peasent Crown	100	1		5	1	36	28	xap	War Hat			3	5000	lgry				so0		so0	pr10		20	20	pr9		20	20	pr104		1	1	pr77		15	15	pr53		6	12	pr5		100	100																									0
+Rockstopper	100	1		5	1	39	31	xkp	Sallet			3	5000				invxkpu	so0		so0	pr33		20	40	pr4		10	10	pr80		30	30	pr5		160	220	pr31		20	50	pr35		20	40	pr9		15	15																					0
+Stealskull	100	1		5	1	43	35	xlm	Casque			3	5000				invhlmu	so0		so0	pr65		5	5	pr66		5	5	pr80		10	10	pr56		10	10	pr5		200	240	pr59		30	50																									0
+Darksight Helm	100	1		5	1	46	38	xhl	Basinet			3	5000	blac	blac		invfhlu	so0		so0	pr73		-4	-4	pr141	16			pr115		1	1	pr65		5	5	pr128	71	6	3	pr243	264	30	5	pr31		20	40																					0
+Valkiry Wing	100	1		5	1	52	44	xhm	Winged Helm			3	5000	lgld				so0		so0	pr5		150	200	pr77		20	20	pr80		20	20	pr67		1	2	pr110		2	4																													0
+Crown of Thieves	100	1		5	1	57	49	xrn	Grand Crown			3	5000	dgld	dgld		invxrnu	so0		so0	pr8		25	25	pr66		9	12	pr13		50	50	pr11		35	35	pr31		33	33	pr5		160	200	pr58		80	100																					0
+Blackhorn's Face	100	1		5	1	49	41	xsk	Death Mask			3	5000	blac	blac			so0		so0	pr105		25	25	pr114		20	20	pr94		1	1	pr46		20	20	pr33		15	15	pr5		180	220																									0
+Vampiregaze	100	1		5	1	49	41	xh9	Grim Helm			3	5000	cgrn	cgrn		invbhmu	so0		so0	pr65		6	8	pr66		6	8	pr116		15	15	pr4		15	20	pr6		10	15	pr5		100	100	pr137	100	6	22																					0
+The Spirit Shroud	100	1		5	1	36	28	xui	Ghost Armor			3	5000					so0		so0	pr115		1	1	pr104		1	1	pr6		7	11	pr53		10	10	pr5		150	150																													0
+Skin of the Vipermagi	100	1		5	1	37	29	xea	SerpentSkin Armor			3	5000	dblu	dblu			so0		so0	pr5		120	120	pr41		20	35	pr87		30	30	pr6		9	13	pr104		1	1																													0
+Skin of the Flayerd One	100	1		5	1	39	31	xla	Demonhide Armor			3	5000	lred	lred			so0		so0	pr179	10			pr53		15	25	pr51		30	30	pr66		5	7	pr5		150	190	pr54		15	15																									0
+Ironpelt	100	1		5	1	41	33	xtu	Tresllised Armor			3	5000	dgry	dgry		invxtuu	so0		so0	pr51		125	125	pr13		25	25	pr6		10	16	pr3		15	20	pr141	24			pr5		50	100																									0
+Spiritforge	100	1		5	1	43	35	xng	Linked Mail			3	5000					so0		so0	pr73		4	4	pr143	10			pr134		20	65	pr31		5	5	pr5		120	160	pr7		15	15	pr133	2																							0
+Crow Caw	100	1		5	1	45	37	xcl	Tigulated Mail			3	5000					so0		so0	pr107		35	35	pr5		150	180	pr8		15	15	pr80		15	15	pr56		15	15		221	3	5																									0
+Shaftstop	100	1		5	1	46	38	xhn	Mesh Armor			3	5000	dgry				so0		so0	pr1		250	250	pr4		30	30	pr13		60	60	pr5		180	220																																	0
+Duriel's Shell	100	1		5	1	49	41	xrs	Cuirass			3	5000	oran	oran			so0		so0	pr7		15	15	pr141	10			pr143	8			pr5		160	200	pr31		20	20	pr33		20	20	pr39		20	20	pr35		50	50	pr115		1	1	pr51		100	100									0
+Skullder's Ire	100	1		5	1	50	42	xpl	Russet Armor			3	5000					so0		so0	pr104		1	1	pr167	10			pr5		160	200	pr51		60	60	pr6		10	10	pr179	20					-10	-10			-10	-10																	0
+Guardian Angel	100	1		5	1	53	45	xlt	Templar Coat			3	5000	lgry	lgry			so0		so0	pr73		4	4	pr68		1	1	pr5		180	200	pr83		30	30	pr42		15	15	pr172	5			pr16		20	20																					0
+Toothrow	100	1		5	1	56	48	xld	Sharktooth Armor			3	5000	whit	whit			so0		so0	pr54		20	40	pr0		40	60	pr7		10	10	pr107		40	40	pr31		15	15	pr5		160	220	pr51		15	15																					0
+Atma's Wail	100	1		5	1	59	51	xth	Embossed Plate			3	5000					so0		so0	pr8		15	15	pr53		10	10	pr12		15	15	pr80		30	30	pr141	16			pr51		50	50	pr5		120	160	pr59		20	20																	0
+Black Hades	100	1		5	1	61	53	xul	Chaos Armor			3	5000					so0		so0	pr73		-2	-2	pr100		200	250	pr95		1	1	pr133	3			pr5		140	200	pr98		30	60																									0
+Corpsemourn	100	1		5	1	63	55	xar	Ornate Armor			3	5000	blac	blac		invxaru	so0		so0	pr7		8	8	pr9		10	10	pr35		35	35	pr128	76	6	2	pr5		150	180	pr134		12	36	pr243	74	40	5																					0
+Que-Hegan's Wisdon	100	1		5	1	59	51	xtp	Mage Plate			3	5000					so0		so0	pr86		20	20	pr110		3	3	pr6		6	10	pr10		15	15	pr80		20	20	pr5		140	160	pr104		1	1																					0
+Visceratuant	100	1		5	1	36	28	xuc	Defender			3	5000	dred			invbucu	so0		so0	pr70		1	1	pr83		30	30	pr16		30	30	pr5		100	150	pr105		10	10																													0
+Mosers Blessed Circle	100	1		5	1	39	31	xml	Round Shield			3	5000				invxmlu	so0		so0	pr41		25	25	pr16		25	25	pr133	2			pr5		180	220	pr83		30	30																													0
+Stormchaser	100	1		5	1	43	35	xrg	Scutum			3	5000	cblu	cblu		invxrgu	so0		so0	pr135		1	60	pr16		20	20	pr95		1	1	pr33		50	50	pr15		150	150	pr5		160	220	pr83		10	10	pr128	59	4	6	pr128	245	4	5													0
+Tiamat's Rebuke	100	1		5	1	46	38	xit	Dragon Shield			3	5000	lgry	lgry		invkitu	so0		so0	pr137	150	27	53	pr134		35	95	pr135		1	120	pr41		25	35	pr5		140	200	pr128	44	5	9	pr128	48	5	7	pr128	62	3	6	pr51		40	40													0
+Kerke's Sanctuary	100	1		5	1	52	44	xow	Pavise			3	5000	lgrn	lgrn		invtowu	so0		so0	pr3		11	16	pr6		14	18	pr53		15	15	pr5		180	240	pr51		100	100	pr16		30	30	pr41		20	30																					0
+Radimant's Sphere	100	1		5	1	58	50	xts	Ancient Shield			3	5000				invgtsu	so0		so0	pr138	100	204	204	pr128	92	5	5	pr39		75	75	pr5		160	200	pr16		20	20	pr83		20	20	pr243	83	40	6	pr51		20	20																	0
+Lidless Wall	100	1		5	1	49	41	xsh	Grim Shield			3	5000	dgld	dgld		invxshu	so0		so0	pr73		1	1	pr104		1	1	pr86		20	20	pr110		3	5	pr5		80	130	pr10		10	10	pr12		10	10																					0
+Lance Guard	100	1		5	1	43	35	xpk	Barbed Shield			3	5000				invxpku	so0		so0	pr13		50	50	pr80		30	30	pr30		15	15	pr54		47	47	pr5		70	120	pr113		20	20																									0
+Venom Grip	100	1		5	1	37	29	xlg	Demonhide Gloves			5	5000	dgrn				so0		so0	pr39		30	30	pr40		5	5	pr138	100	153	153	pr108		5	5	pr66		5	5	pr0		15	25	pr5		130	160																					0
+Gravepalm	100	1		5	1	39	32	xvg	Sharkskin Gloves			5	5000					so0		so0	pr10		10	10	pr7		10	10	pr99		100	200	pr101		100	200	pr5		140	180																													0
+Ghoulhide	100	1		5	1	44	36	xmg	Heavy Bracers			5	5000					so0		so0	pr173	16			pr171	16			pr65		4	5	pr13		20	20	pr5		150	190																													0
+Lavagout	100	1		5	1	50	42	xtg	Battle Guantlets			5	5000	lyel				so0		so0	pr31		24	24	pr95		1	1	pr127	52	2	10	pr56		20	20	pr5		150	200	pr134		13	46	pr51		20	20																					0
+Hellmouth	100	1		5	1	55	47	xhg	War Gauntlets			5	5000					so0		so0	pr134		15	72	pr44		15	15	pr5		150	200	pr51		15	15	pr127	56	2	4	pr127	225	4	12																									0
+Infernostride	100	1		5	1	37	29	xlb	Demonhide Boots			5	5000					so0		so0	pr134		12	33	pr77		20	20	pr32		10	10	pr31		30	30	pr73		2	2	pr5		120	150	pr58		40	70	pr0		15	15	pr128	46	5	8													0
+Waterwalk	100	1		5	1	40	32	xvb	Sharkskin Boots			5	5000					so0		so0	pr1		100	100	pr77		20	20	pr8		15	15	pr5		180	210	pr13		45	65	pr63		40	40	pr32		5	5	pr61		50	50																	0
+Silkweave	100	1		5	1	44	36	xmb	Mesh Boots			5	5000					so0		so0	pr5		150	190	pr110		5	5	pr1		200	200	pr12		10	10	pr77		30	30																													0
+Wartraveler	100	1		5	1	50	42	xtb	Battle Boots			5	5000					so0		so0	pr9		10	10	pr7		10	10	pr59		30	50	pr51		30	30	pr77		25	25	pr5		150	190	pr140		15	25	pr54		5	10	pr116		40	40													0
+Gorerider	100	1		5	1	55	47	xhb	War Boots			5	5000	dred				so0		so0	pr75		-25	-25	pr113		15	15	pr77		30	30	pr108		15	15	pr107		10	10	pr5		160	200	pr51		10	10	pr63		20	20																	0
+String of Ears	100	1		5	1	37	29	zlb	Demonhide Sash			5	5000	lred				so0		so0	pr6		10	15	pr4		10	15	pr66		6	8	pr5		150	180	pr0		15	15	pr51		10	10																									0
+Razortail	100	1		5	1	39	32	zvb	Sharkskin Belt			5	5000					so0		so0	pr165	8			pr8		15	15	pr118		33	33	pr0		15	15	pr5		120	150	pr28		10	10																									0
+Gloomstrap	100	1		5	1	45	36	zmb	Mesh Belt			5	5000					so0		so0	pr73		-3	-3	pr12		15	15	pr65		5	5	pr5		120	150	pr9		15	15	pr62		15	15																									0
+Snowclash	100	1		5	1	49	42	ztb	Battle Belt			5	5000					so0		so0	pr128	59	5		pr50		15	15	pr36		15	15	pr137	75	13	21	pr5		130	170	pr123	59	2	2	pr123	55	3	3	pr123	60	2	2																	0
+Thudergod's Vigor	100	1		5	1	55	47	zhb	War Belt			5	5000					so0		so0	pr128	121	5	7	pr135		1	50	pr34		10	10	pr46		20	20	pr5		160	200	pr9		20	20	pr7		20	20	pr123	34	3	3	pr123	35	3	3													0
+Elite Uniques																		so0		so0																																																	0
+Harlequin Crest	100	1		5	1	69	62	uap	Shako			3	5000	cgrn	cgrn			so0		so0	pr104		2	2	pr143	12			pr144	12			pr59		50	50	pr4		10	10	pr7		2	2	pr8		2	2	pr9		2	2	pr10		2	2													0
+Veil of Steel	100	1		5	1	77	73	uhm	Spired Helm			3	5000	lgry	lgry			so0		so0	pr41		50	50	pr5		60	60	pr7		15	15	pr9		15	15	pr73		-4	-4	pr51		20	20	pr0		140	140			-30	-30																	0
+The Gladiator's Bane	100	1		5	1	85	85	utu	Wire Fleece			3	5000	lgry	lgry			so0		so0	pr5		150	200	pr6		15	20	pr3		15	20	pr54		20	20	pr88		50	50	pr51		103	103	pr80		30	30	pr0		50	50	pr115		1	1													0
+Arkaine's Valor	100	1		5	1	85	85	upl	Balrog Skin			3	5000	lred	lred			so0		so0	pr5		150	180	pr80		30	30	pr104		1	2	pr3		10	15	pr150	4																															0
+Blackoak Shield	100	1		5	1	67	61	uml	Luna			3	5000				invsmlu	so0		so0	pr148	4			pr5		160	200	pr161	5			pr128	72	4	5	pr51		45	45	pr143	10			pr83		50	50	pr95		1	1																	0
+Stormshield	100	1		20	1	77	73	uit	Monarch			3	5000				dun2	so0		so0	pr141	30			pr4		35	35	pr7		30	30	pr242		1	1	pr83		35	35	pr33		25	25	pr16		25	25	pr35		60	60	pr105		10	10													0
+Hellslayer	100	1		5	1	71	66	7bt	Decapitator			5	5000	dred	dred		invbtxu	so0		so0	pr147	4			pr150	4			pr146	24			pr134		150	250	pr13		25	25	pr29		100	100	pr126	47	10				-25	-25																	0
+Messerschmidt's Reaver	100	1		5	1	75	70	7ga	Champion Axe			5	5000	blac	blac		invgaxu	so0		so0	pr146	20			pr29		200	200	pr7		15	15	pr8		15	15	pr9		15	15	pr10		15	15	pr134		20	240	pr51		25	25	pr96		100	100													0
+Baranar's Star	100	1		5	1	70	65	7mt	Devil Star			5	5000	lred	lred		invmstu	so0		so0	pr96		200	200	pr29		200	200	pr8		15	15	pr7		15	15	pr56		50	50	pr51		100	100	pr135		1	200	pr134		1	200	pr137		1	200													0
+Schaefer's Hammer	100	1		10	1	83	79	7wh	Legendary Mallet			5	5000	lblu	lblu			so0		so0	pr127	42	20	10	pr13		50	50	pr151	16			pr33		75	75	pr56		20	20	pr145	16			pr242		1	1	pr29		100	130	pr73		1	1	pr135		50	200									0
+The Cranium Basher	100	1		5	1	85	87	7gm	Thunder Maul			5	5000	blac	blac			so0		so0	pr56		20	20	pr242		1	1	pr7		25	25	pr41		25	25	pr108		75	75	pr140		20	20	pr29		200	240	pr127	66	4	1			-30	-30													0
+Lightsabre	100	1		5	1	66	58	7cr	Phase Blade			5	5000	lblu			invcrsu	so0		so0	pr73		7	7	pr126	53	5		pr92	1	1	1	pr45		25	25	pr56		20	20	pr136		60	120	pr135		1	200	pr65		5	7	pr29		150	200	pr140		10	30									0
+Doombringer	100	1		5	1	75	69	7b7	Champion Sword			5	5000	dred	dred		invbswu	so0		so0	pr14		20	20	pr29		180	250	pr96		40	40	pr242		1	1	pr140		30	100	pr127	72	8	3	pr66		5	7																					0
+The Grandfather	100	1		10	1	85	81	7gd	Colossus Blade			5	5000	lyel	lyel		invgsdu	so0		so0	pr7		20	20	pr8		20	20	pr9		20	20	pr10		20	20	pr96		50	50	pr13		80	80	pr145	20			pr242		1	1	pr29		150	250													0
+Wizardspike	100	1		5	1	69	61	7dg	Bone Knife			5	5000	lgry	lgry			so0		so0	pr144	16			pr62		15	15	pr12		15	15	pr41		75	75	pr242		1	1	pr87		50	50																									0
+Constricting Ring	100			5	1	95	95	rin	Ring			5	5000	cblu	cblu			so0		so0	pr41		100	100	pr53		-30	-30	pr59		100	100	pr42		15	15																																	0
+Stormspire	100	1		45	1	78	70	7wc	Giant Thresher			5	5000	dblu	dblu			so0		so0	pr33		50	50	pr128	53	5	5	pr29		150	250	pr7		10	10	pr128	38	2		pr56		30	30	pr242		1	1	pr135		1	237	pr105		27	27			-10	-10									0
+Eaglehorn	100	1		5		77	69	6l7	Crusader Bow			5	5000	dgld	dgld			so0		so0	pr92		1	1	pr151	12			pr146	16			pr29		200	200	pr67		1	1	pr8		25	25																									0
+Windforce	100	1		5		80	73	6lw	Hydra Bow			5	5000	dyel	dyel			so0		so0	pr8		5	5	pr145	25			pr61		30	30	pr65		6	8	pr60		1	1	pr29		250	250	pr56		20	20	pr7		10	10																	0
+Rings																		so0		so0																																																	0
+Bul Katho's Wedding Band	100	1		5	1	66	58	rin	Ring			5	5000	dpur	dpur			so0		so0	pr143	4			pr104		1	1	pr66		3	5	pr63		50	50																																	0
+The Cat's Eye	100	1		50	1	58	50	amu	Amulet			5	5000	oran	oran			so0		so0	pr77		30	30	pr56		20	20	pr0		100	100	pr1		100	100	pr8		25	25																													0
+The Rising Sun	100	1		50	1	73	65	amu	Amulet			5	5000	lgld	lgld			so0		so0	pr162	6			pr73		4	4	pr128	56	2		pr134		24	48	pr103		2	2	pr53		10	10																									0
+Crescent Moon	100	1		75	1	58	50	amu	Amulet			5	5000	lblu	lblu			so0		so0	pr65		11	15	pr6		10	10	pr30		10	10	pr73		-2	-2	pr11		45	45	pr66		3	6																									0
+Mara's Kaleidoscope	100	1		15	1	80	67	amu	Amulet			5	5000	oran	oran			so0		so0	pr104		2	2	pr41		20	30	pr7		5	5	pr8		5	5	pr9		5	5	pr10		5	5																									0
+Atma's Scarab	100	1		5	1	60	60	amu	Amulet			5	5000	cgrn	cgrn			so0		so0	pr138	100	102	102	pr39		75	75	pr73		3	3	pr54		5	5	pr127	66	5	2	pr96		20	20																									0
+Dwarf Star	100	1		50	1	53	45	rin	Ring			5	5000	dgry	dgry			so0		so0	pr58		100	100	pr63		40	40	pr61		15	15	pr13		40	40	pr6		12	15	pr43		15	15																									0
+Raven Frost	100	1		50	1	53	45	rin	Ring			5	5000	cblu	cblu			so0		so0	pr115		1	1	pr137	100	15	45	pr49		20	20	pr11		40	40	pr8		15	20	pr15		150	250																									0
+Highlord's Wrath	100	1		35	1	73	65	amu	Amulet			5	5000	bwht	bwht			so0		so0	pr33		35	35	pr135		1	30	pr56		20	20	pr104		1	1	pr177	3			pr105		15	15																									0
+Saracen's Chance	100	1		35	1	55	47	amu	Amulet			5	5000	dpur	dpur			so0		so0	pr41		15	25	pr128	76	10	2	pr7		12	12	pr8		12	12	pr10		12	12	pr9		12	12																									0
+Class Specific																		so0		so0																																																	0
+Arreat's Face	100	1		5	1	50	42	baa	Slayer Guard			5	5000					so0		so0	pr71		2	2	pr124	12	2	2	pr5		150	200	pr80		30	30	pr96		20	20	pr7		20	20	pr8		20	20	pr66		3	6	pr41		30	30													0
+Homunculus	100	1		5	1	50	42	nea	Heirophant Trophy			5	5000					so0		so0	pr69		2	2	pr124	6	2	2	pr5		150	200	pr83		30	30	pr16		40	40	pr10		20	20	pr62		33	33	pr110		5	5	pr41		40	40													0
+Titan's Revenge	100	1		5	1	50	42	ama	Ceremonial Javelin			5	5000					so0		so0	pr67		2	2	pr124	2	2	2	pr29		150	200	pr77		30	30	pr180	30			pr7		20	20	pr8		20	20	pr66		5	9	pr140		25	50	pr181		60	60									0
+Lycander's Aim	100	1		5	1	50	42	am7	Ceremonial Bow			5	5000					so0		so0	pr67		2	2	pr124		2	2	pr29		150	200	pr56		20	20	pr5		20	20	pr8		20	20	pr10		20	20	pr65		5	8	pr140		25	50													0
+Lycander's Flank	100	1		5	1	50	42	am9	Ceremonial Pike			5	5000					so0		so0	pr67		2	2	pr124	2	2	2	pr29		150	200	pr56		30	30	pr5		20	20	pr7		20	20	pr9		20	20	pr66		5	9	pr140		25	50													0
+The Oculus	100	1		5	1	50	42	oba	Swirling Crystal			5	5000					so0		so0	pr70		3	3	pr128	54	25	1	pr41		20	20	pr86		30	30	pr5		20	20	pr9		20	20	pr10		20	20	pr110		5	5	pr59		50	50													0
+Herald of Zakarum	100	1		5	1	50	42	pa9	Aerin Shield			5	5000					so0		so0	pr68		2	2	pr124	9	2	2	pr5		150	200	pr83		30	30	pr16		30	30	pr7		20	20	pr9		20	20	pr96		20	20	pr41		50	50													0
+Cutthroat1	100	1		5	1	50	42	9tw	Runic Talons			5	5000					so0		so0	pr122		2	2	pr124	20	1	1	pr29		150	200	pr80		30	30	pr96		20	20	pr7		20	20	pr8		20	20	pr66		5	9	pr140		25	50													0
+Jalal's Mane	100	1		5	1	50	42	dra	Dream Spirit			5	5000					so0		so0	pr121		2	2	pr124	16	2	2	pr5		150	200	pr80		30	30	pr96		20	20	pr7		20	20	pr10		20	20	pr110		5	5	pr41		30	30													0
+The Scalper	100	1		5	1	65	57	9ta	Francisca			5	5000					so0		so0	pr180	30			pr29		150	200	pr96		25	25	pr56		20	20	pr107		33	33	pr66		4	6	pr110		4	4																					0
+Bloodmoon	100	1		5	1	69	61	7sb	elegant blade			5	5000	cred	cred		invsbru	so0		so0	pr29		210	260	pr66		10	15	pr243	85	9	15	pr253		7	13	pr107		50	50																													0
+Djinnslayer	100	1	1	5	1	73	65	7sm	ataghan			5	5000	dpur	dpur		invscmu	so0		so0	pr29		190	240	pr134		250	500	pr98		100	150	pr100		200	300	pr46		3	7	pr65		3	6	pr133		1	2																					0
+Deathbit	100	1		5	1	52	44	9tk	battle dart			5	5000					so0		so0	pr113		40	40	pr29		130	180	pr15		200	450	pr66		7	9	pr65		4	6	pr180	25																											0
+Warshrike	100	1	1	5	1	83	75	7bk	winged knife			5	5000	bwht	bwht		invtk3	so0		so0	pr29		200	250	pr118		50	50	pr56		30	30	pr113		50	50	pr180	30			pr127	48	25	9																									0
+Gutsiphon	100	1		5	1	79	71	6rx	demon crossbow			5	5000	lgrn	lgrn		invrxbu	so0		so0	pr29		160	220	pr118		33	33	pr66		12	18	pr114		25	25	pr107		33	33																													0
+Razoredge	100	1		5	1	75	67	7ha	tomahawk			5	5000	lblu			invhaxu	so0		so0	pr29		175	225	pr56		40	40	pr93		33	33	pr113		50	50	pr107		50	50																													0
+Gore Ripper	100			5	1							5	5000	dred	dred			so0		so0																																																	0
+Demonlimb	100	1		5	1	71	63	7sp	tyrant club			5	5000	dgrn	dgrn		invspcu	so0		so0	pr29		180	230	pr134		222	333	pr66		7	13	pr243	52	20	23	pr179	5			pr98		123	123	pr31		15	20																					0
+Steelshade	100	1		5	1	70	62	ulm	armet			5	5000	blac	blac		invhlmu	so0		so0	pr5		100	130	pr44		5	11	pr65		4	8	pr53		10	18																																	0
+Tomb Reaver	100	1	1	5	1	86	84	7pa	cryptic axe	1		5	5000	lyel	lyel			so0		so0	pr56		60	60	pr73		4	4	pr29		200	280	pr99		150	230	pr59		50	80	pr41		30	50	pr101		250	350	pr117	1	10	10	pr253		10	14	pr133		1	3									0
+Deaths's Web	100	1		10	1	74	66	7gw	unearthed wand			5	5000	bwht	bwht			so0		so0	pr104		2	2	pr235		40	50	pr253		7	12	pr110		7	12	pr124	7	1	2																													0
+Nature's Peace	100	1	1	75	1	77	69	rin	ring			5	5000	dgrn	dgrn			so0		so0	pr94		1	1	pr255		1	1	pr3		7	11	pr39		20	30	pr243	226	27	5																													0
+Azurewrath	100	1	1	5	1	87	85	7cr	phase blade	1		5	5000	lgry			invcrs	so0		so0	pr136		250	500	pr29		230	270	pr125	119	10	13	pr137	250	250	500	pr56		30	30	pr251		5	10	pr73		3	3	pr104		1	1																	0
+Seraph's Hymn	100	1	1	20	1	73	65	amu	amulet			5	5000	bwht	bwht		invamu2	so0		so0	pr104		2	2	pr124	11	1	2	pr98		25	50	pr99		25	50	pr100		150	250	pr101		150	250	pr73		2	2																					0
+Zakarum's Salvation	100			5	1							5	5000					so0		so0																																																	0
+Fleshripper	100	1		5	1	76	68	7kr	fanged knife			5	5000	dred	dred		invkrsu	so0		so0	pr29		200	300	pr93		50	50	pr94		1	1	pr108		25	25	pr107		50	50	pr113		33	33	pr114		20	20																					0
+Odium	100			5	1							5	5000	blac				so0		so0																																																	0
+Horizon's Tornado	100	1		5	1	72	64	7fl	scourge			5	5000	dpur	dpur			so0		so0	pr29		230	280	pr56		50	50	pr114		20	20	pr127	245	20	15	pr75		-20	-20																													0
+Stone Crusher	100	1		4	1	76	68	7wh	legendary mallet			5	5000	whit				so0		so0	pr29		280	320	pr7		20	30	pr108		40	40	pr93		25	25	pr97		-100	-100	pr89		10	30																									0
+Jadetalon	100	1		1	1	74	66	7wb	wrist sword			5	5000	cgrn	cgrn			so0		so0	pr29		190	240	pr65		10	15	pr41		40	50	pr80		30	30	pr124	19	1	2	pr124	20	1	2																									0
+Shadowdancer	100	1	1	25	1	79	71	uhb	myrmidon greaves			5	5000	blac	blac		Invboot_u0uhb	so0		so0	pr5		70	100	pr77		30	30	pr80		30	30	pr8		15	25	pr124	19	1	2	pr75		-20	-20																									0
+Cerebus	100	1	1	1	1	71	63	drb	blood spirit			5	5000	bwht	bwht			so0		so0	pr5		130	140	pr124	16	2	4	pr66		7	10	pr96		60	120	pr107		33	33	pr123	232	1	2																									0
+Tyrael's Might	100	1	1	50	1	87	84	uar	sacred armor	1		5	5000	dblu	dblu		invaaru	so0		so0	pr75		-100	-100	pr242		1	1	pr5		120	150	pr255		1	1	pr98		50	100	pr115		1	1	pr77		20	20	pr41		20	30	pr7		20	30													0
+Souldrain	100	1		5	1	82	74	umg	vambraces			5	5000	dred	dred			so0		so0	pr5		90	120	pr65		4	7	pr66		4	7	pr127	72	8	3	pr97		-50	-50																													0
+Runemaster	100	1	1	5	1	80	72	72a	ettin axe			5	5000	lblu	lblu			so0		so0	pr29		220	270	pr133		3	5	pr36		5	5	pr115		1	1																																	0
+Deathcleaver	100	1	1	5	1	78	70	7wa	berserker axe			5	5000	dred				so0		so0	pr29		230	280	pr113		66	66	pr93		33	33	pr56		40	40	pr253		6	9																													0
+Executioner's Justice	100	1	1	5	1	83	75	7gi	glorious axe			5	5000	blac	blac			so0		so0	pr29		240	290	pr108		25	25	pr93		33	33	pr258	87	50	6	pr56		30	30																													0
+Stoneraven	100	1	1	5	1	72	64	amd	matriarchal spear			5	5000	dgry				so0		so0	pr29		230	280	pr136		101	187	pr41		30	50	pr0		400	600	pr124	2	1	3																													0
+Leviathan	100	1	1	5	1	73	65	uld	kraken shell			5	5000	cgrn	cgrn			so0		so0	pr5		170	200	pr0		100	150	pr4		15	25	pr7		40	50	pr242		1	1																													0
+Larzuk's Champion	100			5	1							5	5000	lgry		flphmr	invhfh	so0		so0																																																	0
+Wisp	100	1		5	1	84	76	rin	ring			5	5000	bwht	bwht			so0		so0	pr45		10	20	pr127	49	10	16	pr59		10	20	pr243	226	15	2	pr243	236	13	5	pr243	246	11	7																									0
+Gargoyle's Bite	100	1		5	1	78	70	7ts	winged harpoon			5	5000	cgrn	cgrn			so0		so0	pr29		180	230	pr180	30			pr138	250	300	300	pr66		9	15	pr243	25	60	11																													0
+Lacerator	100	1		5	1	76	68	7b8	winged axe			5	5000	blac	blac			so0		so0	pr29		150	210	pr180	25			pr56		30	30	pr94		1	1	pr107		33	33	pr90		64	64	pr127	66	33	3																					0
+Mang Song's Lesson	100	1	1	5	1	86	82	6ws	archon staff			5	5000	dgld	dgld		inv8wsu	so0		so0	pr104		5	5	pr232		7	15	pr233		7	15	pr234		7	15	pr62		10	10	pr86		30	30																									0
+Viperfork	100	1		5	1	79	71	7br	war fork			5	5000	dgrn	dgrn			so0		so0	pr29		190	240	pr138	250	333	333	pr56		50	50	pr15		200	250	pr127	83	15	9	pr39		30	50																									0
+Ethereal Edge	100	1		5	1	82	74	7ba	silver-edged axe			5	5000	whit	whit			so0		so0	pr29		150	180	pr56		25	25	pr44		10	12	pr98		150	200	pr111		5	10	pr15		270	350	pr264		1	1	pr242		1	1																	0
+Demonhorn's Edge	100	1	1	5	1	69	61	bad	destroyer helm			5	5000	dgry	dgry			so0		so0	pr5		120	160	pr56		10	10	pr66		3	6	pr54		55	77	pr124	12	1	3	pr124	13	1	3	pr124	14	1	3																					0
+The Reaper's Toll	100	1	1	25	1	96	75	7s8	thresher			5	5000				invscy	so0		so0	pr29		190	240	pr127	87	33	1	pr92		1	1	pr66		11	15	pr75		-25	-25	pr113		33	33	pr137		4	44																					0
+Spiritkeeper	100	1		5	1	75	67	drd	earth spirit			5	5000					so0		so0	pr5		170	190	pr80		20	20	pr46		9	14	pr31		30	40	pr49		15	25	pr40		10	10	pr121		1	2																					0
+Hellrack	100	1		5	1	84	76	6hx	colossus crossbow			5	5000	cred			invhxbu	so0		so0	pr29		180	230	pr248	33	63	324	pr56		20	20	pr96		100	150	pr133		2	2	pr243	27	150	18																									0
+Alma Negra	100	1		5	1	85	77	pac	sacred rondache			5	5000	blac	blac			so0		so0	pr5		180	210	pr83		30	30	pr68		1	2	pr16		20	20	pr6		5	9	pr96		40	75	pr29		40	75																					0
+Darkforge Spawn	100	1	1	5	1	72	64	nef	bloodlord skull			5	5000	cred	cred			so0		so0	pr5		140	180	pr86		30	30	pr12		10	10	pr124	6	1	3	pr124	7	1	3	pr124	8	1	3																									0
+Widowmaker	100	1	1	5	1	73	65	6sw	ward bow			5	5000	dred	dred		invswbu	so0		so0	pr29		150	200	pr113		33	33	pr92		1	1	pr119		11	11	pr265	22	3	5																													0
+Bloodraven's Charge	100	1		5	1	79	71	amb	matriarchal bow			5	5000	dgld	dgld		invswbu	so0		so0	pr29		180	230	pr96		200	300	pr120		13	13	pr124		2	4	pr243	95	30	5																													0
+Ghostflame	100	1		5	1	70	62	7bl	legend spike			5	5000	cblu	cblu			so0		so0	pr29		190	240	pr92		1	1	pr136		108	108	pr65		10	15	pr264		1	1	pr242		1	1	pr73		2	2																					0
+Shadowkiller	100	1	1	5	1	85	78	7cs	battle cestus			5	5000				invaxfu	so0		so0	pr29		170	220	pr93		25	25	pr106		2	2	pr110		10	15	pr127	44	33	8	pr264		1	1	pr242		1	1																					0
+Gimmershred	100	1		5	1	78	70	7ta	flying axe			5	5000	lgrn				so0		so0	pr29		160	210	pr134		218	483	pr137	100	176	397	pr135		29	501	pr181		60	60	pr56		30	30																									0
+Griffon's Eye	100	1	1	5	1	84	76	ci3	diadem			5	5000					so0		so0	pr0		100	200	pr86		25	25	pr104		1	1	pr245		10	15	pr233		15	20																													0
+Windhammer	100	1		5	1	76	68	7m7	ogre maul			5	5000	cblu	cblu		invmau	so0		so0	pr29		180	230	pr108		50	50	pr56		60	60	pr127	240	33	22																																	0
+Thunderstroke	100	1	1	5	1	77	69	amf	matriarchal javelin			5	5000	dblu	dblu			so0		so0	pr29		150	200	pr135		1	511	pr127	49	20	14	pr56		15	15	pr233		15	15	pr123	20	3	3	pr124	2	2	4																					0
+Giantmaimer	100			5	1							5	5000	cred	cred			so0		so0																																																	0
+Demon's Arch	100	1		5	1	76	68	7s7	balrog spear			5	5000	cred	cred			so0		so0	pr29		160	210	pr134		232	323	pr66		6	12	pr180	30			pr56		30	30	pr135		23	333																									0
+Boneflame	100	1		5	1	80	72	nee	succubae skull			3	5000	dred	dred			so0		so0	pr5		120	150	pr77		20	20	pr128	77	15	3	pr69		2	3	pr41		20	30																													0
+Steelpillar	100	1		5	1	77	69	7p7	war pike			3	5000					so0		so0	pr29		210	260	pr56		25	25	pr93		20	20	pr5		50	80	pr242		1	1	pr108		25	25																									0
+Nightwing's Veil	100	1		5	1	75	67	uhm	spired helm			3	5000	cblu	cblu			so0		so0	pr5		90	120	pr104		2	2	pr8		10	20	pr50		5	9	pr95		1	1	pr246		8	15	pr75		-50	-50																					0
+Crown of Ages	100	1		5	1	86	82	urn	corona	1		3	5000	dgld	dgld			so0		so0	pr80		30	30	pr41		20	30	pr104		1	1	pr0		100	150	pr242		1	1	pr4		10	15	pr5		50	50	pr133		1	2																	0
+Andariel's Visage	100	1	1	5	1	85	83	usk	demonhead	1		3	5000	dred	dred			so0		so0	pr5		100	150	pr39		70	70	pr104		2	2	pr40		10	10	pr56		20	20	pr7		25	30	pr128	92	15	15	pr243	278	20	3	pr66		8	10	pr31		-30	-30									0
+Darkfear	100			5	1			ulm	armet			5	5000	blac			invhlmu	so0		so0																																																	0
+Dragonscale	100	1		5	1	84	80	pae	zakarum shield			3	5000	dgrn	dgrn			so0		so0	pr5		170	200	pr43		10	20	pr32		5	5	pr7		15	25	pr134		211	371	pr265	62	10	10	pr244		15	15																					0
+Steel Carapice	100	1		5	1	74	66	uul	shadow plate			3	5000	dgry	dgry			so0		so0	pr5		190	220	pr80		20	20	pr3		9	14	pr35		40	60	pr62		10	15	pr179	5			pr128	76	8	6																					0
+Medusa's Gaze	100	1		5	1	84	76	uow	aegis			3	5000	lred	lred		invtowu	so0		so0	pr5		150	180	pr114		20	20	pr128	91	10	7	pr66		5	9	pr259	48	100	44	pr35		40	80																									0
+Ravenlore	100	1		5	1	82	74	dre	sky spirit			3	5000	dgld	dgld			so0		so0	pr5		120	150	pr41		15	25	pr124	17	3	3	pr10		20	30	pr232		10	20	pr123	221	7	7																									0
+Boneshade	100	1		5	1	84	79	7bw	lich wand			3	5000	dgry	dgry		invbwnu	so0		so0	pr69		2	2	pr86		25	25	pr123	67	4	5	pr123	68	4	5	pr123	84	2	3	pr123	93	1	2	pr123	78	2	3																					0
+Nethercrow	100			5	1							3	5000	cblu	cblu			so0		so0																																																	0
+Flamebellow	100	1		5	1	79	71	7gs	balrog blade			3	5000	cred	cred		invgisu	so0		so0	pr29		170	240	pr134		233	482	pr103		3	3	pr43		20	30	pr127	225	12	16	pr7		10	20	pr9		5	10	pr265	41	12	18																	0
+Fathom	100	1	1	5	1	81	73	obf	dimensional shard			3	5000	lblu				so0		so0	pr70		3	3	pr246		15	30	pr86		20	20	pr31		25	40	pr33		25	40																													0
+Wolfhowl	100	1		5	1	85	79	bac	fury visor			3	5000	cred	cred			so0		so0	pr5		120	150	pr124	14	2	3	pr7		8	15	pr8		8	15	pr9		8	15	pr265	223	3	6	pr243	237	18	15	pr265	224	3	6	pr265	232	3	6													0
+Spirit Ward	100	1		5	1	76	68	uts	ward			3	5000	dblu	dblu		invgtsu	so0		so0	pr5		130	180	pr50		6	11	pr41		30	40	pr16		20	30	pr83		25	25	pr128	267	5	8																									0
+Kira's Guardian	100	1	1	5	1	85	77	ci2	tiara			3	5000	blac	blac			so0		so0	pr0		50	120	pr41		50	70	pr115		1	1	pr80		20	20																																	0
+Ormus' Robes	100	1		1		83	75	uui	dusk shroud			3	5000	blac	blac			so0		so0	pr0		10	20	pr86		20	20	pr244		10	15	pr246		10	15	pr245		10	15	pr62		10	15	pr261	3	36	60																					0
+Gheed's Fortune	100	1	1	50	1	70	62	cm3	charm		1	3	5000	lgld				so0		so0	pr59		20	40	pr58		80	160	pr254		10	15																																					0
+Stormlash	100	1		5	1	86	82	7fl	scourge	1		3	5000	dgry	dgry			so0		so0	pr29		240	300	pr56		30	30	pr127	42	15	10	pr127	245	20	18	pr135		1	473	pr105		30	30	pr108		33	33	pr46		3	9																	0
+Halaberd's Reign	100	1		5	1	85	77	bae	conqueror crown			3	5000					so0		so0	pr5		140	170	pr124	13	1	1	pr71		2	2	pr80		20	20	pr53		15	23	pr123	149	1	2	pr123	155	1	2																					0
+Warriv's Warder	100			5	1							3	5000					so0		so0																																																	0
+Spike Thorn	100	1		5	1	78	70	upk	blade barrier			5	5000	dyel	dyel		invspku	so0		so0	pr5		120	150	pr165	11			pr51		250	250	pr80		30	30	pr4		15	20	pr133		1	1																									0
+Dracul's Grasp	100	1		5	1	84	76	uvg	vampirebone gloves			5	5000	dred	dred			so0		so0	pr5		90	120	pr66		7	10	pr107		25	25	pr127	82	5	10	pr253		5	10	pr7		10	15																									0
+Frostwind	100	1		5	1	78	70	7ls	cryptic sword			5	5000	cblu	cblu		invlsdu	so0		so0	pr29		180	230	pr106		4	4	pr95		1	1	pr137	150	237	486	pr56		25	25	pr49		7	15	pr265	230	7	14																					0
+Templar's Might	100	1		15	1	82	74	uar	sacred armor			5	5000	cgrn	cgrn		invaaru	so0		so0	pr5		170	220	pr80		20	20	pr1		250	300	pr63		40	50	pr7		10	15	pr9		10	15	pr124	10	1	2																					0
+Eschuta's temper	100	1		5	1	80	72	obc	eldritch orb			5	5000	cred				so0		so0	pr70		1	3	pr86		40	40	pr244		10	20	pr245		10	20	pr10		20	30																													0
+Firelizard's Talons	100	1		5	1	75	67	7lw	feral claws			5	5000					so0		so0	pr29		200	270	pr56		15	15	pr124	20	1	3	pr134		236	480	pr31		40	70	pr123	262	1	2	pr123	272	1	2																					0
+Sandstorm Trek	100	1		5	1	72	64	uvb	scarabshell boots			5	5000					so0		so0	pr5		140	170	pr77		20	20	pr80		20	20	pr169	8			pr116		50	50	pr39		40	70	pr179	5			pr7		10	15	pr9		10	15													0
+Marrowwalk	100	1		5	1	74	66	umb	boneweave boots			5	5000	dgry				so0		so0	pr5		170	200	pr77		20	20	pr243	88	13	33	pr243	82	10	12	pr61		10	10	pr62		10	10	pr95		1	1	pr7		10	20	pr8		17	17	pr123	69	1	2									0
+Heaven's Light	100	1	1	5	1	69	61	7sc	mighty scepter			5	5000	cblu	cblu			so0		so0	pr29		250	300	pr56		20	20	pr93		33	33	pr73		3	3	pr111		15	20	pr108		33	33	pr133		1	3	pr68		2	3																	0
+Merman's Speed	100				1													so0		so0																																																	0
+Arachnid Mesh	100	1		5	1	87	80	ulc	spiderweb sash			5	5000	blac	blac			so0		so0	pr5		90	120	pr86		20	20	pr243	278	11	3	pr104		1	1	pr114		10	10	pr12		5	5																									0
+Nosferatu's Coil	100	1		5	1	68	51	uvc	vampirefang belt			5	5000					so0		so0	pr7		15	15	pr110		2	2	pr114		10	10	pr66		5	7	pr56		10	10	pr73		-3	-3																									0
+Metalgrid	100	1	1	20	1	85	81	amu	amulet			5	5000					so0		so0	pr0		300	350	pr41		25	35	pr15		400	450	pr243	90	11	22	pr243	76	20	12																													0
+Verdugo's Hearty Cord	100	1		5	1	71	63	umc	mithril coil			5	5000	blac	blac			so0		so0	pr5		90	140	pr9		30	40	pr63		100	120	pr80		10	10	pr4		10	15	pr53		10	13																									0
+Sigurd's Staunch	100			5	1							5	5000					so0		so0																																																	0
+Carrion Wind	100	1		5	1	68	60	rin	ring			3	5000					so0		so0	pr1		100	160	pr66		6	9	pr39		55	55	pr128	92	10	10	pr243	222	15	21	pr127	240	8	13	pr30		10	10																					0
+Giantskull	100	1		30	1	73	65	uh9	bone visage			3	5000	lgry	lgry		invbhm	so0		so0	pr0		250	320	pr7		25	35	pr108		10	10	pr133		1	2	pr60		1	1																													0
+Ironward	100	1		8	1	68	60	7ws	caduceus			3	5000	blac	blac			so0		so0	pr29		240	290	pr114		25	25	pr96		150	200	pr56		10	10	pr136		80	240	pr3		4	7	pr89		40	85	pr124	9	2	4	pr108		33	33													0
+Annihilus	100	1		5	1	300	70	cm1	charm		1	3	5000			flpmss	invmss	so217	12	so217	pr104		1	1	pr251		1	20	pr41		1	20	pr252		1	100	pr280		2	2																													0
+Arioc's Needle	100	1		5	1	85	81	7sr	hyperion spear			3	5000					so0		so0	pr29		180	230	pr138	250	403	403	pr113		50	50	pr92		1	1	pr104		2	4	pr56		30	30																									0
+Cranebeak	100	1		5	1	71	63	7mp	war spike			3	5000	dgry			invmpiu	so0		so0	pr29		240	300	pr135		1	305	pr56		40	40	pr93		25	25	pr59		20	50	pr243	221	15	8																									0
+Nord's Tenderizer	100	1		5	1	76	68	7cl	truncheon			3	5000				invclbu	so0		so0	pr29		270	330	pr106		2	4	pr56		25	25	pr243	59	12	16	pr96		150	180	pr49		5	15	pr137	125	205	455																					0
+Earthshifter	100	1		5	1	77	69	7gm	thunder maul			3	5000					so0		so0	pr29		250	300	pr127	234	25	14	pr108		33	33	pr56		10	10	pr243	244	30	14	pr124	17	7	7	pr86		10	10																					0
+Wraithflight	100	1	1	5	1	84	76	7gl	ghost glaive			3	5000	dblu	dblu			so0		so0	pr29		150	190	pr180	40			pr66		9	13	pr110		15	15	pr264		1	1																													0
+Bonehew	100	1		5	1	72	64	7o7	ogre axe			3	5000	bwht	bwht			so0		so0	pr29		270	320	pr56		30	30	pr243	74	30	14	pr127	84	50	16	pr94		1	1	pr133		2	2																									0
+Ondal's Wisdom	100	1		5	1	74	66	6cs	elder staff			3	5000				invcstu	so0		so0	pr86		45	45	pr10		40	50	pr104		2	4	pr0		450	550	pr252		5	5	pr6		5	8																									0
+The Reedeemer	100	1		5	1	80	72	7sc	mighty scepter			3	5000					so0		so0	pr29		250	300	pr98		200	250	pr68		2	2	pr75		-60	-60	pr123	124	2	4	pr123	101	2	4	pr73		3	3	pr93		33	33	pr89		60	120													0
+Headhunter's Glory	100	1		5	1	83	75	ush	troll nest			3	5000				invbshu	so0		so0	pr0		320	420	pr1		300	350	pr39		30	40	pr133		1	3	pr31		20	30	pr253		5	7																									0
+Steelrend	100	1		15	1	78	70	uhg	ogre gauntlets			3	5000				Invglove001	so0		so0	pr0		170	210	pr7		15	20	pr29		30	60	pr108		10	10																																	0
+Rainbow Facet	100	1		15	1	85	49	jew	jewel			3	5000					so0		so0	pr135		1	74	pr233		3	5	pr245		3	5	pr259	53	100	47																																	0
+Rainbow Facet	100	1		15	1	85	49	jew	jewel			3	5000					so0		so0	pr137	3	24	38	pr234		3	5	pr246		3	5	pr259	59	100	37																																	0
+Rainbow Facet	100	1		15	1	85	49	jew	jewel			3	5000					so0		so0	pr134		17	45	pr232		3	5	pr244		3	5	pr259	56	100	31																																	0
+Rainbow Facet	100	1		15	1	85	49	jew	jewel			3	5000					so0		so0	pr138	50	187	187	pr235		3	5	pr247		3	5	pr259	92	100	51																																	0
+Rainbow Facet	100	1		15	1	85	49	jew	jewel			3	5000					so0		so0	pr135		1	74	pr233		3	5	pr245		3	5	pr260	48	100	41																																	0
+Rainbow Facet	100	1		15	1	85	49	jew	jewel			3	5000					so0		so0	pr137	3	24	38	pr234		3	5	pr246		3	5	pr260	44	100	43																																	0
+Rainbow Facet	100	1		15	1	85	49	jew	jewel			3	5000					so0		so0	pr134		17	45	pr232		3	5	pr244		3	5	pr260	46	100	29																																	0
+Rainbow Facet	100	1		15	1	85	49	jew	jewel			3	5000					so0		so0	pr138	50	187	187	pr235		3	5	pr247		3	5	pr260	278	100	23																																	0
+Hellfire Torch	100	1		5	1	300	75	cm2	charm		1	3	5000			flptrch	invtrch	so217	12	so217	pr267			6	pr251		10	20	pr41		10	20	pr73		8	8	pr280		2	2	pr243	62	10	30																									0
+xinyaodai	100	1	1	3	1	110	120	utc				5	5000					so0		so0	pr5		90	120	pr86		20	30	pr233		20	20	pr275		20	20	pr246		20	20	pr232		20	20	pr276		1	1	pr274		20	20	pr235		20	20	pr104		-5	5					pr381		29	29	0
+Griffon's EyeCold1	100	1	1	15	1	110	120	ci3				5	5000					so0		so0	pr0		100	200	pr86		25	25	pr104		-4	4	pr246		1	100	pr276		1	1																									pr381		29	29	0
+Griffon's EyeFire1	100	1	1	5	1	110	120	ci3				5	5000					so0		so0	pr0		100	200	pr86		25	25	pr104		-4	4	pr244		1	50	pr232		1	50	pr276		1	1																					pr381		29	29	0
+lingjie	100	1	1	1	1	110	120	rin				5	5000			lingjie	lingjie	so0		so0	pr41		10	30	pr104		-5	5	pr251		10	30	pr56		10	20	pr86		10	20	pr276		1	1	pr59		66	66																	pr381		29	29	0
+newshoutao	100	1	1	2	1	110	120	uhg				3	5000				Invglove001	so0		so0	pr5		150	200	pr246		20	20	pr247		20	20	pr245		20	20	pr104		-4	4	pr244		20	20	pr276		1	1	pr380		20	20	pr306		20	20									pr381		29	29	0
+newxiezi	100	1	1	2	1	110	120	uhb				5	5000				Invboot_u0uhb	so0		so0	pr5		100	150	pr246		20	20	pr247		20	20	pr245		20	20	pr104		-4	4	pr244		20	20	pr276		1	1	pr380		20	20	pr306		20	20	pr37		1	40					pr381		29	29	0
+Crown of Ages1	100	1		5	1	100	90	urn				3	5000	dgld	dgld			so0		so0	pr80		30	30	pr41		20	30	pr104		-3	3	pr0		100	150	pr277		1	1	pr4		10	15	pr5		50	50																	pr381		28	28	0
+asnwuqi1	100	1	1	5	1	110	120	7qr				5	5000					so0		so0	pr29		200	400	pr86		40	40	pr122		-3	3	pr276		1	1	pr274		1	30	pr66		1	15	pr65		1	15	pr246		1	50													pr381		29	29	0
+bartou1	100	1		5	1	110	120	baf				5	5000				Invhelm_s3ci3	so0		so0	pr71		-3	3	pr104		-2	2	pr5		150	200	pr29		200	400	pr96		20	20	pr108		30	30	pr274		1	30	pr86		20	40	pr235		1	30	pr276		1	1					pr381		29	29	0
+paldun1	100	1		5	1	110	120	paf				5	5000	blac	blac		dun05	so0		so0	pr233		1	30	pr83		30	30	pr68		-3	3	pr16		30	30	pr4		20	35	pr276		1	1	pr275		1	30	pr41		30	30	pr5		200	200	pr104		-2	2					pr381		29	29	0
+newyifushang	100	1	1	3	1	100	90	utp				3	5000					so0		so0	pr104		-2	2	pr86		30	30	pr41		30	30	pr5		100	200	pr80		30	30	pr4		10	30	pr277		1	1	pr268	1	6	364													pr381		28	28	0
+petjiezhi11	100	1	1	2	1	100	90	rin				5	5000			ring04	ring04	so0		so0	pr43		1	40	pr277		1	1	pr31		1	20	pr32		1	20	pr370		8	8																									pr381		28	28	0
+petjiezhi22	100	1	1	2	1	100	90	rin				5	5000			ring05	ring05	so0		so0	pr49		1	40	pr277		1	1	pr35		1	20	pr36		1	20	pr370		8	8																									pr381		28	28	0
+petshoutao	100	1		5	1	100	90	utg				5	5000				Invglove103_uni	so0		so0	pr5		90	120	pr269		1	40	pr277		1	1	pr39		1	20	pr40		1	20	pr370		8	8																					pr381		28	28	0
+petxiezi	100	1	1	5	1	100	90	utb				5	5000				Invboot004_uni	so0		so0	pr5		100	150	pr271		1	40	pr277		1	1			1	20	pr273		1	20	pr370		8	8																					pr381		28	28	0
+petyaodai	100	1		5	1	100	90	uhc				5	5000				Invbelt05_uni	so0		so0	pr5		90	120	pr45		1	40	pr277		1	1	pr33		1	20	pr34		1	20	pr370		8	8																					pr381		28	28	0
+petxl	100	1	1	5	1	110	120	amu				5	5000			amu06	amu06	so0		so0	pr37		1	100	pr47		1	40	pr276		1	1	pr38		1	20	pr370		8	8																									pr381		29	29	0
+molixl	100	1		2	1	110	120	amu				5	5000	oran	oran	Invuni_amulmoli	Invuni_amulmoli	so0		so0	pr104			4	pr41		1	30	pr232		20	20	pr233		20	20	pr274		20	20	pr56		20	20	pr86		20	20	pr276		1	1	pr235		20	20	pr275		20	20	pr234		20	20	pr37		10	30	0
+newdrutou1	100	1		5	1	110	120	drf				5	5000					so0		so0	pr104		-5	5	pr246		1	50	pr5		150	200	pr80		30	30	pr86		25	25	pr232		1	30	pr276		1	1																	pr381		29	29	0
+druwuqi1	100	1		5	1	110	120	7wh				5	5000					so0		so0	pr121		-3	3	pr246		1	50	pr232		1	30	pr86		20	40	pr56		40	40	pr276		1	1	pr104		-2	2																	pr381		29	29	0
+Ironward1	100	1		5	1	100	90	7ws				3	5000	blac	blac			so0		so0	pr29		240	290	pr68		-3	3	pr233		1	30	pr56		40	40	pr86		20	40	pr277		1	1	pr108		33	33																	pr381		28	28	0
+Ironward2	100	1		5	1	100	90	7ws				3	5000	blac	blac			so0		so0	pr29		240	290	pr68		-3	3	pr275		1	30	pr56		40	40	pr86		20	40	pr277		1	1	pr108		33	33																	pr381		28	28	0
+Ironward3	100	1		5	1	110	120	7ws				3	5000	blac	blac			so0		so0	pr29		240	290	pr68		-3	3	pr275		1	30	pr56		40	40	pr86		40	40	pr276		1	1	pr108		33	33	pr233		1	30	pr104		-2	2									pr381		29	29	0
+leiji1	100	1	1	5	1	100	90	amf				5	5000	dblu	dblu			so0		so0	pr29		200	300	pr67		-3	3	pr86		20	40	pr56		30	30	pr233		1	60	pr277		1	1																					pr381		28	28	0
+leiji2	100	1	1	5	1	100	90	amf				5	5000	dblu	dblu			so0		so0	pr29		200	300	pr67		-3	3	pr86		20	40	pr56		30	30	pr274		1	60	pr277		1	1																					pr381		28	28	0
+leiji3	100	1	1	5	1	110	120	amf				5	5000	dblu	dblu			so0		so0	pr29		200	300	pr67		-3	3	pr86		20	40	pr56		30	30	pr233		1	60	pr276		1	1	pr274		1	60	pr104		-2	2													pr381		29	29	0
+biansc	100	1	1	5	1	160	90	zg4			1	3	5000			bian	bian	so217	12	so217	pr281		-7	7	pr13		10	50	pr56		-30	30	pr86		-30	30	pr268	1	365	365	pr276		1	1																					pr381		29	29	0
+sgbiansc	100	1	1	5	1	110	90	zg5			1	3	5000			bian	bian	so217	12	so217	pr281		-7	7	pr13		10	50	pr56		-30	30	pr86		-30	30	pr268	1	365	380	pr277		1	1																					pr381		28	28	0
+mojie	100	1	1	5	1	110	120	rin				5	5000			mojie	mojie	so0		so0	pr37		1	30	pr104		-5	5	pr251		10	30	pr56		10	20	pr86		10	20	pr276		1	1	pr59		66	66																	pr381		29	29	0
+petyifushang	100	1	1	5	1	100	90	uth				5	5000					so0		so0	pr5		150	200	pr277		1	1	pr29		200	300	pr80		40	40	pr4		1	50	pr370		8	8	pr115		1	1																	pr381		28	28	0
+petwuqishang	100	1	1	5	1	110	120	7h7				5	5000				Invpole06	so0		so0	pr274		1	50	pr145		40	40	pr108		45	45	pr29		100	300	pr56		30	30	pr276		1	1	pr125	414	12	59	pr279			100													pr381		29	29	0
+petwuqiyuan	100	1	1	5	1	143	150	7wc				5	5000				3dstaff	so0		so0	pr274		1	50	pr145		50	50	pr108		50	50	pr29		200	350	pr56		50	50	pr278		1	1	pr125	414	12	59	pr279			100	pr333		1	100	pr104		-7	7					pr381		30	30	0
+Giantskull1	100	1		15	1	100	90	uh9				3	5000	lgry	lgry		Invuh90_uni01	so0		so0	pr0		250	320	pr7		25	35	pr108		10	10	pr4		1	30	pr80		20	40	pr104		-1	1	pr277		1	1	pr370		8	8													pr381		28	28	0
+Giantskull2	100	1		10	1	110	120	uh9				3	5000	lgry	lgry		Invuh90_uni01	so0		so0	pr0		250	320	pr7		25	35	pr108		30	30	pr4		1	50	pr80		20	40	pr104		-2	2	pr276		1	1	pr370		8	8	pr334			5	pr348			10					pr381		29	29	0
+petyifuyuan	100	1		10	1	110	120	uar				5	5000	lyel	lyel		Invuaru_new2	so0		so0	pr5		170	250	pr80		40	40	pr29		250	350	pr4		1	50	pr370		8	8	pr276		1	1	pr268	3	381	390																	pr381		29	29	0
+Fathom1	100	1	1	5	1	100	90	obf				3	5000	lblu				so0		so0	pr70		-3	3	pr246		1	50	pr86		20	40	pr41		25	40	pr12		25	25	pr277		1	1	pr13		50	50																	pr381		28	28	0
+Fathom2	100	1	1	5	1	100	90	obf				3	5000	lblu				so0		so0	pr70		-3	3	pr233		1	30	pr86		20	40	pr41		25	40	pr12		25	25	pr277		1	1	pr13		50	50																	pr381		28	28	0
+Fathom3	100	1	1	5	1	100	90	obf				3	5000	lblu				so0		so0	pr70		-3	3	pr232		1	30	pr86		20	40	pr41		25	40	pr12		25	25	pr277		1	1	pr13		50	50																	pr381		28	28	0
+Fathom4	100	1	1	5	1	110	120	obf				3	5000	lblu				so0		so0	pr70		-3	3	pr246		1	50	pr86		40	40	pr232		1	30	pr41		1	40	pr276		1	1	pr104		-2	2																	pr381		29	29	0
+Stormshield1	100	1		5	1	100	90	uit				3	5000				dun2	so0		so0	pr141	30			pr4		20	35	pr7		30	30	pr104		-2	2	pr83		35	35	pr41		10	30	pr16		25	25	pr277		1	1													pr381		28	28	0
+Stormshield2	100	1		5	1	110	120	uit				3	5000				dun2	so0		so0	pr141	30			pr4		20	35	pr7		30	30	pr104		-5	5	pr83		35	35	pr41		10	30	pr16		35	35	pr276		1	1	pr75		-50	-50									pr381		29	29	0
+Griffon's Eye1	100	1	1	5	1	100	90	ci3				5	5000					so0		so0	pr0		100	200	pr86		25	25	pr104		-1	1	pr245		1	30	pr233		1	35	pr277		1	1																					pr381		28	28	0
+Griffon's Eye2	100	1	1	5	1	110	120	ci3				5	5000					so0		so0	pr0		100	200	pr86		25	25	pr104		-4	4	pr245		1	50	pr233		1	50	pr276		1	1																					pr381		29	29	0
+Griffon's EyeCold2	100	1	1	5	1	100	90	ci3				5	5000					so0		so0	pr0		100	200	pr86		25	25	pr104		-1	1	pr246		1	50	pr277		1	1																									pr381		28	28	0
+Griffon's EyeFire2	100	1	1	5	1	100	90	ci3				5	5000					so0		so0	pr0		100	200	pr86		25	25	pr104		-1	1	pr244		1	30	pr232		1	35	pr277		1	1																					pr381		28	28	0
+Crown of Ages2	100	1		5	1	110	120	urn				3	5000	dgld	dgld			so0		so0	pr80		30	30	pr41		20	30	pr104		-5	5	pr0		100	150	pr276		1	1	pr4		10	15	pr5		50	50																	pr381		29	29	0
+Constricting Ring1	100	1	1	5	1	100	90	rin				5	5000	cblu	cblu	shous	shous	so0		so0	pr41		10	20	pr53		-10	10	pr59		1	30	pr86		10	10	pr104		-2	2	pr277		1	1																					pr381		28	28	0
+Constricting Ring2	100	1	1	5	1	100	90	rin				5	5000	cblu	cblu	shous	shous	so0		so0	pr37		10	20	pr53		-10	10	pr59		1	30	pr86		10	10	pr104		-2	2	pr277		1	1																					pr381		28	28	0
+Tyrael's Might1	100	1	1	5	1	110	120	uar				5	5000	lyel	lyel		invuaru_new1	so0		so0	pr75		-100	-100	pr104		-5	5	pr5		100	200	pr41		1	50	pr80		50	50	pr4		1	50	pr276		1	1	pr268	1	6	364	pr268	1	6	364									pr381		29	29	0
+xinyaodai2	100	1	1	5	1	100	90	utc				5	5000					so0		so0	pr5		90	120	pr246		10	20	pr277		1	1	pr104		-2	2	pr251		5	10																									pr381		28	28	0
+xishousc7	100	1	1	5		110	120	zs7			1	3	5000			invqc6	invqc6	so217	12	so217	pr104		-2	2	pr59		1	20	pr269		1	30	pr271		1	30	pr47		1	30	pr276		1	1	pr335			10																	pr381		29	29	0
+xishousc8	100	1	1	5		110	120	zs8			1	3	5000			invqc1	invqc1	so217	12	so217	pr104		-2	2	pr59		1	20	pr49		1	30	pr43		1	30	pr45		1	30	pr276		1	1	pr336			10																	pr381		29	29	0
+mara1	100	1		5	1	100	90	amu				5	5000	oran	oran	amu2	amu2	so0		so0	pr104		-3	3	pr41		20	30	pr251		5	5	pr277		1	1	pr246		10	20																									pr381		28	28	0
+Rainbow Facet	100	1		5	1	100	90	je1				3	5000				Invuni_jew01	so0		so0	pr277		1	1	pr233		4	7	pr245		4	7																																	pr381		28	28	0
+Rainbow Facet	100	1		5	1	100	90	je1				3	5000				Invuni_jew01	so0		so0	pr277		1	1	pr232		4	7	pr244		4	7																																	pr381		28	28	0
+Rainbow Facet	100	1		5	1	100	90	je1				3	5000				Invuni_jew01	so0		so0	pr277		1	1	pr234		4	7	pr246		4	7																																	pr381		28	28	0
+Rainbow Facet	100	1		5	1	100	90	je1				3	5000				Invuni_jew01	so0		so0	pr277		1	1	pr235		4	7	pr247		4	7																																	pr381		28	28	0
+Rainbow Facet	100	1		5	1	100	90	je1				3	5000				Invuni_jew01	so0		so0	pr277		1	1	pr275		4	7	pr380		4	7																																	pr381		28	28	0
+Rainbow Facet	100	1		5	1	100	90	je1				3	5000				Invuni_jew01	so0		so0	pr277		1	1	pr306		4	7	pr274		4	7																																	pr381		28	28	0
+Rainbow Facet	100	1		5	1	110	120	je2				3	5000				Invuni_jew02	so0		so0	pr276		1	1	pr233		6	10	pr245		6	10																																	pr381		29	29	0
+Rainbow Facet	100	1		5	1	110	120	je2				3	5000				Invuni_jew02	so0		so0	pr276		1	1	pr232		6	10	pr244		6	10																																	pr381		29	29	0
+Rainbow Facet	100	1		5	1	110	120	je2				3	5000				Invuni_jew02	so0		so0	pr276		1	1	pr234		6	10	pr246		6	10																																	pr381		29	29	0
+Rainbow Facet	100	1		5	1	110	120	je2				3	5000				Invuni_jew02	so0		so0	pr276		1	1	pr235		6	10	pr247		6	10																																	pr381		29	29	0
+Rainbow Facet	100	1		5	1	110	120	je2				3	5000				Invuni_jew02	so0		so0	pr276		1	1	pr275		6	10	pr380		6	10																																	pr381		29	29	0
+Rainbow Facet	100	1		5	1	110	120	je2				3	5000				Invuni_jew02	so0		so0	pr276		1	1	pr306		6	10	pr274		6	10																																	pr381		29	29	0
+mara2	100	1		5	1	100	90	amu				5	5000	oran	oran	amu2	amu2	so0		so0	pr104		-3	3	pr41		1	30	pr251		5	5	pr277		1	1	pr233		1	20																									pr381		28	28	0
+mara3	100	1		5	1	100	90	amu				5	5000	oran	oran	amu2	amu2	so0		so0	pr104		-3	3	pr41		1	30	pr251		5	5	pr277		1	1	pr232		1	20																									pr381		28	28	0
+mara4	100	1		5	1	100	90	amu				5	5000	oran	oran	amu2	amu2	so0		so0	pr104		-3	3	pr41		1	30	pr251		5	5	pr277		1	1	pr275		1	20																									pr381		28	28	0
+mara5	100	1		5	1	100	90	amu				5	5000	oran	oran	amu2	amu2	so0		so0	pr104		-3	3	pr41		1	30	pr251		5	5	pr277		1	1	pr235		1	20																									pr381		28	28	0
+Metalgrid1	100	1	1	5	1	100	90	amu				5	5000			amu1	amu1	so0		so0	pr0		300	350	pr41		1	35	pr15		400	450	pr277		1	1	pr274		1	20																									pr381		28	28	0
+xinyaodai3	100	1	1	5	1	100	90	utc				5	5000					so0		so0	pr5		90	120	pr233		1	20	pr277		1	1	pr104		-2	2	pr251		1	10																									pr381		28	28	0
+xinyaodai4	100	1	1	5	1	100	90	utc				5	5000					so0		so0	pr5		90	120	pr232		1	20	pr277		1	1	pr104		-2	2	pr251		1	10																									pr381		28	28	0
+xinyaodai5	100	1	1	5	1	100	90	utc				5	5000					so0		so0	pr5		90	120	pr275		1	20	pr277		1	1	pr104		-2	2	pr251		1	10																									pr381		28	28	0
+xinyaodai6	100	1	1	5	1	100	90	utc				5	5000					so0		so0	pr5		90	120	pr235		1	20	pr277		1	1	pr104		-2	2	pr251		1	10																									pr381		28	28	0
+xinyaodai7	100	1	1	5	1	100	90	utc				5	5000					so0		so0	pr5		90	120	pr274		1	20	pr277		1	1	pr104		-2	2	pr251		1	10																									pr381		28	28	0
+Dracul's Grasp1	100	1		5	1	100	90	uvg				5	5000	dred	dred			so0		so0	pr5		90	120	pr66		7	10	pr107		25	25	pr127	82	5	10	pr108		1	10	pr306		1	20	pr277		1	1	pr104		-1	1													pr381		28	28	0
+Magefist1	100	1		5	1	100	90	utg				5	5000	lgry	lgry		Invglove103_uni	so0		so0	pr5		90	120	pr104		-1	1	pr277		1	1	pr245		1	20	pr251		1	10																									pr381		28	28	0
+Magefist2	100	1		5	1	100	90	utg				5	5000	lgry	lgry		Invglove103_uni	so0		so0	pr5		90	120	pr104		-1	1	pr277		1	1	pr380		1	20	pr251		1	10																									pr381		28	28	0
+Magefist3	100	1		5	1	100	90	utg				5	5000	lgry	lgry		Invglove103_uni	so0		so0	pr5		90	120	pr104		-1	1	pr277		1	1	pr246		1	20	pr251		1	10																									pr381		28	28	0
+Magefist4	100	1		5	1	100	90	utg				5	5000	lgry	lgry		Invglove103_uni	so0		so0	pr5		90	120	pr104		-1	1	pr277		1	1	pr247		1	20	pr251		1	10																									pr381		28	28	0
+Magefist5	100	1		5	1	100	90	utg				5	5000	lgry	lgry		Invglove103_uni	so0		so0	pr5		90	120	pr104		-1	1	pr277		1	1	pr244		1	20	pr251		1	10																									pr381		28	28	0
+shangguxie1	100	1	1	5	1	100	90	utb				5	5000				Invboot004_uni	so0		so0	pr5		100	150	pr104		-1	1	pr277		1	1	pr244		1	20	pr251		1	10																									pr381		28	28	0
+shangguxie2	100	1	1	5	1	100	90	utb				5	5000				Invboot004_uni	so0		so0	pr5		100	150	pr104		-1	1	pr277		1	1	pr245		1	20	pr251		1	10																									pr381		28	28	0
+shangguxie3	100	1	1	5	1	100	90	utb				5	5000				Invboot004_uni	so0		so0	pr5		100	150	pr104		-1	1	pr277		1	1	pr246		1	20	pr251		1	10																									pr381		28	28	0
+shangguxie4	100	1	1	5	1	100	90	utb				5	5000				Invboot004_uni	so0		so0	pr5		100	150	pr104		-1	1	pr277		1	1	pr380		1	20	pr251		1	10																									pr381		28	28	0
+shangguxie5	100	1	1	5	1	100	90	utb				5	5000				Invboot004_uni	so0		so0	pr5		100	150	pr104		-1	1	pr277		1	1	pr247		1	20	pr251		1	10																									pr381		28	28	0
+shangguxie6	100	1	1	5	1	100	90	utb				5	5000				Invboot004_uni	so0		so0	pr5		100	150	pr104		-1	1	pr277		1	1	pr306		1	20	pr251		1	10																									pr381		28	28	0
+bartou2	100	1		5	1	100	90	baf				5	5000				Invhelm_s3ci3	so0		so0	pr71		-3	3	pr104				pr5		150	200	pr29		200	400	pr96		20	20	pr108		15	30	pr274		1	30	pr86		20	40	pr277		1	1									pr381		28	28	0
+bartou3	100	1		5	1	100	90	baf				5	5000				Invhelm_s3ci3	so0		so0	pr71		-3	3	pr104				pr5		150	200	pr29		200	400	pr96		20	20	pr108		15	30	pr235		1	30	pr86		20	40	pr277		1	1									pr381		28	28	0
+asnwuqi2	100	1	1	5	1	100	90	7qr				5	5000					so0		so0	pr29		200	400	pr86		40	40	pr122		-3	3	pr277		1	1	pr233		1	30	pr66		15	15	pr65		1	15																	pr381		28	28	0
+asnwuqi3	100	1	1	5	1	100	90	7qr				5	5000					so0		so0	pr29		200	400	pr86		40	40	pr122		-3	3	pr277		1	1	pr246		1	50	pr66		15	15	pr65		1	15																	pr381		28	28	0
+paldun2	100	1		5	1	100	90	paf				5	5000	blac	blac		dun05	so0		so0	pr233		1	30	pr83		30	30	pr68		-3	3	pr16		30	30	pr4		10	20	pr274		1	30	pr277		1	1	pr41		30	30	pr5		200	200									pr381		28	28	0
+paldun3	100	1		5	1	100	90	paf				5	5000	blac	blac		dun05	so0		so0	pr275		1	30	pr83		30	30	pr68		-3	3	pr16		30	30	pr4		10	20	pr274		1	30	pr277		1	1	pr41		30	30	pr5		200	200									pr381		28	28	0
+web1	100	1		5	1	100	90	7gw				5	5000	bwht	bwht			so0		so0	pr104		-2	2	pr235		1	30	pr253		7	12	pr110		7	12	pr124	7	1	2	pr277		1	1	pr69		3	3																	pr381		28	28	0
+web2	100	1		5	1	100	90	7gw				5	5000	bwht	bwht			so0		so0	pr104		-2	2	pr275		1	30	pr253		7	12	pr110		7	12	pr124	7	1	2	pr277		1	1	pr69		3	3																	pr381		28	28	0
+web3	100	1		5	1	110	120	7gw				5	5000	bwht	bwht			so0		so0	pr104		-2	2	pr235		1	30	pr275		1	30	pr253		7	12	pr124	7	1	2	pr276		1	1	pr69		3	3																	pr381		29	29	0
+dark1	100	1	1	5	1	100	90	nef				5	5000	cred	cred			so0		so0	pr5		140	180	pr86		30	30	pr12		10	10	pr124	6	1	3	pr124	7	1	3	pr124	8	1	3	pr277		1	1	pr235		1	30													pr381		28	28	0
+dark2	100	1	1	5	1	100	90	nef				5	5000	cred	cred			so0		so0	pr5		140	180	pr86		30	30	pr12		10	10	pr124	6	1	3	pr124	7	1	3	pr124	8	1	3	pr277		1	1	pr275		1	30													pr381		28	28	0
+dark3	100	1	1	5	1	110	120	nef				5	5000	cred	cred			so0		so0	pr5		140	180	pr86		30	30	pr12		10	10	pr124	6	1	3	pr124	7	1	3	pr124	8	1	3	pr276		1	1	pr235		1	30	pr275		1	30	pr104		-2	2					pr381		29	29	0
+Rainbow Facet	100	1		5	1	85	70	jew				3	5000					so0		so0	pr275		3	5	pr380		3	5																																									0
+Rainbow Facet	100	1		5	1	85	70	jew				3	5000					so0		so0	pr274		3	5	pr306		3	5																																									0
+bbjian1	100	1		5	1	100	90	7gd				5	5000	lyel	lyel			so0		so0	pr71		-3	3	pr7		20	20	pr29		200	300	pr108		10	30	pr96		50	50	pr277		1	1	pr145	20			pr235		1	30	pr86		30	30									pr381		28	28	0
+bbjian2	100	1		5	1	100	90	7gd				5	5000	lyel	lyel			so0		so0	pr71		-3	3	pr7		20	20	pr29		200	300	pr108		10	30	pr96		50	50	pr277		1	1	pr145	20			pr274		1	30	pr86		30	30									pr381		28	28	0
+bbjian3	100	1		5	1	110	120	7gd				5	5000	lyel	lyel			so0		so0	pr71		-3	3	pr7		20	20	pr29		200	300	pr108		10	30	pr96		50	50	pr276		1	1	pr145	20			pr235		1	30	pr274		1	30	pr104		-2	2	pr86		30	30	pr381		29	29	0
+Deathcleaver1	100	1	1	5	1	100	90	7wa				5	5000	dred				so0		so0	pr29		200	300	pr113		66	66	pr93		10	33	pr56		40	40	pr89		300	400	pr71		-3	3	pr277		1	1	pr235		1	30													pr381		28	28	0
+Deathcleaver2	100	1	1	5	1	100	90	7wa				5	5000	dred				so0		so0	pr29		200	300	pr113		66	66	pr93		33	33	pr56		40	40	pr89		300	400	pr71		-3	3	pr277		1	1	pr274		1	30													pr381		28	28	0
+Deathcleaver3	100	1	1	5	1	110	120	7wa				5	5000	dred				so0		so0	pr29		200	300	pr113		66	66	pr93		33	33	pr56		40	40	pr89		300	400	pr71		-3	3	pr276		1	1	pr235		1	30	pr274		1	30	pr104			2					pr381		29	29	0
+zhongcheng	100	1	1	1		7	7	cm1			1	3	5000			vip	vip	so217	12	so217	pr265	397		1	pr265	398		1	pr265	399		1	pr265	400		1	pr265	401		1	pr265	402		1	pr265	403		1	pr59		-100	200	pr373		1	9													0
+vipsc	100	1	1	5		300	7	cm1			1	3	5000			vvip	vvip	so217	12	so217	pr104		3	3	pr333		100	100	pr59		333	333	pr252				pr13		100	100	pr11		100	100	pr14		15	15	pr12		15	15	pr41		15	15													0
+newdrutou2	100	1	1	5	1	100	90	drf				5	5000					so0		so0	pr104		-3	3	pr246		1	50	pr5		150	200	pr80		30	30	pr86		25	25	pr277		1	1																					pr381		28	28	0
+newdrutou3	100	1	1	5	1	100	90	drf				5	5000					so0		so0	pr104		-3	3	pr232		1	30	pr5		150	200	pr80		30	30	pr86		25	25	pr277		1	1																					pr381		28	28	0
+druwuqi2	100	1		5	1	100	90	7wh				5	5000					so0		so0	pr121		-3	3	pr246		1	100	pr277		1	1	pr86		20	40	pr56		40	40																									pr381		28	28	0
+druwuqi3	100	1		5	1	100	90	7wh				5	5000					so0		so0	pr121		-3	3	pr277		1	1	pr232		1	30	pr86		20	40	pr56		40	40																									pr381		28	28	0
+yuanlizhishi	100	1	1	5		100	90	zf5			1	3	5000			Invbcm1	Invbcm1	so217	12	so217	pr281		-3	3	pr59		1	10	pr277		1	1	pr4		1	10	pr41		1	10	pr268	1	6	364																					pr381		28	28	0
+ygyuanlizhishi	100	1	1	5		120	120	zf6			1	3	5000			Invbcm2	Invbcm2	so217	12	so217	pr281		-5	5	pr59		1	20	pr276		1	1	pr4		1	20	pr41		1	20	pr268	1	6	364																					pr381		29	29	0
+petxl1	100	1	1	8	1	100	90	amu				5	5000			amu06	amu06	so0		so0	pr37		1	50	pr47		1	40	pr277		1	1	pr38		1	20	pr370		8	8																									pr381		28	28	0
+Rainbow Facet	100	1		5	1	100	90	je3				3	5000				Invuni_jew04	so0		so0	pr277		1	1	pr48		4	7	pr37		4	7																																	pr381		28	28	0
+Rainbow Facet	100	1		5	1	120	120	je3				3	5000				Invuni_jew04	so0		so0	pr276		1	1	pr48		6	10	pr37		6	10																																	pr381		29	29	0
+sorfanwei	100	1	1	5		120	120	zw1			1	3	5000			30X-12	30X-12	so217	12	so217	pr70		-1	1	pr59		10	30	pr276		1	1	pr285		1	100	pr286		1	100	pr287		1	100																					pr381		29	29	0
+palfanwei	100	1	1	5		120	120	zw2			1	3	5000			30X-13	30X-13	so217	12	so217	pr68		-1	1	pr59		10	30	pr276		1	1	pr288		1	100	pr289		1	100	pr300		1	100																					pr381		29	29	0
+barfanwei	100	1	1	5		120	120	zw3			1	3	5000			30X-14	30X-14	so217	12	so217	pr71		-1	1	pr59		10	30	pr276		1	1	pr294		1	100	pr297		1	100	pr301		1	100																					pr381		29	29	0
+amafanwei	100	1	1	5		120	120	zw4			1	3	5000			30X-15	30X-15	so217	12	so217	pr67		-1	1	pr59		10	30	pr276		1	1	pr292		1	100	pr295		1	100	pr298		1	100																					pr381		29	29	0
+drufanwei	100	1	1	5		120	120	zw5			1	3	5000			30X-16	30X-16	so217	12	so217	pr121		-1	1	pr59		10	30	pr276		1	1	pr290		1	100	pr291		1	100	pr302		1	100																					pr381		29	29	0
+asnfanwei	100	1	1	5		120	120	zw6			1	3	5000			30X-17	30X-17	so217	12	so217	pr122		-1	1	pr59		10	30	pr276		1	1	pr293		1	100	pr296		1	100	pr303		1	100																					pr381		29	29	0
+necfanwei	100	1	1	5		120	120	zw7			1	3	5000			30X-18	30X-20	so217	12	so217	pr69		-1	1	pr59		10	30	pr276		1	1	pr283		1	100	pr284		1	100	pr299		1	100																					pr381		29	29	0
+dianfeng	100	1	1	5		180	150	zg1			1	3	5000			18-31-6	18-31-6	so217	12	so217	pr305		1	1	pr382	1			pr278		1	1	pr281		-7	7	pr13		1	100	pr11		1	100																					pr381		30	30	0
+chibang	100	1	1	5		100	90	zg2			1	3	5000			18-31-5	18-31-5	so217	12	so217	pr281		-7	7	pr77		-50	50	pr276		1	1	pr265	148	-1	1	pr266	198	-3	1	pr266	197	-3	1	pr266	199			pr266	195	-3	1													pr381		29	29	0
+wujinlvtu	100	1	1	5		130	7	zg3			1	3	5000			18-31-4	18-31-4	so217	12	so217	pr304		1	1	pr13		30	30	pr59		30	30	pr104		-5	3																																	0
+xingyun	100	1	1	300	1	92	62	cm1				3	5000					so0		so0	pr13		1	10	pr59		1	10																																									0
+toll1	100	1	1	55	1	100	90	7s8				5	5000				3dstaff	so0		so0	pr29		190	240	pr127	87	33	1	pr92		1	1	pr66		11	15	pr75		-25	-25	pr113		33	33	pr137		4	44	pr274		1	50	pr125	414	1	60	pr277		1	1					pr381		28	28	0
+pingan1	100	1	1	5	1	110	120	cm4				3	5000				invlcha_1	so0	12	so0	pr70		-3	2	pr13		-5	45	pr276		1	1																																	pr381		29	29	0
+pingan2	100	1	1	5	1	110	120	cm4				3	5000				invlcha_1	so0	12	so0	pr68		-3	2	pr13		-5	45	pr276		1	1																																	pr381		29	29	0
+pingan3	100	1	1	5	1	110	120	cm4				3	5000				invlcha_1	so0	12	so0	pr71		-3	2	pr13		-5	45	pr276		1	1																																	pr381		29	29	0
+pingan4	100	1	1	5	1	110	120	cm4				3	5000				invlcha_1	so0	12	so0	pr67		-3	2	pr13		-5	45	pr276		1	1																																	pr381		29	29	0
+pingan5	100	1	1	5	1	110	120	cm4				3	5000				invlcha_1	so0	12	so0	pr121		-3	2	pr13		25	45	pr276		1	1																																	pr381		29	29	0
+pingan6	100	1	1	5	1	110	120	cm4				3	5000				invlcha_1	so0	12	so0	pr122		-3	2	pr13		-5	45	pr276		1	1																																	pr381		29	29	0
+pingan7	100	1	1	5	1	110	120	cm4				3	5000				invlcha_1	so0	12	so0	pr69		-3	2	pr13		-5	45	pr276		1	1																																	pr381		29	29	0
+xinteng2	100	1	1	5	1	140	120	zf1				3	5000			Invbcm4	Invbcm4	so217	12	so217	pr104		1	1	pr59		1	20	pr276		1	1	pr13		10	30																													pr381		29	29	0
+petjiezhi12	100	1	1	5	1	110	120	rin				5	5000			ring04	ring04	so0		so0	pr43		1	40	pr276		1	1	pr31		10	100	pr32		1	20	pr370		8	8																									pr381		29	29	0
+petjiezhi21	100	1	1	5	1	110	120	rin				5	5000			ring05	ring05	so0		so0	pr49		1	40	pr276		1	1	pr35		10	100	pr36		1	20	pr370		8	8																									pr381		29	29	0
+petshoutao1	100	1		5	1	110	120	utg				5	5000				Invglove103_uni	so0		so0	pr5		90	120	pr269		1	40	pr276		1	1	pr39		10	100	pr40		1	20	pr370		8	8																					pr381		29	29	0
+petxiezi1	100	1	1	5	1	110	120	utb				5	5000				Invboot004_uni	so0		so0	pr5		100	150	pr271		1	40	pr276		1	1	pr4		10	100	pr273		1	20	pr370		8	8																					pr381		29	29	0
+petyaodai1	100	1		5	1	110	120	uhc				5	5000				Invbelt05_uni	so0		so0	pr5		90	120	pr45		1	40	pr276		1	1	pr33		10	100	pr34		1	20	pr370		8	8																					pr381		29	29	0
+jiahuo1	100	1	1	10	1	96	90	uth				5	5000					so0		so0	pr5		150	200	pr115		1	1	pr29		50	50	pr80		40	40	pr4		10	10	pr370		8	8	pr277		1	1																	pr381		28	28	0
+jiahuo2	100	1	1	10	1	96	90	utc				5	5000					so0		so0	pr5		90	120	pr104		1	1	pr86		20	20	pr277		1	1																													pr381		28	28	0
+jiahuo3	100	1	1	10	1	96	90	utb				5	5000				Invboot004_uni	so0		so0	pr5		100	150	pr104			1	pr277		1	1																																	pr381		28	28	0
+jiahuo4	100	1		10	1	96	90	uhc				5	5000				Invbelt05_uni	so0		so0	pr5		90	120	pr277		1	1																																					pr381		28	28	0
+jiahuo5	100	1		10	1	96	90	drf				5	5000					so0		so0	pr104		-1	1	pr13		10	50	pr5		150	200	pr277		1	1																													pr381		28	28	0
+jiahuo6	100	1		10	1	96	90	utg				5	5000	lgry	lgry		Invglove103_uni	so0		so0	pr5		90	120	pr104			1	pr277		1	1																																	pr381		28	28	0
+xinteng3	100	1	1	5	1	100	90	zf2			1	3	5000			invcm_7	invcm_7	so217	12	so0	pr281		-3	3	pr338		1	20	pr277		2	2																																	pr381		28	28	0
+xinteng4	100	1	1	5	1	120	120	zf3			1	3	5000			invcm_7	invcm_7	so217	12	so0	pr281		-5	5	pr338		1	20	pr276		2	2																																	pr381		29	29	0
+xinteng5	100	1	1	5	1	150	150	zf4			1	3	5000			Invvip4	Invvip4	so217	12	so0	pr281		-7	7	pr338		1	20	pr278		2	2																																	pr381		30	30	0
+jiahuo7	100	1		10	1	96	90	baf				5	5000				Invhelm_s3ci3	so0		so0	pr71		-1	1	pr104		-1	1	pr5		150	200	pr29		200	400	pr277		1	1																									pr381		28	28	0
+jiahuo8	100	1		10	1	96	90	paf				5	5000	blac	blac		dun05	so0		so0	pr5		150	200	pr83		30	30	pr68		1	1	pr16		30	30	pr277		1	1																									pr381		28	28	0
+jiahuo9	100	1	1	10	1	96	90	utp				3	5000					so0		so0	pr5		100	200	pr86		30	30	pr41		30	30	pr277		1	1																													pr381		28	28	0
+jiahuo10	100	1	1	10	1	96	90	7h7				5	5000					so0		so0	pr274		1	50	pr145		40	40	pr108		45	45	pr29		100	100	pr56		30	30	pr277		1	1	pr125	414	12	35																	pr381		28	28	0
+jiahuo11	100	1	1	10	1	96	90	7qr				5	5000					so0		so0	pr29		200	400	pr56		40	40	pr122		3	3	pr274		1	30	pr277		1	1	pr66		15	15																					pr381		28	28	0
+yangsc1	100	1		20		143	150	hd1			1	3	5000			invcm_6	18-hf3-14	so217	12	so217	pr59		1	30	pr13		1	30	pr278		1	1	pr281		-7	7																													pr381		30	30	0
+yangsc2	100	1		20		143	150	hd2			1	3	5000			invcm_6	18-hf3-14	so217	12	so217	pr59		1	30	pr13		1	30	pr278		1	1	pr281		-7	7																													pr381		30	30	0
+yangsc3	100	1		20		143	150	hd3			1	3	5000			invcm_6	18-hf3-14	so217	12	so217	pr59		1	30	pr13		1	30	pr278		1	1	pr281		-7	7																													pr381		30	30	0
+yangsc4	100	1		20		143	150	hd4			1	3	5000			invcm_6	18-hf3-14	so217	12	so217	pr59		1	30	pr13		1	30	pr278		1	1	pr281		-7	7																													pr381		30	30	0
+yangsc5	100	1		20		143	150	hd5			1	3	5000			invcm_6	18-hf3-14	so217	12	so217	pr59		1	30	pr13		1	30	pr278		1	1	pr281		-7	7																													pr381		30	30	0
+yangsc6	100	1		20		143	150	hd6			1	3	5000			invcm_6	18-hf3-14	so217	12	so217	pr59		1	30	pr13		1	30	pr278		1	1	pr281		-7	7																													pr381		30	30	0
+yangsc7	100	1		20		143	150	hd7			1	3	5000			invcm_6	18-hf3-14	so217	12	so217	pr59		1	30	pr13		1	30	pr278		1	1	pr281		-7	7																													pr381		30	30	0
+xishousc9	100	1	1	5	1	140	150	zs9			1	3	5000			invcm_5	18-31-a10	so217	12	so217	pr281		-7	7	pr59		10	30	pr278		1	1																																	pr381		30	30	0
+xinyaodai10	100	1	1	5	1	160	150	utc				5	5000					so0		so0	pr5		90	120	pr86		20	30	pr357		1	30	pr278		1	1	pr104		-7	7																									pr381		30	30	0
+lingjie1	100	1	1	5	1	170	150	rin				5	5000			lingjie	lingjie	so0		so0	pr41		10	30	pr104		-7	7	pr251		30	30	pr56		20	20	pr86		20	20	pr278		1	1	pr59		88	88	pr333		1	50	pr125	413		10									pr381		30	30	0
+Ironward4	100	1		5	1	100	90	7ws				3	5000	blac	blac			so0		so0	pr29		240	290	pr274		1	30	pr232		1	30	pr56		40	40	pr86		20	40	pr277		1	1	pr108		33	33	pr68		-3	3													pr381		28	28	0
+Ironward5	100	1		5	1	110	120	7ws				3	5000	blac	blac			so0		so0	pr29		240	290	pr68		-3	3	pr232		1	30	pr56		40	40	pr86		40	40	pr276		1	1	pr108		33	33	pr233		1	30	pr104		-2	2									pr381		29	29	0
+druwuqi4	100	1		5	1	110	120	7wh				5	5000					so0		so0	pr121		-3	3	pr232		1	30	pr235		1	30	pr86		20	40	pr56		40	40	pr276		1	1	pr104		-2	2																	pr381		29	29	0
+druwuqi5	100	1		5	1	100	90	7wh				5	5000					so0		so0	pr121		-3	3	pr277		1	1	pr235		1	30	pr86		20	40	pr56		40	40																									pr381		28	28	0
+Ironward6	100	1		5	1	144	150	7ws				3	5000	blac	blac			so0		so0	pr29		240	290	pr68		-3	3	pr232		1	30	pr56		40	40	pr86		40	40	pr278		1	1	pr108		33	33	pr233		1	30	pr275		1	30	pr104		-7	7					pr381		30	30	0
+druwuqi6	100	1		5	1	144	150	7wh				5	5000					so0		so0	pr121		-3	3	pr246		1	50	pr235		1	30	pr86		20	40	pr56		40	40	pr278		1	1	pr232		1	30	pr104		-7	7													pr381		30	30	0
+Fathom5	100	1	1	5	1	110	120	obf				3	5000	lblu				so0		so0	pr70		-3	3	pr233		1	30	pr86		40	40	pr232		1	30	pr41		1	40	pr276		1	1	pr104		-2	2																	pr381		29	29	0
+Fathom6	100	1	1	5	1	144	150	obf				3	5000	lblu				so0		so0	pr70		-3	3	pr246		1	50	pr86		40	40	pr232		1	30	pr41		1	40	pr278		1	1	pr233		1	30	pr104		-7	7													pr381		30	30	0
+leiji4	100	1	1	5	1	100	90	amf				5	5000	dblu	dblu			so0		so0	pr29		200	300	pr67		-3	3	pr86		20	40	pr56		30	30	pr246		1	100	pr277		1	1																					pr381		28	28	0
+leiji5	100	1	1	5	1	110	120	amf				5	5000	dblu	dblu			so0		so0	pr29		200	300	pr67		-3	3	pr86		20	40	pr56		30	30	pr246		1	100	pr276		1	1	pr274		1	60	pr104		-2	2													pr381		29	29	0
+leiji6	100	1	1	5	1	144	150	amf				5	5000	dblu	dblu			so0		so0	pr29		200	300	pr67		-3	3	pr86		20	40	pr56		30	30	pr233		1	60	pr278		1	1	pr246		1	100	pr274		1	60	pr104		-7	7									pr381		30	30	0
+Stormshield3	100	1		5	1	150	150	uit				3	5000				dun2	so0		so0	pr141	30			pr4		20	35	pr7		30	30	pr104		-7	7	pr83		35	35	pr41		10	30	pr16		35	35	pr278		1	1	pr75		-50	-50	pr125	413	1	60					pr381		30	30	0
+Griffon's Eye3	100	1	1	5	1	144	150	ci3				5	5000					so0		so0	pr0		100	200	pr86		25	25	pr104		-7	7	pr232		1	30	pr233		1	30	pr278		1	1	pr246		1	100																	pr381		30	30	0
+bartou4	100	1		5	1	100	90	baf				5	5000				Invhelm_s3ci3	so0		so0	pr71		-3	3	pr104		-2	2	pr5		150	200	pr29		200	400	pr96		20	20	pr108		15	30	pr275		1	30	pr86		20	40	pr277		1	1									pr381		28	28	0
+bartou5	100	1		5	1	110	120	baf				5	5000				Invhelm_s3ci3	so0		so0	pr71		-3	3	pr104		-2	2	pr5		150	200	pr29		200	400	pr96		20	20	pr108		30	30	pr275		1	30	pr86		20	40	pr235		1	30	pr276		1	1	pr104		-2	2	pr381		29	29	0
+bartou6	100	1		5	1	144	150	baf				5	5000				Invhelm_s3ci3	so0		so0	pr71		-3	3	pr104		-7	7	pr5		150	200	pr29		200	400	pr96		20	20	pr108		30	30	pr274		1	30	pr86		20	40	pr235		1	30	pr278		1	1	pr275		1	30	pr381		30	30	0
+asnwuqi4	100	1	1	5	1	100	90	7qr				5	5000					so0		so0	pr29		200	400	pr86		40	40	pr122		-3	3	pr274		1	30	pr277		1	1	pr66		15	15	pr65		1	15																	pr381		28	28	0
+asnwuqi5	100	1	1	5	1	110	120	7qr				5	5000					so0		so0	pr29		200	400	pr86		40	40	pr122		-3	3	pr276		1	1	pr233		1	30	pr66		1	15	pr65		1	15	pr274		1	30	pr104		-2	2									pr381		29	29	0
+asnwuqi6	100	1	1	5	1	144	150	7qr				5	5000					so0		so0	pr29		200	400	pr86		40	40	pr122		-3	3	pr278		1	1	pr233		1	30	pr66		1	15	pr65		1	15	pr246		1	50	pr274		1	30	pr104		-7	7					pr381		30	30	0
+paldun4	100	1		5	1	100	90	paf				5	5000	blac	blac		dun05	so0		so0	pr232		1	30	pr83		30	30	pr68		-3	3	pr16		30	30	pr4		10	20	pr274		1	30	pr277		1	1	pr41		30	30	pr5		200	200									pr381		28	28	0
+paldun5	100	1		5	1	110	120	paf				5	5000	blac	blac		dun05	so0		so0	pr233		1	30	pr83		30	30	pr68		-3	3	pr16		30	30	pr4		20	35	pr276		1	1	pr232		1	30	pr41		30	30	pr5		200	200									pr381		29	29	0
+paldun6	100	1		5	1	150	150	paf				5	5000	blac	blac		dun05	so0		so0	pr233		1	30	pr83		30	30	pr68		-3	3	pr16		30	30	pr4		20	35	pr278		1	1	pr275		1	30	pr104		-7	7	pr5		200	200	pr232		1	30	pr125	413	1	60	pr381		30	30	0
+web4	100	1		5	1	100	90	7gw				5	5000	bwht	bwht			so0		so0	pr104			2	pr232		1	30	pr253		7	12	pr110		7	12	pr124	7	1	2	pr277		1	1	pr69		-3	3																	pr381		28	28	0
+web5	100	1		5	1	110	120	7gw				5	5000	bwht	bwht			so0		so0	pr104			2	pr232		1	30	pr275		1	30	pr253		7	12	pr124	7	1	2	pr276		1	1	pr69		-3	3																	pr381		29	29	0
+web6	100	1		5	1	144	150	7gw				5	5000	bwht	bwht			so0		so0	pr104			7	pr235		1	30	pr275		1	30	pr253		7	12	pr124	7	1	2	pr278		1	1	pr69		-3	3	pr232		1	30													pr381		30	30	0
+dark4	100	1	1	5	1	100	120	nef				5	5000	cred	cred			so0		so0	pr5		140	180	pr86		30	30	pr12		10	10	pr124	6	1	3	pr124	7	1	3	pr124	8	1	3	pr277		1	1	pr232		1	30													pr381		28	28	0
+dark5	100	1	1	5	1	110	120	nef				5	5000	cred	cred			so0		so0	pr5		140	180	pr86		30	30	pr12		10	10	pr124	6	1	3	pr124	7	1	3	pr124	8	1	3	pr276		1	1	pr232		1	30	pr275		1	30	pr104		-2	2					pr381		29	29	0
+dark6	100	1	1	5	1	150	150	nef				5	5000	cred	cred			so0		so0	pr5		140	180	pr86		30	30	pr12		10	10	pr124	6	1	3	pr124	7	1	3	pr124	8	1	3	pr278		1	1	pr235		1	30	pr275		1	30	pr232		1	30	pr104		-7	7	pr125	413	1	60	0
+bbjian4	100	1		5	1	100	90	7gd				5	5000	lyel	lyel		invgsdu	so0		so0	pr71			3	pr7		20	20	pr29		200	300	pr108		10	30	pr96		50	50	pr277		1	1	pr145	20			pr275		1	30	pr86		30	30									pr381		28	28	0
+bbjian5	100	1		5	1	110	120	7gd				5	5000	lyel	lyel		invgsdu	so0		so0	pr71			3	pr7		20	20	pr29		200	300	pr108		10	30	pr96		50	50	pr276		1	1	pr145	20			pr235		1	30	pr275		1	30	pr104			2	pr86		30	30	pr381		29	29	0
+bbjian6	100	1		5	1	144	150	7gd				5	5000	lyel	lyel		invgsdu	so0		so0	pr71			3	pr7		20	20	pr29		200	300	pr108		10	30	pr96		50	50	pr278		1	1	pr145	20			pr235		1	30	pr274		1	30	pr275		1	30	pr104		-7	7	pr86		30	30	0
+newdrutou4	100	1	1	5	1	100	90	drf				5	5000					so0		so0	pr104			3	pr235		1	30	pr5		150	200	pr80		30	30	pr86		25	25	pr277		1	1																					pr381		28	28	0
+newdrutou5	100	1		5	1	110	120	drf				5	5000					so0		so0	pr104			3	pr232		1	30	pr5		150	200	pr80		30	30	pr86		25	25	pr235		1	30	pr276		1	1	pr104			2													pr381		29	29	0
+newdrutou6	100	1		5	1	144	150	drf				5	5000					so0		so0	pr104		1	7	pr246		1	50	pr5		150	200	pr80		30	30	pr86		25	25	pr232		1	30	pr278		1	1	pr235		1	30													pr381		30	30	0
+molixl1	100	1		5	1	170	150	amu				5	5000	oran	oran	Invuni_amulmoli	Invuni_amulmoli	so0		so0	pr104		1	7	pr41		10	30	pr37		1	30	pr357		1	30	pr251		30	30	pr56		20	20	pr86		20	20	pr278		1	1	pr125	413	1	25									pr381		30	30	0
+mojie1	100	1	1	5	1	170	150	rin				5	5000			mojie	mojie	so0		so0	pr37		10	30	pr104		1	7	pr251		30	30	pr56		20	20	pr86		20	20	pr278		1	1	pr59		88	88	pr333		1	50	pr125	413	1	25									pr381		30	30	0
+newshoutao1	100	1	1	5	1	160	150	uhg				3	5000				Invglove001	so0		so0	pr5		150	200	pr333		1	50	pr251		30	30	pr56		20	20	pr104		1	7	pr86		20	20	pr278		1	1																	pr381		30	30	0
+newxiezi1	100	1	1	5	1	160	150	uhb				5	5000				Invboot_u0uhb	so0		so0	pr5		100	150	pr333		1	50	pr251		30	30	pr56		20	20	pr104		1	7	pr86		20	20	pr278		1	1	pr37		10	40													pr381		30	30	0
+Crown of Ages3	100	1		5	1	160	150	urn				3	5000	dgld	dgld			so0		so0	pr80		30	30	pr41		20	30	pr104		1	7	pr0		100	150	pr278		1	1	pr4		10	15	pr5		50	50																	pr381		30	30	0
+Might2	100	1	1	5	1	160	150	uar				5	5000	dblu	dblu		Invuaru_new3	so0		so0	pr75		-100	-100	pr104		1	7	pr5		100	200	pr41		30	50	pr80		50	50	pr4		30	50	pr278		1	1	pr268	1	6	364	pr268	1	6	364	pr268	1	6	364					pr381		30	30	0
+tgyuanlizhishi	100	1	1	5	1	160	150	zf7			1	3	5000			Invvip1	Invvip1	so217	12	so217	pr281		-7	7	pr268	1	6	364	pr278		1	1	pr4		1	30	pr13		100	100	pr59		30	30																					pr381		30	30	0
+Giantskull3	100	1		5	1	143	150	uh9				3	5000	lgry	lgry		Invuh90_uni01	so0		so0	pr0		250	320	pr7		25	35	pr108		30	30	pr4		1	50	pr80		20	40	pr104		-7	7	pr278		1	1	pr370		8	8	pr334			10	pr348		1	20	pr333		1	100	pr381		30	30	0
+bbjian7	100	1		5	1	170	255	7gd				5	5000	lyel	lyel		invgsdu	so0		so0	pr71		-3	3	pr7		20	20	pr29		200	300	pr108		10	30	pr96		50	50	pr278		1	1	pr145	20			pr357		1	30	pr333		-100	400	pr104		-7	7	pr266	209	1	1	pr381		30	30	0
+druwuqi7	100	1		5	1	170	255	7wh				5	5000					so0		so0	pr121		-3	3	pr357		1	30	pr333		-100	400	pr86		20	40	pr56		40	40	pr278		1	1	pr104		1	7	pr266	209	1	1													pr381		30	30	0
+asnwuqi7	100	1	1	5	1	170	255	7qr				5	5000					so0		so0	pr29		200	400	pr56		40	40	pr122		3	3	pr278		1	1	pr104		1	7	pr66		1	15	pr65		1	15	pr357		1	30	pr333		-100	400	pr266	209	1	1					pr381		30	30	0
+leiji7	100	1	1	5	1	170	255	amf				5	5000	dblu	dblu			so0		so0	pr29		200	300	pr67		-3	3	pr86		20	40	pr56		30	30	pr104		1	7	pr278		1	1	pr333		-100	400	pr357		1	30	pr266	209	1	1									pr381		30	30	0
+Ironward7	100	1		5	1	170	255	7ws				3	5000	blac	blac			so0		so0	pr29		240	290	pr68		-3	3	pr104		1	7	pr56		40	40	pr86		40	40	pr278		1	1	pr108		33	33	pr357		1	30	pr333		-100	400	pr266	209	1	1					pr381		30	30	0
+Fathom7	100	1	1	5	1	170	255	obf				3	5000	lblu				so0		so0	pr70		-3	3	pr104		-7	7	pr86		40	40	pr357		1	30	pr41		1	40	pr278		1	1	pr333		-100	400	pr266	209	1	1													pr381		30	30	0
+web7	100	1		5	1	170	255	7gw				5	5000	bwht	bwht			so0		so0	pr104		-7	7	pr333		1	400	pr357		1	30	pr253		7	12	pr124	7	1	2	pr278		1	1	pr69		3	3	pr266	209	1	1													pr381		30	30	0
+petjiezhi13	100	1	1	5	1	145	150	rin				5	5000			ring04	ring04	so0		so0	pr43		1	40	pr44		1	100	pr31		10	100	pr32		1	20	pr370		8	8	pr278		1	1	pr104		1	7	pr333		1	100													pr381		30	30	0
+petjiezhi23	100	1	1	5	1	145	150	rin				5	5000			ring05	ring05	so0		so0	pr49		1	40	pr50		1	100	pr35		10	100	pr36		1	20	pr370		8	8	pr278		1	1	pr104		1	7	pr333		1	100													pr381		30	30	0
+petshoutao12	100	1		5	1	145	150	utg				5	5000				Invglove103_uni	so0		so0	pr5		90	120	pr269		1	40	pr270		1	100	pr39		10	100	pr40		1	20	pr370		8	8	pr278		1	1	pr104		1	7	pr333		1	100									pr381		30	30	0
+petxiezi12	100	1	1	5	1	145	150	utb				5	5000				Invboot004_uni	so0		so0	pr5		100	150	pr271		1	40	pr272		1	100	pr4		10	100	pr273		1	20	pr370		8	8	pr278		1	1	pr104		1	7	pr333		1	100									pr381		30	30	0
+petyaodai12	100	1		5	1	145	150	uhc				5	5000				Invbelt05_uni	so0		so0	pr5		90	120	pr45		1	40	pr46		1	100	pr33		10	100	pr34		1	20	pr370		8	8	pr278		1	1	pr104		1	7	pr333		1	100									pr381		30	30	0
+petxl12	100	1	1	5	1	145	150	amu				5	5000			amu06	amu06	so0		so0	pr37		1	100	pr47		1	40	pr278		1	1	pr38		1	20	pr370		8	8	pr48		1	100	pr104		1	7	pr333		1	100													pr381		30	30	0
+petyifutaigu	100	1		5	1	143	150	uar				5	5000	dblu	dblu		Invuaru_new4	so0		so0	pr5		170	250	pr80		40	40	pr29		250	350	pr4		30	50	pr370		8	8	pr278		1	1	pr268	3	371	390	pr104		1	7	pr333		1	100	pr349		1	100					pr381		30	30	0
+jiachengsc1ama	100	1		20		150	150	sm1			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr312		1	60	pr311		1	60	pr276		1	1	pr281		-7	7	pr320		1	60																									pr381		29	29	0
+jiachengsc2ama	100	1		20		150	150	sm1			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr321		1	60	pr325		1	60	pr276		1	1	pr281		-7	7	pr315		1	60																									pr381		29	29	0
+jiachengsc3ama	100	1		20		150	150	sm1			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr316		1	60	pr310		1	60	pr276		1	1	pr281		-7	7	pr323		1	60																									pr381		29	29	0
+jiachengsc1bar	100	1		20		150	150	sm2			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr324		1	60	pr314		1	60	pr276		1	1	pr281		-7	7	pr319		1	60																									pr381		29	29	0
+jiachengsc2bar	100	1		20		150	150	sm2			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr321		1	60	pr325		1	60	pr276		1	1	pr281		-7	7	pr315		1	60																									pr381		29	29	0
+jiachengsc3bar	100	1		20		150	150	sm2			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr313		1	60	pr318		1	60	pr276		1	1	pr281		-7	7	pr309		1	60																									pr381		29	29	0
+jiachengsc1nec	100	1		20		150	150	sm3			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr324		1	60	pr314		1	60	pr276		1	1	pr281		-7	7	pr319		1	60																									pr381		29	29	0
+jiachengsc2nec	100	1		20		150	150	sm3			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr313		1	60	pr318		1	60	pr276		1	1	pr281		-7	7	pr309		1	60																									pr381		29	29	0
+jiachengsc3nec	100	1		20		150	150	sm3			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr322		1	60	pr317		1	60	pr276		1	1	pr281		-7	7	pr308		1	60																									pr381		29	29	0
+jiachengsc1pal	100	1		20		150	150	sm4			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr324		1	60	pr314		1	60	pr276		1	1	pr281		-7	7	pr319		1	60																									pr381		29	29	0
+jiachengsc2pal	100	1		20		150	150	sm4			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr322		1	60	pr317		1	60	pr276		1	1	pr281		-7	7	pr308		1	60																									pr381		29	29	0
+jiachengsc3pal	100	1		20		150	150	sm4			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr316		1	60	pr310		1	60	pr276		1	1	pr281		-7	7	pr323		1	60																									pr381		29	29	0
+jiachengsc1sor	100	1		20		150	150	sm5			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr316		1	60	pr310		1	60	pr276		1	1	pr281		-7	7	pr323		1	60																									pr381		29	29	0
+jiachengsc2sor	100	1		20		150	150	sm5			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr312		1	60	pr311		1	60	pr276		1	1	pr281		-7	7	pr320		1	60																									pr381		29	29	0
+jiachengsc3sor	100	1		20		150	150	sm5			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr322		1	60	pr317		1	60	pr276		1	1	pr281		-7	7	pr308		1	60																									pr381		29	29	0
+jiachengsc1ass	100	1		20		150	150	sm6			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr312		1	60	pr311		1	60	pr276		1	1	pr281		-7	7	pr320		1	60																									pr381		29	29	0
+jiachengsc2ass	100	1		20		150	150	sm6			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr316		1	60	pr310		1	60	pr276		1	1	pr281		-7	7	pr323		1	60																									pr381		29	29	0
+jiachengsc3ass	100	1		20		150	150	sm6			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr321		1	60	pr325		1	60	pr276		1	1	pr281		-7	7	pr315		1	60																									pr381		29	29	0
+jiachengsc1dru	100	1		20		150	150	sm7			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr312		1	60	pr311		1	60	pr276		1	1	pr281		-7	7	pr320		1	60																									pr381		29	29	0
+jiachengsc2dru	100	1		20		150	150	sm7			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr322		1	60	pr317		1	60	pr276		1	1	pr281		-7	7	pr308		1	60																									pr381		29	29	0
+jiachengsc3dru	100	1		20		150	150	sm7			1	3	5000			invcm_6	18-hf3-15	so217	12	so217	pr313		1	60	pr318		1	60	pr276		1	1	pr281		-7	7	pr309		1	60																									pr381		29	29	0
+lingqisc1	100	1	1	5		170	150	zl1			1	3	5000			invcm_9	30X-1	so217	12	so0	pr281		-7	7	pr125	99	1	60	pr278		1	1																																	pr381		30	30	0
+lingqisc2	100	1	1	5		170	150	zl2			1	3	5000			invcm_9	30X-1	so217	12	so0	pr281		-7	7	pr125	98	1	60	pr278		1	1																																	pr381		30	30	0
+lingqisc3	100	1	1	5		170	150	zl3			1	3	5000			invcm_9	30X-1	so217	12	so0	pr281		-7	7	pr125	124	1	60	pr278		1	1																																	pr381		30	30	0
+lingqisc4	100	1	1	5		170	150	zl4			1	3	5000			invcm_9	30X-1	so217	12	so0	pr281		-7	7	pr125	125	1	60	pr278		1	1																																	pr381		30	30	0
+lingqisc5	100	1	1	5		170	150	zl5			1	3	5000			invcm_9	30X-1	so217	12	so0	pr281		-7	7	pr125	122	1	60	pr278		1	1																																	pr381		30	30	0
+lingqisc6	100	1	1	5		170	150	zl6			1	3	5000			invcm_9	30X-1	so217	12	so0	pr281		-7	7	pr125	108	1	60	pr278		1	1																																	pr381		30	30	0
+lingqisc7	100	1	1	5		170	150	zl7			1	3	5000			invcm_9	30X-1	so217	12	so0	pr281		-7	7	pr125	123	1	60	pr278		1	1																																	pr381		30	30	0
+zhiyesc1	100	1		5		100	90	zy1			1	3	5000			dianzhi	30X-2	so217	12	so217	pr281		-3	3	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr277		1	1	pr4		1	10																	pr381		28	28	0
+zhiyesc2	100	1		5		100	90	zy2			1	3	5000			dianzhi	30X-2	so217	12	so217	pr281		-3	3	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr277		1	1	pr4		1	10																	pr381		28	28	0
+zhiyesc3	100	1		5		100	90	zy3			1	3	5000			dianzhi	30X-2	so217	12	so217	pr281		-3	3	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr277		1	1	pr4		1	10																	pr381		28	28	0
+zhiyesc4	100	1		5		100	90	zy4			1	3	5000			dianzhi	30X-2	so217	12	so217	pr281		-3	3	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr277		1	1	pr4		1	10																	pr381		28	28	0
+zhiyesc5	100	1		5		100	90	zy5			1	3	5000			dianzhi	30X-2	so217	12	so217	pr281		-3	3	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr277		1	1	pr4		1	10																	pr381		28	28	0
+zhiyesc6	100	1		5		100	90	zy6			1	3	5000			dianzhi	30X-2	so217	12	so217	pr281		-3	3	pr268	1	6	266	pr59		10	20	pr13		10	20	pr268	1	6	364	pr277		1	1	pr4		1	10																	pr381		28	28	0
+zhiyesc7	100	1		5		100	90	zy7			1	3	5000			dianzhi	30X-2	so217	12	so217	pr281		-3	3	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr277		1	1	pr4		1	10																	pr381		28	28	0
+zhiyesc21	100	1		5		130	120	zm1			1	3	5000			bingzhi	30X-3	so217	12	so217	pr281		-5	5	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr276		1	1	pr4		1	10																	pr381		29	29	0
+zhiyesc22	100	1		5		130	120	zm2			1	3	5000			bingzhi	30X-3	so217	12	so217	pr281		-5	5	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr276		1	1	pr4		1	10																	pr381		29	29	0
+zhiyesc23	100	1		5		130	120	zm3			1	3	5000			bingzhi	30X-3	so217	12	so217	pr281		-5	5	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr276		1	1	pr4		1	10																	pr381		29	29	0
+zhiyesc24	100	1		5		130	120	zm4			1	3	5000			bingzhi	30X-3	so217	12	so217	pr281		-5	5	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr276		1	1	pr4		1	10																	pr381		29	29	0
+zhiyesc25	100	1		5		130	120	zm5			1	3	5000			bingzhi	30X-3	so217	12	so217	pr281		-5	5	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr276		1	1	pr4		1	10																	pr381		29	29	0
+zhiyesc26	100	1		5		130	120	zm6			1	3	5000			bingzhi	30X-3	so217	12	so217	pr281		-5	5	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr276		1	1	pr4		1	10																	pr381		29	29	0
+zhiyesc27	100	1		5		130	120	zm7			1	3	5000			bingzhi	30X-3	so217	12	so217	pr281		-5	5	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr276		1	1	pr4		1	10																	pr381		29	29	0
+zhiyesc11	100	1		5		160	150	zi1			1	3	5000			duzhi	30X-7	so217	12	so217	pr281		-7	7	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr278		1	1	pr4		1	10																	pr381		30	30	0
+zhiyesc12	100	1		5		160	150	zi2			1	3	5000			duzhi	30X-7	so217	12	so217	pr281		-7	7	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr278		1	1	pr4		1	10																	pr381		30	30	0
+zhiyesc13	100	1		5		160	150	zi3			1	3	5000			duzhi	30X-7	so217	12	so217	pr281		-7	7	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr278		1	1	pr4		1	10																	pr381		30	30	0
+zhiyesc14	100	1		5		160	150	zi4			1	3	5000			duzhi	30X-7	so217	12	so217	pr281		-7	7	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr278		1	1	pr4		1	10																	pr381		30	30	0
+zhiyesc15	100	1		5		160	150	zi5			1	3	5000			duzhi	30X-7	so217	12	so217	pr281		-7	7	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr278		1	1	pr4		1	10																	pr381		30	30	0
+zhiyesc16	100	1		5		160	150	zi6			1	3	5000			duzhi	30X-7	so217	12	so217	pr281		-7	7	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr278		1	1	pr4		1	10																	pr381		30	30	0
+zhiyesc17	100	1		5		160	150	zi7			1	3	5000			duzhi	30X-7	so217	12	so217	pr281		-7	7	pr268	1	6	364	pr59		10	20	pr13		10	20	pr268	1	6	364	pr278		1	1	pr4		1	10																	pr381		30	30	0
+zhizunvipsc	100	1	1	1	1	200	7	cm1			1	3	5000			vvip	vvip	so217	12	so217	pr104		10	10	pr333		400	400	pr59		888	888	pr252		461	461	pr13		300	300	pr11		200	200	pr14		50	50	pr12		50	50	pr41		50	50													0
+yangchengsc	100	1	1	1	1	100	7	sgc			1	3	5000			flpmss	Vip_Charm	so217	12	so217	pr104			1	pr338			10	pr280			8																																					0
+rongyaovipsc	100	1	1	1	1	200	7	cm1			1	3	5000			vvip	vip3	so217	12	so217	pr104		6	6	pr333		200	200	pr59		666	666	pr252				pr13		200	200	pr11		100	100	pr14		25	25	pr12		25	25	pr41		25	25													0
+4x4Bag1	100	1		15	1	1	1	mfd				3	5000			invbag_pk4	invbag_pk4	so0		so0																																																	0
+zhengyizhishi	100	1	1	3	1	150	150	zf8			1	3	5000			Invvip1	Invvip1	so217	12	so217	pr281		1	7	pr337		1	300	pr278		1	1																																					0
+Holy Light Charm	100	1		15		99		zzs1			1	3	5000			18a-61-zan	18a-61-zan	so217	12	so217	pr133		4	4																																													0
+99 Diamond Charm	100	1		15		99		zzs2			1	3	5000			18-fabao12	18-fabao12	so217	12	so217	pr133		4	4																																													0
+Superior VIP Charm	100	1		15				zzs3			1	3	5000			3d2020aoyi-8	3d2020aoyi-8	so217	12	so217	pr133		6	6	pr373		10	10	pr265	54		1																																					0
+Super VIP Charm	100	1		15		99		zzs4			1	3	5000			3dfabao2-4	3dfabao2-4	so217	12	so217	pr133		4	4																																													0
+Stormshieldnew1	100	1		15	1	160	150	uit				3	5000				dun2	so0		so0	pr141	30			pr4		20	35	pr7		30	30	pr104		1	7	pr83		35	35	pr41		10	30	pr16		35	35	pr278		1	1	pr75		-50	-50	pr125	413	1	35					pr381		30	30	0
+paldunnew1	100	1		15	1	160	150	paf				5	5000	blac	blac		dun05	so0		so0	pr233		1	30	pr83		30	30	pr68		-3	3	pr1		30	30	pr4		20	35	pr278		1	1	pr275		1	30	pr104		1	7	pr5		200	200	pr232		1	30	pr125	413	1	60	pr381		30	30	0
+darknew1	100	1	1	15	1	160	150	nef				5	5000	cred	cred			so0		so0	pr5		140	180	pr86		30	30	pr12		10	10	pr124	6	1	3	pr124	7	1	3	pr124	8	1	3	pr278		1	1	pr235		1	30	pr275		1	30	pr232		1	30	pr104		1	7	pr125	413	1	60	0
+sgbaolvfu	100	1	1	1		100	7	zg6			1	3	5000			zhufu	zhufu	so217	12	so217	pr281		1	3	pr277		1	1	pr13		10	20																																					0

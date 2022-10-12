@@ -14,13 +14,59 @@ function finish() {
     })
 }
 
+function getString(stringCode, stringRows){
+    for(let row of stringRows){
+        if(stringCode === row[0]){
+            return row[1];
+        }
+    }
+    return "";
+}
+
+function getUniqueString(){
+    const uniqueHeadRow = uniqueRows.shift();
+    const uniqueCodeIndex = uniqueHeadRow.indexOf('code');
+    const uniqueStringCodeIndex = uniqueHeadRow.indexOf('index');
+    return "";
+}
+
+function getSetString(){
+    return "";
+}
+
 function txt2classid() {
     return new Promise((resolve, reject) => {
         const lines = ["var NTIPAliasClassID = {};"];
         const handleList = ["weapons", "armor", "misc"];
+        const stringList = ["expansionstring","patchstring","string"];
         const __dirname = path.resolve();
 
-        let classid = 0;
+        let stringRows = [];
+        let uniqueRows = [];
+        let setRows = [];
+
+        try {
+            uniqueRows = stringRows.concat(xlsx.parse(path.join(__dirname, `txt_mod/uniqueitems.txt`))[0].data);
+        } catch (e) {
+            console.log(`读取txt文件失败：txt_mod/uniqueitems.txt`);
+            reject();
+        }
+
+        try {
+            setRows = stringRows.concat(xlsx.parse(path.join(__dirname, `txt_mod/sets.txt`))[0].data);
+        } catch (e) {
+            console.log(`读取txt文件失败：txt_mod/sets.txt`);
+            reject();
+        }
+
+        stringList.forEach(fileName => {
+            try {
+                stringRows = stringRows.concat(xlsx.parse(path.join(__dirname, `txt_mod/${fileName}.txt`))[0].data);
+            } catch (e) {
+                console.log(`读取txt文件失败：txt_mod/${fileName}.txt`);
+                reject();
+            }
+        })
 
         handleList.forEach(fileName => {
             // 1.读取
@@ -42,6 +88,7 @@ function txt2classid() {
                 reject();
             }
 
+            let classid = 0;
             modRows.forEach(row => {
                 if (row[0] === "Expansion") {
                     return;
@@ -56,14 +103,23 @@ function txt2classid() {
                     for (let key in NTIPAliasClassID) {
                         if (NTIPAliasClassID[key] === NTIPAliasClassID[itemCode] && key !== itemCode) {
                             itemName = key;
+                            break;
                         }
                     }
                 }
 
-                const line = itemName ?
-                    `NTIPAliasClassID["${itemCode}"] = ${classid}; NTIPAliasClassID["${itemName}"] = ${classid};` :
-                    `NTIPAliasClassID["${itemCode}"] = ${classid}`;
-                lines.push(line);
+                const codeString = `NTIPAliasClassID["${itemCode}"] = ${classid};${itemName ? ` NTIPAliasClassID["${itemName}"] = ${classid};`:""}`;
+
+                // let itemString = getString(itemCode, stringRows);
+
+                // let uniqueString = getUniqueString(itemCode, uniqueRows, stringRows);
+
+                // let setString = getSetString(itemCode, uniqueRows, stringRows);
+
+                // const commentString = `${(itemString || uniqueString || setString) ? ` // ${itemString}${uniqueString}${setString}` : ""}`;
+                // const line = `${codeString}${commentString}`;
+
+                lines.push(codeString);
                 classid++;
             })
         })

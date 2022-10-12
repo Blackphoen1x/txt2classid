@@ -1,0 +1,1011 @@
+sequence	mode	frame	dir	event	eol
+mq0	NU				0
+mq1	A1				0
+mq1	A1	1			0
+mq1	A1	2			0
+mq1	A1	3			0
+mq1	A1	4			0
+mq1	A1	5			0
+mq1	A1	6			0
+mq1	A1	7			0
+mq1	A1	8		1	0
+mq1	A1	9			0
+mq1	A1	10			0
+mq1	A1	11			0
+mq1	A1	12			0
+mq1	A1	13			0
+mq1	A1	14			0
+mq2	WL			1	0
+mq2	WL	2		1	0
+mq2	WL	4		1	0
+mq2	WL	6		1	0
+mq2	WL	8		1	0
+mq2	WL	10		1	0
+mq2	WL	12		1	0
+mq2	WL	14		1	0
+mq2	A2	3			0
+mq2	A2	7		1	0
+mq2	A2	8			0
+mq2	A2	9			0
+mq2	A2	10			0
+mq2	A2	11			0
+mq3	S1				0
+mq3	S1	1			0
+mq3	S1	2			0
+mq3	S1	3			0
+mq3	S1	4			0
+mq3	S1	5			0
+mq3	S1	6			0
+mq3	S1	7		4	0
+mq4	A1				0
+mq4	A1	1			0
+mq4	A1	2			0
+mq4	A1	3			0
+mq4	A1	4			0
+mq4	A1	5		1	0
+mq4	A1	6			0
+mq4	A1	7			0
+mq4	A1	8			0
+mq4	A1	9			0
+mq5	A1	2			0
+mq5	A1	4			0
+mq5	A1	6			0
+mq5	A1	8		1	0
+mq5	A1	9			0
+mq5	A1	15			0
+mq5	A2	4			0
+mq5	A2	6			0
+mq5	A2	7			0
+mq5	A2	9		1	0
+mq5	A2	10			0
+mq5	A2	12			0
+mq5	A2	13			0
+mq6	SC				0
+mq6	SC	1			0
+mq6	SC	2			0
+mq6	SC	3			0
+mq6	SC	4			0
+mq6	SC	5			0
+mq6	SC	6			0
+mq6	SC	7			0
+mq6	SC	8			0
+mq6	SC	9			0
+mq6	SC	10			0
+mq6	SC	11			0
+mq6	SC	12			0
+mq6	SC	13		2	0
+mq6	SC	14			0
+mq6	SC	15			0
+mq7	S1				0
+mq7	S1	1			0
+mq7	S1	2			0
+mq7	S1	3			0
+mq7	S1	4			0
+mq7	S1	5			0
+mq7	S1	6			0
+mq7	S1	7			0
+mq7	S1	8			0
+mq7	S1	9			0
+mq7	S1	10		2	0
+mq7	S1	11			0
+mq7	S1	12			0
+mq7	S1	13			0
+mq7	S1	14			0
+mq7	S1	15			0
+mq7	S1	16			0
+mq8	DT	10			0
+mq8	DT	9			0
+mq8	DT	8			0
+mq8	DT	7			0
+mq8	DT	6			0
+mq8	DT	5			0
+mq8	DT	4			0
+mq8	DT	3			0
+mq8	DT	2			0
+mq8	DT	1			0
+mq8	DT				0
+mq9	SC				0
+mq9	SC	1			0
+mq9	SC	2			0
+mq9	SC	3			0
+mq9	SC	4			0
+mq9	SC	5			0
+mq9	SC	6			0
+mq9	SC	7			0
+mq9	SC	8			0
+mq9	SC	9			0
+mq9	SC	10			0
+mq9	SC	11			0
+mq9	SC	12			0
+mq9	SC	13		2	0
+mq9	SC	14			0
+mq9	SC	15			0
+mq9	SC	16			0
+mq10	DT	17			0
+mq10	DT	16			0
+mq10	DT	15			0
+mq10	DT	14			0
+mq10	DT	13			0
+mq10	DT	12			0
+mq10	DT	11			0
+mq10	DT	10			0
+mq10	DT	9			0
+mq10	DT	8			0
+mq10	DT	7			0
+mq10	DT	6			0
+mq10	DT	5			0
+mq10	DT	4			0
+mq10	DT	3			0
+mq10	DT	2			0
+mq10	DT	1			0
+mq10	DT				0
+mq11	DT				0
+mq11	DT	1			0
+mq11	DT	2			0
+mq11	DT	3			0
+mq11	DT	4			0
+mq11	DT	5			0
+mq11	DT	6			0
+mq11	DT	7			0
+mq11	DT	8			0
+mq11	DT	9		4	0
+mq11	DT	10			0
+mq11	DT	11			0
+mq11	DT	12			0
+mq11	DT	13			0
+mq12	A2				0
+mq12	A2	1			0
+mq12	A2	2			0
+mq12	A2	3			0
+mq12	A2	4			0
+mq12	A2	5			0
+mq12	A2	6			0
+mq12	A2	7			0
+mq12	A2	8			0
+mq12	A2	9			0
+mq12	A2	10			0
+mq12	A2	11			0
+mq12	A2	12		2	0
+mq12	A2	13			0
+mq12	A2	14			0
+mq12	A2	15			0
+mq12	A2	16			0
+mq13	S1				0
+mq13	S1	1			0
+mq13	S1	2			0
+mq13	S1	3			0
+mq13	S1	4			0
+mq13	S1	5			0
+mq13	S1	6			0
+mq13	S1	7			0
+mq13	S1	8			0
+mq13	S1	9			0
+mq13	S1	10			0
+mq13	S1	11		4	0
+mq14	S1	11			0
+mq14	S1	10			0
+mq14	S1	9			0
+mq14	S1	8			0
+mq14	S1	7			0
+mq14	S1	6			0
+mq14	S1	5			0
+mq14	S1	4			0
+mq14	S1	3			0
+mq14	S1	2			0
+mq14	S1	1			0
+mq14	S1			1	0
+mq15	S1	11			0
+mq15	S1	11			0
+mq15	S1	11			0
+mq15	S1	10			0
+mq15	S1	10			0
+mq15	S1	10			0
+mq15	S1	9		1	0
+mq15	S1	9			0
+mq15	S1	10			0
+mq15	S1	10			0
+mq15	S1	11			0
+mq15	S1	11			0
+mq15	S1	11			0
+mq16	SC				0
+mq16	SC	1			0
+mq16	SC	2			0
+mq16	SC	3			0
+mq16	SC	4		2	0
+mq16	SC	5		2	0
+mq16	SC	6		2	0
+mq16	SC	7		2	0
+mq16	SC	8		2	0
+mq16	SC	9		2	0
+mq16	SC	10		2	0
+mq16	SC	11		2	0
+mq16	SC	12		2	0
+mq16	SC	13			0
+mq16	SC	14			0
+mq16	SC	15			0
+mq16	SC	16			0
+mq16	SC	17			0
+mq17	A1				0
+mq17	A1	1		1	0
+mq17	A1	2			0
+mq17	A1	3			0
+mq17	A1	4			0
+mq17	A1	5			0
+mq17	A1	6			0
+mq17	A1	7		2	0
+mq17	A1	8			0
+mq17	A1	9		1	0
+mq17	A1	10			0
+mq17	A1	11		1	0
+mq17	A1	12			0
+mq17	A1	13			0
+mq17	A1	14			0
+mq17	A1	15			0
+mq17	A1	16			0
+mq17	A1	17			0
+mq17	A1	18			0
+mq17	A1	19			0
+mq18	WL				0
+mq18	WL	1			0
+mq18	WL	2			0
+mq18	WL	3			0
+mq18	WL	4			0
+mq18	WL	5			0
+mq18	WL	6			0
+mq18	WL	7		4	0
+mq19	S1				0
+mq19	S1	1			0
+mq19	S1	2			0
+mq19	S1	3			0
+mq19	S1	4			0
+mq19	S1	5			0
+mq19	S1	6			0
+mq19	S1	7			0
+mq19	S1	8			0
+mq19	S1	9			0
+mq19	S1	10			0
+mq19	S1	11			0
+mq19	S1	12			0
+mq19	S1	13			0
+mq19	S1	14			0
+mq19	S1	15			0
+mq19	S1	16			0
+mq19	S1	17			0
+mq19	S1	18			0
+mq19	S1	19			0
+mq19	S1	20			0
+mq19	S1	21			0
+mq19	S1	22			0
+mq19	S1	23			0
+mq19	S1	24			0
+mq19	S1	25		4	0
+mq19	S1	26			0
+mq19	S1	27			0
+mq19	S1	28			0
+mq19	S1	29			0
+mq19	S1	30			0
+mq20	S1				0
+mq20	S1	1			0
+mq20	S1	2			0
+mq20	S1	3			0
+mq20	S1	4			0
+mq20	S1	5			0
+mq20	S1	6			0
+mq20	S1	7			0
+mq20	S1	8			0
+mq20	S1	9			0
+mq20	S1	10			0
+mq20	S1	11			0
+mq20	S1	12			0
+mq20	S1	13			0
+mq20	S1	14			0
+mq20	S1	15		4	0
+mq20	S1	16			0
+mq20	S1	17			0
+mq20	S1	18			0
+mq20	S1	19			0
+mq21	A1				0
+mq21	A1	1			0
+mq21	A1	2			0
+mq21	A1	3			0
+mq21	A1	4			0
+mq21	A1	5			0
+mq21	A1	6		2	0
+mq22	A1			4	0
+mq22	A1	1			0
+mq22	A1	2			0
+mq22	A1	3			0
+mq22	A1	4			0
+mq23	A1				0
+mq23	A1	1		4	0
+mq23	A1	2			0
+mq23	A1	3			0
+mq23	A1	4			0
+mq23	A1	5			0
+mq23	A1	6			0
+mq23	A1	7			0
+mq23	A1	8			0
+mq24	A1				0
+mq24	A1	1			0
+mq24	A1	2			0
+mq24	A1	3			0
+mq24	A1	4			0
+mq24	A1	5			0
+mq24	A1	6			0
+mq24	A1	7			0
+mq24	A1	8			0
+mq24	A1	9		4	0
+mq24	A1	10			0
+mq24	A1	11			0
+mq24	A1	12			0
+mq24	A1	13			0
+mq24	A1	14			0
+mq24	A1	15			0
+mq24	A1	16			0
+mq25	S1	12		1	0
+mq25	S1	11		1	0
+mq25	S1	10		1	0
+mq25	S1	9		1	0
+mq25	S1	8			0
+mq25	S1	7			0
+mq25	S1	6			0
+mq25	S1	5			0
+mq25	S1	4			0
+mq25	S1	3		1	0
+mq25	S1	2		1	0
+mq25	S1	1		1	0
+mq25	S1			1	0
+mq26	S1	20		1	0
+mq26	S1	19		1	0
+mq26	S1	18		1	0
+mq26	S1	17		1	0
+mq26	S1	16			0
+mq26	S1	15			0
+mq26	S1	14			0
+mq26	S1	13			0
+mq26	S1	12			0
+mq26	S1	11			0
+mq26	S1	10			0
+mq26	S1	9			0
+mq26	S1	8			0
+mq26	S1	7			0
+mq26	S1	6			0
+mq26	S1	5			0
+mq26	S1	4			0
+mq26	S1	3			0
+mq26	S1	2		1	0
+mq26	S1	1		1	0
+mq26	S1			1	0
+mq27	S1				0
+mq27	S1	1			0
+mq27	S1	2			0
+mq28	RN				0
+mq28	RN	1			0
+mq28	RN	2			0
+mq28	RN	3			0
+mq28	RN	4			0
+mq28	RN	5		2	0
+mq28	RN	6		2	0
+mq28	RN	7		2	0
+mq28	RN	8		2	0
+mq28	RN	9		2	0
+mq28	RN	10		2	0
+mq28	RN	11		2	0
+mq28	RN	12		2	0
+mq28	RN	13		2	0
+mq28	RN	14			0
+mq28	RN	15			0
+mq28	RN	16			0
+mq28	RN	17			0
+mq28	RN	18		1	0
+mq28	RN	19			0
+mq28	RN	20			0
+mq28	RN	21			0
+mq29	S1	17			0
+mq29	S1	16			0
+mq29	S1	15			0
+mq29	S1	14			0
+mq29	S1	13			0
+mq29	S1	12			0
+mq29	S1	11			0
+mq29	S1	10			0
+mq29	S1	9			0
+mq29	S1	8		1	0
+mq29	S1	7			0
+mq29	S1	6			0
+mq29	S1	5			0
+mq29	S1	4			0
+mq29	S1	3			0
+mq29	S1	2			0
+mq29	S1	1			0
+mq29	S1				0
+mq30	S1			4	0
+mq31	A1	2			0
+mq31	A1	4			0
+mq31	A1	6			0
+mq31	A1	8			0
+mq31	A1	10			0
+mq31	A1	11		1	0
+mq31	A1	10			0
+mq31	A1	9			0
+mq31	A1	10			0
+mq31	A1	11		1	0
+mq31	A1	12			0
+mq31	A1	13			0
+mq31	A1	14			0
+mq31	A1	15			0
+mq32	S1				0
+mq32	S1	1			0
+mq32	S1	2			0
+mq32	S1	3			0
+mq32	S1	4			0
+mq32	S1	5			0
+mq32	S1	6			0
+mq32	S1	7			0
+mq32	S1	8			0
+mq32	S1	9			0
+mq32	S1	10			0
+mq32	S1	11			0
+mq32	S1	12			0
+mq32	S1	13			0
+mq32	S1	14			0
+mq32	S1	15			0
+mq32	S1	16			0
+mq32	S1	17			0
+mq32	S1	18			0
+mq32	S1	19		4	0
+mq33	A2				0
+mq33	A2	1			0
+mq33	A2	2			0
+mq33	A2	3			0
+mq33	A2	4			0
+mq33	A2	5			0
+mq33	A2	6			0
+mq33	A2	7			0
+mq33	A2	8			0
+mq33	A2	9			0
+mq33	A2	10			0
+mq33	A2	11			0
+mq33	A2	12			0
+mq33	A2	13			0
+mq33	A2	14			0
+mq33	A2	15			0
+mq33	A2	16			0
+mq33	A2	17		1	0
+mq33	A2	18			0
+mq33	A2	19			0
+mq33	A2	20			0
+mq33	A2	21			0
+mq33	A2	22			0
+mq33	A2	23			0
+mq33	A2	24			0
+mq33	A2	25			0
+mq34	S1				0
+mq34	S1	1			0
+mq34	S1	2			0
+mq34	S1	3			0
+mq34	S1	4			0
+mq34	S1	5			0
+mq34	S1	6			0
+mq34	S1	7			0
+mq34	S1	8			0
+mq34	S1	9			0
+mq34	S1	10			0
+mq34	S1	11			0
+mq34	S1	12		1	0
+mq34	S1	13			0
+mq34	S1	14			0
+mq34	S1	15			0
+mq34	S1	16			0
+mq35	WL			1	0
+mq35	WL	1		1	0
+mq35	WL	2		1	0
+mq35	WL	3		1	0
+mq35	WL	4		1	0
+mq35	WL	5		3	0
+mq35	WL	6		1	0
+mq35	WL	7		1	0
+mq35	WL	8		1	0
+mq35	WL	9		1	0
+mq35	WL	10		1	0
+mq35	WL	11		1	0
+mq35	WL	12		1	0
+mq35	WL	13		1	0
+mq35	WL	14		1	0
+mq35	WL	15		1	0
+mq35	A2				0
+mq35	A2	1			0
+mq35	A2	2			0
+mq35	A2	3			0
+mq35	A2	4			0
+mq35	A2	5			0
+mq35	A2	6			0
+mq35	A2	7			0
+mq35	A2	8			0
+mq35	A2	9		1	0
+mq35	A2	10			0
+mq35	A2	11			0
+mq35	A2	12			0
+mq35	A2	13			0
+mq35	A2	14			0
+mq36	A1	2			0
+mq36	A1	4		3	0
+mq36	A1	6			0
+mq36	A1	7		1	0
+mq36	A1	8			0
+mq36	A1	9			0
+mq36	A2	4			0
+mq36	A2	6		3	0
+mq36	A2	7			0
+mq36	A2	9		1	0
+mq36	A2	10			0
+mq36	A2	12			0
+mq36	A2	14		1	0
+mq37	A2				0
+mq37	A2	1			0
+mq37	A2	2			0
+mq37	A2	3			0
+mq37	A2	4			0
+mq37	A2	5			0
+mq37	A2	6			0
+mq37	A2	7		1	0
+mq37	A2	8			0
+mq37	A2	9			0
+mq38	S2				0
+mq38	S2	1			0
+mq38	S2	2			0
+mq38	S2	3			0
+mq38	S2	4			0
+mq38	S2	5			0
+mq38	S2	6			0
+mq38	S2	7			0
+mq38	S2	8			0
+mq38	S2	9			0
+mq38	S2	10			0
+mq38	S2	11		1	0
+mq38	S2	12			0
+mq38	S2	13			0
+mq38	S2	14			0
+mq38	S2	15			0
+mq39	DT				0
+mq39	DT	1			0
+mq39	DT	2			0
+mq39	DT	3			0
+mq39	DT	4			0
+mq39	DT	5			0
+mq39	DT	6			0
+mq39	DT	7			0
+mq39	DT	8			0
+mq39	DT	9			0
+mq39	DT	10			0
+mq39	DT	11			0
+mq39	DT	12			0
+mq39	DT	13			0
+mq39	DT	14			0
+mq39	DT	15			0
+mq39	DT	16			0
+mq39	DT	17			0
+mq39	DT	18			0
+mq39	DT	19			0
+mq39	DT	20			0
+mq39	DT	21			0
+mq39	DT	22		1	0
+mq39	DT	21			0
+mq39	DT	20			0
+mq39	DT	19			0
+mq39	DT	18			0
+mq39	DT	17			0
+mq39	DT	16			0
+mq39	DT	15			0
+mq39	DT	14			0
+mq39	DT	13			0
+mq39	DT	12			0
+mq39	DT	11			0
+mq39	DT	10			0
+mq39	DT	9			0
+mq39	DT	8			0
+mq39	DT	7			0
+mq39	DT	6		1	0
+mq39	DT	23			0
+mq39	DT	23			0
+mq39	DT	24			0
+mq39	DT	24			0
+mq39	DT	25			0
+mq39	DT	25			0
+mq39	DT	26			0
+mq39	DT	26			0
+mq39	DT	27			0
+mq39	DT	27			0
+mq39	DT	28			0
+mq39	DT	28			0
+mq39	DT	29			0
+mq39	DT	29			0
+mq39	DT	30		1	0
+mq40	S2				0
+mq40	S2	1			0
+mq40	S2	2		1	0
+mq40	S2	3			0
+mq40	S2	4			0
+mq40	S2	5			0
+mq40	S2	6			0
+mq40	S2	7			0
+mq40	S2	8			0
+mq40	S2	9			0
+mq40	S2	10			0
+mq40	S2	11			0
+mq40	S2	12			0
+mq40	S2	13			0
+mq40	S2	14			0
+mq41	RN			1	0
+mq41	RN	1		1	0
+mq41	RN	2		1	0
+mq41	RN	3		1	0
+mq41	RN	4		1	0
+mq41	RN	5		1	0
+mq41	RN	6		1	0
+mq41	RN	7		1	0
+mq41	RN	8		1	0
+mq41	RN	9		1	0
+mq41	RN	10		1	0
+mq41	A2				0
+mq41	A2				0
+mq41	A2	1			0
+mq41	A2	1			0
+mq41	A2	2			0
+mq41	A2	2			0
+mq41	A2	3			0
+mq41	A2	4		1	0
+mq41	A2	4			0
+mq41	A2	5			0
+mq41	A2	6			0
+mq41	A2	7			0
+mq41	A2	7			0
+mq41	A2	8			0
+mq41	A2	9			0
+mq41	A2	9			0
+mq41	A2	10			0
+mq42	A2				0
+mq42	A2	1			0
+mq42	A2	2			0
+mq42	A2	3			0
+mq42	A2	4			0
+mq42	A2	5			0
+mq42	A2	6			0
+mq42	A2	7			0
+mq42	A2	8		1	0
+mq42	A2	9			0
+mq42	A2	10			0
+mq42	A2	11			0
+mq42	A2	12			0
+mq42	A2	13			0
+mq42	A2	14			0
+mq42	A2	15			0
+mq42	A2	16			0
+mq43	A2				0
+mq43	A2	1			0
+mq43	A2	2			0
+mq43	A2	3			0
+mq43	A2	4			0
+mq43	A2	5			0
+mq43	A2	6			0
+mq43	A2	7			0
+mq43	A2	8			0
+mq43	A2	9		1	0
+mq43	A2	10			0
+mq43	A2	11			0
+mq43	A2	12			0
+mq43	A2	13			0
+mq44	A2				0
+mq44	A2				0
+mq44	A2	1			0
+mq44	A2	1			0
+mq44	A2	2			0
+mq44	A2	2			0
+mq44	A2	3			0
+mq44	A2	3			0
+mq44	A2	4			0
+mq44	A2	4			0
+mq44	A2	5			0
+mq44	A2	6			0
+mq44	A2	7			0
+mq44	A2	7		1	0
+mq44	A2	7			0
+mq44	A2	7			0
+mq44	A2	8			0
+mq44	A2	8			0
+mq44	A2	8			0
+mq44	A2	8			0
+mq44	A2	9			0
+mq44	A2	9			0
+mq44	A2	9			0
+mq44	A2	9			0
+mq44	A2	9			0
+mq44	A2	10			0
+mq44	A2	10			0
+mq44	A2	10			0
+mq44	A2	10			0
+mq44	A2	11			0
+mq44	A2	11			0
+mq44	A2	11			0
+mq44	A2	11			0
+mq44	A2	12			0
+mq44	A2	13			0
+mq45	S1				0
+mq45	S1				0
+mq45	S1	1			0
+mq45	S1	2			0
+mq45	S1	2			0
+mq45	S1	3			0
+mq45	S1	4			0
+mq45	S1	4			0
+mq45	S1	5			0
+mq45	S1	6			0
+mq45	S1	6			0
+mq45	S1	7			0
+mq45	S1	8			0
+mq45	S1	8			0
+mq45	S1	9			0
+mq45	S1	10		4	0
+mq45	S1	10			0
+mq45	S1	11			0
+mq45	S1	12			0
+mq45	S1	13			0
+mq45	S1	14			0
+mq45	S1	15			0
+mq45	S1	16			0
+mq45	S1	17			0
+mq45	S1	17			0
+mq45	S1	18			0
+mq45	S1	18			0
+mq45	S1	19			0
+mq45	S1	19			0
+mq45	S1	20			0
+mq45	S1	20			0
+mq45	S1	21			0
+mq45	S1	21			0
+mq46	A1				0
+mq46	A1	1			0
+mq46	A1	2			0
+mq46	A1	3			0
+mq46	A1	4			0
+mq46	A1	5			0
+mq46	A1	6			0
+mq46	A1	6			0
+mq46	A1	7			0
+mq46	A1	7			0
+mq46	A1	7		1	0
+mq46	A1	9			0
+mq46	A1	11			0
+mq46	A1	12			0
+mq46	A1	13			0
+mq47	A1				0
+mq47	A1	1			0
+mq47	A1	2			0
+mq47	A1	3		1	0
+mq47	A1	4			0
+mq47	A1	5			0
+mq47	A1	6			0
+mq47	A1	7		1	0
+mq48	S2				0
+mq48	S2				0
+mq48	S2				0
+mq48	S2				0
+mq48	S2				0
+mq48	S2				0
+mq48	S2				0
+mq48	S2				0
+mq48	S2				0
+mq48	S2	1		1	0
+mq48	S2				0
+mq48	S2				0
+mq48	S2				0
+mq48	S2				0
+mq49	A2				0
+mq49	A2	1			0
+mq49	A2	2			0
+mq49	A2	3			0
+mq49	A2	4			0
+mq49	A2	5			0
+mq49	A2	6		1	0
+mq49	S4	3			0
+mq49	S4	4			0
+mq49	S4	5			0
+mq49	S4	6		1	0
+mq49	S4	7			0
+mq49	S4	8			0
+mq49	S4	9			0
+mq49	S4	10			0
+mq49	S4	11			0
+mq50	S1				0
+mq50	S1	1			0
+mq50	S1	2			0
+mq50	S1	3			0
+mq50	S1	4			0
+mq50	S1	5			0
+mq50	S1	6			0
+mq50	S1	7			0
+mq50	S1	8		1	0
+mq50	S1	9			0
+mq50	S1	10		1	0
+mq50	S1	11			0
+mq50	S1	12		1	0
+mq50	S1	12			0
+mq50	S1	13		1	0
+mq50	S1	13			0
+mq50	S1	14			0
+mq51	S1				0
+mq51	S1	1			0
+mq51	S1	2			0
+mq51	S1	3			0
+mq51	S1	4			0
+mq51	S1	5		1	0
+mq51	S1	6			0
+mq51	S1	7			0
+mq51	S1	8			0
+mq51	S1	9			0
+mq51	S1	10			0
+mq51	S1	11		1	0
+mq51	S1	12			0
+mq51	S1	13		1	0
+mq51	S1	14		1	0
+mq51	S1	15			0
+mq51	S1	16			0
+mq52	SC				0
+mq52	SC	1			0
+mq52	SC	2			0
+mq52	SC	3			0
+mq52	SC	4			0
+mq52	SC	5			0
+mq52	SC	6			0
+mq52	SC	7			0
+mq52	SC	8			0
+mq52	SC	9			0
+mq52	SC	10			0
+mq52	SC	11			0
+mq52	SC	12		4	0
+mq52	SC	13			0
+mq53	SC				0
+mq53	SC	1			0
+mq53	SC	2			0
+mq53	SC	3			0
+mq53	SC	4			0
+mq53	SC	5			0
+mq53	SC	6			0
+mq53	SC	7			0
+mq53	SC	8			0
+mq53	SC	9		1	0
+mq53	A1				0
+mq53	A1	1			0
+mq53	A1	2			0
+mq53	A1	3			0
+mq53	A1	4		1	0
+mq53	A1	5			0
+mq53	A1	6			0
+mq53	A1	7			0
+mq53	A1	8			0
+mq53	A1	9			0
+mq53	A1	10			0
+mq53	A1	11			0
+mq53	A1	12			0
+mq54	WL			1	0
+mq54	WL			1	0
+mq54	WL	1		1	0
+mq54	WL	1		1	0
+mq54	WL	2		1	0
+mq54	WL	2		1	0
+mq54	WL	3		1	0
+mq54	WL	4		1	0
+mq54	WL	4		1	0
+mq54	WL	5		1	0
+mq54	WL	5		1	0
+mq54	WL	6		1	0
+mq54	WL	6		1	0
+mq54	WL	7		1	0
+mq54	A2				0
+mq54	A2	1			0
+mq54	A2	2		3	0
+mq54	A2	3			0
+mq54	A2	4		1	0
+mq54	A2	5			0
+mq54	A2	6			0
+mq54	A2	7			0
+mq55	S1	1			0
+mq55	S1	2			0
+mq55	S1	4			0
+mq55	S1	5			0
+mq55	S1	6			0
+mq55	S1	7			0
+mq55	S1	8			0
+mq55	S1	9			0
+mq55	S1	10			0
+mq55	S1	11			0
+mq55	S1	11			0
+mq55	S1	11		4	0
+mq55	S1	12			0
+mq55	S1	13			0
+mq55	S1	14			0
+mq55	S1	15			0
+mq56	SC				0
+mq56	SC	1			0
+mq56	SC	2			0
+mq56	SC	3			0
+mq56	SC	4			0
+mq56	SC	5			0
+mq56	SC	6			0
+mq56	SC	7			0
+mq56	SC	8			0
+mq56	SC	9		1	0
+mq56	SC	10			0
+mq56	SC	11			0
+mq56	SC	12			0
+mq56	SC	13			0
+mq56	SC	14			0
+mq56	SC	15			0
+mq56	SC	16			0
+mq57	S2				0
+mq57	S2				0
+mq57	S2				0
+mq57	S2				0
+mq57	S2				0
+mq57	S2				0
+mq57	S2				0
+mq57	S2				0
+mq57	S2				0
+mq57	S2				0
+mq57	S2	1		1	0
+mq57	S2				0
+mq58	A1	1			0
+mq58	A1	3			0
+mq58	A1	5			0
+mq58	A1	7			0
+mq58	A1	9			0
+mq58	A1	10		1	0
+mq58	A1	11			0
+mq58	A1	12			0
+mq58	A1	13			0
+mq58	A1	14			0
+mq58	A1	13			0
+mq58	A1	12			0
+mq58	A1	11			0
+mq58	A1	10		1	0
+mq58	A1	9			0
+mq58	A1	7			0
+mq58	A1	9			0
+mq58	A1	11			0
+mq58	A1	12			0
+mq58	A1	13			0
+mq58	A1	14			0
+mq58	A1	13			0
+mq58	A1	12			0
+mq58	A1	11			0
+mq58	A1	10		1	0
+mq58	A1	9			0
+mq58	A1	7			0
+mq58	A1	9			0
+mq58	A1	11			0
+mq58	A1	12			0
+mq58	A1	13			0
+mq58	A1	14			0
+mq59	A1				0
+mq59	A1	1			0
+mq59	A1	2			0
+mq59	A1	3			0
+mq59	A1	5			0
+mq59	A1	7			0
+mq59	A1	9			0
+mq59	A1	11		1	0
+mq59	A1	9			0
+mq59	A1	7			0
+mq59	A1	9			0
+mq59	A1	11		1	0
+mq59	A1	9			0
+mq59	A1	7			0
+mq59	A1	9			0
+mq59	A1	11		1	0
+mq59	A1	10			0
+mq59	A1	12			0
+mq59	A1	13			0
+mq59	A1	14			0
+mq59	A1	15			0
+mq59	A1	16			0
+mq59	A1	17			0

@@ -1,0 +1,499 @@
+Stat	ID	Send Other	Signed	Send Bits	Send Param Bits	UpdateAnimRate	Saved	CSvSigned	CSvBits	CSvParam	fCallback	fMin	MinAccr	Encode	Add	Multiply	Divide	ValShift	1.09-Save Bits	1.09-Save Add	Save Bits	Save Add	Save Param Bits	keepzero	op	op param	op base	op stat1	op stat2	op stat3	direct	maxstat	itemspecific	damagerelated	itemevent1	itemeventfunc1	itemevent2	itemeventfunc2	descpriority	descfunc	descval	descstrpos	descstrneg	descstr2	dgrp	dgrpfunc	dgrpval	dgrpstrpos	dgrpstrneg	dgrpstr2	stuff	*eol
+is0		1		32			1		10			1	1		125	55	1024		7	32	8	32																	67	1	1	ModStr1a	ModStr1a		1	1	1	Moditem2allattrib	Moditem2allattrib		6	0
+is1	1			32			1		10			1	1		100	55	1024		7	32	7	32			8			is9											61	1	1	ModStr1d	ModStr1d		1	1	1	Moditem2allattrib	Moditem2allattrib			0
+is2	2	1		32			1		10			1	1		125	55	1024		7	32	7	32																	65	1	1	ModStr1b	ModStr1b		1	1	1	Moditem2allattrib	Moditem2allattrib			0
+is3	3			32			1		32			1	1		100	55	1024		7	32	32	32			9			is7	is11										63	1	1	ModStr1c	ModStr1c		1	1	1	Moditem2allattrib	Moditem2allattrib			0
+is4	4			32			1		11								1024																																			0
+is5	5			32			1		10								1024																																			0
+is6	6			32			1		32								1024	8													1	is7																				0
+is7	7			32			1		32		1	1	1		56	20	1024	8	8	32	32	32																	59	1	1	ModStr1u	ModStr1u									0
+is8	8			32			1		32								1024	8						1							1	is9																				0
+is9	9			32			1		21		1	1			81	20	1024	8	8	32	14	32																	55	1	1	ModStr1e	ModStr1e									0
+is10	10			32			1		32								1024	8						1							1	is11																				0
+is11	11			32			1		21		1	1			75	20	1024	8	8	32	8	32																	51	1	1	ModStr5d	ModStr5d									0
+is12	12			32			1		8								1024																																			0
+is13	13			32			1		32								1024																																			0
+is14	14			32			1		32								1024																																			0
+is15	15			32			1		32								1024																																			0
+is16	16		1	32											47	20	1024		9		9				13			is31											74	4	1	Modstr2v	Modstr2v									0
+is17	17		1	32											45	20	1024		9		12				13			is22	is24	is160				1					129	3		ModStr2j	ModStr2j									0
+is18	18		1	32											45	20	1024		9		12				13			is21	is23	is159				1					130	3		ModStr2k	ModStr2k									0
+is19	19		1	32											15	10	1024		10		10													1					115	1	1	ModStr1h	ModStr1h									0
+is20	20		1	32											89	204	1024		6		6																		134	2	1	ModStr3g	ModStr3g									0
+is21	21		1	32											122	25	1024		6		6													1					127	1	1	ModStr1g	ModStr1g									0
+is22	22		1	32											94	16	1024		7		9													1					126	1	1	ModStr1f	ModStr1f									0
+is23	23		1	32											97	15	1024		6		6													1					124	1	1	ModStr1g	ModStr1g									0
+is24	24		1	32											85	11	1024		7		7													1					123	1	1	ModStr1f	ModStr1f									0
+is25	25		1	32											45	40	1024		8		8													1																		0
+is26	26			32													1024		8		8																															0
+is27	27		1	32													1024		8		8																		52	2	2	ModStr4g	ModStr4g									0
+is28	28		1	32													1024		8		8																		48	2	2	ModStr3v	ModStr3v									0
+is29	29			32													1024																																			0
+is30	30			32													1024																																			0
+is31	31		1	32											17	10	1024		10	10	11	10																	71	1	1	ModStr1i	ModStr1i									0
+is32	32		1	32											11	5	1024		8		9																		69	1	1	ModStr6a	ModStr6a									0
+is33	33		1	32											13	7	1024		8		8																		70	1	1	ModStr6b	ModStr6b									0
+is34	34		1	32											188	200	1024		6		6																		21	1	1	ModStr2u_ddr	ModStr2u_ddr		5	1	1	ModStrredall	ModStrredall			0
+is35	35		1	32											397	340	1024		6		6																		21	1	1	ModStr2t	ModStr2t		5	1	1	ModStrredall	ModStrredall			0
+is36	36		1	32											152	68	1024		8		12																		29	4	2	ModStr2u	ModStr2u									0
+is37	37		1	32											164	68	1024		8		8																		41	4	2	ModStr1m	ModStr1m									0
+is38	38		1	32											1091	409	1024		5		7																		46	4	1	ModStr5x	ModStr5x		7	4	2	Moditem2resmax	Moditem2resmax			0
+is39	39		1	32											43	20	1024		8		8	50																	36	4	2	ModStr1j	ModStr1j		2	4	2	strAllResist	strAllResist			0
+is40	40		1	32											584	256	1024		5		5																		42	4	1	ModStr5u	ModStr5u		7	4	2	Moditem2resmax	Moditem2resmax			0
+is41	41		1	32											43	20	1024		8		8	50																	38	4	2	ModStr1l	ModStr1l		2	4	2	strAllResist	strAllResist			0
+is42	42		1	32											584	256	1024		5		5																		43	4	1	ModStr5w	ModStr5w		7	4	2	Moditem2resmax	Moditem2resmax			0
+is43	43		1	32											43	20	1024		8		8	50																	40	4	2	ModStr1k	ModStr1k		2	4	2	strAllResist	strAllResist			0
+is44	44		1	32											584	256	1024		5		5																		44	4	1	ModStr5v	ModStr5v		7	4	2	Moditem2resmax	Moditem2resmax			0
+is45	45		1	32											43	20	1024		8		8	50																	34	4	2	ModStr1n	ModStr1n		2	4	2	strAllResist	strAllResist			0
+is46	46		1	32											526	256	1024		5		5																		45	4	1	ModStr5y	ModStr5y		7	4	2	Moditem2resmax	Moditem2resmax			0
+is47	47		1	32													1024																																			0
+is48	48		1	32											11	10	1024		8		8													1					102	1	1	ModStr1p	ModStr1p									0
+is49	49		1	32											19	10	1024		8		9													1					101	1	1	ModStr1o	ModStr1o									0
+is50	50		1	32											12	10	1024		6		6													1					99	1	1	ModStr1r	ModStr1r									0
+is51	51		1	32											17	10	1024		9		10													1					98	1	1	ModStr1q	ModStr1q									0
+is52	52		1	32											196	20	1024		6		8													1					104	1	1	strModMagicDamage	strModMagicDamage									0
+is53	53		1	32											183	20	1024		7		9													1					103	1	1	strModMagicDamage	strModMagicDamage									0
+is54	54		1	32											451	512	1024		6		8													1					96	1	1	ModStr1t	ModStr1t									0
+is55	55		1	32											128	340	1024		8		9													1					95	1	1	ModStr1s	ModStr1s									0
+is56	56		1	32											77	4	1024		8		8													1																		0
+is57	57		1	32											12	28	1024		9		10													1					92	1	1	ModStr4i	ModStr4i									0
+is58	58		1	32											11	34	1024		9		10													1					91	1	1	ModStr4h	ModStr4h									0
+is59	59		1	32												4	1024		8		9													1																		0
+is60	60		1	32											1044	341	1024		7		7													1					88	2	1	ModStr2z	ModStr2z									0
+is61	61		1	32													1024																	1																		0
+is62	62		1	32											1179	341	1024		7		7													1					89	2	1	ModStr2y	ModStr2y									0
+is63	63		1	32													1024																	1																		0
+is64	64		1	32													1024																	1																		0
+is65	65		1	32													1024																	1																		0
+is66	66			32													1024																	1																		0
+is67	67	1	1	32		1											1024		7	30	7	30																														0
+is68	68	1	1	32		1											1024		7	30	7	30												1																		0
+is69	69	1	1	32		1											1024																																			0
+is70	70		1	32													1024				20												1	1																		0
+is71	71		1	32													1024		8	100	8	100											1																			0
+is72	72		1	32													1024		8		9										1	is73	1																			0
+is73	73		1	32											9	4	1024		8		8												1																			0
+is74	74			32											451	410	1024		6	30	6	30																	56	1	2	ModStr2l	ModStr2w									0
+is75	75		1	32											117	10	1024		7	20	7	20			13			is73											3	2	2	ModStr2i	ModStr2i									0
+is76	76		1	32											32093	204	1024		6	10	6	10			11			is7											58	2	2	ModStr2g	ModStr2g									0
+is77	77		1	32											56452	204	1024		6	10	6	10			11			is9											54	2	2	ModStr2h	ModStr2h									0
+is78	78		1	32							1				112	128	1024		7		7														ev1	6			13	3	2	ModStr1v	ModStr1v									0
+is79	79		1	32											187	34	1024		9	100	10	100																	10	2	1	ModStr1w	ModStr1w									0
+is80	80		1	32											577	102	1024		8	100	8	100																	8	2	1	ModStr1x	ModStr1x									0
+is81	81		1	32							1				105		1024		7		7													1	ev5	7	ev6	7	76	3		ModStr1y	ModStr1y									0
+is82	82		1	32													1024		9	20	9	20																														0
+is83	83		1	32	3						1				49523	1560	1024		3		3		3																150	13	1	ModStr3a	ModStr3a									0
+is84	84			32													1024		3																																	0
+is85	85		1	32											36015	519	1024		3		12	50																	11	4	1	Moditem2ExpG	Moditem2ExpG									0
+is86	86		1	32							1				30	101	1024		3		7														ev9	28			16	1	1	ModitemHPaK	ModitemHPaK									0
+is87	87			32											18957	203	1024		3		7																		8	2	2	ModitemRedVendP	ModitemRedVendP									0
+is88	88		1	32													1024		1		1																															0
+is89	89		1	32							1				15	51	1024		4	4	4	4																	6	1	1	ModStr3f	ModStr3f									0
+is90	90		1	32							1				155		1024		5		24																															0
+is91	91		1	32											26	-34	1024		8	100	8	100																		4	2	ModStr3h	ModStr3h									0
+is92	92			32													1024		6	20	7																															0
+is93	93	1	1	32											1042	156	1024		7	20	7	20												1					145	4	1	ModStr4m	ModStr4m									0
+is94	94			32													1024		7	20	7	64			13			is92																								0
+is95	95			32													1024		6	20																																0
+is96	96	1	1	32											4083	156	1024		7	20	7	20																	148	4	1	ModStr4s	ModStr4s									0
+is97	97		1	32	9						1			1	181	327	1024		7	20	6		9																81	28												0
+is98	98	1		32	8						1				415	64	1024		6	20	1		8																													0
+is99	99	1	1	32											1065	72	1024		7	20	7	20																	139	4	1	ModStr4p	ModStr4p									0
+is100	100			32													1024		7	20																																0
+is101	101			32													1024		6	20																																0
+is102	102	1	1	32											1484	72	1024		7	20	7	20																	136	4	1	ModStr4y	ModStr4y									0
+is103	103			32													1024		7	20																																0
+is104	104			32													1024		6	20																																0
+is105	105	1	1	32											3876	156	1024		7	20	7	20																	142	4	1	ModStr4v	ModStr4v									0
+is106	106			32													1024		7	20																																0
+is107	107		1	32	9						1			1	181	256	1024		14		3		9																81	27												0
+is108	108			32							1				1987		1024		14		1													1	ev9	29			81	3		ModitemSMRIP	ModitemSMRIP									0
+is109	109			32											159	33	1024		14		9																															0
+is110	110		1	32											27	10	1024		8	20	8	20																	18	2	2	ModStr3r	ModStr3r									0
+is111	111		1	32											94	100	1024		7	20	14	20												1					122	1	2	ModStr5b	ModStr5b									0
+is112	112		1	32							1				55	10	1024		7	-1	7	-1												1	ev5	8	ev6	8	79	5	2	ModStr3u	ModStr3u									0
+is113	113		1	32							1				332	1024	1024		7		7													1	ev5	9	ev6	9	80	12	2	ModStr6d	ModStr6d									0
+is114	114		1	32							1				43	20	1024		6		6														ev1	13	ev2	13	11	2	1	ModStr3w	ModStr3w									0
+is115	115		1	32											1088	1024	1024		1		1													1					119	3		ModStr3y	ModStr3y									0
+is116	116		1	32											67	20	1024		7		7													1					118	20	1	ModStr5o	ModStr5o									0
+is117	117		1	32											48	50	1024		7		7													1					81	3		ModStr4a	ModStr4a									0
+is118	118		1	32											5096	988	1024		1		1																		19	3		ModStr4b	ModStr4b									0
+is119	119		1	32											981	40	1024		9	20	9	20												1					117	2	1	ModStr4c	ModStr4c									0
+is120	120		1	32											24	-20	1024		7	128	7	128												1					75	1	1	ModStr4d	ModStr4d									0
+is121	121		1	32											19	12	1024		9	20	9	20												1					112	4	1	ModStr4e	ModStr4e									0
+is122	122		1	32											13	12	1024		9	20	9	20												1					108	4	1	ModStr4f	ModStr4f									0
+is123	123		1	32											15	7	1024		10	128	10	128												1					110	1	1	ModStr4j	ModStr4j									0
+is124	124		1	32											11	7	1024		10	128	10	128												1					106	1	1	ModStr4k	ModStr4k									0
+is125	125		1	32											82	1024	1024		1		1																		5	3		ModStr5a	ModStr5a									0
+is126	126		1	32	3						1				76	1024	1024		4		3		3																157	1	1	ModStr3i	ModStr3i									0
+is127	127		1	32							1				15123	4096	1024		3		8																		158	1	1	ModStr3k	ModStr3k									0
+is128	128		1	32							1				4	102	1024		5		5														ev1	10			14	3	2	ModStr3j	ModStr3j									0
+is129	129		1	32													1024																																			0
+is130	130		1	32													1024																																			0
+is131	131			32													1024																																			0
+is132	132		1	32													1024																																			0
+is133	133		1	32													1024																																			0
+is134	134		1	32							1				666	12	1024		5		5													1	ev5	14	ev6	14	78	12	2	ModStr3l	ModStr3l									0
+is135	135		1	32							1				23	10	1024		7		7													1	ev5	15	ev6	15	84	2	1	ModStr3m	ModStr3m									0
+is136	136		1	32							1				98	40	1024		7		7													1	ev5	16	ev6	16	85	2	1	ModStr5c	ModStr5c									0
+is137	137		1	32											77	51	1024		7		7																		121	1	1	ModStr5e	ModStr5e									0
+is138	138		1	32							1				17	102	1024		7		7														ev9	17			16	1	1	ModStr5f	ModStr5f									0
+is139	139		1	32							1				18	102	1024		7		7														ev9	18			15	1	1	ModStr6c	ModStr6c									0
+is140	140		1	32											15	10	1024		7		7													1																		0
+is141	141		1	32											31	25	1024		7		7													1					86	2	1	ModStr5q	ModStr5q									0
+is142	142		1	32											5486	102	1024		7		7																		23	2	2	ModStr5g	ModStr5g		3	2	2	ModStrabsallpercent	ModStrabsallpercent			0
+is143	143		1	32											1739	204	1024		7		7																		30	1	1	ModStr5h	ModStr5h		4	1	1	ModStrabsall	ModStrabsall			0
+is144	144		1	32											5486	102	1024		7		7																		24	2	2	ModStr5i	ModStr5i		3	2	2	ModStrabsallpercent	ModStrabsallpercent			0
+is145	145		1	32											1739	204	1024		7		7																		30	1	1	ModStr5j	ModStr5j		4	1	1	ModStrabsall	ModStrabsall			0
+is146	146		1	32											5486	102	1024		7		7																		26	2	2	ModStr5k	ModStr5k		3	2	2	ModStrabsallpercent	ModStrabsallpercent			0
+is147	147		1	32											1739	204	1024		7		7																		33	1	1	ModStr5l	ModStr5l		4	1	1	ModStrabsall	ModStrabsall			0
+is148	148		1	32											5486	102	1024		7		7																		25	2	2	ModStr5m	ModStr5m		3	2	2	ModStrabsallpercent	ModStrabsallpercent			0
+is149	149		1	32											1739	204	1024		7		7																		31	1	1	ModStr5n	ModStr5n		4	1	1	ModStrabsall	ModStrabsall			0
+is150	150		1	32							1				101	40	1024		7		7													1	ev5	19	ev6	19	77	2	2	ModStr5r	ModStr5r									0
+is151	151		1	32							1						1024		7		8		9																159	16		ModitemAura	ModitemAura									0
+is152	152		1	32													1024		7		1																		160	3		ModStre9s	ModStre9s									0
+is153	153		1	32											15011	2048	1024		1		1																		20	3		ModStr5z	ModStr5z									0
+is154	154		1	32											102	20	1024		7	20	7	20												1					49	2	1	ModStr6e	ModStr6e									0
+is155	155			32	10						1						1024		7		7		10											1	ev9	31			17	23	1	Moditemreanimas	Moditemreanimas									0
+is156	156		1	32											1924	2048	1024		7		7													1					132	3		ModStr6g	ModStr6g									0
+is157	157		1	32											511	1024	1024		7		7																		131	3		ModStr6h	ModStr6h									0
+is158	158		1	32											492	1536	1024		7		7																		133	3		ModStr6i	ModStr6i									0
+is159	159		1	32											76	128	1024		6		6													1																		0
+is160	160		1	32											88	128	1024		7		7													1																		0
+is161	161		1	32													1024																																			0
+is162	162		1	32													1024								1			is11																								0
+is163	163		1	32													1024								1			is11																								0
+is164	164		1	32													1024																																			0
+is165	165		1	32													1024																																			0
+is166	166		1	32													1024																																			0
+is167	167		1	32													1024																																			0
+is168	168		1	32													1024																																			0
+is169	169		1	32													1024																																			0
+is170	170		1	32													1024																																			0
+is171	171		1	32													1024																																			0
+is172	172	1		32													1024																																			0
+is173	173			32													1024																																			0
+is174	174			32													1024																																			0
+is175	175			32													1024																																			0
+is176	176			32													1024																																			0
+is177	177			32													1024																																			0
+is178	178			32													1024																																			0
+is179	179			32	10										19	14	1024		3		9		10											1					108	22	1	ModitemAttratvsM	ModitemAttratvsM									0
+is180	180			32	10										27	17	1024		3		9		10											1					106	22	1	Moditemdamvsm	Moditemdamvsm									0
+is181	181	1		32													1024		14		3																															0
+is182	182	1	1	32													1024		14																																	0
+is183	183			32													1024		14																																	0
+is184	184			32													1024		14																					29		ModStre9e	ModStre9e									0
+is185	185			32													1024		14																																	0
+is186	186			32													1024		14																																	0
+is187	187			32													1024		14																																	0
+is188	188		1	32	6						1				11042	768	1024		10		3		16																151	14		StrSklTabItem1	StrSklTabItem1									0
+is189	189			32													1024		10																																	0
+is190	190			32													1024		10																																	0
+is191	191			32													1024		10																																	0
+is192	192			32													1024		10																																	0
+is193	193			32													1024		10																																	0
+is194	194		1	32											38	170	1024		4		4												1																			0
+is195	195		1	32	16						1			2	190	256	1024		21		7		16											1	ev7	20	ev8	20	160	15		ItemExpansiveChancX	ItemExpansiveChancX									0
+is196	196		1	32	16						1			2	85	19	1024		21		7		16											1	ev9	30			160	15		ModitemskonKill	ModitemskonKill									0
+is197	197		1	32	16						1			2	11	9	1024		21		7		16												ev10	30			160	15		Moditemskondeath	Moditemskondeath									0
+is198	198		1	32	16						1			2	190	256	1024		21		7		16											1	ev5	20	ev6	20	160	15		ItemExpansiveChanc1	ItemExpansiveChanc1									0
+is199	199		1	32	16						1			2	7	6	1024		21		7		16												ev12	30			160	15		ModitemskonLevel	ModitemskonLevel									0
+is200	200		1	32			1		32					3	401	256	1024		30												1																					0
+is201	201		1	32	16						1			2	190	256	1024		21		7		16												ev1	21	ev2	21	160	15		ItemExpansiveChanc2	ItemExpansiveChanc2									0
+is202	202			32													1024		21																																	0
+is203	203			32													1024		21																																	0
+is204	204		1	32							1			3	401	256	1024		30		16		16																1	24		ModStre10d	ModStre10d									0
+is205	205		1	32										3	401	256	1024		30																																	0
+is206	206		1	32			1	1	8					3	401	256	1024		30		6																															0
+is207	207		1	32										3	401	256	1024		30																																	0
+is208	208		1	32										3	401	256	1024		30																																	0
+is209	209		1	32										3	401	256	1024		30																																	0
+is210	210		1	32										3	401	256	1024		30																																	0
+is211	211		1	32										3	401	256	1024		30																				8	2	1	ModStre9f	ModStre9f									0
+is212	212		1	32										3	401	256	1024		30																																	0
+is213	213		1	32										3	401	256	1024		30																				8889	3		ModStre9g	ModStre9g									0
+is214	214		1	32											43	42	1024		6		6				4	3	is12	is31											72	6	1	ModStr1i	ModStr1i	increaseswithplaylevelX								0
+is215	215		1	32											87	100	1024		6		6				5	3	is12	is31											73	8	1	Modstr2v	Modstr2v	increaseswithplaylevelX								0
+is216	216		1	32											92	64	1024	8	6		6				2	3	is12	is7											57	6	1	ModStr1u	ModStr1u	increaseswithplaylevelX								0
+is217	217		1	32											90	128	1024	8	6		6				2	3	is12	is9											53	6	1	ModStr1e	ModStr1e	increaseswithplaylevelX								0
+is218	218		1	32											54	204	1024		6		6				4	3	is12	is22	is24	is160				1					125	6	1	ModStr1f	ModStr1f	increaseswithplaylevelX								0
+is219	219		1	32											86	100	1024		6		6				5	3	is12	is22	is24	is160				1					128	8	1	ModStr2j	ModStr2j	increaseswithplaylevelX								0
+is220	220		1	32											132	128	1024		6		6				2	3	is12	is0											66	6	1	ModStr1a	ModStr1a	increaseswithplaylevelX								0
+is221	221		1	32											132	128	1024		6		6				2	3	is12	is2											64	6	1	ModStr1b	ModStr1b	increaseswithplaylevelX								0
+is222	222		1	32											105	128	1024		6		6				2	3	is12	is1											60	6	1	ModStr1d	ModStr1d	increaseswithplaylevelX								0
+is223	223		1	32											105	128	1024		6		6				2	3	is12	is3											62	6	1	ModStr1c	ModStr1c	increaseswithplaylevelX								0
+is224	224		1	32											53	20	1024		6		6				2	1	is12	is19						1					114	6	1	ModStr1h	ModStr1h	increaseswithplaylevelX								0
+is225	225		1	32											10	256	1024		6		6				2	1	is12	is119						1					116	7	1	ModStr4c	ModStr4c	increaseswithplaylevelX								0
+is226	226		1	32											1058	340	1024		6		6				2	3	is12	is55						1					94	6	1	ModStr1s	ModStr1s	increaseswithplaylevelX								0
+is227	227		1	32											49	128	1024		6		6				2	3	is12	is49						1					100	6	1	ModStr1o	ModStr1o	increaseswithplaylevelX								0
+is228	228		1	32											49	128	1024		6		6				2	3	is12	is51						1					97	6	1	ModStr1q	ModStr1q	increaseswithplaylevelX								0
+is229	229		1	32											49	128	1024		6		6				2	3	is12	is58						1					90	6	1	ModStr4h	ModStr4h	increaseswithplaylevelX								0
+is230	230		1	32											101	128	1024		6		6				2	3	is12	is43											39	7	2	ModStr1k	ModStr1k	increaseswithplaylevelX								0
+is231	231		1	32											101	128	1024		6		6				2	3	is12	is39											35	7	2	ModStr1j	ModStr1j	increaseswithplaylevelX								0
+is232	232		1	32											101	128	1024		6		6				2	3	is12	is41											37	7	2	ModStr1l	ModStr1l	increaseswithplaylevelX								0
+is233	233		1	32											101	128	1024		6		6				2	3	is12	is45											33	7	2	ModStr1n	ModStr1n	increaseswithplaylevelX								0
+is234	234		1	32											207	340	1024		6		6				2	3	is12	is149											32	6	1	ModStre9p	ModStre9p	increaseswithplaylevelX								0
+is235	235		1	32											207	340	1024		6		6				2	3	is12	is143											28	6	1	ModStre9o	ModStre9o	increaseswithplaylevelX								0
+is236	236		1	32											207	340	1024		6		6				2	3	is12	is145											30	6	1	ModStre9q	ModStre9q	increaseswithplaylevelX								0
+is237	237		1	32											207	340	1024		6		6				2	3	is12	is147																								0
+is238	238		1	32											55	256	1024		6		5				2	3	is12	is78											12	9	2	ModStr1v	ModStr1v	increaseswithplaylevelX								0
+is239	239		1	32											42	256	1024		6		6				2	3	is12	is79											9	7	1	ModStr1w	ModStr1w	increaseswithplaylevelX								0
+is240	240		1	32											814	1024	1024		6		6				2	3	is12	is80											7	7	1	ModStr1x	ModStr1x	increaseswithplaylevelX								0
+is241	241		1	32											79	256	1024		6		6				2	3	is12	is28											47	8	2	ModStr3v	ModStr3v	increaseswithplaylevelX								0
+is242	242		1	32											104	64	1024		6		6				2	3	is12	is11											50	6	1	ModStr5d	ModStr5d	increaseswithplaylevelX								0
+is243	243		1	32											56	10	1024		6		6				2	3	is12	is121						1					111	8	1	ModStr4e	ModStr4e	increaseswithplaylevelX								0
+is244	244		1	32											91	10	1024		6		6				2	3	is12	is122						1					107	8	1	ModStr4f	ModStr4f	increaseswithplaylevelX								0
+is245	245		1	32											55	10	1024		6		6				2	1	is12	is123						1					109	6	1	ModStr4j	ModStr4j	increaseswithplaylevelX								0
+is246	246		1	32											12	10	1024		6		6				2	1	is12	is124						1					105	6	1	ModStr4k	ModStr4k	increaseswithplaylevelX								0
+is247	247		1	32											213	1024	1024		6		6				2	3	is12	is136						1					85	7	1	ModStr5c	ModStr5c	increaseswithplaylevelX								0
+is248	248		1	32											181	128	1024		6		6				2	3	is12	is135						1					84	7	1	ModStr3m	ModStr3m	increaseswithplaylevelX								0
+is249	249		1	32											104	128	1024		6		6				2	3	is12	is137						1					120	6	1	ModStr5e	ModStr5e	increaseswithplaylevelX								0
+is250	250		1	32											118	512	1024		6		6				2	3	is12	is141						1					86	7	1	ModStr5q	ModStr5q	increaseswithplaylevelX								0
+is251	251		1	32													1024																																			0
+is252	252		1	32											106	256	1024		5		6																		1	11		ModStre9t	ModStre9t									0
+is253	253		1	32											106	256	1024		5		6																		2	3		ModStre9v	ModStre9v									0
+is254	254		1	32											99	10	1024		8		8																		4	3		ModStre9i	ModStre9i									0
+is255	255		1	32													1024																																			0
+is256	256		1	32													1024																	1																		0
+is257	257		1	32													1024																	1																		0
+is258	258		1	32													1024																	1																		0
+is259	259		1	32													1024																	1																		0
+is260	260		1	32													1024																	1																		0
+is261	261		1	32													1024																	1																		0
+is262	262		1	32													1024																																			0
+is263	263		1	32													1024																																			0
+is264	264		1	32													1024																																			0
+is265	265		1	32													1024																																			0
+is266	266		1	32													1024																																			0
+is267	267		1	32													1024																																			0
+is268	268		1	32										4			1024		22		22				6			is31											180	17	1	ModStr1i	ModStr1i									0
+is269	269		1	32										4			1024		22		22				7			is31											180	18	1	Modstr2v	Modstr2v									0
+is270	270		1	32										4			1024		22		22				6			is7											180	17	1	ModStr1u	ModStr1u									0
+is271	271		1	32										4			1024		22		22				6			is9											180	17	1	ModStr1e	ModStr1e									0
+is272	272		1	32										4			1024		22		22				6			is22	is24	is160				1					180	17	1	ModStr1f	ModStr1f									0
+is273	273		1	32										4			1024		22		22				7			is22	is23	is159				1					180	18	1	ModStr2j	ModStr2j									0
+is274	274		1	32										4			1024		22		22				6			is0											180	17	1	ModStr1a	ModStr1a									0
+is275	275		1	32										4			1024		22		22				6			is2											180	17	1	ModStr1b	ModStr1b									0
+is276	276		1	32										4			1024		22		22				6			is1											180	17	1	ModStr1d	ModStr1d									0
+is277	277		1	32										4			1024		22		22				6			is3											180	17	1	ModStr1c	ModStr1c									0
+is278	278		1	32										4			1024		22		22				6			is19						1					180	17	1	ModStr1h	ModStr1h									0
+is279	279		1	32										4			1024		22		22				6			is119						1					180	18	1	ModStr4c	ModStr4c									0
+is280	280		1	32										4			1024		22		22				6			is55						1					180	17	1	ModStr1s	ModStr1s									0
+is281	281		1	32										4			1024		22		22				6			is49						1					180	17	1	ModStr1o	ModStr1o									0
+is282	282		1	32										4			1024		22		22				6			is51						1					180	17	1	ModStr1q	ModStr1q									0
+is283	283		1	32										4			1024		22		22				6			is58						1					180	17	1	ModStr4h	ModStr4h									0
+is284	284		1	32										4			1024		22		22				6			is43											180	18	2	ModStr1k	ModStr1k									0
+is285	285		1	32										4			1024		22		22				6			is39											180	18	2	ModStr1j	ModStr1j									0
+is286	286		1	32										4			1024		22		22				6			is41											180	18	2	ModStr1l	ModStr1l									0
+is287	287		1	32										4			1024		22		22				6			is45											180	18	2	ModStr1n	ModStr1n									0
+is288	288		1	32										4			1024		22		22				6			is149											180	18	1	ModStre9p	ModStre9p									0
+is289	289		1	32										4			1024		22		22				6			is143											180	18	1	ModStre9o	ModStre9o									0
+is290	290		1	32										4			1024		22		22				6			is145											180	18	1	ModStre9q	ModStre9q									0
+is291	291		1	32										4			1024		22		22				6			is147																								0
+is292	292		1	32										4			1024		22		22				6			is79											180	18	2	ModStr1w	ModStr1w									0
+is293	293		1	32										4			1024		22		22				6			is80											180	18	1	ModStr1x	ModStr1x									0
+is294	294		1	32										4			1024		22		22				6			is28											180	18	2	ModStr3v	ModStr3v									0
+is295	295		1	32										4			1024		22		22				6			is11											180	17	1	ModStr5d	ModStr5d									0
+is296	296		1	32										4			1024		22		22				6			is121						1					180	18	1	ModStr4e	ModStr4e									0
+is297	297		1	32										4			1024		22		22				6			is122						1					180	18	1	ModStr4f	ModStr4f									0
+is298	298		1	32										4			1024		22		22				6			is123						1					180	17	1	ModStr4j	ModStr4j									0
+is299	299		1	32										4			1024		22		22				6			is124						1					180	17	1	ModStr4k	ModStr4k									0
+is300	300		1	32										4			1024		22		22				6			is136						1					180	18	1	ModStr5c	ModStr5c									0
+is301	301		1	32										4			1024		22		22				6			is135						1					180	18	1	ModStr3m	ModStr3m									0
+is302	302		1	32										4			1024		22		22				6			is137						1					180	17	1	ModStr5e	ModStr5e									0
+is303	303		1	32										4			1024		22		22				6			is141						1					180	18	1	ModStr5q	ModStr5q									0
+is304	304		1	32										4			1024																																			0
+is305	305		1	32											1432	513	1024				8	50																	88	20	1	Moditemenrescoldsk	Moditemenrescoldsk									0
+is306	306		1	32											1240	497	1024				8	50																	88	20	1	Moditemenresfiresk	Moditemenresfiresk									0
+is307	307		1	32											1187	481	1024				8	50																	88	20	1	Moditemenresltngsk	Moditemenresltngsk									0
+is308	308		1	32											1322	506	1024				8	50																	88	20	1	Moditemenrespoissk	Moditemenrespoissk									0
+is309	309		1	32													1024																	1																		0
+is310	310		1	32													1024																	1																		0
+is311	311		1	32													1024																	1																		0
+is312	312		1	32													1024																	1																		0
+is313	313		1	32													1024																																			0
+is314	314		1	32													1024																																			0
+is315	315		1	32													1024																																			0
+is316	316		1	32													1024																																			0
+is317	317		1	32													1024																																			0
+is318	318		1	32													1024																																			0
+is319	319		1	32													1024																																			0
+is320	320		1	32													1024																																			0
+is321	321		1	32													1024																																			0
+is322	322		1	32													1024																																			0
+is323	323		1	32													1024																																			0
+is324	324		1	32													1024		6		6												1	1																		0
+is325	325		1	32													1024																																			0
+is326	326		1	32													1024																	1																		0
+is327	327		1	32													1024																																			0
+is328	328		1	32													1024																																			0
+is329	329		1	32											1117	415	1024		8		9	50																	88	4	1	ModitemdamFiresk	ModitemdamFiresk									0
+is330	330		1	32											1054	408	1024		8		9	50																	88	4	1	ModitemdamLtngsk	ModitemdamLtngsk									0
+is331	331		1	32											1295	379	1024		8		9	50																	88	4	1	ModitemdamColdsk	ModitemdamColdsk									0
+is332	332		1	32											978	394	1024		8		9	50																	88	4	1	ModitemdamPoissk	ModitemdamPoissk									0
+is333	333		1	32												2578	1024		8		8																		87	20	1	Moditemenresfiresk	Moditemenresfiresk		6	20	1	Moditem6allpierce	Moditem6allpierce			0
+is334	334		1	32												2493	1024		8		8																		87	20	1	Moditemenresltngsk	Moditemenresltngsk		6	20	1	Moditem6allpierce	Moditem6allpierce			0
+is335	335		1	32												1984	1024		8		8																		87	20	1	Moditemenrescoldsk	Moditemenrescoldsk		6	20	1	Moditem6allpierce	Moditem6allpierce			0
+is336	336		1	32												2345	1024		8		8																		87	20	1	Moditemenrespoissk	Moditemenrespoissk		6	20	1	Moditem6allpierce	Moditem6allpierce			0
+is337	337		1	32													1024		8		8																															0
+is338	338		1	32													1024		7		7																															0
+is339	339		1	32													1024		7		7																															0
+is340	340		1	32													1024		7		7																															0
+is341	341		1	32													1024		8		8																															0
+is342	342		1	32	8												1024		8		8																															0
+is343	343		1	32	8												1024		8		8																															0
+is344	344		1	32	8												1024		8		8																															0
+is345	345		1	32	8												1024		8		8																															0
+is346	346		1	32	8												1024		8		8																															0
+is347	347		1	32	8												1024		8		8																															0
+is348	348		1	32	8												1024		8		8																															0
+is349	349		1	32													1024		8		8																															0
+is350	350			32													1024																																			0
+is351	351			32													1024																																			0
+is352	352		1	32													1024																																			0
+is353	353			32													1024																																			0
+is354	354			32													1024																																			0
+is355	355			32													1024																																			0
+is356	356			32													1024				2																															0
+is357	357		1	32											1211	431	1024		8		9	50																	88	4	1	ModitemdamMagsk	ModitemdamMagsk									0
+is358	358		1	32												2812	1024		8		8																		87	20	1	Moditemenremagsk	Moditemenremagsk		6	20	1	Moditem6allpierce	Moditem6allpierce			0
+is359	359		1	9											1091	409	1024		5		6																		46	4	1	Moditemmaxdmgresist	Moditemmaxdmgresist		7	4	2	Moditem2resmax	Moditem2resmax			
+is360	360		1	9												2812	1024		8		8																		88	20	1	Moditemenresdmgsk	Moditemenresdmgsk		6	20	1	Moditem6allpierce	Moditem6allpierce			
+is361	361		1	7											5486	102	1024		7		7																		23	2	2	Moditemabsdmgpercent	Moditemabsdmgpercent		3	2	2	ModStrabsallpercent	ModStrabsallpercent			
+is362	362		1	24											1739	204	1024		20		20																		27	1	1	Moditemabsdmg	Moditemabsdmg		4	1	1	ModStrabsall	ModStrabsall			
+is363	363		1	7											5486	102	1024		7		7																		23	2	2	Moditemabspoispercent	Moditemabspoispercent		3	2	2	ModStrabsallpercent	ModStrabsallpercent			
+is364	364		1	24											1739	204	1024		20		20																		27	1	1	Moditemabspois	Moditemabspois		4	1	1	ModStrabsall	ModStrabsall			
+is365	365		1	32										3	401	256	1024		30																																	
+is366	366		1	32										3	401	256	1024		30																																	
+is367	367		1	12										3	401	256	1024		30		12																															
+is368	368		1	12										3	401	256	1024		30		12																															
+is369	369		1	32										3	401	256	1024		30		7																		2	4	1											
+is370	370		1	32										3	401	256	1024		30		7																		3	4	1											
+is371	371			32										3	401	256	1024		30		32																		1	3												
+is372	372		1														1024				3																		220	1	1	Modstrduanzao	Modstrduanzao	Modstrduanzao		1	1	Modstrduanzao	Modstrduanzao			
+is373	373		1	32			1	1	16										8		16																		199	1	1	Modstrxinnian	Modstrxinnian			1	1	Modstrxinnian	Modstrxinnian			
+is374	374		1														1024				3																		220	3		Modstrshanggu	Modstrshanggu	Modstrshanggu		1	1	Modstrshanggu	Modstrshanggu			
+is375	375		1														1024				3																		220	3		Modstryuangu	Modstryuangu	Modstryuangu		1	1	Modstryuangu	Modstryuangu			
+is376	376		1														1024				4																		198	1	1	Modstrshengji	Modstrshengji			1	1	Modstrshengji	Modstrshengji			
+is377	377																																																			
+is378	378		1	6													1024				4																															
+is379	379		1	32			1		32								1024														1								88	1	1											
+is380	380			32													1024				10																															
+is381	381			32													1024		32		32																															
+is382	382			32													1024		32		32																															
+is383	383			32													1024		32		32																															
+is384	384			32													1024		32		32																															
+is385	385			32													1024		32		32																															
+is386	386			32													1024		32		32																															
+is387	387			32													1024		32		32																															
+is388	388			32													1024		32		32																															
+is389	389			32													1024		32		32																															
+is390	390			32													1024		32		32																															
+is391	391			32													1024		32		32																															
+is392	392			32													1024		32		32																															
+is393	393			32													1024		32		32																															
+is394	394			32													1024		32		32																															
+is395	395			32													1024		32		32																															
+is396	396			32													1024		32		32																															
+is397	397			32													1024		32		32																															
+is398	398			32													1024		32		32																															
+is399	399			32													1024		32		32																															
+is400	400			32													1024		32		32																															
+is401	401			32													1024		32		32																															
+is402	402			32													1024		32		32																															
+is403	403			32													1024		32		32																															
+is404	404			32													1024		32		32																															
+is405	405			32													1024		32		32																															
+is406	406			32													1024		32		32																															
+is407	407			32													1024		32		32																															
+is408	408			32													1024		32		32																															
+is409	409			32													1024		32		32																															
+is410	410			32													1024		32		32																															
+is411	411			32													1024		32		32																															
+is412	412			32													1024		32		32																															
+is413	413			32											170	100	1024		10	10	16	1000																	9980	4	1	diaolv	diaolv									
+is414	414			32											101	128	1024		12		12																		201	1	2	diaolv	diaolv									
+is415	415			32			1		32								1024														1																					
+is416	416			32													1024				1				2		is200	is415			1								180	3	2	KillCount	KillCount									
+is417	417			32													1024																																			
+is418	418			32													1024				1				2	12	is200	is417											220	3	2	dianfenglevel	dianfenglevel									
+is419	419		1	32															8		16																		89	4	1	Modstrxin	Modstrxin			1	1	Modstrxin	Modstrxin			
+is420	420		1	32															8		32																		199	1	1	Modstrmoney	Modstrmoney			1	1	Modstrmoney	Modstrmoney			
+is421	421		1	32															8		32																															
+is422	422		1	32															8		32																															
+is423	423		1	32															8		32																															
+is424	424		1	32															8		32																															
+is425	425			6													1024				2																			3		Modrwavailability	Modrwavailability									
+is426	426			6													1024				4																		997	3	1											
+is427	427			10											1987		1024		14		10																		9970	3		zhanghaobangding	zhanghaobangding									
+is428	428			32													1024		32	32	32	32											1																			
+is429	429		1														1024				9																		88	1	1	Modstrdianfu	Modstrdianfu									
+is430	430		1														1024				9																		88	1	1	Modstrbingfu	Modstrbingfu									
+is431	431		1														1024				9																		88	1	1	Modstrhuofu	Modstrhuofu									
+is432	432		1														1024				9																		88	1	1	Modstrdufu	Modstrdufu									
+is433	433		1														1024				9																		88	1	1	Modstrwulifu	Modstrwulifu									
+is434	434		1														1024				9																		88	1	1	Modstrmofu	Modstrmofu									
+is435	435		1	32															8		32																		88	1	1	Modstrjia1	Modstrjia1			1	1	Modstrjia1	Modstrjia1			
+is436	436		1	32															8		32																		88	1	1	Modstrjia2	Modstrjia2			1	1	Modstrjia2	Modstrjia2			
+is437	437		1	32															8		32																		88	1	1	Modstrjia17	Modstrjia17			1	1	Modstrjia17	Modstrjia17			
+is438	438		1	32															8		32																		88	1	1	Modstrjia3	Modstrjia3			1	1	Modstrjia3	Modstrjia3			
+is439	439		1	32															8		32																		88	1	1	Modstrjia4	Modstrjia4			1	1	Modstrjia4	Modstrjia4			
+is440	440		1	32															8		32																		88	1	1	Modstrjia18	Modstrjia18			1	1	Modstrjia18	Modstrjia18			
+is441	441		1	32															8		32																		88	1	1	Modstrjia5	Modstrjia5			1	1	Modstrjia5	Modstrjia5			
+is442	442		1	32															8		32																		88	1	1	Modstrjia6	Modstrjia6			1	1	Modstrjia6	Modstrjia6			
+is443	443		1	32															8		32																		88	1	1	Modstrjia14	Modstrjia14			1	1	Modstrjia14	Modstrjia14			
+is444	444		1	32															8		32																		88	1	1	Modstrjia9	Modstrjia9			1	1	Modstrjia9	Modstrjia9			
+is445	445		1	32															8		32																		88	1	1	Modstrjia10	Modstrjia10			1	1	Modstrjia10	Modstrjia10			
+is446	446		1	32															8		32																		88	1	1	Modstrjia13	Modstrjia13			1	1	Modstrjia13	Modstrjia13			
+is447	447		1	32															8		32																		88	1	1	Modstrjia11	Modstrjia11			1	1	Modstrjia11	Modstrjia11			
+is448	448		1	32															8		32																		88	1	1	Modstrjia12	Modstrjia12			1	1	Modstrjia12	Modstrjia12			
+is449	449		1	32															8		32																		88	1	1	Modstrjia15	Modstrjia15			1	1	Modstrjia15	Modstrjia15			
+is450	450		1	32															8		32																		88	1	1	Modstrjia7	Modstrjia7			1	1	Modstrjia7	Modstrjia7			
+is451	451		1	32															8		32																		88	1	1	Modstrjia8	Modstrjia8			1	1	Modstrjia8	Modstrjia8			
+is452	452		1	32															8		32																		88	1	1	Modstrjia16	Modstrjia16			1	1	Modstrjia16	Modstrjia16			
+is453	453		1	32			1	1	32										14		32		16																2	1	1	Modstramalf	Modstramalf									
+is454	454		1	32			1	1	32								1024		14		32		16																2	1	1	Modstramasdq	Modstramasdq									
+is455	455		1	32			1	1	32										14		32		16																2	1	1	Modstramaxsj	Modstramaxsj									
+is456	456		1	32			1	1	32								1024		14		32		16																2	1	1	Modstrnecdb	Modstrnecdb									
+is457	457		1	32			1	1	32								1024		14		32		16																2	1	1	Modstrnecgm	Modstrnecgm									
+is458	458		1	32			1	1	32										14		32		16																2	1	1	Modstrnecba	Modstrnecba									
+is459	459		1	32			1	1	32								1024		14		32		16																2	1	1	Modstrpalbh	Modstrpalbh									
+is460	460		1	32			1	1	32								1024		14		32		16																2	1	1	Modstrpaltt	Modstrpaltt									
+is461	461		1	32			1	1	32										14		32		16																2	1	1	Modstrpalzh	Modstrpalzh									
+is462	462		1	32			1	1	32										14		32		16																2	1	1	Modstrsorbiz	Modstrsorbiz									
+is463	463		1	32			1	1	32										14		32		16																2	1	1	Modstrsorls	Modstrsorls									
+is464	464		1	30			1	1	32								1024		14		32		16																2	1	1	Modstrsorys	Modstrsorys									
+is465	465		1	32			1	1	32								1024		14		32		16																2	1	1	Modstrbardu	Modstrbardu									
+is466	466		1	30			1	1	32					3	401	256	1024		30		32		16																2	1	1	Modstrbarwc	Modstrbarwc									
+is467	467		1	32			1	1	32										14		32		16																2	1	1	Modstrbarmo	Modstrbarmo									
+is468	468		1	32			1	1	32								1024		14		32		16																2	1	1	Modstrasnfb	Modstrasnfb									
+is469	469		1	30			1	1	32					3	401	256	1024		30		32		16																2	1	1	Modstrasndw	Modstrasndw									
+is470	470		1	32			1	1	32										14		32		16																2	1	1	Modstrasnmo	Modstrasnmo									
+is471	471		1	32			1	1	32								1024		14		32		16																2	1	1	Modstrdrubf	Modstrdrubf									
+is472	472		1	32			1	1	32								1024		14		32		16																2	1	1	Modstrdruht	Modstrdruht									
+is473	473		1	32			1	1	32										14		32		16																2	1	1	Modstrdruzb	Modstrdruzb									
+is474	474		1														1024				3																		220	3		Modstrtaigu	Modstrtaigu	Modstrtaigu		1	1	Modstrtaigu	Modstrtaigu			
+is475	475		1	32			1	1	16										8		16																		199	1	1	Modstrzhengyi	Modstrzhengyi			1	1	Modstrzhengyi	Modstrzhengyi			
+is476	476			6													1024				10																			3	2	wupinsm	wupinsm									
+is477	477		1	11													1024		14		2																															
+is478	478		1	11													1024		14		2																															
+is479	479		1	11													1024		14		4																															
+is480	480		1	11													1024		14		7																			3	1	zuoqifumo	zuoqifumo									
+is481	481		1	11													1024		14		7	7																		3	1	zuoqizhongcheng	zuoqizhongcheng									
+is482	482		1	11													1024		14		7	7																				zhengyifumo	zhengyifumo									
+is483	483		1	3													1024				3																		220	3		Modstrchuanqi	Modstrchuanqi	Modstrchuanqi		1	1	Modstrchuanqi	Modstrchuanqi			
+is484	484		1	11													1024		14		7	7																		3	1	Zuoqistar	Zuoqistar									
+is485	485			8													1024																																			
+is486	486		1	32											32093	204	1024		6	10	32	10			2		is417	is331											58	8	1	ModitemdamColdsk	ModitemdamColdsk	increaseswithplaylevelDF								
+is487	487		1	32											32093	204	1024		6	10	32	10			2		is417	is329											58	8	1	ModitemdamFiresk	ModitemdamFiresk	increaseswithplaylevelDF								
+is488	488		1	32											32093	204	1024		6	10	32	10			2		is417	is330											58	8	1	ModitemdamLtngsk	ModitemdamLtngsk	increaseswithplaylevelDF								
+is489	489		1	32											32093	204	1024		6	10	32	10			2		is417	is332											58	8	1	ModitemdamPoissk	ModitemdamPoissk	increaseswithplaylevelDF								
+is490	490		1	32											32093	204	1024		6	10	32	10			2		is417	is357											58	8	1	ModitemdamMagsk	ModitemdamMagsk	increaseswithplaylevelDF								
+is491	491		1	32											32093	204	1024		6	10	32	10			2		is417	is419											58	8	1	Modstrxin	Modstrxin	increaseswithplaylevelDF								
+is492	492			32													1024				8																		220	3		Modstr_immune_phy_pierce	Modstr_immune_phy_pierce		8	3		Modstr_immune_ALL_pierce	Modstr_immune_ALL_pierce			
+is493	493			32													1024				8																		220	3		Modstr_immune_mag_pierce	Modstr_immune_mag_pierce		8	3		Modstr_immune_ALL_pierce	Modstr_immune_ALL_pierce			
+is494	494			32													1024				8																		220	3		Modstr_Immune_fire_pierce	Modstr_Immune_fire_pierce		8	3		Modstr_immune_ALL_pierce	Modstr_immune_ALL_pierce			
+is495	495			32													1024				8																		220	3		Modstr_immune_ltng_pierce	Modstr_immune_ltng_pierce		8	3		Modstr_immune_ALL_pierce	Modstr_immune_ALL_pierce			
+is496	496			32													1024				8																		220	3		Modstr_immune_cold_pierce	Modstr_immune_cold_pierce		8	3		Modstr_immune_ALL_pierce	Modstr_immune_ALL_pierce			
+is497	497			32													1024				8																		220	3		Modstr_immune_pois_pierce	Modstr_immune_pois_pierce		8	3		Modstr_immune_ALL_pierce	Modstr_immune_ALL_pierce			

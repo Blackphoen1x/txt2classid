@@ -1,0 +1,64 @@
+index	name	version	level	PCode2a	PParam2a	PMin2a	PMax2a	PCode2b	PParam2b	PMin2b	PMax2b	PCode3a	PParam3a	PMin3a	PMax3a	PCode3b	PParam3b	PMin3b	PMax3b	PCode4a	PParam4a	PMin4a	PMax4a	PCode4b	PParam4b	PMin4b	PMax4b	PCode5a	PParam5a	PMin5a	PMax5a	PCode5b	PParam5b	PMin5b	PMax5b	FCode1	FParam1	FMin1	FMax1	FCode2	FParam2	FMin2	FMax2	FCode3	FParam3	FMin3	FMax3	FCode4	FParam4	FMin4	FMax4	FCode5	FParam5	FMin5	FMax5	FCode6	FParam6	FMin6	FMax6	FCode7	FParam7	FMin7	FMax7	FCode8	FParam8	FMin8	FMax8	*eol
+se0	Civerb's Vestments		13	pr31	0	15	15																													pr7	0	15	15	pr99	0	200	200	pr33	0	25	25																					0
+se1	Hsarus' Defense		4	pr54	0	5	5																													pr28	0	5	5	pr115	0	1	1	pr33	0	25	25																					0
+se2	Cleglaw's Brace		6	pr0	0	50	50																													pr0	0	50	50	pr65	0	6	6	pr108	0	35	35	pr56	0	20	20																	0
+se3	Iratha's Finery		21	pr0	0	50	50					pr77	0	20	20																					pr41	0	20	20	pr32	0	10	10	pr36	0	10	10	pr34	0	10	10	pr40	0	10	10	pr8	0	15	15									0
+se4	Isenhart's Armory		11	pr7	0	10	10					pr8	0	10	10																					pr66	0	5	5	pr41	0	10	10	pr96	0	35	35	pr16	0	30	30	pr77	0	20	20													0
+se5	Vidala's Rig		19	pr15	0	75	75					pr8	0	15	15																					pr137	50	15	20	pr106	0	1	1	pr118	0	50	50	pr7	0	10	10																	0
+se6	Milabrega's Regalia		23	pr15	0	75	75					pr15	0	125	125																					pr66	0	8	8	pr68	0	2	2	pr65	0	10	10	pr39	0	15	15																	0
+se7	Cathan's Traps		15	pr134	0	15	20					pr33	0	25	25																					pr15	0	60	60	pr6	0	3	3	pr41	0	25	25	pr85	0	10	10	pr11	0	20	20													0
+se8	Tancred's Battlegear		27	pr135	0	15	15					pr66	0	5	5																					pr58	0	75	75	pr41	0	10	10	pr114	0	35	35	pr65	0	5	5																	0
+se9	Sigon's Complete Steel		9	pr66	0	10	10					pr0	0	100	100																					pr31	0	12	12	pr54	0	12	12	pr3	0	7	7	pr21	0	24	24	pr11	0	20	20													0
+se10	Infernal Tools		7	pr138	80	25	25					pr11	0	10	10																					pr96	0	20	20	pr69	0	1	1	pr107	0	20	20	pr65	0	6	6																	0
+se11	Berserker's Garb		5	pr13	0	50	50																													pr88	0	75	75	pr24	0	16	16	pr25	0	32	32	pr26	0	75	75	pr0	0	75	75													0
+se12	Death's Disguise		8	pr66	0	8	8																													pr96	0	40	40	pr27	0	10	10	pr41	0	25	25																					0
+se13	Angelical Raiment		17	pr8	0	10	10					pr11	0	50	50																					pr41	0	25	25	pr95	0	1	1	pr59	0	40	40	pr62	0	8	8																	0
+se14	Arctic Gear		3	pr7	0	5	5					pr13	0	50	50																					pr17	0	6	6	pr18	0	14	14	pr19	0	100	100	pr115	0	1	1																	0
+se15	Arcanna's Tricks		20	pr11	0	25	25					pr13	0	50	50																					pr87	0	20	20	pr65	0	5	5	pr11	0	25	25																					0
+Expansion																																																																				
+se16	Natalya's Odium	100	22	pr6	0	15	15					pr0	0	200	200					pr39	0	20	20													pr41	0	50	50	pr122	0	3	3	pr0	0	150	150	pr66	0	14	14	pr65	0	14	14	pr4	0	30	30	pr262	0	1	1					0
+se17	Aldur's Watchtower	100	29	pr96	0	150	150					pr59	0	50	50					pr66	0	10	10													pr41	0	50	50	pr121	0	3	3	pr0	0	150	150	pr65	0	10	10	pr11	0	150	150	pr29	0	350	350	pr266	175	1	1					0
+se18	Immortal King	100	37	pr15	0	50	50					pr15	0	75	75					pr15	0	125	125					pr15	0	200	200					pr41	0	50	50	pr71	0	3	3	pr13	0	150	150	pr6	0	10	10	pr266	175	1	1													0
+se19	Tal Rasha's Wrappings	100	26	pr53	0	10	10					pr59	0	65	65					pr81	0	25	25													pr41	0	50	50	pr70	0	3	3	pr0	0	150	150	pr13	0	150	150	pr1	0	50	50	pr266	175	1	1									0
+se20	Griswold's Legacy	100	44	pr7	0	20	20					pr8	0	30	30																					pr41	0	50	50	pr68	0	3	3	pr15	0	200	200	pr13	0	150	150	pr266	175	1	1	pr81	0	30	30									0
+se21	Trang-Oul's Avatar	100	32	pr62	0	15	15	pr265	47	18	18	pr62	0	15	15	pr265	51	13	13	pr62	0	15	15	pr265	56	10	10									pr41	0	50	50	pr69	0	3	3	pr11	0	100	100	pr0	0	200	200	pr266	176	1	1	pr62	0	15	15	pr265	61	3	3	pr66	0	20	20	0
+se22	M'avina's Battle Hymn	100	21	pr7	0	20	20					pr8	0	30	30																					pr41	0	50	50	pr67	0	3	3	pr0	0	100	100	pr15	0	100	100	pr59	0	100	100	pr266	175	1	1									0
+se23	The Disciple	100	39	pr0	0	150	150					pr138	75	75	75					pr7	0	10	10					pr8	0	10	10					pr41	0	50	50	pr104	0	2	2	pr11	0	100	100																					0
+se24	Heaven's Brethren	100	55	pr61	0	50	50					pr53	0	20	20					pr134	0	30	30													pr41	0	50	50	pr104	0	2	2	pr115	0	1	1	pr73	0	5	5																	0
+se25	Orphan's Call	100	41	pr13	0	35	35					pr54	0	5	5					pr0	0	100	100													pr13	0	50	50	pr8	0	10	10	pr7	0	20	20	pr0	0	100	100	pr41	0	15	15	pr59	0	80	80									0
+se26	Hwanin's Majesty	100	28	pr0	0	100	100					pr0	0	200	200																					pr104	0	2	2	pr66	0	20	20	pr78	0	30	30	pr41	0	30	30																	0
+se27	Sazabi's Grand Tribute	100	34	pr78	0	40	40																													pr41	0	30	30	pr66	0	15	15	pr14	0	27	27																					0
+se28	Bul-Kathos' Children	100	50																																	pr134	0	20	20	pr104	0	2	2	pr15	0	200	200	pr0	0	25	25	pr99	0	200	200	pr98	0	200	200									0
+se29	Cow King's Leathers	100	20	pr39	0	25	25																													pr63	0	100	100	pr7	0	20	20	pr58	0	100	100	pr59	0	100	100	pr128	42	25	5	pr57	0	30	30									0
+se30	Naj's Ancient Set	100	43	pr0	0	175	175																													pr104	0	1	1	pr53	0	10	10	pr8	0	15	15	pr41	0	50	50	pr7	0	20	20	pr11	0	100	100									0
+se31	McAuley's Folly	100	20	pr0	0	50	50					pr15	0	75	75																					pr104	0	1	1	pr59	0	50	50	pr11	0	50	50	pr66	0	4	4																	0
+se32	Tal Rasha's yingyong	100		pr53	0	20	20					pr59	0	88	88					pr81	0	25	25			50	50			50	50					pr41	0	50	50	pr70	0			pr0	0	150	150	pr13	0	150	150	pr1	0	50	50	pr266	267	1	1	pr265	361	1	1	pr246	0	100	100	0
+se33	Baal's wuwei	100																																		pr104	0	2	2	pr265	54	1	1	pr41	0	10	10	pr59	0	66	66																	0
+se34	M'avina's Battle	100		pr53	0	20	20					pr59	0	88	88					pr81	0	25	25			50	50			50	50					pr41	0	50	50	pr67	0	3	3	pr0	0	150	150	pr29	0	511	511	pr1	0	50	50	pr266	175	1	1	pr233	0	100	100	pr265	63	1	1	0
+se35	Griswold's dream	100		pr7	0	20	20					pr8	0	88	88					pr81	0	25	25			50	50			50	50					pr41	0	50	50	pr68	0	3	3	pr15	0	200	200	pr13	0	150	150	pr265	360	1	1	pr266	175	1	1	pr275	0	100	100					0
+se36	Immortal Kingking	100		pr15	0	50	50					pr8	0	88	88					pr15	0	200	200			50	50			50	50					pr41	0	50	50	pr71	0	3	3	pr15	0	200	200	pr29	0	511	511	pr274	0	100	100	pr266	175	1	1	pr265	358	1	1					0
+se37	Trang-Oul's war	100		pr53	0	20	20	pr265	47	18	18	pr62	0	15	15	pr265	51	13	13	pr62	0	15	15	pr265	56	10	10									pr41	0	50	50	pr69	0	3	3	pr11	0	100	100	pr0	0	200	200	pr266	175	1	1	pr265	359	1	1	pr235	0	100	100					0
+se38	Natalya's ansha	100		pr6	0	15	15					pr0	0	200	200					pr39	0	20	20													pr41	0	50	50	pr122	0	3	3	pr0	0	150	150	pr66	0	14	14	pr65	0	14	14	pr265	63	1	1	pr262	0	1	1	pr233	0	100	100	0
+se39	Aldur's ningshi	100		pr96	0	150	150					pr59	0	50	50					pr66	0	10	10													pr41	0	50	50	pr121	0	3	3	pr0	0	150	150	pr65	0	10	10	pr11	0	150	150	pr265	61	1	1	pr266	175	1	1	pr232	0	100	100	0
+se40	Mishan's zhongcheng	100		pr7	0	20	20					pr8	0	88	88					pr81	0	25	25			50	50			50	50					pr41	0	50	50	pr104	0	3	3	pr15	0	200	200	pr13	0	150	150	pr125	414	60	60	pr266	272	1	1									0
+se41	Tal Rasha's yingyong1	100		pr53	0	20	20					pr59	0	88	88					pr81	0	25	25			50	50			50	50	pr37	0	30	30	pr41	0	50	50	pr70	0			pr232	0	100	100	pr13	0	150	150	pr265	362	1	1	pr266	267	1	1	pr265	361	1	1	pr246	0	100	100	0
+se42	Tal Rasha's yingyong2	100		pr53	0	20	20					pr59	0	88	88	pr37	0	30	30	pr80	0	25	25			50	50	pr13	0	150	150	pr70	0			pr41	0	50	50	pr233	0	100	100	pr232	0	100	100	pr265	363	1	1	pr265	362	1	1	pr266	267	1	1	pr265	361	1	1	pr246	0	100	100	0
+se43	Baal's wuwei1	100																																		pr104	0	4	4	pr37	0	30	30	pr41	0	10	10	pr59	0	66	66																	0
+se44	Baal's wuwei2	100																																		pr104	0	7	7	pr37	0	60	60	pr41	0	10	10	pr59	0	66	66																	0
+se45	Trang-Oul's war1	100		pr53	0	20	20	pr265	47	18	18	pr62	0	15	15	pr265	51	13	13	pr62	0	15	15	pr265	56	10	10	pr37	0	30	30	pr275	0	100	100	pr41	0	50	50	pr69	0	5	5	pr11	0	100	100	pr0	0	200	200	pr266	175	1	1	pr265	359	1	1	pr235	0	100	100	pr265	360	1	1	0
+se46	Trang-Oul's war2	100		pr53	0	20	20	pr265	47	18	18	pr62	0	15	15	pr265	61	1	1	pr62	0	15	15	pr232	0	100	100	pr37	0	30	30	pr275	0	100	100	pr41	0	50	50	pr69	0	7	7	pr11	0	100	100	pr0	0	200	200	pr266	175	1	1	pr265	359	1	1	pr235	0	100	100	pr265	360	1	1	0
+se47	M'avina's Battle1	100		pr53	0	20	20					pr59	0	88	88					pr80	0	25	25			50	50	pr37	0	30	30	pr274	0	100	100	pr41	0	50	50	pr67	0	5	5	pr0	0	150	150	pr265	358	1	1	pr1	0	50	50	pr266	175	1	1	pr233	0	100	100	pr265	63	1	1	0
+se48	M'avina's Battle2	100		pr53	0	20	20					pr59	0	88	88	pr265	65	1	1	pr80	0	25	25	pr246	0	200	200	pr37	0	30	30	pr274	0	100	100	pr41	0	50	50	pr67	0	7	7	pr0	0	150	150	pr265	358	1	1	pr1	0	50	50	pr266	175	1	1	pr233	0	100	100	pr265	63	1	1	0
+se49	Griswold's dream1	100		pr7	0	20	20					pr8	0	88	88					pr80	0	25	25			50	50	pr37	0	30	30	pr265	63	1	1	pr41	0	50	50	pr68	0	5	5	pr15	0	200	200	pr13	0	150	150	pr265	360	1	1	pr266	175	1	1	pr275	0	100	100	pr233	0	100	100	0
+se50	Griswold's dream2	100		pr7	0	20	20					pr8	0	88	88	pr37	0	30	30	pr80	0	25	25	pr232	0	100	100	pr265	63	1	1	pr265	61	1	1	pr41	0	50	50	pr68	0	7	7	pr15	0	200	200	pr13	0	150	150	pr265	360	1	1	pr266	175	1	1	pr275	0	100	100	pr233	0	100	100	0
+se51	Immortal Kingking1	100		pr15	0	50	50					pr8	0	88	88					pr15	0	200	200	pr235	0	100	100					pr37	0	30	30	pr41	0	50	50	pr71	0	5	5	pr15	0	200	200	pr29	0	511	511	pr274	0	100	100	pr266	175	1	1	pr265	358	1	1	pr265	359	1	1	0
+se52	Immortal Kingking2	100		pr15	0	50	50					pr8	0	88	88	pr275	0	100	100	pr15	0	200	200	pr235	0	100	100	pr265	360	1	1	pr37	0	30	30	pr41	0	50	50	pr71	0	7	7	pr15	0	200	200	pr29	0	511	511	pr274	0	100	100	pr266	175	1	1	pr265	358	1	1	pr265	359	1	1	0
+se53	Natalya's ansha1	100		pr6	0	15	15					pr0	0	200	200	pr265	358	1	1	pr39	0	20	20					pr274	0	100	100	pr37	0	30	30	pr41	0	50	50	pr122	0	5	5	pr0	0	150	150	pr66	0	14	14	pr65	0	14	14	pr265	63	1	1	pr266	175	1	1	pr233	0	100	100	0
+se54	Natalya's ansha2	100		pr6	0	15	15	pr265	65	1	1	pr0	0	200	200	pr265	358	1	1	pr39	0	20	20	pr246	0	100	100	pr274	0	100	100	pr37	0	30	30	pr41	0	50	50	pr122	0	7	7	pr0	0	150	150	pr66	0	14	14	pr65	0	14	14	pr265	63	1	1	pr266	175	1	1	pr233	0	100	100	0
+se55	Aldur's ningshi1	100		pr96	0	150	150					pr59	0	50	50					pr66	0	10	10	pr246	0	100	100	pr232	0	100	100	pr37	0	30	30	pr41	0	50	50	pr121	0	5	5	pr0	0	150	150	pr65	0	10	10	pr11	0	150	150	pr265	61	1	1	pr266	175	1	1	pr265	65	1	1	0
+se56	Aldur's ningshi2	100		pr96	0	150	150					pr59	0	50	50	pr265	359	1	1	pr235	0	100	100	pr246	0	100	100	pr232	0	100	100	pr37	0	30	30	pr41	0	50	50	pr121	0	7	7	pr0	0	150	150	pr65	0	10	10	pr11	0	150	150	pr265	61	1	1	pr266	175	1	1	pr265	65	1	1	0
+se57	Mishan's zhongcheng1	100		pr7	0	20	20					pr8	0	88	88					pr80	0	25	25			50	50			50	50	pr37	0	30	30	pr41	0	50	50	pr104	0	5	5	pr15	0	200	200	pr13	0	150	150	pr125	414	111	111	pr266	272	1	1	pr265	364	15	15					0
+se58	Mishan's zhongcheng2	100		pr7	0	20	20					pr8	0	88	88					pr80	0	25	25			50	50			50	50	pr37	0	30	30	pr41	0	50	50	pr104	0	7	7	pr349	0	50	50	pr13	0	150	150	pr125	414	111	111	pr266	272	1	1	pr265	364	15	15	pr279	0	100	100	0
+se59	VIPset1	100		pr59	0	188	188					pr252	0	88	88																					pr104	0	18	18	pr13	0	8888	8888	pr14	0	188	188	pr373	0	18	18																	0
+se60	Doubi King Set	100		pr59	0	188	188					pr252	0	188	188					pr334	0	18	18													pr104	0	18	18	pr13	0	8888	8888	pr348	0	25	25	pr346	0	150	150	pr266	243	1	1	pr266	244	1	1									0
+se61	XinShouTao Set	100																																		pr373	0	8	8	pr368	0	666	666	pr244	0	100	100	pr245	0	100	100	pr246	0	100	100	pr247	0	100	100	pr282	0	100	100	pr306	0	100	100	0

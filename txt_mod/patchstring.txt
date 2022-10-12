@@ -1,0 +1,2239 @@
+﻿Cutthroat1	[MAX:200ED/9LL]}巴特克的猛击 Bartuc's Cut-Throat
+ModStr5d	耐力最大值
+Mauler	巨槌
+StrSkill41	伤害
+D2bnetHelp13	/whisper <*accountname>, /w <*accountname>
+D2bnetHelp13b	/msg <*accountname>, /m <*accountname>
+D2bnetHelp15	/squelch <*accountname>
+D2bnetHelp15b	/ignore <*accountname>
+D2bnetHelp16	/unsquelch <*accountname>
+D2bnetHelp16b	/unignore <*accountname>
+D2bnetHelp21	/ban <*accountname>
+D2bnetHelp23	/designate <*accountname>
+D2bnetHelp24	/kick <*accountname>
+D2bnetHelp26	/whois <*accountname>, /where <*accountname>
+D2bnetHelp26b	/whereis <*accountname>
+D2bnetHelp32	/stats <*accountname> <programID>
+x	地狱
+x	恶梦
+x	普通}
+x	选择困难度}
+ModStr6e	减缓耐力消耗
+xhm	翼盔 Winged Helm【扩展】
+Hsarus' Defense	哈斯拉柏的防御 Hsarus' Defense
+strModEnhancedDamage	增强伤害 (ED)}
+strModAllResistances	所有抗性 (RES)
+strModAllSkillLevels	+%d 到所有技能等级
+strModFireDamage	+%d 火焰伤害 (FD)
+strModFireDamageRange	增加 %d-%d 火焰伤害 (FD)
+strModColdDamage	+%d 冰冷伤害 (CD)
+strModColdDamageRange	增加 %d-%d 冰冷伤害 (CD)
+strModLightningDamage	+%d 闪电伤害 (LD)
+strModLightningDamageRange	增加 %d-%d 闪电伤害 (LD)
+strModMagicDamage	+%d 魔法伤害
+strModMagicDamageRange	增加 %d-%d 魔法伤害
+strModPoisonDamage	+%d 毒素伤害 (PD) 维持 %d 秒
+strModPoisonDamageRange	增加 %d-%d 毒素伤害 (PD) 维持 %d 秒
+strModMinDamage	+%d 伤害
+strModMinDamageRange	增加 %d-%d 伤害
+strModEnhancedDamage	增强伤害 (ED)
+ModStre9j	火焰伤害降低
+ModStre9k	冰冷伤害降低
+ModStre9l	闪电伤害降低
+ModStre9m	毒素伤害降低
+ModStre9n	魔法伤害吸收 (MA)
+ModStre9o	火焰伤害吸收 (FA)
+ModStre9p	寒冷伤害吸收 (CA)
+ModStre9q	闪电伤害吸收 (LA)
+ModStre9r	魔法伤害吸收 (MA)
+of the Wraith	死灵
+of Equilibrium	均衡
+Valkyrie's	女武神之
+Maiden's	处女之
+Blank	虚无之
+strEskilllighttoattack	 对你的攻击
+StrSklTabItem1	+%d 镖枪和长矛技能
+StrSklTabItem2	+%d 被动和魔法技能
+StrSklTabItem3	+%d 弓和十字弓技能
+StrSklTabItem4	+%d 防御性灵气
+StrSklTabItem5	+%d 攻击性灵气
+StrSklTabItem6	+%d 战斗技能
+StrSklTabItem6	+%d 召唤技能
+StrSklTabItem7	+%d 毒素和白骨技能
+StrSklTabItem8	+%d 诅咒
+StrSklTabItem10	+%d 呐喊系技能
+StrSklTabItem11	+%d 战斗技能
+StrSklTabItem12	+%d 支配性
+StrSklTabItem13	+%d 冰冷系技能
+StrSklTabItem14	+%d 闪电系技能
+StrSklTabItem15	+%d 火焰系技能
+StrSklTabItem16	+%d 召唤系技能
+StrSklTabItem17	+%d 变形系技能
+StrSklTabItem18	+%d 元素系技能
+StrSklTabItem19	+%d 陷阱
+StrSklTabItem20	+%d 影子训练
+StrSklTabItem21	+%d 武学艺术
+x	人物 '%s' 已经超过3个月未使用且时效已过。
+upgraderestrictEx	无魔法，凹槽，稀有，独特或成套物品。无珠宝。
+UndeadDescriptX	不死的
+DemonID	恶魔
+strScaryMonDescA	
+strScaryMonDescB	
+strScaryMonDesc1	火焰系无效
+strScaryMonDesc2	冰冷系无效
+strScaryMonDesc3	闪电系无效
+strScaryMonDesc4	毒素系无效
+strScaryMonDesc5	实体攻击无效
+strScaryMonDesc6	魔法系无效
+PlayerNameOnItemstring	%s的
+PlayerNameOnItemstringX	%s的
+SetItemFormatX	%0
+x	资料片排行
+x	资料片专家级排行
+D2bnetHelp47a	EXPANSION LADDER 依照经验值排名，显示优秀的人物。预设为显示所有排名，你也可以选取职业(By Class)项目检视所有排序过的列表。
+D2bnetHelp48a	EXPANSION HARDCORE LADDER 依照经验值排名，显示优秀的专家级人物。预设为显示所有排名，你也可以选取职业(By Class)项目检视所有排序过的列表。
+x	全面修复
+x	修复所有装备：%d
+x	没有需要修复的装备物品
+Druid	德鲁依
+Assassin	刺客
+partychardru	德鲁依
+partycharass	刺客
+x	无法进入游戏。暗黑破坏神 II 的人物，无法加入由暗黑破坏神 II资料片之人物所建立的游戏中。
+x	无法进入游戏。一位暗黑破坏神II资料片的人物无法加入一个由暗黑破坏神II所开创的游戏。
+charmonsterX	%s：%d%%
+charmontohit1X	平均机率中有 %s 会击中你： %d%%
+charmontohit2X	格档机率%d%%}平均机率中有%s会击中你：%d%%
+Party1X	%s 准许你搜括他的屍体。
+Party2X	%s 准许你搜括她的屍体。
+Party10	%s不再让你拿取他屍体上的东西。
+Party11	%s不再让你拿取她屍体上的东西。
+Party12	你对其他玩家展现敌意
+Party13	%s对你产生敌意，但是你对他仍保持友善
+Party14	%s对你产生敌意，但是你对她仍保持友善
+Party 15	%s对你产生友善，但是你对他仍保持敌意
+Party16	%s对你产生友善，但是你对她仍保持敌意
+Party17	你对其他人表示友善
+Party18	你可以搜括其他人的屍体
+Party19	%s可以搜括你的屍体，但是你无法搜括他的屍体
+Party20	%s可以搜括你的屍体，但是你无法搜括她的屍体
+Party21	%s无法搜括你的屍体，但是你可以搜括他的屍体
+Party22	%s无法搜括你的屍体，但是你可以搜括她的屍体
+Party23	你们之中任何人都无法搜括其他人的屍体
+Civerb's Ward	[MAX:防御29]}希弗柏的防护 Civerb's Ward
+Civerb's Icon	希弗伯的图案 Civerb's Icon
+Civerb's Cudgel	[MAX:23MAX]}希弗伯的短棍 Civerb's Cudgel
+Hsarus' Iron Heel	[MAX:防御9]}哈斯拉柏的铁後跟 Hsarus' Iron Heel
+Hsarus' Iron Fist	[MAX:基本防御6]}哈斯拉柏的铁拳 Hsarus' Iron Fist
+Hsarus' Iron Stay	哈斯拉柏的铁胸衣 Hsarus' Iron Stay
+Cleglaw's Tooth	克雷得劳之牙 Cleglaw's Tooth
+Cleglaw's Claw	[MAX:防御27]}克雷得劳之爪 Cleglaw's Claw
+Cleglaw's Pincers	[MAX:防御9]}克雷得劳之钳 Cleglaw's Pincers
+Iratha's Cord	依雷撒之绳 Iratha's Cord
+Iratha's Coil	[MAX:基本防御45]}依雷撒的线圈 Iratha's Coil
+Iratha's Cuff	[MAX:防御11]}依雷撒的袖口 Iratha's Cuff
+Iratha's Collar	依雷撒的项圈 Iratha's Collar
+Isenhart's Horns	[MAX:防御26]}依森哈德的号角 Isenhart's Horns
+Isenhart's Case	[MAX:基本防御68]}依森哈德的外壳 Isenhart's Case
+Isenhart's Parry	[MAX:防御75]}依森哈德的闪避 Isenhart's Parry
+Isenhart's Lightbrand	依森哈德的光之烙铁 Isenhart's Lightbrand
+Vidala's Snare	维达拉的陷阱 Vidala's Snare
+Vidala's Ambush	[MAX:基本防御17]}维达拉的突袭 Vidala's Ambush
+Vidala's Fetlock	[MAX:防御11]}维达拉的距毛 Vidala's Fetlock
+Vidala's Barb	维达拉之倒刺 Vidala's Barb
+Milabrega's Robe	米拉伯佳之袍 Milabrega's Robe
+Milabrega's Diadem	[MAX:防御45]}米拉伯佳的王冠 Milabrega's Diadem
+Milabrega's Rod	米拉伯佳之杖 Milabrega's Rod
+Milabrega's Orb	米拉伯佳之球 Milabrega's Orb
+Cathan's Seal	卡珊的封印 Cathan's Seal
+Cathan's Sigil	卡珊的魔咒 Cathan's Sigil
+Cathan's Visage	[MAX:基本防御27]}卡珊的容貌 Cathan's Visage
+Cathan's Mesh	[MAX:防御90]}卡珊之网 Cathan's Mesh
+Cathan's Rule	卡珊之尺 Cathan's Rule
+Tancred's Crowbill	坦克雷的鸦嘴钳 Tancred's Crowbill
+Tancred's Spine	[MAX:基本防御161]}坦克雷的脊柱 Tancred's Spine
+Tancred's Hobnails	[MAX:防御3]}坦克雷的平头钉 Tancred's Hobnails
+Tancred's Weird	坦克雷的怪诞 Tancred's Weird
+Tancred's Skull	[MAX:防御36]}坦克雷之骷髅 Tancred's Skull
+Sigon's Visor	[MAX:防御60]}西刚之面甲 Sigon's Visor
+Sigon's Shelter	西刚的遮蔽 Sigon's Shelter
+Sigon's Gage	[MAX:防御15]}西刚的挑战 Sigon's Gage
+Sigon's Sabot	[MAX:防御15]}西刚的木鞋 Sigon's Sabot
+Sigon's Wrap	[MAX:基本防御11]}西刚的披肩 Sigon's Wrap
+Sigon's Guard	[MAX:防御25]}西刚的守护 Sigon's Guard
+Infernal Cranium	[MAX:基本防御5]}地狱头骨 Infernal Cranium
+Infernal Torch	地狱火炬 Infernal Torch
+Infernal Sign	地狱符号 Infernal Sign
+Berserker's Headgear	[MAX:防御33]}狂战士的头戴 Berserker's Headgear
+Berserker's Hauberk	[MAX:基本防御95]}狂战士的锁子甲 Berserker's Hauberk
+Berserker's Hatchet	狂战士的手斧 Berserker's Hatchet
+Death's Hand	[MAX:防御3]}死亡之手 Death's Hand
+Death's Guard	死亡的守护 Death's Guard
+Death's Touch	死亡之触 Death's Touch
+Angelic Sickle	天使的镰刀 Angelic Sickle
+Angelic Mantle	天使的披风 Angelic Mantle
+Angelic Halo	天使之光 Angelic Halo
+Angelic Wings	天使之翼 Angelic Wings
+Arctic Horn	北极号角 Arctic Horn
+Arctic Furs	[MAX:325ED]}北极毛皮 Arctic Furs
+Arctic Binding	北极捆缚 Arctic Binding
+Arctic Mitts	[MAX:防御11]}北极手套 Arctic Mitts
+Arcanna's Sign	阿卡娜的符号 Arcanna's Sign
+Arcanna's Deathwand	阿卡娜的死亡之杖 Arcanna's Deathwand
+Arcanna's Head	[MAX:基本防御11]}阿卡娜的头 Arcanna's Head
+Arcanna's Flesh	[MAX:基本防御107]}阿卡娜的血肉 Arcanna's Flesh
+skillxname0	 
+skillxsd0	 
+skillxld0	 
+skillxan0	 
+skillxname1	 
+skillxsd1	 
+skillxld1	 
+skillxan1	 
+skillxname2	 
+skillxsd2	 
+skillxld2	 
+skillxan2	 
+skillxname3	 
+skillxsd3	 
+skillxld3	 
+skillxan3	 
+skillxname4	 
+skillxsd4	 
+skillxld4	 
+skillxan4	 
+skillxname5	 
+skillxsd5	 
+skillxld5	 
+skillxan5	 
+skillxname6	 
+skillxsd6	 
+skillxld6	 
+skillxan6	 
+skillxname7	 
+skillxsd7	 
+skillxld7	 
+skillxan7	 
+skillxname8	 
+skillxsd8	 
+skillxld8	 
+skillxan8	 
+skillxname9	 
+skillxsd9	 
+skillxld9	 
+skillxan9	 
+skillxname10	 
+skillxsd10	 
+skillxld10	 
+skillxan10	 
+skillxname11	 
+skillxsd11	 
+skillxld11	 
+skillxan11	 
+skillxname12	 
+skillxsd12	 
+skillxld12	 
+skillxan12	 
+skillxname13	 
+skillxsd13	 
+skillxld13	 
+skillxan13	 
+skillxname14	 
+skillxsd14	 
+skillxld14	 
+skillxan14	 
+skillxname15	 
+skillxsd15	 
+skillxld15	 
+skillxan15	 
+skillxname16	 
+skillxsd16	 
+skillxld16	 
+skillxan16	 
+skillxname17	 
+skillxsd17	 
+skillxld17	 
+skillxan17	 
+skillxname18	 
+skillxsd18	 
+skillxld18	 
+skillxan18	 
+skillxname19	 
+skillxsd19	 
+skillxld19	 
+skillxan19	 
+skillxname20	 
+skillxsd20	 
+skillxld20	 
+skillxan20	 
+skillxname21	 
+skillxsd21	 
+skillxld21	 
+skillxan21	 
+skillxname22	 
+skillxsd22	 
+skillxld22	 
+skillxan22	 
+skillxname23	 
+skillxsd23	 
+skillxld23	 
+skillxan23	 
+skillxname24	 
+skillxsd24	 
+skillxld24	 
+skillxan24	 
+skillxname25	 
+skillxsd25	 
+skillxld25	 
+skillxan25	 
+skillxname26	 
+skillxsd26	 
+skillxld26	 
+skillxan26	 
+skillxname27	 
+skillxsd27	 
+skillxld27	 
+skillxan27	 
+skillxname28	 
+skillxsd28	 
+skillxld28	 
+skillxan28	 
+skillxname29	 
+skillxsd29	 
+skillxld29	 
+skillxan29	 
+skillxname30	 
+skillxsd30	 
+skillxld30	 
+skillxan30	 
+skillxname31	 
+skillxsd31	 
+skillxld31	 
+skillxan31	 
+skillxname32	 
+skillxsd32	 
+skillxld32	 
+skillxan32	 
+skillxname33	 
+skillxsd33	 
+skillxld33	 
+skillxan33	 
+skillxname34	 
+skillxsd34	 
+skillxld34	 
+skillxan34	 
+skillxname35	 
+skillxsd35	 
+skillxld35	 
+skillxan35	 
+skillxname36	 
+skillxsd36	 
+skillxld36	 
+skillxan36	 
+skillxname37	 
+skillxsd37	 
+skillxld37	 
+skillxan37	 
+skillxname38	 
+skillxsd38	 
+skillxld38	 
+skillxan38	 
+skillxname39	 
+skillxsd39	 
+skillxld39	 
+skillxan39	 
+skillxname40	 
+skillxsd40	 
+skillxld40	 
+skillxan40	 
+skillxname41	 
+skillxsd41	 
+skillxld41	 
+skillxan41	 
+skillxname42	 
+skillxsd42	 
+skillxld42	所有敌人的生命}创造一道闪电结界，降低附近
+skillxan42	 
+skillxname43	 
+skillxsd43	 
+skillxld43	 
+skillxan43	 
+skillxname44	 
+skillxsd44	 
+skillxld44	 
+skillxan44	 
+skillxname45	 
+skillxsd45	 
+skillxld45	 
+skillxan45	 
+skillxname46	 
+skillxsd46	 
+skillxld46	 
+skillxan46	 
+skillxname47	 
+skillxsd47	 
+skillxld47	 
+skillxan47	 
+skillxname48	 
+skillxsd48	 
+skillxld48	 
+skillxan48	 
+skillxname49	 
+skillxsd49	 
+skillxld49	 
+skillxan49	 
+skillxname50	 
+skillxsd50	 
+skillxld50	 
+skillxan50	 
+skillxname51	 
+skillxsd51	 
+skillxld51	 
+skillxan51	 
+skillxname52	 
+skillxsd52	 
+skillxld52	 
+skillxan52	 
+skillxname53	 
+skillxsd53	 
+skillxld53	 
+skillxan53	 
+skillxname54	 
+skillxsd54	 
+skillxld54	 
+skillxan54	 
+skillxname55	 
+skillxsd55	 
+skillxld55	 
+skillxan55	 
+skillxname56	 
+skillxsd56	 
+skillxld56	 
+skillxan56	 
+skillxname57	 
+skillxsd57	 
+skillxld57	 
+skillxan57	 
+skillxname58	 
+skillxsd58	 
+skillxld58	 
+skillxan58	 
+skillxname59	 
+skillxsd59	 
+skillxld59	 
+skillxan59	 
+skillxname60	 
+skillxsd60	 
+skillxld60	 
+skillxan60	 
+skillxsname61	 
+skillxsd61	 
+skillxld61	 
+skillxan61	 
+skillxname62	 
+skillxsd62	 
+skillxld62	 
+skillxan62	 
+skillxname63	 
+skillxsd63	被动-增加闪电伤害
+skillxld63	被动-增加闪电法术所造成的所有伤害
+skillxan63	 
+skillxname64	 
+skillxsd64	 
+skillxld64	 
+skillxan64	 
+skillxname65	 
+skillxsd65	 
+skillxld65	 
+skillxan65	 
+skillxname66	 
+skillxsd66	 
+skillxld66	 
+skillxan66	 
+skillxname67	 
+skillxsd67	 
+skillxld67	 
+skillxan67	 
+skillxname68	 
+skillxsd68	 
+skillxld68	 
+skillxan68	 
+skillxname69	 
+skillxsd69	 
+skillxld69	 
+skillxan69	 
+skillxname70	 
+skillxsd70	 
+skillxld70	 
+skillxan70	 
+skillxname71	 
+skillxsd71	 
+skillxld71	 
+skillxan71	 
+skillxname72	 
+skillxsd72	 
+skillxld72	 
+skillxan72	 
+skillxname73	 
+skillxsd73	 
+skillxld73	 
+skillxan73	 
+skillxname74	 
+skillxsd74	 
+skillxld74	 
+skillxan74	 
+skillxname75	 
+skillxsd75	 
+skillxld75	 
+skillxan75	 
+skillxname76	 
+skillxsd76	 
+skillxld76	 
+skillxan76	 
+skillxname77	 
+skillxsd77	 
+skillxld77	 
+skillxan77	 
+skillxname78	 
+skillxsd78	 
+skillxld78	 
+skillxan78	 
+skillxname79	 
+skillxsd79	 
+skillxld79	 
+skillxan79	 
+skillxname80	 
+skillxsd80	 
+skillxld80	 
+skillxan80	 
+skillxname81	 
+skillxsd81	 
+skillxld81	 
+skillxan81	 
+skillxname82	 
+skillxsd82	 
+skillxld82	 
+skillxan82	 
+skillxname83	 
+skillxsd83	 
+skillxld83	 
+skillxan83	 
+skillxname84	 
+skillxsd84	 
+skillxld84	 
+skillxan84	 
+skillxname85	 
+skillxsd85	 
+skillxld85	 
+skillxan85	 
+skillxname86	 
+skillxsd86	 
+skillxld86	此诅咒无法被其他诅咒撤销}其他周边的怪物目标，}诅咒一只怪物变成
+skillxan86	 
+skillxname87	 
+skillxsd87	 
+skillxld87	 
+skillxan87	 
+skillxname88	 
+skillxsd88	 
+skillxld88	 
+skillxan88	 
+skillxname89	 
+skillxsd89	 
+skillxld89	 
+skillxan89	 
+skillxname90	 
+skillxsd90	 
+skillxld90	 
+skillxan90	 
+skillxname91	 
+skillxsd91	 
+skillxld91	 
+skillxan91	 
+skillxname92	 
+skillxsd92	 
+skillxld92	 
+skillxan92	 
+skillxname93	 
+skillxsd93	 
+skillxld93	 
+skillxan93	 
+skillxname94	 
+skillxsd94	 
+skillxld94	 
+skillxan94	 
+skillxname95	 
+skillxsd95	 
+skillxld95	 
+skillxan95	 
+skillxname96	 
+skillxsd96	 
+skillxld96	 
+skillxan96	 
+skillxname97	 
+skillxsd97	 
+skillxld97	 
+skillxan97	 
+skillxname98	 
+skillxsd98	 
+skillxld98	 
+skillxan98	 
+skillxname99	 
+skillxsd99	 
+skillxld99	 
+skillxan99	 
+skillxname100	 
+skillxsd100	 
+skillxld100	 
+skillxan100	 
+skillxname101	 
+skillxsd101	 
+skillxld101	 
+skillxan101	 
+skillxname102	 
+skillxsd102	 
+skillxld102	 
+skillxan102	 
+skillxname103	 
+skillxsd103	 
+skillxld103	 
+skillxan103	 
+skillxname104	 
+skillxsd104	 
+skillxld104	 
+skillxan104	 
+skillxname105	 
+skillxsd105	 
+skillxld105	 
+skillxan105	 
+skillxname106	 
+skillxsd106	 
+skillxld106	 
+skillxan106	 
+skillxname107	 
+skillxsd107	 
+skillxld107	 
+skillxan107	 
+skillxname108	 
+skillxsd108	 
+skillxld108	 
+skillxan108	 
+skillxname109	 
+skillxsd109	 
+skillxld109	 
+skillxan109	 
+skillxname110	 
+skillxsd110	 
+skillxld110	 
+skillxan110	 
+skillxname111	 
+skillxsd111	 
+skillxld111	 
+skillxan111	 
+skillxname112	 
+skillxsd112	 
+skillxld112	 
+skillxan112	 
+skillxname113	 
+skillxsd113	 
+skillxld113	 
+skillxan113	 
+skillxname114	 
+skillxsd114	 
+skillxld114	 
+skillxan114	 
+skillxname115	 
+skillxsd115	 
+skillxld115	 
+skillxan115	 
+skillxname116	 
+skillxsd116	 
+skillxld116	 
+skillxan116	 
+skillxname117	 
+skillxsd117	 
+skillxld117	 
+skillxan117	 
+skillxname118	 
+skillxsd118	 
+skillxld118	在你的攻击中增加闪电伤害}伤害周边的怪物，}当动作时，灵气引发电击脉冲
+skillxan118	 
+skillxname119	 
+skillxsd119	 
+skillxld119	 
+skillxan119	 
+skillxname120	 
+skillxsd120	 
+skillxld120	 
+skillxan120	 
+skillxname121	 
+skillxsd121	 
+skillxld121	 
+skillxan121	 
+skillxname122	 
+skillxsd122	灵气-增加攻击速度和伤害
+skillxld122	伤害、攻击速度和准确率}当你发挥之後，灵气会增加你和你队伍人士的
+skillxan122	 
+skillxname123	 
+skillxsd123	灵气 - 软弱敌人
+skillxld123	 
+skillxan123	 
+skillxname124	 
+skillxsd124	 
+skillxld124	中的人员重获法力和生命}被杀死敌人的灵魂，让你和队伍}当启用时，灵气会试着利用
+skillxan124	 
+skillxname125	 
+skillxsd125	 
+skillxld125	 
+skillxan125	 
+skillxname126	 
+skillxsd126	 
+skillxld126	 
+skillxan126	 
+skillxname127	 
+skillxsd127	 
+skillxld127	 
+skillxan127	 
+skillxname128	 
+skillxsd128	 
+skillxld128	 
+skillxan128	 
+skillxname129	 
+skillxsd129	 
+skillxld129	 
+skillxan129	 
+skillxname130	 
+skillxsd130	 
+skillxld130	 
+skillxan130	 
+skillxname131	 
+skillxsd131	 
+skillxld131	 
+skillxan131	 
+skillxname132	 
+skillxsd132	 
+skillxld132	 
+skillxan132	 
+skillxname133	 
+skillxsd133	 
+skillxld133	 
+skillxan133	 
+skillxname134	 
+skillxsd134	 
+skillxld134	 
+skillxan134	 
+skillxname135	 
+skillxsd135	 
+skillxld135	 
+skillxan135	 
+skillxname136	 
+skillxsd136	 
+skillxld136	 
+skillxan136	 
+skillxname137	 
+skillxsd137	 
+skillxld137	 
+skillxan137	 
+skillxname138	 
+skillxsd138	 
+skillxld138	 
+skillxan138	 
+skillxname139	 
+skillxsd139	 
+skillxld139	 
+skillxan139	 
+skillxname140	 
+skillxsd140	 
+skillxld140	 
+skillxan140	 
+skillxname141	 
+skillxsd141	 
+skillxld141	 
+skillxan141	 
+skillxname142	 
+skillxsd142	 
+skillxld142	 
+skillxan142	 
+skillxname143	 
+skillxsd143	 
+skillxld143	 
+skillxan143	 
+skillxname144	 
+skillxsd144	 
+skillxld144	 
+skillxan144	 
+skillxname145	 
+skillxsd145	 
+skillxld145	 
+skillxan145	 
+skillxname146	 
+skillxsd146	 
+skillxld146	 
+skillxan146	 
+skillxname147	 
+skillxsd147	 
+skillxld147	 
+skillxan147	 
+skillxname148	 
+skillxsd148	 
+skillxld148	 
+skillxan148	 
+skillxname149	 
+skillxsd149	 
+skillxld149	 
+skillxan149	 
+skillxname150	 
+skillxsd150	 
+skillxld150	 
+skillxan150	 
+skillxname151	 
+skillxsd151	 
+skillxld151	 
+skillxan151	 
+skillxname152	 
+skillxsd152	 
+skillxld152	 
+skillxan152	 
+skillxname153	 
+skillxsd153	 
+skillxld153	 
+skillxan153	 
+skillxname154	 
+skillxsd154	 
+skillxld154	 
+skillxan154	 
+skillxname155	 
+skillxsd155	 
+skillxld155	 
+skillxan155	 
+strHostileTimeout	与这位玩者宣告敌对，你必须等待一小段时间。
+ShrId0	空的神殿
+ShrId1	回复神殿
+ShrId2	生命神殿
+ShrId3	法力神殿
+ShrId4	生命交换神殿
+ShrId5	法力交换神殿
+ShrId6	装甲神殿
+ShrId7	作战神殿
+ShrId8	抗火焰神殿
+ShrId9	抗冰冻神殿
+ShrId10	抗闪电神殿
+ShrId11	抗毒素神殿
+ShrId12	技能神殿
+ShrId13	法力补充神殿
+ShrId14	耐力神殿
+ShrId15	经验神殿
+ShrId16	辨视神殿
+ShrId17	传送神殿
+ShrId18	宝石神殿
+ShrId19	火焰神殿
+ShrId20	怪物神殿
+ShrId21	爆裂神殿
+ShrId22	毒素神殿
+x	创造新
+CfgSkillPick	技能速度棒
+x	核对密码
+MercX101	伐德哈卡
+MercX102	可汗
+MercX103	克理斯克
+MercX104	柏斯
+MercX105	波姆
+MercX106	卫格莱夫
+MercX107	霍勒斯加
+MercX108	西勒德
+MercX109	海尔夫坦
+MercX110	海波加
+MercX111	海尔干特
+MercX112	海加力克
+MercX113	艾格索
+MercX114	波丹
+MercX115	伍夫加
+MercX116	希尔德
+MercX117	希斯洛夫
+MercX118	魏德
+MercX119	维克海亚特
+MercX120	安佛斯
+MercX121	席格庞特
+MercX122	希尔穆特
+MercX123	罕格斯特
+MercX124	弗克魏尔德
+MercX125	弗雷斯坦
+MercX126	荷那夫
+MercX127	高斯里夫
+MercX128	欧斯拉夫
+MercX129	亚门拉夫
+MercX130	加门得
+MercX131	菲瓦夫
+MercX132	艾得格理斯
+MercX133	奥蕾那
+MercX134	戴米安
+MercX135	艾弗
+MercX136	沃斯坦
+MercX137	沃夫
+MercX138	布温
+MercX139	理夫
+MercX140	马格纳斯
+MercX141	格拉图
+MercX142	图鲁斯
+MercX143	候克
+MercX144	科杜
+MercX145	犹瑟r
+MercX146	艾普
+MercX147	伍夫
+MercX148	撒尔
+MercX149	卡林姆
+MercX150	乌瑞克
+MercX151	艾拉瑞克
+MercX152	爱瑟瑞得
+MercX153	卡登
+MercX154	伊尔吉夫
+MercX155	托斯提克
+MercX156	艾尔昆
+MercX157	艾蒙特
+MercX158	席古德
+MercX159	格姆
+MercX160	荷理斯
+MercX161	拉格那
+MercX162	托克尔
+MercX163	沃夫斯坦
+MercX164	阿尔班
+MercX165	巴洛克
+MercX166	比尔
+MercX167	狄奥多理
+r16	符文：破 Io
+r16L	
+r13	符文：夏 Shael
+r13L	夏
+r31	符文：乔 Jah
+r31L	Jah
+DarkStalker	黑暗偷袭者
+VileArcher	邪恶弓箭手
+Runeword22	迪勒瑞姆 Delirium
+Whichwild String	[MAX:170ED]}狂野之弦 Witchwild String
+x	本程式使用未经Battle.net授权的毁灭之王CD KEY安装.
+x	您使用的毁灭之王CD KEY已经被Battle.net停止使用了.请联络技术支援部门寻求进一步的协助.
+x	您的毁灭之王CD KEY正在被使用中,使用者是:
+x	您用来安装的毁灭之王CD KEY是属於其他产品所用的.请使用正确的CD KEY重新进行安装.
+Playersubtitles29	撤退！
+AmaOnly	（限亚马逊使用）
+SorOnly	（限法师使用）
+NecOnly	（限死灵法师使用）
+PalOnly	（限圣骑士使用）
+BarOnly	（限野蛮人使用）
+DruOnly	（限德鲁依使用）
+AssOnly	（限刺客使用）
+Chatcaps	交谈
+Newscaps	新闻
+Laddercaps	天梯
+LaddeCharacter	天梯人物
+x	天梯人物只能在天梯赛季内, 与其他在创 造时宣告为天梯人物的人物一同进行游戏，当天梯赛季结束後, 天 梯人物将会被转换为非天梯人物, 要继续吗？
+x	无法进入游戏，非天梯人物无法加 入由天梯人物所创造的游戏中。
+x	无法进入游戏，天梯人物无法加 入由非天梯人物所创造的游戏中。
+Sksyn	其他技能对%s 的额外加成
+Damplev	伤害每一技能等级
+ElemDampLev	元素伤害每一技能等级
+Firedplev	火焰伤害每一技能等级
+Colddplev	冰冻伤害每一技能等级
+Ltngdplev	闪电伤害每一技能等级
+Poisdplev	毒素伤害每一技能等级
+Magdplev	魔法伤害每一技能等级
+Rangplev	码每一技能等级
+RateFireplev	火焰机率每一技能等级
+AttRateplev	命中率每一技能等级
+AttSpeedplev	攻击速度每一技能等级
+Defplev	防御每一技能等级
+Manacoredplev	法力耗费每一技能等级
+Missplev1	投射数量每一技能等级
+Missplev2	+1投射数量每一技能等级
+Missplev3	+1投射数量每%d技能等级
+Boltplev1	箭矢数量每一技能等级
+Boltplev2	+1箭矢数量每一技能等级
+Boltplev3	+1箭矢数量每%d技能等级
+Shotplev1	射击次数每一技能等级
+Shotplev2	+1射击次数每一技能等级
+Shotplev3	+1射击次数每%d技能等级
+Hpplev	生命值每一技能等级
+WRSpeedplev	走路/跑步速度每一技能等级
+Durateplev	持续时间每一技能等级
+CoLenplev	寒冷时间每一技能等级
+FrezLenplev	冰冻时间每一技能等级
+PoisLenplev	毒素时间每一技能等级
+Convphy2magplev	转换%d%%实体伤害为魔法伤害每一技能等级
+Convphy2elemplev	转换%d%%实体伤害为元素伤害每一技能等级
+Convphy2magalt	转换%d%%实体伤害为魔法伤害
+Convphy2elemalt	转换%d%%实体伤害为元素伤害
+Secplev1	秒每一技能等级
+Secplev2	秒每一技能等级
+Damabsplev	伤害吸收每一技能等级
+WeapDamsk	武器伤害
+Hbdplev	圣光弹伤害每一技能等级
+Healplev	治疗依等级每2
+Healplev2	治疗每2
+FanYDam	你的伤害︰
+PartDam	团队伤害︰
+AFDImm	平均火焰伤害每秒每一技能等级
+Cgslow	迟缓敌人︰
+Corexpdam	尸爆伤害
+ModitemAura	赋予等级%d %s灵气
+Moditem2allattrib	所有基本属性
+Moditem2ExpG	更多经验值获得
+ModitemHPaK	生命值在每杀死一个敌人后获得 (Life ek)
+ModitemRedVendP	降低所有商人的价格
+ModitemSMRIP	死亡怪物得以安息 (RIP)
+ModitemAttratvsM	转为命中率相
+Moditemdamvsm	转为伤害相对
+Moditemslayat	杀死:
+Moditemreanimas	机会召唤死亡怪物为︰
+Moditemenrescoldsk	敌人的冰冻系抗性 (-CR)
+Moditemenresfiresk	敌人的火焰系抗性 (-FR)
+Moditemenresltngsk	敌人的闪电系抗性 (-LR)
+Moditemenrespoissk	敌人的毒素系抗性 (-PR)
+ModitemdamFiresk	火焰系技能伤害 (FD)
+ModitemdamColdsk	冰冻系技能伤害 (CD)
+ModitemdamLtngsk	闪电系技能伤害 (LD)
+ModitemdamPoissk	毒素系技能伤害 (PD)
+Moditemskondeath	当你死去时有 %d%% 机会施展等级 %d %s
+ModitemskonLevel	当你升级时有 %d%% 机会施展等级 %d %s
+ModitemskonKill	当你杀死一敌人时有 %d%% 机会施展等级 %d %s
+Skillname224	狼人变化 (Werewolf)
+Skillsd224	变形成狼人
+Skillld224	变形成狼人
+Skillan224	狼人变化
+StrSkill43a	骷髅法师
+StrSkill44a	骷髅法师
+StrSklTabItem9	+%d召唤技能
+SOJSold	%d颗乔丹之石卖给商人
+DiabloWalksEarth	暗黑破坏神出现在地表上
+neg	地狱爪牙之骨 Hellspawn Skull【精英】
+TrappDoor	陷阱门
+uhf	传说之锤 Legendary Mallet【精英】
+skillld124P	中的人员重获法力和生命}被杀死敌人的灵魂，让你和队伍}当启用时，灵气会试着利用
+7wa	狂战士斧 Berserker Axe【精英】
+skillld42	对附近所有敌人}创造一个可以损伤生命的电力
+xhg	巨战手套 War Gauntlets【扩展】
+Fiendra	魔鬼
+Wraithra	忿怒
+Fiend	魔鬼
+Wraith	忿怒
+D2bnetHelp10	yc3蓝色文字yc4表示这个举动已有其他聊天频道中的人做过了
+ItemStats1r	格挡机率︰ 
+x	伺服器额满
+x	请再次嚐试创造或是重新加入
+merca239	贾鲁
+StrSkill63Patch	结束
+x	你正在开启新游戏的等待行列中,请试着加入其它游戏以避免等待.
+X	游戏等待列
+x	太多的游戏被开启,请加入其它游戏或在游戏等待列中静候.
+x	你在等待列中的顺位是: 
+x	在游戏等待列中
+9bl	小剑 Stilleto【扩展】
+eats and spits corpses	吃下并吐出死
+qstsa2q63f	探索塔.拉夏的墓
+Shocking Hit	震惊攻击
+ModStr1w	额外金币从怪物身上取得 (EG)
+ModStr1x	更佳的机会取得魔法装备 (MF)
+ModStr3u	击中使怪物逃跑 (Flee)
+ModStr4c	额外的攻击准确率 (AR) 加成
+ModStr5r	使目标减慢
+ModStr6f	机会使目标复
+ModStr6d	击中使目标目盲 (HBT)
+x	输入主控端IP 位址以加入游戏
+StrSkill61	多重攻击
+D2bnetHelp13c	/reply
+D2bnethelp13d	准许你不需键入帐户名称回覆特定耳语
+D2bnetHelp52	/whisper, /msg, /reply
+D2bnetHelp10a	ÿc9 黄色文字ÿc4 代表从battle.net直接传递的特别讯息
+BnetnewGameTime	游戏时间:
+D2bnetHelp12c	当使用进阶指令时, 你也可以使用  人物名称  在同一个国度中的角色,而使用  人物名称@国度伺服器  的方式在其他国度.
+D2bnetHelp12d	对於battle.net上的任何人,包含在如星海争霸等其他的游戏玩家, 你必须使用 *帐户名称 的表示方法.
+D2bnetHelp12b	当有指令要求使用<帐户名称>时, 请使用下列 <人物名称>, <人物名称@国度伺服器>, 或 <*帐户名称>的表示方法之一.
+x	闸道: %s
+x	更改密码
+x	更改密码
+x	目前使用的密码
+x	新密码
+x	确定新密码
+x	选择地区闸门
+x	如果目前的地区闸门不能正确代表您的实际位置，请选择其他的 Battle.net 地区连线闸门。
+x	改变国度
+x	目前的国度
+x	一个人物名称为'%s' 已经在此国度中存在.
+D2bnetHelp6a	ÿc5灰色文字ÿc4 也代表在聊天频道中的玩家所采取的行动
+D2bnetHelp10aPatch	ÿc3蓝色文字ÿc4 代表由battle.net或Blizzard工作人员直接传递的特别讯息
+x	送出
+x	密码警告
+x	你不能在Battle.Net上面把你的密码发送给另一位玩者。Blizzard在任何理由之下，都不会询问你的密码。
+x	连结中...
+x	《暗黑破坏神二》无法连上国度伺服器。 你所选择的国度可能无法使用，也可能是你遭遇了网路连线的问题。 请确认你的网路连线运作正常，以及／或你的防火墙设定有开启port 6112。
+x	更多
+x	你有超过八个可用人物在暗黑破坏神II国度伺服器中,同一时间只能有八个人物显示。想看到更多的人物，你必须删除其中之一的现有人物。这个删除动作将是永久的，你将无法回复已删除的角色。请到
+x	你必须删除你现有的其中一个人物，才能看到更多其他人物。人物一旦删除後将无法复原。
+X	服务协议书
+X	登录至Battle.net 代表您已经详读并同意目前所提供的服务协议书.
+x	%0 %1
+x	头盔：
+x	盾牌：
+x	武器：
+x	装甲：
+x	资料片人物
+x	Missing string
+EskillLowersResistX	降低抵抗
+ExInsertSocketsX	可以放入带凹槽物品
+EskillToMeleeX	对肉搏攻
+eskillincasemasteryX	%d机率做出致命一击
+CfgSay7X	说撤退
+champghostlyX	幽灵
+champfanaticX	狂信者
+champpossessedX	着魔者
+champberserkX	狂战士
+PalMercExST1X	防御
+strPalMercEXST3X	进攻
+PalMercEXST4X	战斗
+increaseswithplaylevelX	（以角色等级决定）
+RankX	Rank
+x	请输入一组有效的电子邮件地址
+x	只要你输入你的email位置，将可以获得我们额外的服务，像是忘记帐号密码之类的问题都可以因此解决。请进入http://ww.battle.net/email-address来取得更多的资讯
+x	电子邮件位址
+x	确认电子邮件位址
+x	注册
+x	不要注册
+x	请确定两组电子邮件位址相符
+x	电子邮件位址无效
+x	您所输入的电子邮件位址无效，请输入一组有效的电子邮件位址
+x	如果不注册email位置，你将无法取回忘记的帐号密码。你将没有别的机会来使用email注册这个帐号
+x	假如您忘记密码，同时是以一组有效的电子邮件位址注册此帐号，您可以藉由点选传送以要求传送一组新密码至您的电子邮件位址
+x	已经收到您请求传送一组新的密码。假如您是以一组有效的电子邮件位址注册此帐号，我们将会传送给您一封引导您完成密码变更的信件
+x	继续
+x	忘记您的密码了吗？请点击「帐号设定」
+x	您所输入的密码错误，您可以藉由点击「帐号设定」的方式来取得新密码
+x	帐号设定
+x	帐号设定
+x	如果您知道您的密码，但想变更它的话，请点击这里
+x	如果您已经忘记您的密码或密码没有作用的话，请点击这里
+x	如果您需要变更您注册之电子邮件位址的话，请点击这里
+x	取得新密
+x	取得新密
+x	变更邮件位址
+x	变更邮件位址
+x	原始邮件位址
+x	新邮件位址
+x	核对新邮件位址
+x	如果您已经为本帐号注册了电子邮件位址，您可以在此进行变更的动作。必须注意的是，如果想进行变更动作的话，前後两个电子邮件的位址都必须处於启用的状态
+x	您所输入的原始与新邮件位址相同。请输入不同的电子邮件位址
+x	请确认所输入的两栏新邮件位址是否相符
+x	Battle.net新闻更新
+x	完成上一个难度设定：
+x	
+x	输入聊天
+x	请写下你的密码。
+x	不安全的密码
+x	您所选择的密码并不安全，请选择新的密码。
+x	光碟序号警告
+x	您不能在Battle.net上将光碟序号的资料传送给另外一名使用者。不论任何理由，Blizzard绝对不会向您索取光碟序号。
+x	今日失效
+x	在 %d 天内失效
+x	人物失效
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	一个暗黑破坏神II的人物必须被使用,否则就会永久地过期.当你创建一个新人物的时候,在你最后一次进行这个人物之后的10天,它会过期.一旦这个人物被使用超过2个小时或者是更多,那么只有在最后一次使用之后的三个月才会过期.
+x	一旦过期,该人物就会被清除.
+x	人物'%s'不是一个活跃用户并已经过期.
+pk1	ÿc8恐惧之钥 Key of Terror =A1=
+pk2	ÿc8憎恨之钥 Key of Hate =A2=
+pk3	ÿc8毁灭之钥 Key of Destruction =A5=
+dhn	ÿc8暗黑破坏神之角
+bey	ÿc8巴尔之眼
+mbr	ÿc8墨菲斯托之脑
+std	英雄旗帜 Standard of Heroes
+Hellfire Torch	ÿc8[MAX:20属性/20RES]}ÿc8地狱火炬 Hellfire Torch
+Lilith	莉莉斯 Lilith
+Pandemonium Run 1	主母巢穴 Matron's Den
+Pandemonium Run 2	遗忘沙漠 Forgotten Sands
+Pandemonium Run 3	痛苦熔炉 Furnace of Pain
+ModStre8b	刺客技能
+x	你正在使用的光碟序号被禁止连上国度伺服器进行游戏。 但你可以继续进行单一玩者或开放式Battle.net上的游戏。
+x	你的连线暂时被禁止於这个国度之外。 请择期再尝试登入一次。
+toa	赦免徽章
+tes	扭曲的苦痛精华 Twisted Essence of Suffering
+ceh	充盈的憎恨精华 Charged Essence of Hatred
+bet	燃烧的恐惧精华 Burning Essence of Terror
+fed	溃烂的毁灭精华 Festering Essence of Destruction
+respec	重置属性/技能点数
+xishousc5	安达利尔的灵魂之石
+xx	重置属性/技能点数
+xishousc4	墨菲斯托的灵魂之石
+xishousc1	暗黑破坏神的灵魂之石
+xishousc2	巴尔的灵魂之石
+xishousc6	泰瑞尔的灵魂之石
+pingan0	勇士的心
+pingan1	勇士的心
+pingan2	勇士的心
+pingan3	勇士的心
+pingan4	勇士的心
+pingan5	勇士的心
+pingan6	勇士的心
+pingan7	勇士的心
+pingan8	勇士的心
+pingan9	勇士的心
+pingan10	勇士的心
+pingan12	勇士的心
+pingan13	勇士的心
+pingan14	勇士的心
+pingan15	勇士的心
+pingan16	勇士的心
+pingan17	勇士的心
+pingan18	勇士的心
+pingan19	勇士的心
+pingan20	勇士的心
+pingan21	勇士的心
+pingan22	勇士的心
+xinteng1	狮子的心
+xinteng2	狮子的心
+xinteng3	泰瑞尔的祝福
+xinteng4	泰瑞尔的祝福
+xinteng5	泰瑞尔的祝福
+xinteng6	太古狮子的心
+xinteng7	狮子的心
+xinteng8	狮子的心
+xinteng9	狮子的心
+xinteng10	狮子的心
+xinyaodai	黑暗救赎
+Griffon's EyeCold1	冰封无限
+Griffon's EyeFire1	凤凰之羽
+lingjie	天使之灵
+newshoutao	龙爪手
+newxiezi	魅影
+Griffon's Eyeother	希望之翼
+asnwuqi1	杀戮之心
+bartou1	塔里克的记忆
+paldun1	泰瑞尔的勇气
+newyifu	巴尔的马甲
+petjiezhi	墨菲斯托的宝藏
+petxl	督瑞尔的救赎
+petshoutao	安达利尔之手
+petxiezi	暗黑破坏神的精神
+petyaodai	巴尔的未来之星
+mojie	恶魔之灵
+molixl	泰瑞尔的魔力
+newdrutou1	冰火九重天
+druwuqi1	冰火双飞
+xinteng11	狮子的心
+xinteng12	狮子的心
+xinteng13	狮子的心
+xinteng14	狮子的心
+xinteng15	狮子的心
+xinteng16	狮子的心
+xingyun	幸运
+Skillname282	变身塔里克
+petbian1	变身塔里克
+Skillname361	电鬼变身
+Skillname362	督瑞尔变身
+Skillname363	沈伦模变身
+a23	ÿc1a2精囊}ÿc4可分解为3个a2精华
+a29	ÿc1a2腰子}ÿc4可分解为3个a2精囊
+duanzao	锻造
+a33	ÿc1a3精囊}ÿc4可分解为3个a3精华
+a39	ÿc1a3腰子}ÿc4可分解为3个a3精囊
+a43	ÿc1a4精囊}ÿc4可分解为3个a4精华
+a49	ÿc1a4腰子}ÿc4可分解为3个a4精囊
+a53	ÿc1a5精囊}ÿc4可分解为3个a5精华
+a59	ÿc1a5腰子}ÿc4可分解为3个a5精囊
+t3	ÿc1T囊}ÿc4可分解为3个洗点
+t9	ÿc1T裤}ÿc4可分解为3个T囊
+biansc	泰瑞尔的精神
+Skillname364	女伯爵的老巢
+Skillname365	安达利尔的老巢
+Skillname366	督瑞尔的老巢
+Skillname367	墨菲斯托的老巢
+Skillname368	暗黑破坏神的老巢
+Skillname369	尼拉塞克的老巢
+Skillname370	巴尔的老巢
+vipsc	ÿc2vip凭证
+Skillname371	刺客变身
+pls	ÿc4残破的生命药水
+Skillname372	小穴二层
+Skillname373	古代通道
+strbangding	ÿc1祝福
+Niuer	神秘奶牛的上古战场
+To Niuer	神秘奶牛的上古战场
+sganjiechao	安达利尔的上古战场
+To sganjiechao	安达利尔的上古战场
+yganjiechao	安达利尔的远古遗迹
+To yganjiechao	安达利尔的远古遗迹
+Modstryuangu	ÿc2远古神器
+Modstrshanggu	ÿc2上古灵器
+sgnvbojue	女伯爵的上古战场
+To sgnvbojue	女伯爵的上古占城
+ygniu	神秘奶牛的远古遗迹
+To ygniu	神秘奶牛的远古遗迹
+ygnvbojue	女伯爵的远古遗迹
+To ygnvbojue	女伯爵的远古遗迹
+sgchongzi	督瑞尔的上古战场
+To sgchongzi	督瑞尔的上古战场
+ygchongzi	督瑞尔的远古遗迹
+To ygchongzi	督瑞尔的远古遗迹
+sgsum	召唤者的上古战场
+To sgsum	召唤者的上古战场
+ygsum	召唤者的远古遗迹
+To ygsum	召唤者的远古遗迹
+sgluo	罗达门特的上古战场
+To sgluo	罗达门特的上古战场
+ygluo	罗达门特的远古遗迹
+To ygluo	罗达门特的远古遗迹
+sgmofei	墨菲斯托的上古战场
+To sgmofei	墨菲斯托的上古战场
+ygmofei	墨菲斯托的远古遗迹
+To ygmofei	墨菲斯托的远古遗迹
+sgyihui	议会成员的上古战场
+To sgyihui	议会成员的上古战场
+ygyihui	议会成员的远古遗迹
+To ygyihui	议会成员的远古遗迹
+sgqiao	衣卒尔的上古战场
+To sgqiao	衣卒尔的上古战场
+ygqiao	衣卒尔的远古遗迹
+To ygqiao	衣卒尔的远古遗迹
+sgdiab	diablo的上古战场
+To sgdiab	diablo的上古战场
+ygdiab	diablo的远古遗迹
+To ygdiab	diablo的远古遗迹
+sgbaal	巴尔的上古战场
+To ygdiab	巴尔的上古战场
+ygbaal	巴尔的远古遗迹
+To ygbaal	巴尔的远古遗迹
+sgnilask	尼拉塞克的上古战场
+To sgnilask	尼拉塞克的上古战场
+ygnilask	尼拉塞克的远古遗迹
+To ygnilask	尼拉塞克的远古遗迹
+Modstrxinnian	范围增大
+Modstrshengji	晋级
+Skillname360	魔法支配
+Skillname359	剧毒支配
+Modstrmofa	魔法系技能伤害（MD)
+ys_bingdan	ÿc1冰弹药水
+ys_liansuoshandian	ÿc1连锁闪电药水
+ys_shandiangongji	ÿc1闪电之怒药水
+ys_shandianqiu	ÿc1闪电球药水
+ys_dubao	ÿc1毒爆药水
+ys_gumao	ÿc1骨矛药水
+ys_zhufuzhichui	ÿc1祝福药水
+ys_tiantangzhiquan	ÿc1天堂药水
+ys_cankuzuxia	ÿc1残酷药水
+ys_daorenhudun	ÿc1刀刃药水
+ys_baofeng	ÿc1暴风药水
+ys_huitianmiedi	ÿc1毁天药水
+ys_zhanhong	ÿc1战吼药水
+ys_leidianwang	ÿc1闪电网药水
+zhongcheng	ÿc2忠诚勋章
+vipsc3	ÿc2至尊vip凭证
+xishousc7	魔力之石
+xishousc8	元素之石
+shangguxie	巴尔的战靴
+petyifushang	塔里克的守护
+petyifuyuan	塔里克的光辉
+petwuqishen	死神之镰
+r34	符文：灵 Ling
+r35	符文：神 Shen
+sglilis	莉莉丝的上古战场
+To sglilis	莉莉丝的上古战场
+ygllilis	莉莉丝的远古遗迹
+To ygllilis	莉莉丝的远古遗迹
+aaa	ÿc2巴尔的灵魂印记
+aab	ÿc2暗黑破坏神的灵魂印记
+aac	ÿc2莉莉丝的灵魂印记
+aad	ÿc2墨菲斯托的灵魂印记
+aae	ÿc2泰瑞尔的灵魂印记
+aaf	ÿc2督瑞尔的灵魂印记
+sgubdur	超级督瑞尔的上古战场
+To sgubdur	超级督瑞尔的上古战场
+ygubdur	超级督瑞尔的远古遗迹
+To ygubdur	超级督瑞尔的远古遗迹
+sgubyizuer	超级衣卒尔的上古战场
+To sgubyizuer	超级衣卒尔的上古战场
+ygubyizuer	超级衣卒尔的远古遗迹
+To ygubyizuer	超级衣卒尔的远古遗迹
+yuanlizhishi	原力之石
+ygyuanlizhishi	原力之石
+of Zong	运气
+zz1	宝箱
+sys	ÿc1火墙药水
+sgmfst	超级墨菲斯托的上古战场
+To sgmfst	超级墨菲斯托的上古战场
+ygmfst	超级墨菲斯托的远古遗迹
+To ygmfst	超级墨菲斯托的远古遗迹
+sgddia	超级diablo的上古战场
+To sgddia	超级diablo的上古战场
+ygddia	超级diablo的远古遗迹
+To ygddia	超级diablo的远古遗迹
+sgbbal	超级巴尔的上古战场
+To sgbbal	超级巴尔的上古战场
+ygbbal	超级巴尔的远古遗迹
+To ygbbal	超级巴尔的远古遗迹
+jc1	ÿc2审判灵魂
+bx	ÿc1运气宝箱
+ys_huoqiang	ÿc1火墙药水
+Modstrduanzao	ÿc2锻造
+Modstrhuishou26	ÿc1回收26#符文
+Modstrhuishou28	ÿc1回收28#符文
+Modstrhuishou30	ÿc1回收30#符文
+Modstrsorbiz	ÿc2冰弹范围增大
+Modstrsorls	ÿc2连锁范围增大
+Modstrsorys	ÿc2火墙范围增大
+Modstramasdq	ÿc2闪电球范围增大
+Modstrnecdb	ÿc2毒爆范围增大
+Modstrnecgm	ÿc2骨矛范围增大
+Modstrpalbh	ÿc2祝福之锤范围增大
+Modstrpaltt	ÿc2天堂范围增大
+Modstrbardu	ÿc2残酷吓吼范围增大
+Modstrdrubf	ÿc2暴风范围增大
+Modstrdruht	ÿc2毁天灭地范围增大
+Modstrasnfb	ÿc2刃之怒范围增大
+Modstrbarwc	ÿc2战吼范围增大
+Modstrasndw	ÿc2雷电网范围增大
+Modstramalf	ÿc2闪电攻击范围增大
+sorfanwei	sor范围增大器
+palfanwei	pal范围增大器
+barfanwei	bar范围增大器
+amafanwei	ama范围增大器
+drufanwei	dru范围增大器
+asnfanwei	asn范围增大器
+necfanwei	nec范围增大器
+chibang	五彩天使
+chibang1	神圣天使
+chibang2	火焰天使
+Skillname374	支配冰弹
+Skillname375	支配火墙
+Skillname376	支配连锁
+petwuqi	格瑞斯华尔德的审判
+KillCount	杀死boss的数量
+dianfenglevel	巅峰等级
+wujinlvtu	无尽的旅途
+dianfeng	巅峰
+vipsc	vip凭证
+petwuqiyuan	格瑞斯华尔德的审判
+petxl	巴尔的魔力
+of Hong	国庆
+hb1	红包
+Modstrxin	物理系技能伤害（DD)
+Modstrmoney	牛币
+rmbjulu	牛币袋
+h1	1元
+h2	2元
+h5	5元
+h10	10元
+h20	20元
+h50	50元
+h1b	100元
+sgguhui	骨灰的上古战场
+To sgguhui	骨灰的上古战场
+ygguhui	骨灰的远古遗迹
+To ygguhui	骨灰的远古遗迹
+pk4	ÿc8虚妄之钥
+pk5	ÿc8邪恶之钥
+pk6	ÿc8野蛮之钥
+sgbb	3bb的上古战场
+To sgbb	3bb的上古战场
+ygbb	3bb的远古遗迹
+To ygbb	3bb的远古遗迹
+konglong	血鸟的上古战场
+To konglong	血鸟的上古战场
+kaa	ÿc2巴尔的魂魄
+kab	ÿc2暗黑破坏神的魂魄
+kac	ÿc2莉莉丝的魂魄
+kad	ÿc2墨菲斯托的魂魄
+kae	ÿc2泰瑞尔的魂魄
+kaf	ÿc2督瑞尔的魂魄
+Skillname380	上古毒爆灵技
+Skillname381	上古骨矛灵技
+Skillname377	救助
+Skillname378	上古火墙灵技
+Skillname379	上古连锁灵技
+Skillname382	上古锤子灵技
+Skillname383	上古天堂灵技
+Skillname384	上古残酷灵技
+Skillname385	上古毁天灵技
+Skillname386	上古暴风灵技
+Skillname387	上古刀刃灵技
+sgkang	传说之珠
+ygkang	传说之珠
+Skillname391	远古毒爆神技
+Skillname392	远古骨矛神技
+Skillname388	远古冰弹神技
+Skillname389	远古火墙神技
+Skillname390	远古连锁神技
+Skillname393	远古锤子神技
+Skillname394	远古天堂神技
+Skillname395	远古残酷神技
+Skillname396	远古毁天神技
+Skillname397	远古暴风神技
+Skillname398	远古刀刃神技
+klj	ÿc8恐龙之角
+xwb	ÿc8白熊之尾
+xmy	ÿc8邪魔之王的牙齿
+ChunShui	纯水秘境
+To ChunShui	踏入纯水秘境
+ZhenHuo	真火秘境
+To ZhenHuo	踏入真火秘境
+zuizhong	终极巴尔的远古遗迹
+To zuizhong	终极巴尔的远古遗迹
+bht	ÿc8巴尔之心
+aes	ÿc2悲痛精华
+Skillname399	力量爆发
+Skillname400	血色审判
+newyifushang	巴尔的马甲
+petwuqishang	泰瑞尔的审判
+a13	ÿc1a1精囊}ÿc4可分解为3个a1精华
+a19	ÿc1a1腰子}ÿc4可分解为3个a1精囊
+petjiezhi1	墨菲斯托的宝藏
+petxl1	督瑞尔的救赎
+petshoutao1	安达利尔之手
+petxiezi1	暗黑破坏神的精神
+petyaodai1	巴尔的未来之星
+petjiezhi2	墨菲斯托的宝藏
+sgnewsc	泰瑞尔的裁决
+ygnewsc	泰瑞尔的裁决
+sgkangpet	米山之超级至尊vip
+ygkangpet	pet的光荣
+niubidai	牛币袋
+xinyaodai1	黑暗救赎
+xinyaodai2	黑暗救赎
+Griffon's EyeCold1	冰封无限
+Griffon's EyeFire1	凤凰之羽
+Griffon's EyeCold2	冰封无限
+Griffon's EyeFire2	凤凰之羽
+petjiezhi21	墨菲斯托的宝藏
+petjiezhi22	墨菲斯托的宝藏
+petjiezhi11	暗黑破坏神的宝藏
+petjiezhi12	暗黑破坏神的宝藏
+Ironward1	爱斯特龙之铁的保护区
+Ironward2	爱斯特龙之铁的保护区
+Ironward3	爱斯特龙之铁的保护区
+leiji1	雷击
+leiji2	雷击
+leiji3	雷击
+Giantskull1	米山的保护
+Giantskull2	米山的保护
+nbi	ÿc4牛币
+gbi	ÿc4高级牛币
+zzb	ÿc4至尊牛币
+jiahuo1	一股神秘力量
+jiahuo2	一股神秘力量
+jiahuo3	一股神秘力量
+jiahuo4	一股神秘力量
+jiahuo5	一股神秘力量
+jiahuo6	一股神秘力量
+jiahuo7	一股神秘力量
+jiahuo8	一股神秘力量
+jiahuo9	一股神秘力量
+jiahuo10	一股神秘力量
+Giantskull1	巨骷髅
+Giantskull2	巨骷髅
+Fathom1	次元碎片
+Fathom2	次元碎片
+Fathom3	次元碎片
+Fathom4	次元碎片
+Stormshield1	暴风之盾
+Stormshield2	暴风之盾
+Griffon's Eye1	格雷风之眼
+Griffon's Eye2	格雷风之眼
+Crown of Ages2	年纪之冠
+Griffon's EyeCold2	冰封无限
+Griffon's EyeFire2	凤凰之羽
+Crown of Ages1	年纪之冠
+asnwuqi2	杀戮之心
+bartou2	塔里克的记忆
+paldun2	泰瑞尔的勇气
+asnwuqi3	杀戮之心
+bartou3	塔里克的记忆
+paldun3	泰瑞尔的勇气
+mara1	马拉的万花筒
+mara2	马拉的万花筒
+mara3	马拉的万花筒
+mara4	马拉的万花筒
+mara5	马拉的万花筒
+Metalgrid1	金属
+xinyaodai1	黑暗救赎
+xinyaodai2	黑暗救赎
+xinyaodai3	黑暗救赎
+xinyaodai4	黑暗救赎
+xinyaodai5	黑暗救赎
+xinyaodai6	黑暗救赎
+xinyaodai7	黑暗救赎
+Dracul's Grasp1	德古拉之握
+shangguxie1	巴尔的战靴
+shangguxie2	巴尔的战靴
+shangguxie3	巴尔的战靴
+shangguxie4	巴尔的战靴
+shangguxie5	巴尔的战靴
+shangguxie6	巴尔的战靴
+web1	死亡之网
+web2	死亡之网
+web3	死亡之网
+dark1	塔格奥之翼
+dark2	塔格奥之翼
+dark3	塔格奥之翼
+Deathcleaver1	死亡之刃
+Deathcleaver2	死亡之刃
+Deathcleaver3	死亡之刃
+newdrutou1	冰火九重天
+newdrutou2	冰火九重天
+newdrutou3	冰火九重天
+bbjian1	圣剑
+bbjian2	圣剑
+bbjian3	圣剑
+petxl1	督瑞尔的救赎
+petshoutao1	安达利尔之手
+petxiezi1	暗黑破坏神的精神
+petyaodai1	巴尔的未来之星
+xishousc3	督瑞尔的灵魂之石
+Constricting Ring1	收缩
+Constricting Ring2	收缩
+Magefist1	法师之拳
+Magefist2	法师之拳
+Magefist3	法师之拳
+Magefist4	法师之拳
+Magefist5	法师之拳
+Magefist6	法师之拳s
+Modstrjia1	闪电球加成
+Modstrjia2	闪电攻击加成
+Modstrjia3	毒爆加成
+Modstrjia4	骨矛加成
+Modstrjia5	锤子加成
+Modstrjia6	天堂加成
+Modstrjia7	暴风加成
+Modstrjia8	毁天灭地加成
+Modstrjia9	残酷吓阻加成
+Modstrjia10	battlecry加成
+Modstrjia11	雷电网加成
+Modstrjia12	刃之怒加成
+sm1	职业护身符
+sm2	职业护身符
+sm3	职业护身符
+sm4	职业护身符
+sm5	职业护身符
+sm6	职业护身符
+sm7	职业护身符
+yangsc1	混沌之石
+yangsc2	混沌之石
+yangsc3	混沌之石
+yangsc4	混沌之石
+yangsc5	混沌之石
+yangsc6	混沌之石
+yangsc7	混沌之石
+tianming	天运
+xishousc9	守护之石
+Modstramaxsj	ÿc2牺牲之箭范围增大
+Modstrnecba	ÿc2骨盾范围增大
+Modstrpalzh	ÿc2转换增大
+Modstrbarmo	ÿc2狂战士范围增大
+Modstrdruzb	ÿc2震波范围增大
+Modstrasnmo	ÿc2心灵战锤范围增大
+Modstrtaigu	ÿc2太古圣器
+Skillname401	神圣铁布衫
+ys_xishenzhijian	ÿc1牺牲之箭药水
+ys_gudun	ÿc1骨盾药水
+ys_zhuanhuan	ÿc1转换药水
+ys_kuangzhanshi	ÿc1狂战士药水
+ys_zhengbo	ÿc1震波药水
+ys_xinlingzhanchui	ÿc1心灵战锤药水
+xinyaodai10	黑暗救赎
+lingjie1	天使之灵
+newshoutao1	龙爪手
+newxiezi1	魅影
+Ironward4	爱斯特龙之铁的保护区
+Ironward5	爱斯特龙之铁的保护区
+Ironward6	爱斯特龙之铁的保护区
+druwuqi2	冰火双飞
+druwuqi3	冰火双飞
+druwuqi4	冰火双飞
+druwuqi5	冰火双飞
+druwuqi6	冰火双飞
+Fathom5	次元碎片
+Fathom6	次元碎片
+leiji4	雷击
+leiji5	雷击
+leiji6	雷击
+Stormshield3	暴风之盾
+Griffon's Eye3	格雷风之眼
+bartou4	塔里克的记忆
+bartou5	塔里克的记忆
+bartou6	塔里克的记忆
+paldun4	泰瑞尔的勇气
+asnwuqi4	杀戮之心
+paldun5	泰瑞尔的勇气
+asnwuqi5	杀戮之心
+paldun6	泰瑞尔的勇气
+asnwuqi6	杀戮之心
+web4	死亡之网
+web5	死亡之网
+web6	死亡之网
+dark4	塔格奥之翼
+dark5	塔格奥之翼
+dark6	塔格奥之翼
+newdrutou4	冰火九重天
+newdrutou5	冰火九重天
+newdrutou6	冰火九重天
+bbjian4	圣剑
+bbjian5	圣剑
+bbjian6	圣剑
+mojie	恶魔之灵
+molixl	泰瑞尔的魔力
+Might2	大天使之翼
+Crown of Ages3	年纪之冠
+Modstrjia13	狂战士加成
+Modstrjia14	转换加成
+Modstrjia15	心灵战锤加成
+Modstrjia16	震波加成
+Modstrjia17	牺牲之箭加成
+Modstrjia18	骨盾加成
+tgyuanlizhishi	原力之石
+web7	死亡之网
+leiji7	雷击
+druwuqi7	冰火双飞
+Ironward7	爱斯特龙之铁的保护区
+Fathom7	次元碎片
+bbjian7	圣剑
+asnwuqi7	杀戮之心
+Modstrmofu	魔法附魔
+Modstrwulifu	物理附魔
+Modstrdufu	毒素附魔
+Modstrhuofu	火系附魔
+Modstrbingfu	冰系附魔
+Modstrdianfu	电系附魔
+jiachengsc1ama	六道轮回
+jiachengsc2ama	六道轮回
+jiachengsc3ama	六道轮回
+jiachengsc1bar	六道轮回
+jiachengsc2bar	六道轮回
+jiachengsc3bar	六道轮回
+jiachengsc1nec	六道轮回
+jiachengsc2nec	六道轮回
+jiachengsc3nec	六道轮回
+jiachengsc1pal	六道轮回
+jiachengsc2pal	六道轮回
+jiachengsc3pal	六道轮回
+jiachengsc1sor	六道轮回
+jiachengsc2sor	天道轮回
+jiachengsc3sor	天道轮回
+jiachengsc1ass	天道轮回
+jiachengsc2ass	天道轮回
+jiachengsc3ass	天道轮回
+jiachengsc1dru	天道轮回
+jiachengsc2dru	天道轮回
+jiachengsc3dru	天道轮回
+petjiezhi13	墨菲斯托的宝藏
+petxl12	督瑞尔的救赎
+petshoutao12	安达利尔之手
+petxiezi12	暗黑破坏神的精神
+petyaodai12	巴尔的未来之星
+mojie1	恶魔之灵
+petjiezhi23	墨菲斯托的宝藏
+petyifutaigu	塔里克的光辉
+molixl1	泰瑞尔的魔力
+Giantskull3	米山的保护
+Skillname402	正义审判
+zys	ÿc8正义之石
+lingqisc1	力量源泉
+lingqisc2	力量源泉
+lingqisc3	力量源泉
+lingqisc4	力量源泉
+lingqisc5	力量源泉
+lingqisc6	力量源泉
+xinshou	ÿc2贡献勋章
+dks	ÿc8打孔石
+lingqisc7	力量源泉
+Might1	大天使之翼
+zhiyesc1	ÿc2上古陨灭
+Tal Rasha's yingyong	塔拉夏的传奇
+Tal Rasha's armo	塔拉夏的庇护
+Tal Rasha's weap	塔拉夏的审判
+Tal Rasha's head	塔拉夏的勋章
+Tal Rasha's belt	塔拉夏的契约
+Tal Rasha's boot	塔拉夏的踪影
+Tal Rasha's glove	塔拉夏的正义
+Baal's wuwei	衣卒尔的传奇
+Baal's rin1	衣卒尔的轮回之眼
+Baal's rin2	衣卒尔的真实之眼
+Baal's amu	衣卒尔的魔幻之眼
+M'avina's Battle	马维娜的传奇
+M'avina's head	马维娜的荣誉
+M'avina's armo	马维娜的拥抱
+M'avina's glove	马维娜的传承
+M'avina's belt	马维娜的清风
+M'avina's boot	马维娜的迅捷
+Griswold's dream	格瑞斯华尔德的传奇
+Griswold's armo	格瑞斯华尔德的壁垒
+Griswold's weap	格瑞斯华尔德的裁决
+Griswold's shld	格瑞斯华尔德的荣耀
+Griswold's glove	格瑞斯华尔德的牺牲
+Griswold's belt	格瑞斯华尔德的神圣
+Griswold's boot	格瑞斯华尔德的梦想
+Immortal Kingking	不朽之王的传奇
+Immortal King's head	不朽之王的呐喊
+Immortal King's armo	不朽之王的狂暴
+Immortal King's glove	不朽之王的鼓舞
+Immortal King's belt	不朽之王的坚韧
+Immortal King's boot	不朽之王的魅影
+Trang-Oul's war	塔格奥的传奇
+Trang-Oul's head	塔格奥的恐怖
+Trang-Oul's armo	塔格奥的绝望
+Trang-Oul's shld	塔格奥的战栗
+Trang-Oul's weap	塔格奥的愤怒
+Trang-Oul's glov	塔格奥的寂灭
+Trang-Oul's belt	塔格奥的亡灵
+Natalya's ansha	娜塔亚的传奇
+Natalya's head	娜塔亚的冷静
+Natalya's weap	娜塔亚的复仇
+Natalya's armo	娜塔亚的真实
+Natalya's golve	娜塔亚的伪装
+Natalya's belt	娜塔亚的裁决
+Natalya's boot	娜塔亚的死亡
+Aldur's ningshi	艾尔多的传奇
+Aldur's head	艾尔多的融合
+Aldur's armo	艾尔多的守卫
+Aldur's weap	艾尔多的希望
+Aldur's shld	艾尔多的恩赐
+Aldur's belt	艾尔多的女神
+Aldur's boot	艾尔多的成长
+M'avina's weap	马维娜的狂热
+Immortal King's shld	不朽之王的力量
+Mishan's zhongcheng	米山的传奇
+Mishan's head	米山的正义
+Mishan's armo	米山的坚定
+Mishan's weap	米山的勇猛
+Mishan's golve	米山的守护
+Mishan's belt	米山的动力
+Mishan's boot	米山的迅捷
+Tal Rasha's yingyong1	塔拉夏的史诗
+Tal Rasha's armo1	塔拉夏的庇护
+Tal Rasha's weap1	塔拉夏的审判
+Tal Rasha's head1	塔拉夏的勋章
+Tal Rasha's belt1	塔拉夏的契约
+Tal Rasha's boot1	塔拉夏的踪影
+Tal Rasha's glove1	塔拉夏的正义
+Tal Rasha's yingyong2	塔拉夏的神话
+Tal Rasha's armo2	塔拉夏的庇护
+Tal Rasha's weap2	塔拉夏的审判
+Tal Rasha's head2	塔拉夏的勋章
+Tal Rasha's belt2	塔拉夏的契约
+Tal Rasha's boot2	塔拉夏的踪影
+Tal Rasha's glove2	塔拉夏的正义
+Baal's wuwei1	衣卒尔的史诗
+Baal's rin11	衣卒尔的轮回之眼
+Baal's rin21	衣卒尔的真实之眼
+Baal's amu1	衣卒尔的魔幻之眼
+Baal's wuwei2	衣卒尔的神话
+Baal's rin12	衣卒尔的轮回之眼
+Baal's rin22	衣卒尔的真实之眼
+Baal's amu2	衣卒尔的魔幻之眼
+Trang-Oul's war1	塔格奥的史诗
+Trang-Oul's head1	塔格奥的恐怖
+Trang-Oul's armo1	塔格奥的绝望
+Trang-Oul's shld1	塔格奥的战栗
+Trang-Oul's weap1	塔格奥的愤怒
+Trang-Oul's glov1	塔格奥的寂灭
+Trang-Oul's belt1	塔格奥的亡灵
+Trang-Oul's war2	塔格奥的神话
+Trang-Oul's head2	塔格奥的恐怖
+Trang-Oul's armo2	塔格奥的绝望
+Trang-Oul's shld2	塔格奥的战栗
+Trang-Oul's weap2	塔格奥的愤怒
+Trang-Oul's glov2	塔格奥的寂灭
+Trang-Oul's belt2	塔格奥的亡灵
+M'avina's Battle1	马维娜的史诗
+M'avina's head1	马维娜的荣誉
+M'avina's armo1	马维娜的拥抱
+M'avina's glove1	马维娜的传承
+M'avina's belt1	马维娜的清风
+M'avina's boot1	马维娜的迅捷
+M'avina's weap1	马维娜的狂热
+M'avina's Battle2	马维娜的神话
+M'avina's head2	马维娜的荣誉
+M'avina's armo2	马维娜的拥抱
+M'avina's glove2	马维娜的传承
+M'avina's belt2	马维娜的清风
+M'avina's boot2	马维娜的迅捷
+M'avina's weap2	马维娜的狂热
+Griswold's dream1	格瑞斯华尔德的史诗
+Griswold's armo1	格瑞斯华尔德的壁垒
+Griswold's weap1	格瑞斯华尔德的裁决
+Griswold's shld1	格瑞斯华尔德的荣耀
+Griswold's glove1	格瑞斯华尔德的牺牲
+Griswold's belt1	格瑞斯华尔德的神圣
+Griswold's boot1	格瑞斯华尔德的梦想
+Griswold's dream2	格瑞斯华尔德的神话
+Griswold's armo2	格瑞斯华尔德的壁垒
+Griswold's weap2	格瑞斯华尔德的裁决
+Griswold's shld2	格瑞斯华尔德的荣耀
+Griswold's glove2	格瑞斯华尔德的牺牲
+Griswold's belt2	格瑞斯华尔德的神圣
+Griswold's boot2	格瑞斯华尔德的梦想
+Immortal Kingking1	不朽之王的史诗
+Immortal King's head1	不朽之王的呐喊
+Immortal King's armo1	不朽之王的狂暴
+Immortal King's glove1	不朽之王的鼓舞
+Immortal King's belt1	不朽之王的坚韧
+Immortal King's boot1	不朽之王的魅影
+Immortal King's shld1	不朽之王的力量
+Immortal Kingking2	不朽之王的神话
+Immortal King's head2	不朽之王的呐喊
+Immortal King's armo2	不朽之王的狂暴
+Immortal King's glove2	不朽之王的鼓舞
+Immortal King's belt2	不朽之王的坚韧
+Immortal King's boot2	不朽之王的魅影
+Immortal King's shld2	不朽之王的力量
+Natalya's ansha1	娜塔亚的史诗
+Natalya's head1	娜塔亚的冷静
+Natalya's weap1	娜塔亚的复仇
+Natalya's armo1	娜塔亚的真实
+Natalya's golve1	娜塔亚的伪装
+Natalya's belt1	娜塔亚的裁决
+Natalya's boot1	娜塔亚的死亡
+Natalya's ansha2	娜塔亚的神话
+Natalya's head2	娜塔亚的冷静
+Natalya's weap2	娜塔亚的复仇
+Natalya's armo2	娜塔亚的真实
+Natalya's golve2	娜塔亚的伪装
+Natalya's belt2	娜塔亚的裁决
+Natalya's boot2	娜塔亚的死亡
+Aldur's ningshi1	艾尔多的史诗
+Aldur's head1	艾尔多的融合
+Aldur's armo1	艾尔多的守卫
+Aldur's weap1	艾尔多的希望
+Aldur's shld1	艾尔多的恩赐
+Aldur's belt1	艾尔多的女神
+Aldur's boot1	艾尔多的成长
+Aldur's ningshi2	艾尔多的神话
+Aldur's head2	艾尔多的融合
+Aldur's armo2	艾尔多的守卫
+Aldur's weap2	艾尔多的希望
+Aldur's shld2	艾尔多的恩赐
+Aldur's belt2	艾尔多的女神
+Aldur's boot2	艾尔多的成长
+Mishan's zhongcheng1	米山的史诗
+Mishan's head1	米山的正义
+Mishan's armo1	米山的坚定
+Mishan's weap1	米山的勇猛
+Mishan's golve1	米山的守护
+Mishan's belt1	米山的动力
+Mishan's boot1	米山的迅捷
+Mishan's zhongcheng2	米山的神话
+Mishan's head2	米山的正义
+Mishan's armo2	米山的坚定
+Mishan's weap2	米山的勇猛
+Mishan's golve2	米山的守护
+Mishan's belt2	米山的动力
+Mishan's boot2	米山的迅捷
+saa	ÿc2墨菲斯托的念想
+sab	ÿc2暗黑破坏神的念想
+sac	ÿc2巴尔的念想
+sad	ÿc2泰瑞尔的念想
+sae	ÿc2督瑞尔的念想
+saf	ÿc2莉莉丝的念想
+jnh	ÿc2上古技能魂
+yjh	ÿc2远古技能魂
+zhizunvipsc	ÿc2至尊vip凭证
+toll1	死神的丧钟
+shouhuzhizhu	守护之珠
+Skillname403	变身泰瑞尔
+Skillname404	变身龙人
+Skillname405	变身墨菲斯托
+Skillname406	变身衣卒尔
+zs5	安达利尔的灵魂之石
+zs4	墨菲斯托的灵魂之石
+zs1	暗黑破坏神的灵魂之石
+zs2	巴尔的灵魂之石
+zs6	泰瑞尔的灵魂之石
+zs3	督瑞尔的灵魂之石
+zs7	魔力之石
+zs8	元素之石
+zs9	守护之石
+zf1	狮子的心
+zf2	上古泰瑞尔的祝福
+zf3	远古泰瑞尔的祝福
+zf4	太古泰瑞尔的祝福
+hd1	混沌之石
+hd2	混沌之石
+hd3	混沌之石
+hd4	混沌之石
+hd5	混沌之石
+hd6	混沌之石
+hd7	混沌之石
+zy1	上古陨灭之石
+zy2	上古陨灭之石
+zy3	上古陨灭之石
+zy4	上古陨灭之石
+zy5	上古陨灭之石
+zy6	上古陨灭之石
+zy7	上古陨灭之石
+zm1	远古陨灭之石
+zm2	远古陨灭之石
+zm3	远古陨灭之石
+zm4	远古陨灭之石
+zm5	远古陨灭之石
+zm6	远古陨灭之石
+zm7	远古陨灭之石
+zi1	太古陨灭之石
+zi2	太古陨灭之石
+zi3	太古陨灭之石
+zi4	太古陨灭之石
+zi5	太古陨灭之石
+zi6	太古陨灭之石
+zi7	太古陨灭之石
+yangchengsc	ÿc2远古勋章
+rongyaovipsc	ÿc2荣耀vip凭证
+zl1	祈祷之石
+zl2	力量之石
+zl3	救赎之石
+zl4	救助之石
+zl5	狂热之石
+zl6	瞄准之石
+zl7	信念之石
+cm4	勇士之心
+sgc	远古勋章
+zf5	上古原力之石
+zf6	远古原力之石
+zf7	太古原力之石
+zw1	sor范围之石
+zw2	pal范围之石
+zw3	bar范围之石
+zw4	ama范围之石
+zw5	dru范围之石
+zw6	ass范围之石
+zw7	nec范围之石
+zg1	巅峰之石
+zg2	飞翔之石
+zg3	无尽之石
+zg4	太古变化之石
+zg5	上古变化之石
+je1	珠宝 Jewel
+je2	珠宝 Jewel
+je3	珠宝 Jewel
+lz1	ÿc4塔拉夏的传奇之魂
+lz2	ÿc4马维娜的传奇之魂
+lz3	ÿc4格瑞斯华尔德的传奇之魂
+lz4	ÿc4不朽之王的传奇之魂
+lz5	ÿc4娜塔亚的传奇之魂
+lz6	ÿc4艾尔多的传奇之魂
+lz7	ÿc4塔格奥的传奇之魂
+lz8	ÿc4米山的传奇之魂
+ly1	ÿc4塔拉夏的史诗之魂
+ly2	ÿc4马维娜的史诗之魂
+ly3	ÿc4格瑞斯华尔德的史诗之魂
+ly4	ÿc4不朽之王的史诗之魂
+ly5	ÿc4娜塔亚的史诗之魂
+ly6	ÿc4艾尔多的史诗之魂
+ly7	ÿc4塔格奥的史诗之魂
+ly8	ÿc4米山的史诗之魂
+lt1	ÿc4塔拉夏的神话之魂
+lt2	ÿc4马维娜的神话之魂
+lt3	ÿc4格瑞斯华尔德的神话之魂
+lt4	ÿc4不朽之王的神话之魂
+lt5	ÿc4娜塔亚的神话之魂
+lt6	ÿc4艾尔多的神话之魂
+lt7	ÿc4塔格奥的神话之魂
+lt8	ÿc4米山的神话之魂
+lz9	ÿc2传奇之魂
+ly9	ÿc;史诗之魂
+lt9	ÿc4神话之魂
+zyq	ÿc2正义审判药水
+zhiyesc2	ÿc2上古陨灭
+zhiyesc3	ÿc2上古陨灭
+zhiyesc4	ÿc2上古陨灭
+zhiyesc5	ÿc2上古陨灭
+zhiyesc6	ÿc2上古陨灭
+zhiyesc7	ÿc2上古陨灭
+zhiyesc21	ÿc2远古陨灭
+zhiyesc22	ÿc2远古陨灭
+zhiyesc23	ÿc2远古陨灭
+zhiyesc24	ÿc2远古陨灭
+zhiyesc25	ÿc2远古陨灭
+zhiyesc26	ÿc2远古陨灭
+zhiyesc27	ÿc2远古陨灭
+zhiyesc11	ÿc2太古陨灭
+zhiyesc12	ÿc2太古陨灭
+zhiyesc13	ÿc2太古陨灭
+zhiyesc14	ÿc2太古陨灭
+zhiyesc15	ÿc2太古陨灭
+zhiyesc16	ÿc2太古陨灭
+zhiyesc17	太古陨灭
+sgbiansc	上古变身
+Modstrzhengyi	ÿc2正义审判范围增大
+Modstryangup	ÿc2晋级次数
+z01	ÿc2塔拉夏的庇护
+z02	ÿc2塔拉夏的审判
+z03	ÿc2塔拉夏的勋章
+z04	ÿc2塔拉夏的契约
+z05	ÿc2塔拉夏的踪影
+z06	ÿc2塔拉夏的正义
+z07	ÿc2马维娜的荣誉
+z08	ÿc2马维娜的拥抱
+z09	ÿc2马维娜的传承
+z10	ÿc2马维娜的清风
+z11	ÿc2马维娜的迅捷
+z12	ÿc2马维娜的狂热
+z13	ÿc2格瑞斯华尔德的壁垒
+z14	ÿc2格瑞斯华尔德的裁决
+z15	ÿc2格瑞斯华尔德的荣耀
+z16	ÿc2格瑞斯华尔德的牺牲
+z17	ÿc2格瑞斯华尔德的神圣
+z18	ÿc2格瑞斯华尔德的梦想
+z19	ÿc2不朽之王的呐喊
+z20	ÿc2不朽之王的狂暴
+z21	ÿc2不朽之王的鼓舞
+z22	ÿc2不朽之王的坚韧
+z23	ÿc2不朽之王的魅影
+z24	ÿc2不朽之王的力量
+z25	ÿc2塔格奥的恐怖
+z26	ÿc2塔格奥的绝望
+z27	ÿc2塔格奥的战栗
+z28	ÿc2塔格奥的愤怒
+z29	ÿc2塔格奥的寂灭
+z30	ÿc2塔格奥的亡灵
+z31	ÿc2娜塔亚的冷静
+z32	ÿc2娜塔亚的复仇
+z33	ÿc2娜塔亚的真实
+z34	ÿc2娜塔亚的伪装
+z35	ÿc2娜塔亚的裁决
+z36	ÿc2娜塔亚的死亡
+z37	ÿc2艾尔多的融合
+z38	ÿc2艾尔多的守卫
+z39	ÿc2艾尔多的希望
+z40	ÿc2艾尔多的恩赐
+z41	ÿc2艾尔多的女神
+z42	ÿc2艾尔多的成长
+z43	ÿc2米山的正义
+z44	ÿc2米山的坚定
+z45	ÿc2米山的勇猛
+z46	ÿc2米山的守护
+z47	ÿc2米山的动力
+z48	ÿc2米山的迅捷
+z49	ÿc4塔拉夏的庇护史诗
+z50	ÿc4塔拉夏的审判史诗
+z51	ÿc4塔拉夏的勋章史诗
+z52	ÿc4塔拉夏的契约史诗
+z53	ÿc4塔拉夏的踪影史诗
+z54	ÿc4塔拉夏的正义史诗
+z55	ÿc4马维娜的荣誉史诗
+z56	ÿc4马维娜的拥抱史诗
+z57	ÿc4马维娜的传承史诗
+z58	ÿc4马维娜的清风史诗
+z59	ÿc4马维娜的迅捷史诗
+z60	ÿc4马维娜的狂热史诗
+z61	ÿc4格瑞斯华尔德的壁垒史诗
+z62	ÿc4格瑞斯华尔德的裁决史诗
+z63	ÿc4格瑞斯华尔德的荣耀史诗
+z64	ÿc4格瑞斯华尔德的牺牲史诗
+z65	ÿc4格瑞斯华尔德的神圣史诗
+z66	ÿc4格瑞斯华尔德的梦想史诗
+z67	ÿc4不朽之王的呐喊史诗
+z68	ÿc4不朽之王的狂暴史诗
+z69	ÿc4不朽之王的鼓舞史诗
+z70	ÿc4不朽之王的坚韧史诗
+z71	ÿc4不朽之王的魅影史诗
+z72	ÿc4不朽之王的力量史诗
+z73	ÿc4塔格奥的恐怖史诗
+z74	ÿc4塔格奥的绝望史诗
+z75	ÿc4塔格奥的战栗史诗
+z76	ÿc4塔格奥的愤怒史诗
+z77	ÿc4塔格奥的寂灭史诗
+z78	ÿc4塔格奥的亡灵史诗
+z79	ÿc4娜塔亚的冷静史诗
+z80	ÿc4娜塔亚的复仇史诗
+z81	ÿc4娜塔亚的真实史诗
+z82	ÿc4娜塔亚的伪装史诗
+z83	ÿc4娜塔亚的裁决史诗
+z84	ÿc4娜塔亚的死亡史诗
+z85	ÿc4艾尔多的融合史诗
+z86	ÿc4艾尔多的守卫史诗
+z87	ÿc4艾尔多的希望史诗
+z88	ÿc4艾尔多的恩赐史诗
+z89	ÿc4艾尔多的女神史诗
+z90	ÿc4艾尔多的成长史诗
+z91	ÿc4米山的正义史诗
+z92	ÿc4米山的坚定史诗
+z93	ÿc4米山的勇猛史诗
+z94	ÿc4米山的守护史诗
+z95	ÿc4米山的动力史诗
+z96	ÿc4米山的迅捷史诗
+y01	ÿc2塔拉夏的庇护神话
+y02	ÿc2塔拉夏的审判神话
+y03	ÿc2塔拉夏的勋章神话
+y04	ÿc2塔拉夏的契约神话
+y05	ÿc2塔拉夏的踪影神话
+y06	ÿc2塔拉夏的正义神话
+y07	ÿc2马维娜的荣誉神话
+y08	ÿc2马维娜的拥抱神话
+y09	ÿc2马维娜的传承神话
+y10	ÿc2马维娜的清风神话
+y11	ÿc2马维娜的迅捷神话
+y12	ÿc2马维娜的狂热神话
+y13	ÿc2格瑞斯华尔德的壁垒神话
+y14	ÿc2格瑞斯华尔德的裁决神话
+y15	ÿc2格瑞斯华尔德的荣耀神话
+y16	ÿc2格瑞斯华尔德的牺牲神话
+y17	ÿc2格瑞斯华尔德的神圣神话
+y18	ÿc2格瑞斯华尔德的梦想神话
+y19	ÿc2不朽之王的呐喊神话
+y20	ÿc2不朽之王的狂暴神话
+y21	ÿc2不朽之王的鼓舞神话
+y22	ÿc2不朽之王的坚韧神话
+y23	ÿc2不朽之王的魅影神话
+y24	ÿc2不朽之王的力量神话
+y25	ÿc2塔格奥的恐怖神话
+y26	ÿc2塔格奥的绝望神话
+y27	ÿc2塔格奥的战栗神话
+y28	ÿc2塔格奥的愤怒神话
+y29	ÿc2塔格奥的寂灭神话
+y30	ÿc2塔格奥的亡灵神话
+y31	ÿc2娜塔亚的冷静神话
+y32	ÿc2娜塔亚的复仇神话
+y33	ÿc2娜塔亚的真实神话
+y34	ÿc2娜塔亚的伪装神话
+y35	ÿc2娜塔亚的裁决神话
+y36	ÿc2娜塔亚的死亡神话
+y37	ÿc2艾尔多的融合神话
+y38	ÿc2艾尔多的守卫神话
+y39	ÿc2艾尔多的希望神话
+y40	ÿc2艾尔多的恩赐神话
+y41	ÿc2艾尔多的女神神话
+y42	ÿc2艾尔多的成长神话
+y43	ÿc2米山的正义神话
+y44	ÿc2米山的坚定神话
+y45	ÿc2米山的勇猛神话
+y46	ÿc2米山的守护神话
+y47	ÿc2米山的动力神话
+y48	ÿc2米山的迅捷神话
+zf8	正义范围之石
+zhengyizhishi	正义之石
+tgguhui	骨灰的太古遗迹
+To tgguhui	骨灰的太古遗迹
+ygtop1	3bb的太古遗迹一层
+ygtop2	3bb的太古遗迹二层
+To ygtop1	3bb的太古遗迹一层
+To ygtop2	3bb的太古遗迹二层
+strAllResist	所有抗性(RES)
+ModStrredall	所有伤害减少（AA）
+mod_mbag	ÿc8这是个神奇的包包可以放入符文、宝石、耗材等杂物}ÿc1左键存入，袋子放到背包或仓库对应数字右键取出ÿc0
+Modstr-pk4	ÿc<右键使用ÿc0}ÿc1这里难度较大ÿc0}ÿc8开启ÿc4骨灰ÿc8隐藏红门ÿc0
+Modstr-pk5	ÿc<右键使用ÿc0}ÿc1这里难度较大ÿc0}ÿc8开启ÿc4议会成员ÿc8隐藏红门ÿc0
+Modstr-pk6	ÿc<右键使用ÿc0}ÿc1这里是终极场景ÿc0}ÿc8开启ÿc43BBÿc8隐藏红门ÿc0
+Modstr-FWYS	ÿc<合成材料ÿc0}ÿc1提升相应自动技能的范围ÿc0}ÿc8与ÿc4对应范围SC合成ÿc8增加相应技能范围ÿc0
+ModStrabsallpercent	ÿc;所有伤害吸收(AA)ÿc3
+Moditem2resmax	ÿc8所有最大抗性ÿc3
+Modstr-pk1	ÿc<右键使用ÿc0}ÿc1这里难度较大ÿc0}ÿc8开启ÿc4主母巢穴ÿc8隐藏红门ÿc0
+Modstr-pk2	ÿc<右键使用ÿc0}ÿc1这里难度较大ÿc0}ÿc8开启ÿc4遗忘沙漠ÿc8隐藏红门ÿc0
+Modstr-pk3	ÿc<右键使用ÿc0}ÿc1这里难度较大ÿc0}ÿc8开启ÿc4痛苦熔炉ÿc8隐藏红门ÿc0
+increaseswithplaylevelDF	（以角色巅峰等級決定）
+pk7	ÿc8真火之钥
+Modstr-pk7	ÿc<右键使用ÿc0}ÿc1这里掉落所有远古装及爆率符ÿc0}ÿc8开启ÿc4真火密境ÿc8隐藏红门ÿc0
+pk8	ÿc8纯水之钥
+Modstr-pk8	ÿc<右键使用ÿc0}ÿc1这里掉落所有远古装及爆率符ÿc0}ÿc8开启ÿc4纯水密境ÿc8隐藏红门ÿc0
+y49	ÿc2真火之魂
+y50	ÿc2纯水之魂
+XinShouTao Set	屠魔战纪

@@ -1,0 +1,194 @@
+ItemType	Code	Equiv1	Equiv2	Repair	Body	BodyLoc1	BodyLoc2	Shoots	Quiver	Throwable	Reload	ReEquip	AutoStack	Magic	Rare	Normal	Charm	Gem	Beltable	MaxSock1	MaxSock25	MaxSock40	TreasureClass	Rarity	StaffMods	CostFormula	Class	VarInvGfx	InvGfx1	InvGfx2	InvGfx3	InvGfx4	InvGfx5	InvGfx6	StorePage	*eol
+    																								3												0
+    																								3												0
+shie	shie	shld		1	1	rarm	larm								1					3	3	4		3		1									armo	0
+tors	tors	armo		1	1	tors	tors								1					3	4	6		3		1									armo	0
+gold	gold	misc														1								3												0
+bowq	bowq	misl			1	rarm	larm		bow		1		1			1								3											misc	0
+xboq	xboq	misl			1	rarm	larm		xbow		1		1			1								3											misc	0
+play	play	misc														1	1							3											misc	0
+herb	herb	misc																						3											misc	0
+poti	poti	misc														1			1					3											misc	0
+ring	ring	misc			1	rrin	lrin							1						1	1	1		3				5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
+elix	elix	misc																	1					3											misc	0
+amul	amul	misc			1	neck	neck							1						1	1	1		3				3	invamu1	invamu2	invamu3				misc	0
+char	char	misc												1			1							3				3	invch1	invch4	invch7				misc	0
+    																								3												0
+boot	boot	armo		1	1	feet	feet								1					4	4	4		3		1									armo	0
+glov	glov	armo		1	1	glov	glov								1					4	4	4		3		1									armo	0
+    																								3												0
+book	book	misc														1								3											misc	0
+belt	belt	armo		1	1	belt	belt								1					2	2	2		3		1									armo	0
+gem 	gem	sock														1		1						3											misc	0
+torc	torc	misc			1											1								3											misc	0
+scro	scro	misc														1			1					3											misc	0
+    																								3												0
+scep	scep	rod	pala	1	1	rarm	larm								1					3	5	6		1	pal										weap	0
+wand	wand	rod	necr	1	1	rarm	larm								1					2	2	2		1	nec		nec								weap	0
+staf	staf	rod		1	1	rarm	larm								1					5	6	6		1	sor										weap	0
+bow 	bow	miss			1	rarm	larm	bowq							1					3	4	6	1	3											weap	0
+axe 	axe	mele		1	1	rarm	larm								1					4	5	6		3											weap	0
+club	club	blun		1	1	rarm	larm								1					3	4	6		3											weap	0
+swor	swor	mele		1	1	rarm	larm								1					3	4	6		3											weap	0
+hamm	hamm	blun		1	1	rarm	larm								1					3	4	6		3											weap	0
+knif	knif	mele		1	1	rarm	larm								1					2	3	3		3											weap	0
+spea	spea	mele		1	1	rarm	larm								1					3	4	6		3											weap	0
+pole	pole	mele		1	1	rarm	larm								1					3	4	6		3											weap	0
+xbow	xbow	miss		1	1	rarm	larm	xboq							1					3	4	6		3											weap	0
+mace	mace	blun		1	1	rarm	larm								1					3	4	6		3											weap	0
+helm	helm	armo		1	1	head	head								1					2	2	3		3		1									armo	0
+tpot	tpot	thro			1	rarm	larm			1	1	1	1			1								3											misc	0
+ques	ques																							3												0
+body	body	misc														1								3		2									misc	0
+key 	key	misc											1			1								3											misc	0
+tkni	tkni	comb	knif	1	1	rarm	larm			1	1	1	1		1									3											misc	0
+taxe	taxe	comb	axe	1	1	rarm	larm			1	1	1	1		1									3											misc	0
+jave	jave	comb	spea	1	1	rarm	larm			1	1	1	1		1									3											misc	0
+weap	weap														1								1	3												0
+mele	mele	weap													1								1	3												0
+miss	miss	weap													1									3												0
+thro	thro	weap								1					1									3												0
+comb	comb	mele	thro							1					1									3												0
+armo	armo														1								1	3												0
+shld	shld	armo	seco												1									3												0
+misc	misc														1									3												0
+sock	sock	misc																						3												0
+seco	seco														1									3												0
+rod 	rod	blun													1									3												0
+misl	misl	misc																						3												0
+blun	blun	mele													1									3												0
+Expansion																																				
+jewl	jewl	sock												1	1			1						3				6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
+clas	clas														1									3												0
+amaz	amaz	clas													1									1			ama									0
+barb	barb	clas													1									1			bar									0
+necr	necr	clas													1									1			nec									0
+pala	pala	clas													1									1			pal									0
+sorc	sorc	clas													1									1			sor									0
+assn	assn	clas													1									2			ass									0
+drui	drui	clas													1									1			dru									0
+h2h 	h2h	mele	assn	1	1	rarm	larm								1					2	3	3		2			ass								weap	0
+orb 	orb	weap	sorc	1	1	rarm	larm								1					2	3	3		1	sor		sor								weap	0
+head	head	shld	necr	1	1	rarm	larm								1					2	3	3		1	nec		nec								armo	0
+ashd	ashd	shld	pala	1	1	rarm	larm								1					3	4	4		1			pal								armo	0
+phlm	phlm	helm	barb	1	1	head	head								1					2	3	3		1	bar		bar								armo	0
+pelt	pelt	helm	drui	1	1	head	head								1					2	3	3		1	dru		dru								armo	0
+cloa	cloa	tors	assn	1	1	tors	tors								1									1	ass		ass								armo	0
+rune	rune	sock														1								3											misc	0
+circ	circ	helm		1	1	head	head								1					1	2	3		3		1									armo	0
+hpot	hpot	poti														1			1					3											misc	0
+mpot	mpot	poti														1			1					3											misc	0
+rpot	rpot	hpot	mpot													1			1					3											misc	0
+spot	spot	poti														1			1					3											misc	0
+apot	apot	poti														1			1					3											misc	0
+wpot	wpot	poti														1			1					3											misc	0
+scha	scha	char												1			1							3				3	invch1	invch4	invch7				misc	0
+mcha	mcha	char												1			1							3				3	invch2	invch5	invch8				misc	0
+lcha	lcha	char												1			1							3				3	invch3	invch6	invch9				misc	0
+abow	abow	bow	amaz		1	rarm	larm	bowq							1					3	4	5	1	1			ama								weap	0
+aspe	aspe	spea	amaz	1	1	rarm	larm								1					3	4	6		1			ama								weap	0
+ajav	ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1					2	3	3		1			ama								misc	0
+h2h2	h2h2	h2h		1	1	rarm	larm								1					2	3	3		2	ass		ass								weap	0
+mboq	mboq	bowq			1	rarm	larm		bow		1			1	1									3											misc	0
+mxbq	mxbq	xboq			1	rarm	larm		xbow		1			1	1									3											misc	0
+gem0	gem0	gem														1		1						3											misc	0
+gem1	gem1	gem														1		1						3											misc	0
+gem2	gem2	gem														1		1						3											misc	0
+gem3	gem3	gem														1		1						3											misc	0
+gem4	gem4	gem														1		1						3											misc	0
+gema	gema	gem														1		1						3											misc	0
+gemd	gemd	gem														1		1						3											misc	0
+geme	geme	gem														1		1						3											misc	0
+gemr	gemr	gem														1		1						3											misc	0
+gems	gems	gem														1		1						3											misc	0
+gemt	gemt	gem														1		1						3											misc	0
+gemz	gemz	gem														1		1						3											misc	0
+hrnh	hrnh	gem														1		1						3											misc	0
+sru 	sru	misc														1								3											misc	0
+stup	stup	misc														1								3											misc	0
+zong	zong													1	1									3											misc	0
+hong	hong													1	1									3											misc	0
+scm1	scm1	char	amaz											1			1							3			ama	3	invch1	invch4	invch7				misc	0
+scm2	scm2	char	barb											1			1							3			bar	3	invch1	invch4	invch7				misc	0
+scm3	scm3	char	necr											1			1							3			nec	3	invch1	invch4	invch7				misc	0
+scm4	scm4	char	pala											1			1							3			pal	3	invch1	invch4	invch7				misc	0
+scm5	scm5	char	sorc											1			1							3			sor	3	invch1	invch4	invch7				misc	0
+scm6	scm6	char	assn											1			1							3			ass	3	invch1	invch4	invch7				misc	0
+tp01	tp01	misc														1								3											misc	0
+scm7	scm7	char	drui											1			1							3			dru	3	invch1	invch4	invch7				misc	0
+ibag	ibag	misc											1			1								3											misc	0
+n000	n000																																			0
+n001	n001																																			0
+n002	n002																																			0
+n003	n003																																			0
+n004	n004																																			0
+n005	n005																																			0
+n006	n006																																			0
+n007	n007																																			0
+n008	n008																																			0
+n009	n009																																			0
+n010	n010																																			0
+n011	n011																																			0
+n012	n012																																			0
+n013	n013																																			0
+n014	n014																																			0
+n015	n015																																			0
+n016	n016																																			0
+n017	n017																																			0
+n018	n018																																			0
+n019	n019																																			0
+n020	n020																																			0
+n021	n021																																			0
+n022	n022																																			0
+n023	n023																																			0
+n024	n024																																			0
+n025	n025																																			0
+n026	n026																																			0
+n027	n027																																			0
+n028	n028																																			0
+n029	n029																																			0
+n030	n030																																			0
+n031	n031																																			0
+n032	n032																																			0
+n033	n033																																			0
+n034	n034																																			0
+n035	n035																																			0
+n036	n036																																			0
+n037	n037																																			0
+n038	n038																																			0
+n039	n039																																			0
+n040	n040																																			0
+n041	n041																																			0
+n042	n042																																			0
+n043	n043																																			0
+n044	n044																																			0
+n045	n045																																			0
+n046	n046																																			0
+n047	n047																																			0
+n048	n048																																			0
+n049	n049																																			0
+n050	n050																																			0
+n051	n051																																			0
+n052	n052																																			0
+n053	n053																																			0
+n054	n054																																			0
+n055	n055																																			0
+n056	n056																																			0
+n057	n057																																			0
+n058	n058																																			0
+n059	n059																																			0
+n060	n060																																			0
+n061	n061																																			0
+n062	n062																																			0
+n063	n063																																			0
+n064	n064																																			0
+n065	n065																																			0
+n066	n066																																			0
+n067	n067																																			0
+n068	n068																																			0
+n069	n069																																			0
+mbag	mbag	misc														1								3											misc	0
+vchb	vchb	char	misc											1	1		1			1	3	6		5				1	Charm_vip4						misc	0
+vchc	vchc	char	misc											1			1			4	4	4		5				3	invch1	invch4	invch7				misc	0
+conm	conm	misc																						3											misc	0
+vcha	vcha	char	misc											1	1		1			1	3	6		5				1	Vip_Charm						misc	0

@@ -1,0 +1,22 @@
+Transform Color	Code
+whit	whit
+lgry	lgry
+dgry	dgry
+blac	blac
+lblu	lblu
+dblu	dblu
+cblu	cblu
+lred	lred
+dred	dred
+cred	cred
+lgrn	lgrn
+dgrn	dgrn
+cgrn	cgrn
+lyel	lyel
+dyel	dyel
+lgld	lgld
+dgld	dgld
+lpur	lpur
+dpur	dpur
+oran	oran
+bwht	bwht

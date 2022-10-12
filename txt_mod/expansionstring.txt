@@ -1,0 +1,2820 @@
+﻿A4Q2ExpansionSuccessTyrael	30}讚美光明！你完成了不可能的任務！} }暗黑破壞神和墨菲斯托已經放逐回他們誕生的}黑暗深淵中，墮落的靈魂之石也不復存在。} }不過，當你在這邊作戰的時候，巴爾}仍然留在人類的的土地之上，建造一個}地獄徒眾的大軍。}現在，巴爾的大軍正在找尋世界之石，}太古時代所有靈魂之石的來源和它們力量}的泉源，最後留下的就是無盡的破壞。}他們凝聚的力量來到了野蠻人一族的家鄉深處}，直接前往亞瑞特山的顛峰！} }巴爾很清楚，人類的英雄！}他找到受到諸神祝福的「世界之石」正確埋藏點！} }現在，進入這個我為你打開的傳送門。}它會帶領你前往野蠻人城市哈洛加斯，}位於亞瑞特山底，秩序的最後一道防線。}
+A4Q2ExpansionSuccessCain	35}我就知道你體內有著無限的潛力，}我的朋友。你完成了神話般的任務。} }雖然我的祖先在對抗三個邪惡之源以及他}們的爪牙時，受到相當強的挫敗。}所以我也一直在封閉、學者般的生活找尋自己。}我很高興我的知識能夠幫上你的忙。} }現在，我希望我能離開這個地方。}雖然天堂之門是一個值得我們觀注的神蹟，}我希望我在未來的餘生之中，}再也不用看到它們。} }請和泰瑞爾談談離開這個地方的事，}現在去吧！}
+AncientsAct5IntroGossip1	20}我們是奈法陵的靈魂們，古代之人。我們被選為看守}神聖亞瑞特山，也就是世界之石的所在之處。我們之}中已經沒有多少人能站著直到現在；而能夠領悟它}真正作用的更少。}}在你進入之前，你必需打倒我們。}
+CainAct5IntroGossip1	25}發現這個地方毫髮未傷真是讓我倍感驚訝。其他擋住}巴爾，毀滅之王行經路線的東西，都已經被摧毀了。}}這些野蠻人一定是亞瑞特山上傳說中的守護者。他們}是十分自傲、堅強的人民。別以為他們會用人情的}溫暖來招待你-這邊並沒有什麼陌生人出現。}}或許我能夠獲得他們的信任。我會在這些城鎮中的人}待一段時間，並試著更加瞭解他們。如果我發現了}什麼，我馬上就會讓你知道。}
+CainAct5Gossip1	40}靠著在地獄重生，身材大小和他們的威脅性沒有太大}的關係。就算只有人類一半高的惡魔也可以靠擺個}手勢就殺人，而地獄重生的獸群將會蹂躪擋在他們}路上的任何東西。}
+CainAct5Gossip2	30}雖然這些國度中眾人皆知的野蠻人是兇暴的戰士，但}他們還是擁有很強的同情心。他們在歷史的狂潮中}飽受訓練，為了傳說中決定世界未來的戰鬥而準備。}
+CainAct5Gossip3	35}大天使泰瑞爾長時間一直在觀察這些亞瑞特聖山的}守護者。我不相信巴爾和泰瑞爾只是為了這些渺小的}靈魂而在這邊奮戰不休，他們來此是為了和以前一樣}，解決一些未了的紛爭。}
+CainAct5Gossip4	35}當我在赫拉迪姆的時光之中，我們時常爭辯亞瑞特山}的本質。}}我們知道野蠻人一族狂熱的守護這座山， }視為他們的神聖任務。不過，很多人將他們的狂信}視為單純的迷信... 和他們天生對外來者的敵意融合}在一起。}}這些赫拉迪姆前往了亞瑞特，但是再也沒有消息了...}不過，我還是不相信他們是死於野蠻人之手。}
+CainAct5Gossip5	30}所有使用魔法技能的人都知道亞瑞特山，但是很少人}能夠真正瞭解它的本質。它牽連到所有深不可測的}魔法力量。}}毀滅之王在這個目標的吸引之下，不斷的向山頂前進}是個不祥的預兆。我害怕巴爾真正想要的是整個世界}。}
+CainAct5Gossip6	35}我花了數十年的時間，試著去瞭解這個世界上力量的}運作方式。但是在發現一切事實都模糊不清的狀況下}，我才知道我的知識有多麼的貧乏。我會儘可能的}協助你，我的朋友。}
+CainAct5Gossip7	30}雖然哈洛加斯的長老評議會已經消散了，還是有許多}能力非凡的年輕領導者取代了他們的地位。當然了，}安亞有足夠的勇氣和智慧來領導所有人.... 如果}他們在這場大災難中還能活下來的話。}
+CainAct5Gossip8	30}啊，安亞。柔性力量的完美典範....她讓我想起了}年輕時認識的撒卡蘭姆女祭司。你知道的，他們甚至}連貞潔的誓言都不一定會接受。}
+CainAct5Gossip9	35}這個城鎮中有位這樣熟練的鐵匠真是幸事。拉蘇克}打造出來東西的品質一定可以滿足於你的技能。}事實上，他在赫拉迪姆之間相當受到歡迎。}
+CainAct5Gossip10	35}我相信靈魂之石是這一切紛爭的核心。}如果不是那個愚笨的馬略斯插手，}巴爾還會被塔-拉夏所囚禁起來。}
+AnyaAct5IntroGossip1	40}對我和我的人民而言，你已經證實你是真正的英雄。}}這是黑暗的時刻，戰士。我希望你能將巴爾的毀滅}國度終結。}}我們的長老評議會已經不存在了-我的父親，}奧古斯特，也是其中之一。唯一能夠在全面的}絕望中支撐我們的，就是對巴爾的復仇。}
+AnyaGossip1	35}現在長老已經都死了。我不知道誰能帶領我們的人民}渡過這個黑暗的時代。我已經代替了我父親原先的}職位，但是這負荷我獨自一個人扛實在是太重了。}}我們是一群.... 擁有堅強血統的人民。我會盡}我所能，並把剩下的交給命運來處理。}
+AnyaGossip2	65}巴爾的手下並非一無是處。在他們嗜血的殺性之下，}甚至不惜犧牲自己的生命也要把你拉進地獄。}
+AnyaGossip3	45}很多外來的人都相信我們祖先所留傳下來的神話}故事，像是古代人這種寓言般的東西。不過，我 }相信古代人並不只是單純的人類-現在的人們早就}無法和他們相提並論了。}
+AnyaGossip4	45}在我還是小孩的時候，長老告訴過我們這座山和它}隱藏的力量.... 而且野蠻人為什麼會和它}息息相連，成為這座山的守護者。}}巴爾並不只是想要取得我的大地。他每次征服}這個山脈的一塊，就取得了這個世界的一部份和}居住在上面的人，也就是我們。}
+AnyaGossip5	50}我真的很高興你在這邊，戰士。或許，如果我們早一}點尋求鄰近國度的協助，事情可能就完全不一樣了。}一切都是我們愚蠢、愚蠢的自尊.... }
+AnyaGossip6	35}我的父親，奧古斯特，也是那些長老之一，有足夠的}智慧看出我們需要外來的援助，才能和巴爾的}大軍相抗。他相信這一次的衝突會影響到整個世界，}而不僅僅是我們的家園。他說過亞瑞特山對這個世界}的生存是絕對必要的，就像我們需要水和食物一樣。}我也是這麼相信。}
+AnyaGossip7	35}夸爾凱克的自信一度是建立在傲慢自大之上，但是}圍城的前幾天就因為巴爾的關係開始懂得謙虛。}在他從瞬間的毀滅之中把我們救出來之後，我們也}損失了第三位戰士。}}沒有人可以承受失去他的悲傷。雖然他不一定會}承認，但是你的出現再度給了我們希望，戰士。}
+AnyaGossip8	50}如果拉蘇克在歌唱或是跳舞的功夫有他打鐵的一半強}，他一定老早就結婚了。你看看他的雙臂就知道了。}
+AnyaGossip9	40}尼拉塞克是我們最後一位長老，他的重責大任是保護}這座山的安全。他獨自一人試圖引導我們渡過這段}歷史上最慘淡的時光-但是他和我們其他人一樣感到}無助。}}我無法忘記他的背叛，但是我可以從中學到教訓。}
+AnyaGossip10	40}我的人民相信保護著亞瑞特山的古代人有阻止巴爾的}力量。不幸的是，毀滅之王所顯露的強大力量，已經}慢慢腐蝕了我們的信心。}
+LarzukAct5IntroGossip1	40}我是拉蘇克，裝甲師。我的祖先是哈洛加斯中最好的}工匠。}}很可惜的是，我手邊的材料一天比一天來得少，而在}這些牆壁後面的惡魔一天比一天強大。}}我想，輪到我放下鐵鎚、拿起長劍的時刻已經不遠了}。}
+LarzukAct5IntroAmaGossip1	30}哦，原來妳就是亞馬遜人。我長久以來一直聽到妳們}的傳說，妳那不尋常的武器可以考驗我的技術，不過}我已經準備好了。}}我是拉蘇克，裝甲師。我的祖先是哈洛加斯中最好的}工匠。很可惜的是，我手邊的材料一天比一天來得少}，而在這些牆壁後面的惡魔一天比一天強大。}}我想，輪到我放下鐵鎚、拿起長劍的時刻已經不遠了}。}
+LarzukGossip1	45}我聽說妳們亞馬遜人擅長在一段距離之外打倒敵人。}就我目前所知，這是打倒那些地獄使徒的最好方式。}}你們這一族都是這麼的.... 巨大？}
+LarzukGossip2	45}妳為什麼要離開那美麗的島嶼，來到這個冰凍的戰場}？ 或許，如果我們都活了下來，我們可以一塊旅行}回去。}
+LarzukGossip3	40}那些彷彿來自地獄的狂號也會讓你難以安枕？ 有人}覺得這只是動物的嚎叫，但是我所知的任何動物都發}不出那種聲音。}
+LarzukGossip4	40}惡魔的勢力已經使用了我們自己的高塔和柵欄來對抗}我們了。你知道，在他們能夠衝進這些碉堡之前，}能夠把惡魔打下來是最好的。}
+LarzukGossip5	45}尼拉塞克的絕望是有傳染能力的-而且他的行為和他}身為長老的才能並不相稱。我想我們最好別理他。}
+LarzukGossip6	45}我已經告訴夸爾凱克打破這一次圍城的計畫，但是他}並沒有理會。這到底是因為我身上沒有什麼戰場上的}傷疤，還是他覺得我不過是射不中目標的箭矢？ }
+LarzukGossip7	35}傳說中指出亞瑞特山顛峰是由我們祖先的靈魂所}看守的。雖然我們的人民嚴禁爬到山頂，還是有些}其他國家的旅行者嚐試這種行為。他們一個也沒回來。}
+LarzukGossip8	30}在我們的勝利儀式之下，這是個生氣蓬勃的城鎮。}我們從幼年就接受漫長而艱苦的訓練才能成為戰士，}我們也用相同的熱情來慶祝。}}你不會剛好帶來一些啤酒來交易吧？}
+LarzukGossip9	30}每一天，我的朋友都會在城牆外面和敵人作戰身亡，}而我只能安全的在鐵砧旁邊工作，打出一個個火星。}要不是武器的需求量這些大，我也可以參與這場戰鬥}。}}祝你好運，戰士。}
+LarzukGossip10	35}只是想告訴你.... 你付給我的錢還是填不滿我的}口袋。大部份的錢都被我拿去購買一些原料，把它們}熔化才能製作武器和裝甲。其他的-呃，我只能告訴}你- 去找馬拉和夸爾凱克吧。}
+MalahAct5IntroGossip1	25}我，馬拉，歡迎你來到哈洛加斯，這個最後守護}亞瑞特山的堡壘。如果你想要打倒巴爾-毀滅之王的}話，你來對地方了。}}巴爾開始毀滅我們的山區和上面的居民。他的手下}持續攻擊我們的城鎮，而夸爾凱克和他的手下已經}沒有足夠的能力阻止他們。巴爾仍然在外面的山區}找尋某些東西-但是我不知道他要什麼。}}所有的長老，除了尼拉塞克之外，都犧牲了他們的}生命，在哈洛加斯附近形成一個保護區。}}我們之中的某些人，當然包括了尼拉塞克，並不太}歡迎你的到訪。我們是一群自傲的民族，要我們心中}接受外來的援助並不容易。不過，我還是很高興你的}來訪。}}如果你需要一些治療用的葯劑，請來找我。你可以找}拉蘇克看看他的武器、裝甲和修理裝備的功夫。如果}你能接受尼拉塞克對你很感冒的現實，他可能會提供}一些其他的幫助。最後，夸爾凱克，我們之中的}重騎兵，是領導哈洛加斯殘存部隊對抗巴爾的人。}
+MalahAct5IntroSorGossip1	26}一個法師.... 來到哈洛加斯？}}這是時候了，孩子，該是我遵循命運的腳步，踏上}你們這一族路徑的時候了。不過，我的力量從來沒有}超越過最簡單的法術。雖然我可以利用時間和力量來}回復任何創傷，在對抗巴爾這方面能幫上的忙仍然}十分有限。}}不過就這樣吧！ 我花了太多的時間在回憶上，實在}太失禮了。}}我，馬拉，歡迎你來到哈洛加斯，這個最後守護}亞瑞特山的堡壘。如果你想要打倒巴爾-毀滅之王}的話，你來對地方了。}}巴爾開始毀滅我們的山區和上面的居民。他的手下}持續攻擊我們的城鎮，而夸爾凱克和他的手下已經}沒有足夠的能力阻止他們。巴爾仍然在外面的山區}找尋某些東西-但是我不知道他要什麼。}}所有的長老，除了尼拉塞克之外，都犧牲了}他們的生命，在哈洛加斯附近形成一個保護區。}}我們之中的某些人，當然包括了尼拉塞克，並不太}歡迎你的到訪。我們是一群自傲的民族，要我們}心中接受外來的援助並不容易。不過，我還是很高興}你的來訪。}}如果你需要一些治療用的葯劑，請來找我。你可以找}拉蘇克看看他的武器、裝甲和修理裝備的功夫。如果}你能接受尼拉塞克對你很感冒的現實，他可能會提供}一些其他的幫助。最後，夸爾凱克，我們之中的}重騎兵，是領導哈洛加斯殘存部隊對抗巴爾的人。}
+MalahAct5IntroBarGossip1	25}你花了漫長的時間旅行，最後終於回到我們身邊了，}野蠻人。在你離開之後，哈洛加斯發生了很多事情。}我們的家園在邪惡充斥的現在，已經難以和舊觀相提}並論了。}}不過，我還是想盡辦法活了下來。我很確定，你的}內心已經飽受折磨。再次見到你-活生生的-讓我心中}的石頭放了下來。我開始祈禱你能夠幫助我們，脫離}這個地獄般的光景。}}巴爾毀滅了我們的山區和上面的居民。他的手下持續}攻擊我們的城鎮，而夸爾凱克和他的手下已經沒有}足夠的能力阻止他們。巴爾仍然在外面的山區找尋}某些東西-但是我不知道他要什麼。}}尼拉塞克是長老評議會中最後的倖存者，但我怕他}最近已經不再像以前那個樣子了。其他長老犧牲了}他們的生命，在哈洛加斯附近形成一個保護區。}}如果尼拉塞克在言語上對你十分唐突，這只是因為}他覺得他應該為我們的現況負責所致。他再也受不了}看著我們的人民出外奮戰而死亡了。}}自從你離開之後，一切變了好多。在你的身上，我又}看到了希望。}}如果你需要一些治療用的葯劑，請來找我。你可以}找拉蘇克看看他的武器、裝甲和修理裝備的功夫。}如果你能接受尼拉塞克對你很感冒的現實，他可能會}提供一些其他的幫助。最後，夸爾凱克，我們之中的}重騎兵，是領導哈洛加斯殘存部隊對抗巴爾的人。}
+MalahGossip1	30}我知道一位法師所能導引的魔法力量有多麼強大。}如果我們能在巴爾的狂怒之中生存下來，我很榮幸}能看到妳在這方面的技能，而且，如果可能的話，}可以傳授我們一些你所瞭解的知識。}}我的年紀可能不小，不過我還沒死哩。}
+MalahGossip2	30}我知道你和我的兒子，班努克，還算不上是交情最好}的搭檔。他並不瞭解帶領你離開家園的旅行渴望。}不過，就算班努克永遠都不告訴我和你有關的事，}只要他再年長一點，我也可以在他的眼中看到相同的}渴望。}}我沒能鼓勵他和你一塊走實在是太可惜了。要不然}他到現在可能還活著。}
+MalahGossip3	40}雖然冰穴曾經為我們的人民提供了一個避難之處，}但是在黑暗的勢力之下這個地方也不安全。這邊的}怪物會先把你凍成冰塊，再慢慢的享用。}
+MalahGossip4	50}在戰場上不要把你的背部對著一付骷髏-那一樣會要}你的命。}
+MalahGossip5	35}這場戰爭開始考驗我們戰士的心智力量。這些運氣好}到可以從山區回返的人們，聲稱他們曾經看到天使在}他們的頭上飛翔。他們可能飛得起來，但看起來絕對}不會像天使。}
+MalahGossip6	30}或許你已經聽說我兒子死在巴爾手下的事情了。}}他是我最後一個還活著的孩子.... }}我身為醫治者所發下的憐憫誓言只限於人類。把他們}切碎吧，戰士。一個也不要留！ }
+MalahGossip7	50}這些投石器是地獄而來的機器，是把惡魔的血肉和}金屬融合而成的，你一定要多加小心。}
+MalahGossip8	30}夸爾凱克是一個很好的領導者，但是他蒙受了很大的}損失。他很沒有耐性是因為他只會在行動中判斷一個}戰士的價值，所以很少和人交談。你一定要證明你的}能力，才能獲得他的信任。}
+MalahGossip9	35}拉蘇克有著高尚的靈魂，但是目前他的心智看來十分}脆弱。}}他有一次向我要二十張最好的羊皮，他說他要把羊皮}充滿熱空氣，然後像雲一樣浮到半空中去監看巴爾的}大軍！}}我很害怕這一次的圍城戰把他逼瘋了。}
+MalahGossip10	45}小心點，戰士。雖然我是個經驗豐富的治療師，但是}復活遠超過我的能力所及。}
+MalahGossip11	35}我祈禱某一天戰場降下片片白雪，把我們流出的鮮血}覆蓋起來。或許這一天馬上就到了....或許永遠不會}降臨.... }}我剛剛失了魂了。我怎麼樣才能幫得上你的忙？}
+MalahGossip12	40}你的金錢很有幫助。要回復我們身上傷口和刀疤，}我們需要十分昂貴的葯物。當我們找到一個能夠提供}的人，我們得為所需的東西付錢。}
+MalahGossip13	25}除了夸爾凱克以外，城鎮中的居民都看不到我眼中}所見-我們面臨的慘敗。我們之中最勇敢、最強壯的}英雄，蹣跚的走回我面前求助。我只能做到我能力所}及的事情-治療並包紮其中一些人，並為後續而來的}人們做準備。}
+NihlathakAct5IntroGossip1	30}嗯，沒錯。這一次的圍城戰什麼都有，就是沒有補給}.... 不過笨蛋倒是相當多。}}你們在這邊要找什麼，陌生人？ 你們難道是兀鷹，}等著我們戰士倒地後掠奪他們身上的東西？ }}而且，此地沒有你們這一族的容身之處。這座山是由}我們所保護的。黑暗大軍的離去只是時間上的問題。}
+NihlathakAct5IntroAssGossip1	35}嗯，真好.... 一位刺客！}}你在這邊做什麼？ 嘿，嘿，雖然我很確信的是，你}這時來到這個麻煩遍地的城鎮相當受歡迎，不過你}根本不用走這一遭的。}}我個人可以說你的技能在這邊根本派不上用場。}你最好在其他地方找尋為你種族效力的目標。}
+NihlathakAct5IntroNecGossip1	35}啊，一位死靈法師。}}雖然我很羨慕你們這一族追尋黑暗魔法的勇氣，我們}真的用不太上你的技能。就算你不來多管閒事，這場}戰爭也會馬上成為我們的勝利之歌。}}不過，我還是應該期望在這時看到你們這族的人。}你和撲火的飛蛾沒二樣-被這邊的大量死亡所吸引。}這可以在各方面帶給你滿足，不是嗎？ }
+NihlathakGossip1	25}如果你尋找的是靠不住的魔法，去找拉蘇克。他是在}城鎮中唯一逃過去年春季紅熱病的人，而他宣稱他的}好運來自於每餐之前的洗手。真是可疑....}
+NihlathakGossip2	30}你為什麼會來到這邊，陌生人？ 你們難道是兀鷹，}等著我們戰士倒地後掠奪他們身上的東西？}}而且，此地沒有你們這一族的容身之處。這座山是由}我們所保護的。黑暗大軍的離去只是時間上的問題。}
+NihlathakGossip3	40}夸爾凱克完全沒用。他只是盲目的把我們的戰士送入}死亡戰場，而且一廂情願認為巴爾的大軍只能像人類}一樣作戰。當然了，每個人都知道他們的能力不止於}此。}
+NihlathakGossip4	40}惡魔大軍的力量，再加上我們愚蠢的錯誤，已經讓}他們的勢力無從估計。但是我可能找到了修正這項}錯誤的方法.... }
+NihlathakGossip5	25}噢，是的... 我記得我們的戰士還只是小孩時，馬拉}接好了他們的骨頭，並給他們葯粉來醫治他們的熱病}。現在他們回到了她的身邊，卻帶著永遠治不好的}傷痕。}}我很累... 請讓我靜一靜。}
+NihlathakGossip6	108}如果你身上沒有什麼我要的東西，就滾開好不好！ }
+NihlathakGossip7	45}安亞的父親是我的好朋友。要哀傷的事情實在太多了}.... 我不能在你身上浪費時間！ }
+NihlathakGossip8	30}我受到責難的時間已經很長了，尤其是最近在我的}同伴，其他長老死後更為嚴重。在這之後我學到了}一件事，每個人都必需完成他認為是正確的事情，而}不用在乎其他人會怎麼想。}
+NihlathakGossip9	45}長老評議會一直相信他們已經足以應付三個罪惡之源}。很明顯的，我們的準備還不夠。}
+QualKehkAct5IntroGossip1	30}我是夸爾凱克，哈洛加斯的資深重騎兵。}}你看來像是一位戰士... 更多的士兵會十分有幫助。}但是如果你不小心陣亡，別期望其他人有時間為你哀}傷。}}巴爾和他的名號一模一樣，他像一場毫不留情的瘟疫}一樣，蹂躪了我們的大地和家園。由我們長老用生命}佈下的保護區，暫時阻止了邪惡的侵犯，但是巴爾的}圍攻讓我們不斷的蒙受損傷。我大部份的手下都已經}死了，其他人則陷在山路上。}}但是，我誓言我們不會被打倒的，還不會！ 我們會}一直戰到最後一兵一卒，並保護我們的聖山！ }
+QualKehkAct5IntroPalGossip1	30}一位聖騎士！ 我已經注意你們很久了。}}如果我還是個年輕的戰士，我甚至想去一趟庫拉斯特}。但是我越年輕、就越愚蠢。我所在之處一直沒離開}過哈洛加斯，並獻身於保護亞瑞特山。}}我是夸爾凱克，哈洛加斯}斯的資深重騎兵。}}你看來像是一位戰士....更多的士兵會十分有幫助。}但是如果你不小心陣亡，別期望其他人有時間為你}哀傷。}}巴爾和他的名號一模一樣，他像一場毫不留情的瘟疫}一樣，蹂躪了我們的大地和家園。由我們長老用生命}佈下的保護區，暫時阻止了邪惡的侵犯，但是巴爾的}圍攻讓我們不斷的蒙受損傷。我大部份的手下都已經}死了，其他人則陷在山路上。}}但是，我誓言我們不會被打倒的，還不會！ 我們會}一直戰到最後一兵一卒，並保護我們的聖山！ }
+QualKehkAct5IntroDruGossip1	30}一個德魯依人出現在哈洛加斯！ 事情真的到了這個}地步了嗎？ }}在法師戰爭後，我就再也沒有看到任何德魯依再度}出現於哈洛加斯。你來這邊還真是時候！}}老實說，我每次看到你們在變形時都會全身不舒服}，但是我很尊敬你們追求平衡與和平的生活方式。}所以說，如果你對我們的信任足以讓你踏入我們的}大門，我也相信你並會讓你留下。}}我是夸爾凱克，哈洛加斯的資深重騎兵。}}你看來像是一位戰士... 更多的士兵會十分有幫助。}但是如果你不小心陣亡，別期望其他人有時間為你}哀傷。}}巴爾和他的名號一模一樣，他像一場毫不留情的}瘟疫一樣，蹂躪了我們的大地和家園。由我們長老}用生命佈下的保護區，暫時阻止了邪惡的侵犯，}但是巴爾的圍攻讓我們不斷的蒙受損傷。我大部份的}手下都已經死了，其他人則陷在山路上。}}但是，我誓言我們不會被打倒的，還不會！ 我們會}一直戰到最後一兵一卒，並保護我們的聖山！ }
+QualKehkGossip1	35}讓一位光明的戰士站在我的士兵身邊作戰，是我們的}榮幸！ 我可以看出你的信仰帶給你強大的力量，}聖騎士，但是別期望這可以讓你不傷敵而取勝。}
+QualKehkGossip2	35}哈洛加斯很需要你的力量，高貴的德魯依。不過，在}面對這種超自然的屠殺時，你的自然力量能夠幫助你}完成任務嗎？ }
+QualKehkGossip3	25}馬拉兒子之死是十分哀痛的事情。他是我們之中最好}的弓箭手，在他成功的領導一群人對抗巴爾武力時，}他被一把惡魔的長矛所貫穿。那個傷勢實在... 呃，}甚至連馬拉的知識都比不過過死神的嘆息。}
+QualKehkGossip4	30}巴爾的攻城機械之下，我們損失了很多經驗豐富的}戰士。雖然他們與我們有一段距離，如果如果靠得}夠近，任何人都活不久。}
+QualKehkGossip5	50}巴爾的大軍看來似乎是無休無止，但是如果能殺死}他們的指揮官，應該可以緩和一下他們的來勢。}
+QualKehkGossip6	35}很早之前，我們之中最好的斥候隊伍被一群在}半空中冒出來的惡魔所伏擊。}倖存者一直提到，}附近有一種奇怪的生物浮在半空中。}}或許，如果能把它打下來，}可以預防一些下流的偷襲手段。}
+QualKehkGossip7	30}這場戰爭的情勢是我從來沒有見過的。在我們配給}有限的食物和飲水時，夜晚的惡魔大軍卻開始享用}死去同伴的屍體。}
+QualKehkGossip8	35}拉蘇克是個技術精湛的鐵匠，但他的腦袋中滿是奇怪}的點子。}}有一天他跑來找我，告訴我一個能夠打破圍城戰的}計畫。他想要把大管子中裝滿爆炸性的葯粉和鋼球，}然後....呃，我剛剛說過了，真的是很奇怪。}
+QualKehkGossip9	35}我們的長老在和平的時光中都是極富智慧的人，但是}現在人民的生存希望都落在我的身上。我的手下和我}每天都在和死神奮戰，但卻沒辦法保證我們的未來。}}我以前一直相信沒有任何人能夠打破我們的守衛，}並進犯我們的聖山。現在我才知道我錯的太離譜了。}
+A5Q1InitLarzuk	39}啊，你是來為我們獲得勝利的。嗯，我們並不尊敬到}處閒逛吹牛皮的人，陌生人。如果你是來這邊打倒}巴爾的話.... 你必需證明這點！ }}在我們交談的同時，哈洛加斯正受到巴爾手下惡魔}的圍攻。投石器帶來的死亡佈滿了城鎮的牆外。}}巴爾，他本身正在聖山四處行動，只留下他手下最}殘暴的將軍-督軍山克來管理這場戰爭。這個殘暴}的長官派出他的手下，在戰場上進行自殺性的瘋狂}戰鬥。}}如果你想向我們證實你的能力，就去打倒那個怪物}，山克，他控制了在哈洛加斯外圍的地獄投石器。}如果你能辦到這點再回到我身邊，我就給你一份}值得你冒險的物品，做為出生入死的獎勵。 }
+A5Q1AfterInitLarzuk	125}我有提過外面有投石器嗎？ }
+A5Q1AfterInitCain	73}我想阻止哈洛加斯的圍城戰，是你唯一能夠得到我們}人民信任的方式。}
+A5Q1AfterInitAnya	65}你已經在救出這些美麗女士之中證明了你的身手... }但是你在屠殺殘暴怪物方面的功夫怎麼樣？ }
+A5Q1AfterInitMalah	55}夸爾凱克和他的人已經花了不少時間試著打破圍城戰}的局面。而很多人失敗的任務，卻在你的手中完成了。}
+A5Q1AfterInitNihlathak	55}在我們損失了這麼多的人，你究竟以為你是誰，能夠}完成我族光榮戰士所辦不到的工作？ }
+A5Q1AfterInitQualKehk	55}你問我面對督軍山克並阻止圍城的事？你應該去問問}馬拉，在你離開前讓她對你完成儀式，陌生人。}
+A5Q1EarlyReturnLarzuk	65}發生什麼事了，英雄？自問你的剛毅程度？我知道}我們的確如此。}
+A5Q1EarlyReturnCain	80}我知道你有多不情願，但現在是反擊的時候了。}
+A5Q1EarlyReturnAnya	40}這些惡魔在你來到之前就出現在戰場上了。你真的}無法阻止他們嗎？你的工作十分簡單，戰士。找到}山克並打倒他。}
+A5Q1EarlyReturnMalah	40}這可能不算什麼鼓勵人心的好消息，但是你能夠穿過}這些大門，就證明你要比其他人來得強。}}至於和督軍山克有關的是，記住：一個將軍不能沒有}部下。}
+A5Q1EarlyReturnNihlathak	50}你還在這邊做什麼？ 我以為你已經邁向死亡了。}}去....而且動作快一點。}
+A5Q1EarlyReturnQualKehk	60}嗯，你還活著。你不是動作快，就是一個懦夫。}
+A5Q1SuccessfulLarzuk	45}你是一個比我預想更偉大的戰士... 很抱歉之前把你}看扁了。}}為了表達我的感激，我會在你選擇的物品上面幫你鑽}一個凹槽。而且從現在開始，我所有的東西都算你}特價。}
+A5Q1SuccessfulCain	35}我從來沒有看過這種投石器。你已經打倒山克了，}朋友，但是巴爾和你之間的距離還很漫長。}
+A5Q1SuccessfulAnya	50}我已經開始懷疑你要花多久的時間才能阻止這些}怪物。幹得好。}
+A5Q1SuccessfulMalah	45}這場圍攻戰終於結束了。你真的是個天使，我太感激}你了。}
+A5Q1SuccessfulNihlathak	35}結束這場圍城戰並不能馬上為你帶來族人的尊敬，}外來者。尊敬源自於犧牲-我想這是你永遠都不會}瞭解的。}
+A5Q1SuccessfulQualKehk	45}嗯... 你真的打破了圍城戰的局面。你的力量遠比我}想像的強大，你已經得到了我的尊敬。}
+A5Q2InitQualKehk	35}我現在關心的焦點轉到之前在戰場上面，被惡魔們所}俘虜的手下。我甚至不敢想像他們會出什麼事。}}如果你辦得到的話，在前往山區的旅途中眼睛放亮}一點，看看是否能找到我的部下，並把他們帶回我的}身邊。}
+A5Q2AfterInitQualKehk	35}那些運氣夠好能夠靠自己逃過一劫的人告訴我，他們}被關在高原和台地上面。}
+A5Q2AfterInitCain	40}我知道被囚禁是一個人最大的悲傷，快點找到他們。}
+A5Q2AfterInitAnya	50}如果這些人即將受到我之前的遭遇，你一定要快點找}到他們。否則他們就活不久了。}
+A5Q2AfterInitLarzuk	35}我為夸爾凱克的手下打造劍和裝甲。他們對我而言像}兄弟一樣，我無法想像他們現在正在承受的痛苦。}如果你辦得到，救救他們！ }
+A5Q2AfterInitMalah	40}夸爾凱克的手下被關了一段時間，他們現在一定又累}又衰弱。你必須在救出他們之後保護他們的安全。}
+A5Q2AfterInitNihlathak	80}你已經證明了你有能力取走別人的生命，戰士，但是}你對拯救生命一樣很在行嗎？ }
+A5Q2EarlyReturnQualKehk	60}他們說在光榮的教條中，慎重要比拖延來得好，戰士}。}
+A5Q2EarlyReturnQualKehkMan	45}我還有其他手下在外面努力求生，我很確信這一點。}}找出他們的下落，從牢籠中救出他們，並把他們安全}的帶回我身邊。}
+A5Q2EarlyReturnCain	35}如果你真的找不到夸爾凱克的士兵，你應該去找馬拉}談談。她曾經治好這些人，並把他們活著帶回來。}或許她可以提供一些建議。}
+A5Q2EarlyReturnAnya	60}嗯，你在山上找到我了，我很確信你也會找到他們的}。}
+A5Q2EarlyReturnLarzuk	45}我還是小孩時曾經和士兵在山上的路障附近玩。要}穿過牆壁所組成的迷宮並不容易。}
+A5Q2EarlyReturnMalah	40}逃回來的士兵提到在山路上有一個迷宮般的路障。}他們表示囚犯就被關在這個地區。}
+A5Q2EarlyReturnNihlathak	35}你有沒有想過這些惡魔為什麼要抓夸爾凱克的手下？}他們為何要攻擊我們？ 你覺得巴爾想在這個山上找}些什麼？}}不，你沒想過。你根本不知道你所面對的是什麼。}
+A5Q2SuccessfulQualKehk	30}感謝你把我的手下救回來。他們談到你在戰鬥時的}勇敢果決；或許，這個地方還有一絲希望。}}如果你願意的話，你可以雇用你救回來的部份傭兵。}而且請你... 接受這一組符文。我原本想留下來用}在一個有凹槽的盾牌，但是你比我更需要它。}}你一定要記得調整它們的順序，才能發揮出最完整的}效果。}
+A5Q2SuccessfulCain	35}你已經成為這個城鎮的英雄了。在你把光影帶入}哈洛加斯後，陰影就不再復見了。}
+A5Q2SuccessfulAnya	50}我相信這些人和我一樣，都十分感激你為他們帶來的}自由。}
+A5Q2SuccessfulLarzuk	35}在你來此之後，凱恩提到了你在南方國度的事蹟，}包括打倒了墨菲斯托和暗黑破壞神。剛開始我只是在}嘲笑他的故事，但現在每過一天，我就覺得他所說}事蹟的可信度又多了一分。}
+A5Q2SuccessfulMalah	30}你已經激勵了城鎮中的人們；就算那些不是由你親手}救回來的人，也在間接的情況下接受了你的幫助。}
+A5Q2SuccessfulNihlathak	50}嗯，你把遺失的羊帶回到牧羊人的家中了。做得好。}
+A5Q3InitMalah	30}有一件很難啟齒的事情，但現在我相信只有你能夠}幫助我。}}安亞是個年輕的鍊金術師，也是我們死去長老之一的}女兒，己經失蹤一段時間了。她是一位很強壯、多才}多藝的女子，擁有獨一無二的靈魂。在你到達此地的}前一晚，我無意中聽到她和尼拉塞克爭吵他父親的}死因。第二天早上她就不見了。}}尼拉塞克對她的去向和理由有一套自個兒的說法。}不要相信他，我怕他就是安亞消失的真正原因。}}拜託你，如果你辦得到的話，找回安亞並把她帶回}我們之中。她會知道更多與尼拉塞克有關的事。}
+A5Q3AfterInitMalah	50}當你和尼拉塞克交談的時候，一定要特別小心。沒有}人知道他會說出或是做出什麼事情。}
+A5Q3AfterInitCain	30}我會相信馬拉。尼拉塞克現在講話時充滿了惡意，他}的行動好像整個城鎮的重擔都背在他的肩上一樣。}或許，有些超過我們想像的事情正在蘊釀之中。}
+A5Q3AfterInitLarzuk	40}安亞是個很驚人的鍊金術士，而且她這麼年輕。打從}我認識她開始，她就從來沒能讓任何事情，阻止她對}特定事物的追求和認知。}}我不願意懷疑尼拉塞克和這件事有關。就算她的父親}死了，他們也不是孤單的。}
+A5Q3AfterInitNihlathak	30}安亞！？ 你曾經和誰交談過？看來像是馬拉在多管}閒事。}}好吧，我會告訴你事實的經過。安亞在看到一段幻影}，眼見她的母親和弟弟被困在寒冰洞穴遠方的大地上}時，來找我尋求一些指引。接下她就決定去拯救他們}。}}我告訴過她，這一次的任務愚蠢至極，她應該待在}安全的城牆之內。不過，她是個意志力很堅強的女孩}，完全聽不進我的話。}}第二天早上她就出發了。失去了她之後，沒有人比我}覺得更難過。}}不過，如果你覺得有必要成為馬拉的跑腿小弟，我也}不會阻止你。}
+A5Q3AfterInitQualKehk	30}安亞的父親，奧古斯特，曾經是我們最睿智的長者。}他和其他長老一樣，在豎立保護我們城市的保護力場}時被殺了。這個保護區足以讓巴爾的惡魔不敢靠近}哈洛加斯，但卻付出了極大的代價。}}從另一個角度來來說，尼拉塞克是唯一從惡魔手中}逃過一劫的長老。不知怎麼的，他可以一個人找到}蔽難之處，而其他人卻死在他的身邊。}}從那一天開始，尼拉塞克和安亞之間就開始有嫌隙。}
+A5Q3EarlyReturnMalah	40}如果換做是別的人，我可能會假設他早已經死了；}但是我們談的是安亞，她不會那麼容易被打敗的。}我知道她一定還活著。}
+A5Q3EarlyReturnCain	30}從我各處聽到與安亞有關的事情比較起來，尼拉塞克}的故事聽起來很合理。不過，最好的謊言通常是}掩蓋在真實之下。}
+A5Q3EarlyReturnLarzuk	30}除了尼拉塞克之外，身為長老奧古斯特的女兒，安亞}是唯一有可能知道亞瑞特山真正秘密的人選。我每次}看到我們的命運掌握在尼拉塞克一個人的手中，心中}就開始有氣。}
+A5Q3EarlyReturnNihlathak	30}聽好，我告訴過你了！她已經死了！如果你知道什麼}事對你是最好的，你最好把你的注意力放在如何拯救}哈洛加斯上面-而不是因為安亞而分散你的注意力。}
+A5Q3EarlyReturnQualKehk	40}看來每個人都覺得尼拉塞克在安亞的失蹤原因中參了}一腳。他為什麼要做這種事情？ }
+A5Q3FoundAnyaMalah	30}原來！ 那個毒蛇般的尼拉塞克就是安亞消失的幕後}黑手... 而且他利用冰凍的詛咒把她困住了。}}就是這個。拿著這瓶葯劑回到安亞身邊並讓她服下。}這應該可以解開她的束縛。}
+A5Q3FoundAnyaCain	40}我的天啊！ 安亞被那個墮落的野蠻人-尼拉塞克凍住}了....或許馬拉可以幫得上忙。}
+A5Q3FoundAnyaLarzuk	35}可憐的安亞！ 我早該知道尼拉塞克是個叛徒....}}如果你還看得到他，幫我宰了他！ }
+A5Q3FoundAnyaQualKehk	30}這條毒蛇從我們的手中溜掉了。在你一離開之後，}尼拉塞克就消失了。}}我打賭安亞知道如何追蹤他。}
+A5Q3FoundAnyaAnya	30} ...好 ...好冷...英雄。是尼拉塞克幹的！ }}如果你是來幫我的，我的唯一希望在馬拉身上。}}拜託你.... 告訴她你找到我了...}
+A5Q3SuccessfulMalah	30}感謝你的一切努力，終於把安亞帶回我們身邊了。}我發明了這個法術，來增加你的抵抗能力以表達我的}感激之意。我知道這幫不上太大的忙，希望對你有所}幫助。}}請去找安亞談談。她有一些十分要緊的消息，是和}尼拉塞克有關的。}
+A5Q3SuccessfulCain	35}年輕的安亞身上帶有眾人的尊敬。現在她已經回來了}，我會和她談談與亞瑞特山有關的事。你也該試試。}
+A5Q3SuccessfulLarzuk	30}我從來就不喜歡尼拉塞克，但是我從來沒有懷疑過他}會背叛我們！ 我真的無法理解一個長老怎麼會做出}這種事情。}
+A5Q3SuccessfulQualKehk	66}你能救出安亞真是大功一件。}
+A5Q3SuccessfulAnya	50}謝謝你，英雄，你是我的救命恩人。}}為了表達我的感激之意，我想送你這個東西。這是我}請拉蘇克為你定做的。}
+A5Q4InitAnya	30}尼拉塞克告訴我他和巴爾打下了一份契約，}才能保護哈洛加斯。為了讓惡魔高抬貴手，}這個想法錯誤的笨蛋打算把古代人的聖物交給巴爾，}那是我們最神聖的圖騰！果真如此，巴爾就可以}完全不用對抗古代人的狀況之下進入亞瑞特山。}我試著阻止尼拉塞克，}但是他把我關在冰凍的古墓中。}}必須有人阻止尼拉塞克，以免這個世界全部滅亡！}如果可行的話我真的很想把他勒死，}只可惜我沒有這份力量。}}你必須利用我打開的傳送點前往他的巢穴，殺死他，}並把古代人的聖物帶回來。}阻止尼拉塞克破壞我們世世代代想要保護的東西。}
+A5Q4AfterInitAnya	39}像尼拉塞克這麼高貴的人居然有這種意圖，他的行為}完全沒有藉口可言。}
+A5Q4AfterInitCain	25}很可惜的是，我對這個聖物所知有限。不過，如果}其他人說的是真的，那麼這個東西絕對不能落到巴爾}的手中。阻止尼拉塞克，否則一切都太遲了。}
+A5Q4AfterInitMalah	62}我最害怕的事情果然發生了。尼拉塞克已經瘋了。}}你必須阻止他，否則他會把聖物交到毀滅之王的手中}！}
+A5Q4AfterInitLarzuk	35}現在，救出安亞-這是好事。在和我交談的時候，讓}尼拉塞克把聖物交到巴爾的手中-這是壞事。}
+A5Q4AfterInitQualKehk	25}我看到尼拉塞克在你找到安亞之前離開城鎮。他一定}得為他的犯罪行為負責。}}找到他，如果你辦得到的話，把他帶回來。最可能}發生的事情是，他完全不願意服從而你只好殺了他，}這樣也行！ }
+A5Q4EarlyReturnAnya	30}尼拉塞克是個叛從！ 如果巴爾拿到聖物，他會進入}山中並發洩他的破壞力量！ }}我無法相信尼拉塞克會把聖物拿去和巴爾做任何形式}的交易。如果他相信他能夠和毀滅之王做交易，那他}真的是瘋了。}
+A5Q4EarlyReturnCain	25}這真是一個恐怖的事情。我知道現在看來你一直慢了}一步，朋友。但是你可以這樣想... 你是在和邪惡}賽跑。}
+A5Q4EarlyReturnLarzuk	50}還有什麼好說的？殺了尼拉塞克。}
+A5Q4EarlyReturnMalah	30}尼拉塞克從來就不是好人。但對他而言背叛整個世界} ...他的靈魂要去那邊安息...？ }
+A5Q4EarlyReturnQualKehk	30}我的建議是動作快並下重手。你在外面碰上的每一個}怪物都比尼拉塞克強二倍以上。}
+A5Q4SuccessfulAnya	25}你阻止了尼拉塞克，但是聖物已經不在他的手中了！}他一定已經把東西交給巴爾了。現在，當巴爾走到}亞瑞特山顛峰時，將完全不用受到任何考驗。該死的}尼拉塞克！}}不過，我還是要感謝你的努力。請你讓我用魔法把你}的名字刻到你選定的一項物品上面，這是我唯一能做}的事情了。}
+A5Q4SuccessfulCain	30}小心。巴爾每過一段時間，就變得更為強壯。}
+A5Q4SuccessfulLarzuk	30}為什麼巴爾想要走入亞瑞特山之中？}
+A5Q4SuccessfulMalah	30}嗯，聖物已經不見了。不要沈浸在過去的失敗之中，}比較起來你的未來更為重要。}
+A5Q4SuccessfulQualKehk	30}尼拉塞克是個邪惡的魔物，只能在地獄受刑的地方}找到自己的家鄉！ 你在漠視恐懼的情況下與黑暗}作戰，我讚揚你的技巧和勇氣。}
+A5Q5InitQualKehk	25}每次我聽到你的消息，戰士，}你的事蹟就越接近傳奇。}}但留意這一點。你正在靠近亞瑞特山顛峰。}我從來沒有到這個地方冒險的膽子。}這是我們一族最為神聖的地方，}傳說此地是由古代之人所看守的，}他們會阻擋所有沒有資格靠近的人。}}你在這邊的名聲完全派不上用場... }將由古代人來決定你的價值。}}祝好運。}
+A5Q5AfterInitQualKehk	30}這些古代人並不是我們的敵人。記住，他們是我們的}祖先-我們的神。}
+A5Q5AfterInitCain	35}本質試煉這種儀式，是很適合出現在野蠻人英雄身上}。}
+A5Q5AfterInitAnya	30}要不是尼拉塞克的背叛，你根本就不用接受這個對抗}古代人的試煉。他是個大笨蛋而且應該永遠受苦。}
+A5Q5AfterInitLarzuk	30}每個夜晚我都向古代人祈禱，為我們帶來和平... }現在你卻得和他們為敵。}}這一次我又該向誰祈禱，戰士？}
+A5Q5AfterInitMalah	30}在到達山頂之後你就不再是個單純的戰士。當你能夠}回到這邊時，你將變得更為耀眼。}
+A5Q5EarlyReturnQualKehk	30}我得警告你，古代人和你你慣於作戰的惡魔完全不同}。}
+A5Q5EarlyReturnCain	30}我們的局面已經開始佔上風了，朋友。我看著你}完成了許多困難的工作，不過這一次將是最困難的}考驗，對你而言卻仍有一線希望。}
+A5Q5EarlyReturnAnya	30}聽好，我必需向你道歉。你目前碰上的困難都是我的}錯，如果我能及早阻止尼拉塞克，不讓聖物落到巴爾}的手中，你就不需要和這些鬼魂作戰。}
+A5Q5EarlyReturnLarzuk	30}你將踏在我們偉大祖先的墓地之上。}我不太確定我是該向你致敬，}還是因為你即將褻瀆聖地而對你破口大罵。}}在你與神同行時，腳步放輕點。}
+A5Q5EarlyReturnMalah	30}不要懷疑你自己，我相信你有資格穿越古代人的大門}，但你也必須先相信自己。}
+A5Q5SuccessfulQualKehk	30}要在戰鬥中打贏古代人必須擁有超凡的絕藝。}我希望你也代表你準備和巴爾作戰。}
+A5Q5SuccessfulCain	30}你已經向這些人們證明了你的能力。}他們把你視為自族的戰士，他們的英雄。}
+A5Q5SuccessfulAnya	30}你像一個能力出眾的英雄，站在我的面前-}而且我們的所有希望都放在你的身上。}}好好記住這點，戰士。}
+A5Q5SuccessfulLarzuk	30}古代人已經把最高的榮耀加諸在你的身上。}現在開始，我對你再也沒有任何存疑了。}}英雄萬歲！ }
+A5Q5SuccessfulMalah	30}我早就知道古代人會發現你有資格得知亞瑞特山的}秘密。}現在，在巴爾毀掉一切神聖之物以前，}阻止他。}
+A5Q6InitAncients	26}你是個十足的英雄！}我們會加強你的技能，}並讓你前進入亞瑞特山的深處....}那是放置世界之石的地方。}}小心。你不會孤身一人的。}毀滅之王巴爾早就在裡面等你了。}}大天使泰瑞爾一直是我族的恩人，}但就算是他也幫不上我們了。}巴爾阻擋了泰瑞爾靈魂，}導致他無法進入世界之石的大殿。}現在只有你，人類，能夠打倒巴爾。}}巴爾正在威脅著世界之石-}以及它所代表的人類世界。}你必需在他全面控制聖石之前阻止他，}如果他能夠控制聖石，}巴爾就可以打碎地獄和這個世界之間的邊界，}讓罪惡之源的大軍傾巢入侵人類的世界，}成為無法阻止的夢饜！}}如果你太弱，你所知的世界就不會存在了。}你絕對不能失敗！ }
+A5Q6EarlyReturnCain	30}記住這點。巴爾曾經附在塔-拉夏的身上，}他是古代赫拉迪姆威力最強大的人物之一。}你和墨菲斯托以及暗黑破壞神之間的戰鬥，}完全無法與巴爾相提並論。}毀滅之王已經取得塔-拉夏知識的助力...}...在你倒地時整座山也會隨你動搖。}
+A5Q6EarlyReturnLarzuk	30}我可能只是一個裝甲師，但我很清楚這點.... }巴爾打算利用山中的秘密來毀滅這個世界。}就算不是天才，也知道一定要有人去阻止他。}
+A5Q6EarlyReturnMalah	30}你早就知道這一天遲早會來的。殺死巴爾，}把這場善惡之戰結束掉。}
+A5Q6EarlyReturnAnya	30}巴爾擋住了泰瑞爾，讓他無法進入世界之石大殿？}這真的成為和地獄的戰爭了。}不管這是不是天堂頒下的規章，}這都是你的戰爭了....你的命運。}
+A5Q6EarlyReturnQualKehk	30}你已經走入了一個連傳說都不及的地方。}你馬上將要面對只有極少數人才能想像到的邪惡。}}小心點，我的朋友。願光明守護著你。}
+A5Q6SuccessfulTyrael	30}我十分驚訝，人類。}你已經克服了這個世界所必需面對的最強大挑戰，}並打倒了最後的罪惡之源。}不過，我們到的太晚，已經救不了世界之石。}巴爾毀滅性的接觸已經讓它受到全面的污染了。}}如果讓它有足夠的時間，世界之石的能量會被吸光，}而全世界的憑障將會開始動搖-讓地獄的力量充滿}這個....庇難所....並把你和人民之前所建造的任何}東西連根拔除。}}所以，我必需現在摧毀這個受到污染的世界之石，}以免地獄的力量將它變成另一個根據地。}這個舉動將會永遠性的改變你的世界-}而它的後果卻是我所無法預見的。}不過，}這是唯一能夠確保人類世界存活下來的方法。}}去吧，人類。我為你打開了一個傳送點，}可以送你到安全的地方。}}願你今天的所做所為，}讓永恆的光明在你和你後代身上閃耀。}延續下來的人類將視你為傳奇！}在最後，你為這場永無休止的戰爭取得了勝利。}
+A5Q6SuccessfulAnya	30}你的所作所為太驚人了，英雄。}你打倒了最後一位罪惡之源，}是光明的偉大勝利。}}你說世界之石非得摧毀不可實在太奇怪了。}傳說中完全沒有提到這一點。}也許，我們一直奮鬥的目標終將失落...}又也許，我們再也不用戰鬥了！ }
+A5Q6SuccessfulCain	30}我知道你遲早會打倒巴爾。}你已經完成你來此的目標，}就像你從崔特斯瑞姆把我救出來一樣，}我一直相信你。}能夠在這段路上提供協助， }是我這輩子最大的光榮。}}那麼... 原來世界之石已經被巴爾污染了。而現在}泰瑞爾不得不摧毀它。}不用擔心，對於我們面前未知道路，}我相信光明一定會導引我們。}}去吧，現在回到世界之石大殿，並進入泰瑞爾為你}打開的傳送點。}
+A5Q6SuccessfulLarzuk	30}古代人心中將會羨慕為你頌唱的歌聲。}}請你不要忘了我們！一路順風了，我的朋友。}
+A5Q6SuccessfulMalah	30}如果泰瑞爾說世界之石非毀滅不可，那就真的沒有}選擇了。我們不能讓巴爾的腐敗力量佔上風。沒錯}... 這個世界將有所改變。但是，又有誰說過不會}變得更好？ }
+A5Q6SuccessfulQualKehk	30}世界之石的毀滅並不代表我們所在世界的崩壞。但是}我會試著不去瞎操心... 不管怎麼說，我們有像你}這個的戰士，站在光明之中為我們而戰！ }}一路順風！ }
+ktr	拳劍 
+wrb	腕刃 
+ces	腰刀 
+clw	爪 
+btl	刃爪 
+skr	剪咬刃 
+9ar	格鬥刃 
+9wb	腕刺 
+9xf	格鬥爪 
+9cs	手鐮 
+9lw	巨爪 
+9tw	巨鷹爪 
+9qr	格鬥剪 
+7ar	近身刃 Suwayyah
+7wb	腕劍 Wrist Sword
+7xf	戰拳 War Fist
+7cs	鬥腰刀 Battle Cestus
+7lw	猛禽爪 Feral Claws
+7tw	符紋爪 Runic Talons
+7qr	近身剪 Scissors Suwayyah
+7ha	戰鉞  Tomahawk
+7ax	彎月斧 Small Crescent
+72a	雙頭斧 Ettin Axe
+7mp	戰刺 War Spike
+7wa	狂戰士斧 Beserker Axe
+7la	猛禽斧 Feral Axe
+7ba	銀刃斧 Silver-edged Axe
+7bt	斬首斧 Decapitator
+7ga	豪傑斧 Champion Axe
+7gi	榮光之斧 Glorious Axe
+7wn	洗鍊法杖 Polished Wand
+7yw	鬼魂法杖 Ghost Wand
+7bw	巫妖法杖 Lich Wand
+7gw	破隱法杖 Unearthed Wand
+7cl	戰儀杖 Truncheon
+7sc	強威權杖 Mighty Scepter
+7qs	熾天使法杖 Seraph Rod
+7ws	神使之杖 Caduceus
+7sp	暴君之棒 Tyrant Club
+7ma	強化釘頭錘 Reinforced Mace
+7mt	惡魔流星錘 Devil Star
+7fl	天罰之錘 Scourge
+7wh	傳說之鎚 Legendary Mallet
+7m7	食人魔之錘 Ogre Maul
+7gm	雷錘 Thunder Maul
+7ss	短劍 Falcata
+7sm	土耳其劍 Ataghan
+7sb	優雅之劍 Elegant Blade
+7fc	九頭蛇刃 Hydra Edge
+7cr	幻化之刃 Phase Blade
+7bs	征服之劍 Conquest Sword
+7ls	神秘之劍 Cryptic Sword
+7wd	秘儀之劍 Mythical Sword
+72h	傳說之劍 Legend Sword
+7cm	高地之劍 Highland Blade
+7gs	炎魔之刃 Balrog Blade
+7b7	冠軍之劍 Champion Sword
+7fb	巨神之劍 Colossus Sword
+7gd	巨神之刃 Colossus Blade
+7dg	骸骨小刀 Bone Knife
+7di	秘銀小刀 Mithril Point
+7kr	齒緣小刀 Fanged Knife
+7bl	傳說尖刺 Legend Spike
+7tk	飛刀 Flying Knife
+7ta	飛斧 Flying Axe
+7bk	翼刀 Winged Knife
+7b8	翼斧 Winged Axe
+7ja	亥伯龍之槍 Hyperion Javelin
+7pi	冥河標槍 Stygian Pilum
+7s7	炎魔長矛 Balrog Spear
+7gl	鬼魂尖槍 Ghost Glaive
+7ts	翼魚叉 Winged Harpoon
+7sr	亥伯龍之矛 Hyperion Spear
+7tr	冥河之槍 Stygian Pike
+7br	刺人槍 Mancatcher
+7st	鬼魂之矛 Ghost Spear
+7p7	戰槍 War Pike
+7o7	食人魔之斧 Ogre Axe
+7vo	巨神之斧 Colossus Voulge
+7s8	銳利之斧 Thresher
+7pa	神秘之斧 Cryptic Axe
+7h7	巨長斧 Great Poleaxe
+7wc	鮫尾巨斧 Giant Thresher
+6ss	手杖 Walking Stick
+6ls	鐘乳石之杖 Stalagmite
+6cs	長老之杖 Elder Staff
+6bs	樹皮之杖 Shillelagh
+6ws	執政官之杖 Archon Staff
+6sb	蜘蛛弓 Spider Bow
+6hb	刀鋒弓 Blade Bow
+6lb	陰影弓 Shadow Bow
+6cb	巨弓 Great Bow
+6s7	鑽石弓 Diamond Bow
+6l7	十字軍之弓 Crusader Bow
+6sw	庇護之弓 Ward Bow
+6lw	九頭蛇弓 Hydra Bow
+6lx	彈丸弓 Pellet Bow
+6mx	蛇魔女十字弓 Gorgon Crossbow
+6hx	巨神十字弓 Colossus Crossbow
+6rx	惡魔十字弓 Demon Crossbow
+ob1	鷹之法珠 
+ob2	神聖天球 
+ob3	攏煙之球 
+ob4	握扣法珠 
+as1	纏布 
+as2	手指虎 
+as3	拳刃 
+as4	展戟刃 
+as5	勾 
+as6	鑽 
+as7	爪 
+am1	男性之弓 
+am2	反射之弓 
+am3	女士之矛 
+am4	女士長矛 
+am5	女士鏢槍 
+ob6	靈光法珠 
+ob7	水晶天球 
+ob8	雲霧之球 
+ob9	閃耀之球 
+oba	渦流水晶 
+am6	灰木之弓 
+am7	祭典之弓 
+am8	祭典之矛 
+am9	祭典之長矛 
+ama	祭典之鏢槍 
+obb	天堂之石 Heavenly Stone
+obc	怪異之球 Eldritch Orb
+obd	惡魔之心 Demon Heart
+obe	漩渦球 Vortex Orb
+obf	次元碎片 Dimensional Shard
+amb	女族長之弓 Matriarchal Bow
+amc	大院長之弓 Grand Matron Bow
+amd	女族長之矛 Matriarchal Spear
+ame	女族長之長矛 Matriarchal Pike
+amf	女族長之鏢槍 Matriarchal Javelin
+dr4	獵鷹面具 
+dr2	飛鷹頭盔 
+dr3	鹿角 
+dr1	狼頭 
+dr5	靈魂狼頭面具 
+ba1	顎骨帽 
+ba2	尖牙盔 
+ba3	角盔 
+ba4	突擊盔 
+ba5	復仇者之盔 
+pa1	小盾 
+pa2	輕圓盾 
+pa3	紋章盾 
+pa4	艾文之盾 
+pa5	皇冠之盾 
+ne1	防腐之首 
+ne2	僵屍之首 
+ne3	揭露者之首 
+ne4	石像鬼之首 
+ne5	惡魔之首 
+ci0	頭飾 Circlet
+ci1	寶冠 Coronet
+ci2	三重冠 Tiara
+ci3	權冠 Diadem
+uap	軍帽 Shako
+ukp	九頭蛇頭蓋骨圓帽 Hydraskull
+ulm	活動頭盔 Armet
+uhl	巨貝頭盔 Giant Conch
+uhm	螺旋頭盔 Spired Helm
+urn	頭冠 Corona
+usk	惡魔頭蓋骨面具 Demonhead
+uui	灰暮壽衣 Dusk Shroud
+uea	古龍皮 Wyrmhide
+ula	聖甲蟲殼皮甲 Scarab Husk
+utu	線羊毛皮甲 Wire Fleece
+ung	鑽石鎖子甲 Diamond Mail
+ucl	甲殼鎧鱗甲 Loricated Mail
+uhn	骸骨鏈甲 Boneweave
+urs	巨型鱗鎧胸甲 Great Hauberk
+upl	炎魔皮板甲 Balrog Skin
+ult	地獄鍛甲 Hellforge Plate
+uld	海妖殼甲 Kraken Shell
+uth	漆甲 Lacquered Plate
+uul	陰影鎧甲 Shadow Plate
+uar	神聖盔甲 Sacred Armor
+utp	執政官鎧甲 Archon Plate
+uuc	防寒圓盾 Heater
+uml	月精靈護盾 Luna
+urg	亥伯龍盾 Hyperion
+uit	統治者大盾 Monarch
+uow	聖盾 Aegis
+uts	保護盾牌 Ward
+ulg	荊棘連指手套 Bramble Mitts
+uvg	吸血鬼骸骨手套 Vampirebone Gloves
+umg	吸血鬼手套 Vambraces
+utg	十字軍鐵手套 Crusader Gauntlets
+uhg	食人魔鐵手套 Ogre Gauntlets
+ulb	飛龍皮靴 Wyrmhide Boots
+uvb	聖甲蟲殼靴 Scarabshell Boots
+umb	骸骨靴 Boneweave Boots
+utb	鏡化靴 Mirrored Boots
+uhb	極速靴 Myrmidon Greaves
+ulc	蛛網腰帶 Spiderweb Sash
+uvc	吸血鬼燎牙腰帶 Vampirefang Belt
+umc	秘銀腰帶 Mithril Coil
+utc	洞穴巨魔腰帶 Troll Belt
+uhc	巨神腰帶 Colossus Girdle
+uh9	骸骨面罩 Bone Visage
+ush	洞穴巨魔巢穴骨盾 Troll Nest
+upk	刀刃刺盾 Blade Barrier
+dr9	神聖羽毛頭帶 
+dr7	獅鷲獸頭帶 
+dr8	獵人的偽裝 
+dr6	阿爾發頭盔 
+dra	圖騰面具狼盔 
+ba6	顎骨面甲 
+ba7	獅頭尖盔 
+ba8	狂怒面具刺盔 
+ba9	蠻族頭盔 
+baa	殺手防護面甲 
+pa6	亞克南圓盾 
+pa7	亞克南輕圓盾 
+pa8	防護者盾牌 
+pa9	飾金盾牌 
+paa	皇家盾牌 
+ne6	木乃伊印記 
+ne7	物神印記 
+ne8	司事印記 
+ne9	領唱者印記 
+nea	祭司印記 
+dre	天空之靈 Sky Spirit
+drc	太陽之靈 Sun Spirit
+drd	大地之靈 Earth Spirit
+drb	血腥之靈 Blood Spirit
+drf	幽夢之靈 Dream Spirit
+bab	屠殺頭盔 Carnage Helm
+bac	暴怒面甲 Fury Visor
+bad	毀滅者頭盔 Destroyer Helm
+bae	征服者皇冠面甲 Conqueror Crown
+baf	守護者皇冠面甲 Guardian Crown
+pab	神聖小盾 Sacred Targe
+pac	神聖輕圓盾 Sacred Rondache
+pae	撒卡蘭姆盾牌 Zakarum Shield
+paf	旋風盾 Vortex Shield
+neb	隨侍之骨 Minion Skull
+nec	地獄爪牙之骨 Hellspawn Skull
+ned	監視者之骨 Overseer Skull
+nee	女妖之骨 Succubus Skull
+nef	血王之骨 Bloodlord Skull
+AmaOnly	（限亞馬遜使用）
+SorOnly	（限法師）
+NecOnly	（限死靈法師）
+PalOnly	（限聖騎士）
+BarOnly	（限野蠻人使用）
+DruOnly	（限德魯伊使用）
+AssOnly	（限刺客使用）
+jew	珠寶
+hrb	藥草
+cm1	小護身符
+cm2	大型護身符
+cm3	超大型護身符
+Charmdes	留在物品欄中有較多額外的好處
+ice	融化安亞身上的冰雪}馬拉之藥，使用它來
+r33	符文：Zod
+r32	符文：Cham
+r31	符文：Jo
+r30	符文：Ber
+r29	符文：Sur
+r28	符文：Lo
+r27	符文：Ohm
+r26	符文：Vex
+r25	符文：Gul
+r24	符文：Ist
+r23	符文：Mal
+r22	符文：Um
+r21	符文：Pul
+r20	符文：Lem
+r19	符文：Fal
+r18	符文：Ko
+r17	符文：Lum
+r16	符文：Po
+r15	符文：Hel
+r14	符文：Dol
+r13	符文：Shae
+r12	符文：Sol
+r11	符文：Amn
+r10	符文：Thul
+r09	符文：Ort
+r08	符文：Ral
+r07	符文：Tal
+r06	符文：Ith
+r05	符文：Eth
+r04	符文：Nef
+r03	符文：Tir
+r02	符文：Eld
+r01	符文：El
+r33L	Zod
+r32L	Cham
+r31L	Jo
+r30L	Ber
+r29L	Sur
+r28L	Lo
+r27L	Ohm
+r26L	Vex
+r25L	Gul
+r24L	Ist
+r23L	Mal
+r22L	Um
+r21L	Pul
+r20L	Lem
+r19L	Fal
+r18L	Ko
+r17L	Lum
+r16L	Po
+r15L	Hel
+r14L	Dol
+r13L	Shae
+r12L	Sol
+r11L	Amn
+r10L	Thul
+r09L	Ort
+r08L	Ral
+r07L	Tal
+r06L	Ith
+r05L	Eth
+r04L	Nef
+r03L	Tir
+r02L	Eld
+r01L	El
+RuneQuote	
+Runeword1	古代人的契約 Ancients' Pledge
+Runeword2	毀天滅地 Armageddon
+Runeword3	權威 Authority
+Runeword4	野獸 Beast
+Runeword5	美貌 Beauty
+Runeword6	黑色 Black
+Runeword7	血腥 Blood
+Runeword8	白骨 Bone
+Runeword9	野薔薇 Bramble
+Runeword10	烙印 Brand
+Runeword11	死亡呼吸 Breath of the Dying
+Runeword12	破碎的誓言 Broken Promise
+Runeword13	戰爭召喚 Call to Arms
+Runeword14	榮耀之鍊 Chains of Honor
+Runeword15	機會 Chance
+Runeword16	沌頓 Chaos
+Runeword17	新月 Crescent Moon
+Runeword18	黑暗 Darkness
+Runeword19	白天 Daylight
+Runeword20	死神 Death
+Runeword21	欺暪 Deception
+Runeword22	迪勒瑞姆 Delerium
+Runeword23	渴望 Desire
+Runeword24	失望 Despair
+Runeword25	毀滅 Destruction
+Runeword26	末日 Doom
+Runeword27	飛龍 Dragon
+Runeword28	恐懼 Dread
+Runeword29	夢境 Dream
+Runeword30	強制 Duress
+Runeword31	邊緣 Edge
+Runeword32	興高彩烈 Elation
+Runeword33	謎團 Enigma
+Runeword34	教化 Enlightenment
+Runeword35	羨慕 Envy
+Runeword36	永恆 Eternity
+Runeword37	流亡 Exile
+Runeword38	信心 Faith
+Runeword39	饑荒 Famine
+Runeword40	火焰 Flame
+Runeword41	剛毅 Fortitude
+Runeword42	幸運 Fortune
+Runeword43	友情 Friendship
+Runeword44	狂怒 Fury
+Runeword45	幽暗 Gloom
+Runeword46	榮譽 Glory
+Runeword47	悔恨 Grief
+Runeword48	正義之手 Hand of Justice
+Runeword49	和諧 Harmony
+Runeword50	憎恨 Hatred
+Runeword51	橡樹之心 Heart of the Oak
+Runeword52	天堂的意識 Heaven's Will
+Runeword53	神聖之淚 Holy Tears
+Runeword54	神聖雷擊 Holy Thunder
+Runeword55	榮耀 Honor
+Runeword56	復仇 Revenge
+Runeword57	謙恭 Humility
+Runeword58	飢餓 Hunger
+Runeword59	冰凍 Ice
+Runeword60	無限 Infinity
+Runeword61	純潔 Innocence
+Runeword62	洞察 Insight
+Runeword63	妒忌 Jealousy
+Runeword64	審判 Judgement
+Runeword65	王者的慈悲 King's Grace
+Runeword66	拭王者 Kingslayer
+Runeword67	騎士的警戒 Knight's Vigil
+Runeword68	知識 Knowledge
+Runeword69	最後希望 Last Wish
+Runeword70	法律 Law
+Runeword71	執法者 Lawbringer
+Runeword72	葉子 Leaf
+Runeword73	閃電 Lightning
+Runeword74	獅子心 Lionheart
+Runeword75	知識 Lore
+Runeword76	愛情 Love
+Runeword77	忠誠 Loyalty
+Runeword78	慾望 Lust
+Runeword79	瘋狂 Madness
+Runeword81	怨恨 Malice
+Runeword82	旋律 Melody
+Runeword83	記憶 Memory
+Runeword84	迷霧 Mist
+Runeword85	早晨 Morning
+Runeword86	神秘 Mystery
+Runeword87	神話 Myth
+Runeword88	天底 Nadir
+Runeword89	天然的王國 Nature's Kingdom
+Runeword90	夜晚 Night
+Runeword91	誓約 Oath
+Runeword92	遵從 Obedience
+Runeword93	湮沒 Oblivion
+Runeword94	著魔 Obsession
+Runeword95	熱情 Passion
+Runeword96	忍耐 Patience
+Runeword97	啪噠 Patter
+Runeword98	和平 Peace
+Runeword99	思考之聲 Voice of Reason
+Runeword100	懺悔 Penitence
+Runeword101	危害 Peril
+Runeword102	疫病 Pestilence
+Runeword103	鳳凰 Phoenix
+Runeword104	虔誠 Piety
+Runeword105	信念之柱 Pillar of Faith
+Runeword106	瘟疫 Plague
+Runeword107	頌揚 Praise
+Runeword108	祈禱 Prayer
+Runeword109	驕傲 Pride
+Runeword110	原理 Principle
+Runeword111	戰鬥中的勇氣 Prowess in Battle
+Runeword112	謹重 Prudence
+Runeword113	懲罰 Punishment
+Runeword114	純潔 Purity
+Runeword115	疑問 Question
+Runeword116	光輝 Radiance
+Runeword117	降雨 Rain
+Runeword118	理由 Reason
+Runeword119	鮮紅 Red
+Runeword120	押韻 Rhyme
+Runeword121	裂縫 Rift
+Runeword122	聖堂 Sanctuary
+Runeword123	奇遇 Serendipity
+Runeword124	影子 Shadow
+Runeword125	懷疑之影 Shadow of Doubt
+Runeword126	寂靜 Silence
+Runeword127	海妖之歌 Siren's Song
+Runeword128	煙霧 Smoke
+Runeword129	哀傷 Sorrow
+Runeword130	精神 Spirit
+Runeword131	燦爛 Splendor
+Runeword132	星光 Starlight
+Runeword133	隱密 Stealth
+Runeword134	鋼鐵 Steel
+Runeword135	寂靜之水 Still Water
+Runeword136	刺傷 Sting
+Runeword137	石塊 Stone
+Runeword138	風暴 Storm
+Runeword139	力量 Strength
+Runeword140	暴風雨 Tempest
+Runeword141	誘惑 Temptation
+Runeword142	恐佈 Terror
+Runeword143	飢餓 Thirst
+Runeword144	思維 Thought
+Runeword145	雷電 Thunder
+Runeword146	時間 Time
+Runeword147	傳統 Tradition
+Runeword148	背信 Treachery
+Runeword149	信任 Trust
+Runeword150	真實 Truth
+Runeword151	堅定意志 Unbending Will
+Runeword152	英勇 Valor
+Runeword153	復仇 Vengeance
+Runeword154	毒牙 Venom
+Runeword155	勝利 Victory
+Runeword156	聲音 Voice
+Runeword157	虛無 Void
+Runeword158	戰爭 War
+Runeword159	清水 Water
+Runeword160	財富 Wealth
+Runeword161	低語 Whisper
+Runeword162	白色 White
+Runeword163	輕風 Wind
+Runeword164	希望之翼 Wings of Hope
+Runeword165	智慧 Wisdom
+Runeword166	悲痛 Woe
+Runeword167	驚奇 Wonder
+Runeword168	憤怒 Wrath
+Runeword169	年輕 Youth
+Runeword170	和風 Zephyr
+spe	脾臟
+scz	頭皮
+sol	靈魂
+qll	硬毛
+fng	尖牙
+flg	旗幟
+tal	尾巴
+hrn	角
+eyz	眼球
+jaw	顎骨
+brz	腦
+hrt	心臟
+Stout	堅固之
+Antimagic	反魔法之
+Null	無效之
+Godly	神之
+Ivory	象牙之
+Eburin	類象牙之
+Blanched	白化之
+Stalwart	健壯之
+Burly	魁梧之
+Dense	密集之
+Thin	細瘦之
+Compact	密實之
+Witch-hunter's	女巫獵人之
+Magekiller's	法師殺手之
+Hierophant's	祭司之
+Shaman's	巫師之
+Pestilent	瘟疫之
+Toxic	劇毒之
+Corosive	腐蝕之
+Envenomed	險惡之
+Septic	腐敗之
+Shocking	震撼之
+Arcing	彎曲之
+Buzzing	嗡叫之
+Static	靜態之
+Scorching	濃縮之
+Flaming	燃燒之
+Smoking	煙霧之
+Smoldering	悶燒之
+Ember	烈火之
+Hibernal	寒冬之
+Boreal	北風之
+Shivering	顫抖之
+Snowflake	雪白之
+Mnemonic	記憶之
+Visionary	幻影之
+Eagleeye	明察秋毫之
+Hawkeye	目光銳利之
+Falconeye	鷹眼之
+Sparroweye	麻雀之眼之
+Robineye	知更鳥之眼之
+Paradox	矛盾之
+Shouting	狂哮之
+Yelling	嘶喊之
+Calling	召喚之
+Loud	警告之
+Trump	愚人之
+Joker's	丑角之
+Jester's	弄臣之
+Jack's	少年之
+Knave's	惡棍之
+Paleocene	忠誠之
+Eocene	正義之
+Oligocene	高貴之
+Miocene	教化之
+Kenshi's	劍聖之
+Sensei's	劍士之
+Shogukusha's	將軍之
+Psychic	心靈之
+Mentalist's	心智之
+Cunning	冷靜之
+Trickster's	詐欺之
+Entrapping	誘騙之
+Gaea's	蓋亞之
+Terra's	塵土之
+Nature's	自然之
+Communal	共有之
+Feral	猛禽之
+Spiritual	精神之
+Keeper's	管理者之
+Caretaker's	看守人之
+Trainer's	訓練師之
+Veteran's	老手之
+Expert's	專家之
+Furious	狂怒之
+Raging	猛烈之
+Echoing	回音之
+Resonant	回響之
+Sounding	鳴響之
+Guardian's	守護者之
+Warder's	主管之
+Preserver's	保護者之
+Marshal's	元帥之
+Commander's	指揮官之
+Captain's	隊長之
+Rose Branded	玫瑰烙印之
+Hawk Branded	老鷹烙印之
+Lion Branded	獅子烙印之
+Golemlord's	石魔之王之
+Vodoun	雄壯之
+Graverobber's	盜墓者之
+Venomous	劇毒之
+Noxious	有害之
+Fungal	黴菌之
+Accursed	詛咒之
+Blighting	枯萎之
+Hexing	中魔之
+Glacial	冰冷之
+Freezing	冰凍之
+Chilling	寒意之
+Powered	力量十足之
+Charged	充能之
+Sparking	火光之
+Volcanic	火山之
+Blazing	炎熱之
+Burning	燃燒之
+Lancer's	長槍兵之
+Spearmaiden's	女矛手之
+Harpoonist's	魚叉手之
+Athlete's	競賽之
+Gymnast's	體技之
+Acrobat's	特技之
+Bowyer's	製弓匠之
+Diamond	鑽石之
+Celestial	天體之
+Elysian	極樂之
+Astral	星間之
+Unearthly	超自然之
+Arcadian	田園之
+Jeweler's	珠寶匠之
+Artificer's	工匠之
+Mechanist's	技工之
+Aureolin	光輪之
+Victorious	優勝之
+Ambergris	龍涎香之
+Camphor	樟腦之
+Lapis Lazuli	青金石之
+Chromatic	多彩之
+Scintillating	閃閃發光之
+Turquoise	綠松石之
+Jacinth	紅鋯石之
+Zircon	鋯石之
+Bahamut's	巴哈姆特之
+Great Wyrm's	巨飛龍之
+Felicitous	得體之
+Lucky	好運之
+Wailing	哭號之
+Screaming	尖叫之
+Grandmaster's	宗師之
+Master's	大師之
+Argent	銀之
+Tin	錫之
+Nickel	鎳之
+Maroon	茶色之
+Chestnut	栗色之
+Vigorous	活力之
+Brown	棕色之
+Dun	暗楬之
+Realgar	雄黃之
+Rusty	鐵鏽之
+Cinnabar	朱紅之
+Vermillion	朱砂之
+Carmine	胭脂之
+Carbuncle	紅玉之
+Serrated	鋸齒之
+Scarlet	猩紅之
+Bloody	血腥之
+Sanguinary	噬殺之
+Pearl	珍珠之
+Divine	神性之
+Hallowed	聖潔之
+Sacred	神聖之
+Pure	純潔之
+Consecrated	淨化之
+Assamic	月精靈之
+Frantic	狂亂之
+Hellatial	地獄般之
+Quixotic	幻想之
+Smiting	重擊之
+Steller	星晨之
+Stinging	刺痛之
+Singing	歌唱之
+Timeless	無窮之
+Original	原始之
+Corporal	肉體之
+Lawful	守序之
+Chaotic	渾沌之
+Fierce	兇猛之
+Ferocious	兇暴之
+Perpetual	永恆之
+Continuous	無盡之
+Laden	滿載之
+Pernicious	致命之
+Harmful	有害之
+Evil	邪惡之
+Insidious	詭詐之
+Malicious	惡意之
+Spiteful	懷恨之
+Precocious	早熟之
+Majestic	莊嚴之
+Sanguine	舐血之
+Monumental	刻印之
+Irresistible	無法抵抗之
+Festering	潰爛之
+Musty	陳腐之
+Dusty	塵漫之
+Decaying	衰退之
+Rotting	腐壞之
+Infectious	傳染之
+Foggy	迷霧之
+Cloudy	多雲之
+Hazy	朦朧之
+Punishing	懲罰之
+Obsidian	黑曜石之
+Royal	皇家之
+Frigid	酷寒之
+Moldy	發霉之
+Gaudy	炫耀之
+Impecable	無暇之
+Soulless	無魂之
+Heated	熱火之
+Lasting	持續之
+Scorched	燒炙之
+Marred	損傷之
+Lilac	丁香之
+Rose	玫瑰之
+Shimmering	閃耀之
+Green	綠色之
+Wicked	詭異之
+Strange	怪異之
+Repulsive	噁心之
+Reclusive	隱世之
+Crude	粗糙之
+Rude	粗野之
+Hermetic	深奧之
+Rainbow	彩虹之
+Colorful	多彩之
+Stinky	惡臭之
+Gritty	磨碎之
+of Warming	溫暖的
+of Stoicism	冷靜的
+of the Dynamo	爆發的
+of Grounding	鑽地的
+of Insulation	絕緣的
+of Resistance	阻抗的
+of Faith	信仰的
+of Fire Quenching	猝滅的
+of Amianthus	石綿的
+of Incombustibility	易燃的
+of Coolness	降溫的
+of Anima	和睦的
+of Life Everlasting	永生的
+of Sunlight	陽光的
+of Frozen Orb	冰凍球的
+of Hydra Shield	九頭蛇盾的
+of Chilling Armor	降溫防禦的
+of Blizzard	冰雪暴的
+of Energy Shield	能源盾的
+of Thunder Storm	雷暴的
+of Meteor	隕石的
+of Glacial Spike	冰河刺的
+of Teleport Shield	傳送盾的
+of Chain Lightning	連鎖閃電的
+of Enchant	附魔的
+of Fire Wall	火牆的
+of Shiver Armor	寒顫屏障的
+of Nova Shield	新星盾的
+of Nova	新星的
+of Fire Ball	火球的
+of Blaze	熾熱之徑的
+of Ice Blast	冰暴的
+of Frost Shield	冷凝盾的
+of Telekinesis	心靈遙感的
+of Static Field	靜滯場的
+of Frozen Armor	冰封屏障的
+of Icebolt	冰錐的
+of Charged Shield	充能彈的
+of Firebolts	火彈的
+of the Elements	元素的
+of the Cobra	眼鏡蛇的
+of the Efreeti	火元素的
+of the Phoenix	鳳凰的
+of the Yeti	雪猿的
+of Grace and Power	優雅與力量的
+of Grace	優雅的 
+of Power	力量的
+of the Elephant	巨象的
+of Memory	記憶的
+of the Kraken1	海妖的
+of Propogation	傳播的
+of Replenishing	補充的
+of Ages	歲月的
+of Fast Repair	回復的
+of Self-Repair	自我修護的
+of Acceleration	加速的
+of Traveling	傳送的
+of Virility	精氣的
+of Atlus	擎天神的
+of Freedom	自由的
+of the Lamprey	八目鰻的
+of Hope	希望的
+of Spirit	靈魂的
+of Vita	生命的
+of Substinence	耐久的
+of the Whale	巨鯨的
+of the Squid	烏賊的
+of the Colossus1	巨神的
+of Knowledge	知識的
+of Enlightenment	啟發的
+of Prosperity	富饒的
+of Good Luck	幸運的
+of Luck	好運的
+of Avarice	貪婪的
+of Honor	榮譽的
+of Revivification	復甦的
+of Truth	真理的
+of Daring	大膽的
+of Nirvana	涅槃的
+of Envy	嫉妒的
+of Anthrax	炭疽的
+of Bliss	福氣的
+of Joy	歡喜的
+of Transcendence	超凡的
+of Wrath	怒氣的
+of Ire	憤怒的
+of Evisceration	吸精的
+of Butchery	屠殺的
+of Ennui	倦怠的
+of Storms	暴風的
+of Passion	熱情的
+of Incineration	熾炎的
+of Frigidity	寒冷的
+of Winter	嚴冬的
+of the Icicle	冰刺的
+of Fervor	白熱的
+of Malice	惡意的
+of Swords	刀劍的
+of Razors	剃刀的
+of Desire	慾望的
+of the Sirocco	熱風的
+of the Dunes	沙丘的
+of Thawing	解凍的
+Of the Choir	合唱的
+Of the Sniper	狙擊的
+Of the Stiletto	尖錐的
+Of Bile	乖戾的
+Of Blitzen	閃擊的
+Of Cremation	焚化的
+Of Darkness	黑暗的
+Of Disease	疾病的
+Of Remorse	悔恨的
+Of Terror	恐懼的
+Of the Sky	蒼穹的
+Of Valhalla	英靈的
+Of Waste	荒地的
+Of Nobility	高貴的
+Of Karma	因果的
+Of Grounding	鑽地的
+Of the River	河流的
+Of the Lake	湖泊的
+Of the Ocean	海洋的
+Of the Bayou	支流的
+Of the Stream	小溪的
+Of the Lady	女士的
+Of the Maiden	少女的
+Of the Virgin	處女的
+Of the Hag	巫婆的
+Of the Witch	女巫的
+Of Judgement	審判的
+Of Illusion	幻覺的
+Of Elusion	閃避的
+Of Combat	戰鬥的
+Of Attrition	摩擦的
+Of Abrasion	侵蝕的
+Of Erosion	腐蝕的
+Of Searing	灼熱的
+Of Stone	岩石的
+Of Stature	能力的
+Of Fortication	強化的
+Of Quickening	加速的
+Of Dispatch	急速的
+Of Daring	猛進的 
+Of Dread	恐懼的
+Of Suffering	受苦的
+Of Doom	末日的
+Of Vengence	復仇的
+Of Redemption	救贖的
+Of Luck	幸運的
+Of the Avenger	復仇者的
+Of the Specter	邪鬼的
+Of the Ghost	鬼靈的
+Of the Infantry	步兵的
+Of the Mosquito	飛蚊的
+Of the Gnat	蚊蚋的
+Of the Fly	飛蠅的
+Of the Plague	疫病的
+Of Twilight	曙光的
+Of Dusk	薄暮的
+Of Dawn	黎明的
+Of the Imbecile	低能的
+Of the Idiot	愚蠢的
+Of the Retard	笨蛋的
+Of the Jujube	刺棗的
+Of the Obscenity	淫穢的
+Of Quota	配額的
+Of the Maggot	蛆蟲的
+Of Horror	驚怖的
+Of Baddass	深淵的
+Of the Beast	狂獸的
+Of Cruelty	殘酷的
+Of Badness	惡毒的
+Of the Horde	集力的
+Of the Forest	叢林的
+Of the Lilly	下垂的
+Of the Grassy Gnoll	深綠豺狼人的
+Of the Stars	星辰的
+Of the Moon	月亮的
+Of Love	愛情的
+Of the Unicorn	獨角獸的
+Of the Walrus	海象的
+Of the Earth	土地的
+Of Vines	藤蔓的
+Of Honor	榮譽的
+Of Tribute	奉獻的
+Of Credit	致敬的
+Of Admiration	佩服的
+Of Sweetness	甜美的
+Of Beauty	美麗的
+Of Pilfering	盜竊的
+of Damage Amplification	傷害加深的
+of Hurricane	暴風的
+of Armageddon	末日決戰的
+of Tornado	龍捲風的
+of Volcano	火山的
+of Twister	小旋風的
+of Cyclone Armor	旋風屏障的
+of Eruption	火山爆的
+of Molten Boulders	融化圓石的
+of Firestorms	火焰風暴的
+of Battle Command	戰鬥指揮的
+of War Cry	戰鬥狂嗥的
+of Grim Ward	殘酷嚇阻的
+of Battle Orders	戰鬥體制的
+of Battle Cry	戰嗥的
+of Concentration	專注的
+of Item Finding	找尋物品的
+of Stunning	擊昏的
+of Shouting	大叫的
+of Taunting	嘲弄的
+of Potion Finding	找尋葯劑的
+of Howling	狂嗥的
+of Fist of the Heavens	天堂之拳的
+of Holy Shield	神聖之盾的
+of Conversion	轉換的
+of Blessed Hammers	祝福之鎚的
+of Vengeance	復仇的
+of Charging	衝鋒的
+of Zeal	熱誠的
+of Holy Bolts	聖光彈的
+of Sacrifice	犧牲的
+of Fire Golem Summoning	火焰石魔的
+of Bone Spirits	白骨之魂的
+of Poison Novas	劇毒新星的
+of Lower Resistance	降低抵抗的
+of Iron Golem Creation	鋼鐵石魔的
+of Bone Imprisonment	骨牢的
+of Decrepification	衰老的
+of Attraction	吸引的
+of Blood Golem Summoning	鮮血石魔的
+of Bone Spears	骨矛的
+of Poison Explosion	毒爆的
+of Life Tap	偷取生命的
+of Confusion	迷亂的
+of Raise Skeletal Mages	復甦骷髏法師的
+of Bone Walls	骨牆的
+of Terror	恐懼的
+of Iron Maiden	鐵處女的
+of Clay Golem Summoning	黏土石魔的
+of Corpse Explosions	屍爆的
+of Poison Dagger	淬毒匕首的
+of Weaken	削弱的
+of Dim Vision	微暗靈視的
+of Raise Skeletons	復甦骷髏的
+of Bone Armor	白骨裝甲的
+of Teeth	牙的
+of Amplify Damage	傷害加深的
+of Frozen Orbs	冰封球的
+of Hydras	九頭海蛇的
+of Blizzards	暴風雪的
+of Meteors	隕石的
+of Glacial Spikes	冰尖柱的
+of Teleportation	傳送的
+of Enchantment	火焰強化的
+of Fire Walls	火牆的
+of Novas	新星的
+of Fire Balls	火球的
+of Blazing	熾烈之徑的
+of Ice Blasts	冰風暴的
+of Frost Novas	霜之新星的
+of Ice Bolts	冰彈的
+of Charged Bolts	充能彈的
+of Fire Bolts	火彈的
+of Lightning Fury	閃電之怒的
+of Lightning Spear	閃電攻擊的
+of Freezing Arrows	凍結之箭的
+of Fending	擊退的
+of Immolating Arrows	犧牲之箭的
+of Plague Javelin	瘟疫鏢槍的
+of Charged Spear	充能一擊的
+of Guided Arrows	導引箭的
+of Ice Arrows	急凍箭的
+of Lightning Javelin	閃電鏢槍的
+of Impaling Spear	刺爆的
+of Slow Missiles	慢速箭的
+of Exploding Arrows	爆裂箭的
+of Poison Javelin	毒槍的
+of Power Spear	威力一擊的
+of Multiple Shot	多重箭的
+of Cold Arrows	冰箭的
+of Jabbing	戳刺的
+of Inner Sight	內視的
+of Fire Arrows	火焰箭的
+of Magic Arrows	魔法箭的
+Of self-repair	自我修復的
+of Dawn	破曉的
+of Inertia	慣性的
+of Joyfulness	快樂的
+ModStre8a	德魯依技能
+ModStre8b	刺客技能
+ModStre8c	凹槽
+ModStre8d	對抗惡魔的攻擊準確率 (AR)
+ModStre8e	對抗不死生物的攻擊準確率 (AR)
+ModStre8f	對抗惡魔傷害
+ModStre8g	攻擊準確率 (AR) 加成
+ModStre8h	鏢槍和長矛技能
+ModStre8i	被動和魔法技能
+ModStre8j	弓和十字弓技能
+ModStre8k	防禦性靈氣技能
+ModStre8l	攻擊性靈氣技能
+ModStre8m	戰鬥技能
+ModStre8n	召喚技能
+ModStre8o	毒素和白骨技能
+ModStre8p	詛咒
+ModStre8q	戰嚎技能
+ModStre8r	戰鬥技能
+ModStre8s	支配性技能
+ModStre8t	冰冷系技能
+ModStre8u	閃電系技能
+ModStre8v	火焰技能
+ModStre8w	召喚技能
+ModStre8x	變形技能
+ModStre8y	元素技能
+ModStre8z	陷阱技能
+ModStre9a	暗影修鍊技能
+ModStre9b	戰爭藝術技能
+ModStre9c	（以角色等級決定）
+ModStre9d	（在夜間增加）
+ModStre9e	（在白天增加）
+ModStre9f	(在黎明增加)
+ModStre9g	(在黃昏增加)
+ModStre9h	使用次數
+ModStre9i	額外增加數量
+ModStre9s	無法破壞
+ModStre9t	每秒回復裝備耐久度 %d
+ModStre9u	回覆裝備耐久度 %d 於 %d 秒內
+ModStre9v	自動恢復數量
+ModStre9w	施展等級%d
+ModStre9x	當你揮舞時
+ModStre9y	當你被擊中時
+ModStre9z	當你擊中敵人時
+ModStre10a	聚氣
+ModStre10b	等級
+ModStre10c	每一級
+ModStre10d	(%d/%d 聚氣)
+ModStre10e	（
+ModStre10f	）
+ModStre10g	隱密
+ModStre10h	對毒素免疫
+ModStre10i	受詛咒
+ModStre10j	隊伍中的每個人
+WeaponDescH2H	爪系
+WeaponDescOrb	法珠系
+ItemexpED	元素系傷害
+StrGemX1	頭盔：
+StrGemX2	盾牌：
+StrGemX3	武器：
+StrGemX4	裝甲：
+GemeffectX11	增加力量
+GemeffectX12	增加防禦等級
+GemeffectX13	增加攻擊準確率
+GemeffectX21	增加法力上限
+GemeffectX22	增加抗冰冷能力
+GemeffectX23	攻擊時增加冰冷系的傷害
+GemeffectX31	增加靈敏度
+GemeffectX32	增加抗毒能力
+GemeffectX33	攻擊時增加毒素系的傷害
+GemeffectX41	增加生命上限
+GemeffectX42	增加抗火能力
+GemeffectX43	攻擊時增加火焰傷害
+GemeffectX51	增加攻擊準確率
+GemeffectX52	增加所有抵抗力
+GemeffectX53	對付不死系生物時會增加傷害
+GemeffectX61	增加找到魔法物品的機率
+GemeffectX62	增加抵抗閃電的能力
+GemeffectX63	攻擊時增加閃電系的傷害
+GemeffectX71	增加法力和生命的回復速度
+GemeffectX72	攻擊者反受傷害
+GemeffectX73	攻擊時增加偷取法力和生命
+Coldkill	冷殺 Coldkill
+Butchers Cleaver	屠夫切肉刀 Butcher's Cleaver
+Butcher's Pupil	屠夫之瞳 Butcher's Pupil
+Islestrike	島擊 Islestrike
+Pompe's Wrath	龐貝之怒 Pompeii's Wrath
+Guardian Naga	蛇神守護者 Guardian Naga
+Warlord's Trust	戰爵之證 Warlord's Trust
+Spellsteel	鋼鐵魔咒 Spellsteel
+Stormrider	暴風騎士 Stormrider
+Boneslayer Blade	碎骨者之刃 Boneslayer Blade
+The Minotaur	牛頭怪 The Minotaur
+Suicide Branch	自殺支系 Suicide Branch
+Cairn Shard	石塚碎片 Cairn Shard
+Arm of King Leoric	李奧瑞克王的武器 Arm of King Leoric
+Blackhand Key	黑手之鑰 Blackhand Key
+Dark Clan Crusher	闇族碎滅者 Dark Clan Crusher
+Drulan's Tongue	杜蘭之舌 Drulan's Tongue
+Zakrum's Hand	撒卡蘭姆之手 Zakarum's Hand
+The Fetid Sprinkler	惡臭散佈者 The Fetid Sprinkler
+Hand of Blessed Light	祝福之光之手 Hand of Blessed Light
+Fleshrender	血肉裁決者 Fleshrender
+Sureshrill Frost	尖嘯冰霜 Sureshrill Frost
+Moonfall	落月 Moonfall
+Baezils Vortex	貝西爾的漩渦 Baezil's Vortex
+Earthshaker	撼地者 Earthshaker
+Bloodtree Stump	血樹殘株 Bloodtree Stump
+The Gavel of Pain	痛苦木槌 The Gavel of Pain
+Bloodletter	血書 Bloodletter
+Coldsteal Eye	竊冷之眼 Coldsteal Eye
+Hexfire	六角之火 Hexfire
+Blade of Ali Baba	阿里巴巴之刃 Blade of Ali Baba
+Riftslash	烈斬 Riftslash
+Headstriker	擊頭者 Headstriker
+Plague Bearer	疫病帶原者 Plague Bearer
+The Atlantien	亞特拉斯 The Atlantean
+Crainte Vomir	克林鐵-弗姆 Crainte Vomir
+Bing Sz Wang	兵之王 Bing Sz Wang
+The Vile Husk	卑劣軀殼 The Vile Husk
+Cloudcrack	雲裂 Cloudcrack
+Todesfaelle Flamme	特迪斯法雷-芙法米 Todesfaelle Flamme
+Swordguard	劍衛 Swordguard
+Spineripper	裂脊者 Spineripper
+Heart Carver	刻心者 Heart Carver
+Blackbog's Sharp	黑沼之鋒 Blackbog's Sharp
+Stormspike	暴風尖刺 Stormspike
+The Impaler	穿刺者 The Impaler
+Kelpie Snare	水魔陷阱 Kelpie Snare
+Soulfeast Tine	噬魂叉 Soulfeast Tine
+Hone Sundan	宏-森丹 Hone Sundan
+Spire of Honor	榮耀的尖塔 Spire of Honor
+The Meat Scraper	刮肉者 The Meat Scraper
+Blackleach Blade	黑水之刃 Blackleach Blade
+Athena's Wrath	雅典娜的忿怒 Athena's Wrath
+Pierre Tombale Couant	皮爾-通把-考恩特 Pierre Tombale Couant
+Husoldal Evo	胡索丹-依弗 Husoldal Evo
+Grim's Burning Dead	驚怖焰亡靈 Grim's Burning Dead
+Ribcracker	肋骨粉碎者 Ribcracker
+Chromatic Ire	五彩的怒氣 Chromatic Ire
+Warpspear	扭曲之矛 Warpspear
+Skullcollector	骷髏收集者 Skull Collector
+Skystrike	天擊 Skystrike
+Kuko Shakaku	社角久子 Kuko Shakaku
+Endlessshail	無盡的冰雹 Endlesshail
+Whichwild String	狂野之弦 Whichwild String
+Godstrike Arch	金擊圓弧 Goldstrike Arch
+Langer Briser	蘭格-布里瑟 Langer Briser
+Pus Spiter	毒液怪 Pus Spitter
+Buriza-Do Kyanon	布理撒-多-凱南 Buriza-Do Kyanon
+Vampiregaze	吸血鬼的凝視 Vampire Gaze
+String of Ears	長串之耳 String of Ears
+Gorerider	蝕肉騎士 Gore Rider
+Lavagout	熔岩角羊 Lava Gout
+Venom Grip	劇毒之抓 Venom Grip
+Visceratuant	維斯爾坦特 Visceratuant
+Guardian Angle	守護天使 Guardian Angel
+Shaftstop	謝夫特斯坦布 Shaftstop
+Skin of the Vipermagi	蛇魔法師之皮 Skin of the Vipermagi
+Blackhorn	黑角 Blackhorn
+Valkiry Wing	女神之翼 Valkyrie Wing
+Peasent Crown	粗野之冠 Peasant Crown
+Demon Machine	惡魔機器 Demon Machine
+Magewrath	巫師之怒 Magewrath
+Cliffkiller	岩壁殺手 Cliffkiller
+Riphook	撕裂之鉤 Riphook
+Razorswitch	擺動剃刀 Razorswitch
+Meatscrape	削肉 Meatscrape
+Coldsteel Eye	冰鋼之眼 Coldsteel Eye
+Pitblood Thirst	血之狂慾 Pitblood Thirst
+Gaya Wand	加耶之杖 Gaya Wand
+Ondal's Wisdom	安戴爾的智慧 Ondal's Wisdom
+Geronimo's Fury	吉拉尼莫的忿怒 Geronimo's Fury
+Charsi's Favor	恰西的恩惠 Charsi's Favor
+Doppleganger's Shadow	變形怪之影 Doppleganger's Shadow
+Deathbit	死亡碎片 Deathbit
+Warshrike	戰爭之鳥 Warshrike
+Gutsiphon	內臟吸管 Gut Siphon
+Razoredge	刀鋒邊緣 Razor's Edge
+Stonerattle	自響之石 Stone Rattle
+Marrowgrinder	磨骨者 Marrow Grinder
+Gore Ripper	血塊撕裂者 Gore Ripper
+Bush Wacker	伐木刀 Bush Wacker
+Demonlimb	惡魔爪牙 Demon Limb
+Steelshade	鋼影 Steel Shade
+Tomb Reaver	盜墓者 Tomb Reaver
+Death's Web	死亡之網 Death's Web
+Gaia's Wrath	蓋亞之怒 Gaia's Wrath
+Khalim's Vengance	克林姆的復仇 Khalim's Vengeance
+Angel's Song	天使之歌 Angel's Song
+The Reedeemer	懺悔者 The Redeemer
+Fleshbone	血肉之骨 Fleshbone
+Odium	厭惡 Odium
+Blood Comet	血之彗星 Blood Comet
+Bonehew	破骨 Bonehew
+Steelrend	碎鋼 Steelrend
+Stone Crusher	碎石者 Stone Crusher
+Bul-Kathos' Might	布爾凱索之力 Bul-Kathos' Might
+Arioc's Needle	愛理歐克之針 Arioc's Needle
+Shadowdancer	影舞者 Shadow Dancer
+Indiego's Fancy	印地哥的幻想 Indiego's Fancy
+Aladdin's Eviserator	古代人的內臟 Aladdin's Eviscerator
+Tyrael's Mercy	泰瑞爾的慈悲 Tyrael's Mercy
+Souldrain	吸魂者 Soul Drainer
+Runemaster	符文大師 Rune Master
+Deathcleaver	死亡之刀 Death Cleaver
+Executioner's Justice	劊子手的裁決 Executioner's Justice
+Wallace's Tear	華萊士之淚 Wallace's Tear
+Leviathan	海王利維亞桑 Leviathan
+The Wanderer's Blade	流浪者之刀 The Wanderer's Blade
+Qual'Kek's Enforcer	夸爾凱克執法者 Qual-Khek's Enforcer
+Dawnbringer	黃昏降臨者 Dawn Bringer
+Dragontooth	龍牙 Dragontooth
+Wisp	鬼火投射者 Wisp Projector
+Gargoyle's Bite	石像鬼之噬 Gargoyle's Bite
+Lacerator	撕裂者 Lacerator
+Mang Song's Lesson	梅格之歌的教訓 Mang Song's Lesson
+Viperfork	蝮蛇叉 Viperfork
+Blood Chalice	血杯 Blood Chalice
+El Espiritu	愛爾-衣斯普利特 El Espiritu
+The Long Rod	長棒 The Longest Rod
+Demonhorn's Edge	惡魔號角的邊緣 Demonhorn's Edge
+The Ensanguinator	血紅之人 The Ensanguinator
+The Reaper's Toll	死神的喪鐘 The Reaper's Toll
+Spiritkeeper	靈魂看守者 Spirit Keeper
+Hellrack	地獄拷問 Hellrack
+Alma Negra	阿爾瑪-尼格拉 Alma Negra
+Darkforge Spawn	魔力肇生 Darkforce Spawn
+Rockhew	石塊切割 Rockhew
+Sankenkur's Resurrection	桑坎克的復活 Sankekur's Resurrection
+Erion's Bonehandle	愛力恩的骨柄 Erion's Bonehandle
+The Archon Magus	大法師 The Achron Magus
+Widow maker	戮夫刃 Widowmaker
+Catgut	腸線 Catgut
+Ghostflame	鬼火焰 Ghostflame
+Shadowkiller	影殺者 Shadow Killer
+Bling Bling	布林布林 Bling Bling
+Nebucaneezer's Storm	拿布坎瑟的風暴 Nebuchadnezzar's Storm
+Griffon's Eye	獅鷲獸之眼 Griffon's Eye
+Eaglewind	老鷹之風 Eaglewind
+Windhammer	風之鎚 Windhammer
+Thunderstroke	雷擊 Thunderstroke
+Giantmaimer	重殘 Giant Maimer
+Demon's Arch	惡魔之王 Demon's Arch
+The Scalper	圓鑿 The Scalper
+Bloodmoon	血月 Bloodmoon
+Djinnslayer	魔靈殺手 Djinn Slayer
+Cranebeak	鶴嘴 Cranebeak
+Iansang's Frenzy	伊安森的狂怒 Iansang's Frenzy
+Warhound	戰爭獵犬 Warhound
+Gulletwound	咽喉之傷 Gulletwound
+Headhunter's Glory	獵頭人的榮耀 Head Hunter's Glory
+Mordoc's marauder	馬德克的盜賊 Mordoc's Marauder
+Talberd's Law	泰爾柏德的律法 Talberd's Law
+Amodeus's Manipulator	阿姆德思的操弄器 Amodeus' Manipulator
+Darksoul	幽闇魔靈 Darksoul
+The Black Adder	闇蛇 The Black Adder
+Earthshifter	大地變形者 Earth Shifter
+Nature's Peace	大自然的和平 Nature's Peace
+Horazon's Chalice	赫拉森之杯 Horazon's Chalice
+Seraph's Hymn	熾天使之韻 Seraph's Hymn
+Zakarum's Salvation	撒卡蘭姆的救贖 Zakarum's Salvation
+Fleshripper	裂肉者 Fleshripper
+Stonerage	石之狂怒 Stonerage
+Blood Rain	血雨 Blood Rain
+Horizon's Tornado	地平線的颱風 Horizon's Tornado
+Nord's Tenderizer	諾德的蝕肉藥 Nord's Tenderizer
+Wrath of Cain	凱恩之怒 Wrath of Cain
+Siren's call	賽蓮的呼喚 Siren's Call
+Jadetalon	碧玉爪 Jade Talon
+Wraithfang	死靈之牙 Wraithfang
+Blademaster	刀刃之王 Blade Master
+Cerebus	地獄之吻 Cerebus' Bite
+Archangel's Deliverance	大天使的救助 Arch-angel's Deliverance
+Sinblade	原罪之刃 Sinblade
+Runeslayer	符文殺手 Rune Slayer
+Excalibur	石中劍 Excalibur
+Fuego Del Sol	夫得勾-迪爾-索 Fuego Del Sol
+Stoneraven	石烏鴉 Stoneraven
+El Infierno	妖精地獄火 El Infierno
+Moonrend	破碎之月 Moonrend
+Larzuk's Champion	拉蘇克的鬥士 Larzuk's Champion
+Nightsummon	夜之召喚 Nightsummon
+Bonescapel	骨刀 Bonescalpel
+Rabbit Slayer	白兔殺手 Rabbit Slayer
+Pagan's Athame	異教的啊沙梅 Pagan's Athame
+The Swashbuckler	暴徒 The Swashbuckler
+Kang's Virtue	坎格的美德 Kang's Virtue
+Snaketongue	蛇之舌 Snake Tongue
+Lifechoke	窒息生命 Lifechoke
+Ethereal edge	永恆邊緣 Ethereal Edge
+Palo Grande	派羅大公 Palo Grande
+Carnageleaver	背離屠殺者 Carnage Leaver
+Ghostleach	濾魂 Ghost Leach
+Soulreaper	靈魂收割者 Soul Reaper
+Samual's Caretaker	山姆的管理員 Samuel's Caretaker
+Hell's Whisper	地獄呢喃者 Hell Whisper
+The Harvester	收割者 The Harvester
+Raiden's Crutch	雷電拐杖 Raiden's Crutch
+The TreeEnt	崔恩斯特 The Treentster
+Stormwillow	暴風柳木 Stormwillow
+Moonshadow	月之影 Moon Shadow
+Strongoak	奇怪像樹 Strong Oak
+Demonweb	惡魔之網 Demonweb
+Bloodraven's Charge	血鳥的襲擊 Blood Raven's Charge
+Shadefalcon	陰影之鷹 Shade Falcon
+Robin's Yolk	知更之蛋 Robin's Yolk
+Glimmershred	微光碎片 Glimmershred
+Wraithflight	死靈夜翔 Wraith Flight
+Lestron's Mark	里斯崙的印記 Lestron's Mark
+Banshee's Wail	女妖嚎哭 Banshee's Wail
+Windstrike	風之擊 Windstrike
+Medusa's Gaze	梅杜莎的凝視 Medusa's Gaze
+Titanfist	泰坦之拳 Titan's Fist
+Hadeshorn	黑帝斯號角 Hadeshorn
+Rockstopper	岩石制動器 Rockstopper
+Stealskull	偷取骷髏 Stealskull
+Darksight Helm	暗視之盔 Darksight Helm
+Crown of Thieves	盜賊皇冠 Crown of Thieves
+Blackhorn's Face	黑角面具 Blackhorn's Face
+The Spirit Shroud	靈魂帷幕 The Spirit Shroud
+Skin of the Flayed One	剝皮者之皮 Skin of Flayed One
+Ironpelt	擲鐵 Iron Pelt
+Spiritforge	靈魂熔爐 Spirit Forge
+Crow Caw	鴉鳴 Crow Caw
+Duriel's Shell	都瑞爾的殼 Duriel's Shell
+Skullder's Ire	詩寇蒂的憤怒 Skullder's Ire
+Toothrow	排齒 Toothrow
+Atma's Wail	亞特瑪的哭喊 Atma's Wail
+Black Hades	黑色黑帝斯 Black Hades
+Corpsemourn	屍體的哀傷 Corpsemourn
+Que-hegan's Wisdom	魁黑剛的智慧 Que-Hegan's Wisdom
+Moser's Blessed Circle	摩西祝福之環 Moser's Blessed Circle
+Stormchaser	風暴追逐者 Stormchaser
+Tiamat's Rebuke	魔龍的非難 Tiamat's Rebuke
+Gerke's Sanctuary	基爾克的聖堂 Gerke's Sanctuary
+Radimant's Sphere	羅達門特之球體 Radament's Sphere
+Gravepalm	墓穴的撫弄 Gravepalm
+Ghoulhide	食屍鬼外皮 Ghoulhide
+Hellmouth	地獄之嘴 Hellmouth
+Infernostride	地獄闊步 Infernostride
+Waterwalk	水上飄 Waterwalk
+Silkweave	紗織 Silkweave
+Wartraveler	戰爭旅者 War Traveler
+Razortail	剃刀之尾 Razortail
+Gloomstrap	陰影陷阱 Gloom's Trap
+Snowclash	雪之衝突 Snowclash
+Thudergod's Vigor	雷神之力 Thundergod's Vigor
+Lidless Wall	警戒之牆 Lidless Wall
+Lanceguard	長槍警衛 Lance Guard
+Squire's Cover	護衛的掩護 Squire's Cover
+Boneflame	骨焰 Boneflame
+Steelpillar	鐵柱 Steel Pillar
+Nightwing's Veil	夜翼面紗 Nightwing's Veil
+Hightower's Watch	高塔之視 Hightower's Watch
+Crown of Ages	年紀之冠 Crown of Ages
+Andariel's Visage	安達利爾的面貌 Andariel's Visage
+Darkfear	黑暗恐懼 Darkfear
+Dragonscale	龍鱗 Dragonscale
+Steel Carapice	鋼鐵鎧甲 Steel Carapace
+Ashrera's Wired Frame	艾席拉的精神迷幻 Asheara's Wired Frame
+Rainbow Facet	彩虹刻面 Rainbow Facet
+Ravenlore	烏鴉之王 Ravenlore
+Boneshade	白骨陰影 Boneshade
+Nethercrow	冥府烏鴉 Nethercrow
+Hellwarden's Husk	地獄刑長之殼 Hell Warden's Husk
+Flamebellow	火焰號叫 Flamebellow
+Fathom	死亡深度 Death's Fathom
+Wolfhowl	狼嚎 Wolfhowl
+Spirit Ward	魂系結界 Spirit Ward
+Kira's Guardian	奇拉的守護 Kira's Guardian
+Orumus' Robes	奧瑪斯之袍 Ormus' Robe
+Gheed's Fortune	基得的運氣 Gheed's Fortune
+The Vicar	代理教皇 The Vicar
+Stormlash	暴風之結 Stormlash
+Halaberd's Reign	海拉柏得的國度 Halaberd's Reign
+Parkersor's Calm	派克索爾的冷靜 Parkersor's Calm
+Warriv's Warder	瓦瑞夫的令牌 Warriv's Warder
+Spike Thorn	尖刺根源 Spike Thorn
+Dracul's Grasp	卓古拉之握 Dracul's Grasp
+Frostwind	冰霜之風 Frostwind
+Templar's Might	聖堂武士的力量 Templar's Might
+Eschuta's temper	艾斯屈塔的脾氣 Eschuta's Temper
+Firelizard's Talons	火蜥蜴之爪 Firelizard's Talons
+Sandstorm Trek	沙暴之旅 Sandstorm Trek
+Marrowwalk	骨髓行走 Marrowwalk
+Heaven's Light	天堂之光 Heaven's Light
+Merman's Speed	人魚的齒輪 Merman's Sprocket
+Arachnid Mesh	蜘蛛之網 Arachnid Mesh
+Nosferatu's Coil	吸血聖王之圈 Nosferatu's Coil
+Metalgird	梅塔利絲的腰 Metalite's Girth
+Verdugo's Hearty Cord	維爾登戈的心結 Verdungo's Hearty Cord
+Sigurd's Staunch	席嘉德的隱藏 Siggard's Stealth
+Carrion Wind	腐肉之風 Carrion Wind
+Giantskull	巨骷髏 Giant Skull
+Ironward	愛斯特龍之鐵的保護區 Astreon's Iron Ward
+Gillian's Brazier	吉利安之火盆 Gillian's Brazier
+Drakeflame	龍獸之焰 Drakeflame
+Dust Storm	沙塵暴 Dust Storm
+Skulltred	史古塔得 Skulltred
+Alma's Reflection	阿爾瑪的回憶 Alma's Reflection
+Drulan's Tounge	杜蘭之舌 Drulan's Tongue
+Sacred Charge	神聖突擊 Sacred Charge
+Bul-Kathos	布爾凱索斯 Bul-Kathos
+Saracen's Chance	薩拉森的機會 Saracen's Chance
+Highlord's Wrath	大君之怒 Highlord's Wrath
+Raven Frost	烏鴉之霜 Raven Frost
+Dwarf Star	矮人之星 Dwarf Star
+Atma's Scarab	亞特瑪的聖甲蟲 Atma's Scarab
+Mara's Kaleidoscope	馬拉的萬花筒 Mara's Kaleidoscope
+Crescent Moon	新月 Crescent Moon
+The Rising Sun	旭日東昇 The Rising Sun
+The Cat's Eye	貓眼 The Cat's Eye
+Bul Katho's Wedding Band	布爾凱索之戒 Bul-Kathos' Wedding Band
+Rings	指環 Rings
+Metalgrid	金屬網格 Metalgrid
+Eschuta's temper	艾斯屈塔的脾氣 Eschuta's Temper
+Stormshield	暴風之盾 Stormshield
+Blackoak Shield	黑橡樹盾 Blackoak Shield
+Ormus' Robes	奧瑪斯的長袍 Ormus' Robes
+Arkaine's Valor	阿凱尼的榮耀 Arkaine's Valor
+The Gladiator's Bane	鬥士的禍根 The Gladiator's Bane
+Veil of Steel	鋼鐵面紗 Veil of Steel
+Harlequin Crest	諧角之冠 Harlequin Crest
+Lance Guard	長槍守衛 Lance Guard
+Kerke's Sanctuary	基爾克的聖堂 Gerke's Sanctuary
+Mosers Blessed Circle	摩西祝福之環 Moser's Blessed Circle
+Que-Hegan's Wisdon	魁黑剛的智慧 Que-Hegan's Wisdom
+Guardian Angel	守護天使 Guardian Angel
+Skin of the Flayerd One	剝皮者之皮 Skin of the Flayed One
+Armor	裝甲 Armor
+Windforce	風之力 Windforce
+Eaglehorn	鷹號角 Eaglehorn
+Gimmershred	碎片貪婪者 Gimmershred
+Widowmaker	戮夫刃 Widowmaker
+Stormspire	暴風尖塔 Stormspire
+Naj's Puzzler	娜吉解迷杖 Naj's Puzzler
+Ethereal Edge	永恆邊界 Ethereal Edge
+Wizardspike	巫師之刺 Wizardspike
+The Grandfather	祖父 The Grandfather
+Doombringer	末日毀滅者 Doombringer
+Tyrael's Might	泰瑞爾的力量 Tyrael's Might
+Lightsabre	光之軍刀 Lightsabre
+The Cranium Basher	碎腦鎚 The Cranium Basher
+Schaefer's Hammer	史恰佛之鎚 Schaefer's Hammer
+Baranar's Star	巴拉那之星 Baranar's Star
+Deaths's Web	死亡之網 Death's Web
+Messerschmidt's Reaver	希梅斯特的掠奪 Messerschmidt's Reaver
+Hellslayer	地獄毀滅者 Hellslayer
+Endlesshail	無休止的冰雹 Endlesshail
+The Atlantian	亞特拉斯 The Atlantean
+Riftlash	破裂之鞭 Riftlash
+Baezil's Vortex	貝西爾的漩渦 Baezil's Vortex
+Zakarum's Hand	撒卡蘭姆之手 Zakarum's Hand
+Carin Shard	凱恩碎片 Carin Shard
+The Minataur	牛頭怪 The Minotaur
+Trang-Oul's Avatar	塔格奧的化身 Trang-Oul's Avatar
+Trang-Oul's Guise	塔格奧之外裝 Trang-Oul's Guise
+Trang-Oul's Wing	塔格奧之翼 Trang-Oul's Wing
+Trang-Oul's Mask	塔格奧之面具 Trang-Oul's Mask
+Trang-Oul's Scales	塔格奧之鱗 Trang-Oul's Scales
+Trang-Oul's Claws	塔格奧之手 Trang-Oul's Claws
+Trang-Oul's Girth	塔格奧之束帶 Trang-Oul's Girth
+Natalya's Odium	娜塔亞的非難 Natalya's Odium
+Natalya's Totem	娜塔亞的圖騰 Natalya's Totem
+Natalya's Mark	娜塔亞的記號 Natalya's Mark
+Natalya's Shadow	娜塔亞的影子 Natalya's Shadow
+Natalya's Soul	娜塔亞的靈魂 Natalya's Soul
+Griswold's Legacy	格瑞斯華爾德的傳奇 Griswold's Legacy
+Griswolds's Redemption	格瑞斯華爾德的救贖 Griswold's Redemption
+Griswold's Honor	格瑞斯華爾德的榮耀 Griswold's Honor
+Griswold's Heart	格瑞斯華爾德之心 Griswold's Heart
+Griswold's Valor	格瑞斯華爾德的勇氣 Griswold's Valor
+Tang's Imperial Robes	坦的皇者之袍 Tang's Imperial Robes
+Tang's Fore-Fathers	坦的祖先 Tang's Fore-Fathers
+Tang's Rule	坦的規則 Tang's Rule
+Tang's Throne	坦的王權 Tang's Throne
+Tang's Battle Standard	坦的戰鬥常規 Tang's Battle Standard
+Ogun's Fierce Visage	奧崗的殘暴面孔 Ogun's Fierce Visage
+Ogun's Shadow	奧崗之影 Ogun's Shadow
+Ogun's Lash	奧崗之鞭 Ogun's Lash
+Ogun's Vengeance	奧崗的復仇 Ogun's Vengeance
+Bul-Kathos' Warden	布爾凱索之長 Bul-Kathos' Warden
+Bul-Kathos' Children	布爾凱索的孩子 Bul-Kathos' Children
+Bul-Kathos' Sacred Charge	布爾凱索的神聖代價 Bul-Kathos' Sacred Charge
+Bul-Kathos' Tribal Guardian	布爾凱索的部族守護 Bul-Kathos' Tribal Guardian
+Bul-Kathos' Custodian	布爾凱索的管理者 Bul-Kathos' Custodian
+Flowkrad's Howl	夫羅卡德的狂嚎 Flowkrad's Howl
+Flowkrad's Grin	夫羅卡德之牙 Flowkrad's Grin
+Flowkrad's Fur	夫羅卡德的毛皮 Flowkrad's Fur
+Flowkrad's Paws	夫羅卡德的腳掌 Flowkrad's Paws
+Flowkrad's Sinew	夫羅卡德之腱 Flowkrad's Sinew
+Aldur's Watchtower	艾爾多的守衛 Aldur's Watchtower
+Aldur's Stony Gaze	艾爾多的冷酷凝視 Aldur's Stony Gaze
+Aldur's Deception	艾爾多的欺暪 Aldur's Deception
+Aldur's Guantlet	艾爾多的鐵手套 Aldur's Gauntlet
+Aldur's Advance	艾爾多的成長 Aldur's Advance
+M'avina's Battle Hymn	馬維娜之戰鬥詩歌 M'avina's Battle Hymn
+M'avina's True Sight	馬維娜的真實之眼 M'avina's True Sight
+M'avina's Embrace	馬維娜的擁抱 M'avina's Embrace
+M'avina's Icy Clutch	馬維娜的冰握 M'avina's Icy Clutch
+M'avina's Tenet	馬維娜的教義 M'avina's Tenet
+M'avina's Caster	馬維娜的施展 M'avina's Caster
+Sazabi's Grand Tribute	沙撒璧的雄偉貢品 Sazabi's Grand Tribute
+Sazabi's Cobalt Redeemer	沙撒璧的懺悔之鈷 Sazabi's Cobalt Redeemer
+Sazabi's Ghost Liberator	沙撒璧的鬼魂釋放者 Sazabi's Ghost Liberator
+Sazabi's Mental Sheath	沙撒璧的精神之鞘 Sazabi's Mental Sheath
+Hwanin's Majesty	華寧的威嚴 Hwanin's Majesty
+Hwanin's Justice	華寧的正義 Hwanin's Justice
+Hwanin's Splendor	華寧的光輝 Hwanin's Splendor
+Hwanin's Refuge	華寧的保護 Hwanin's Refuge
+Hwanin's Cordon	華寧的飾帶 Hwanin's Cordon
+The Disciple	門徒 The Disciple
+Telling of Beads	述說之珠 Telling of Beads
+Laying of Hands	手掌的安置 Laying of Hands
+Rite of Passage	儀式的走道 Rite of Passage
+Spiritual Custodian	黑暗信徒 Dark Adherent
+Credendum	信條 Credendum
+Cow King's Leathers	牛魔王之皮甲 Cow King's Leathers
+Cow King's Horns	牛魔王之角 Cow King's Horns
+Cow King's Hide	牛魔王之皮 Cow King's Hide
+Cow King's Hoofs	牛魔王之蹄 Cow King's Hooves
+Aragon's Masterpiece	亞拉崗的名作 Aragon's Masterpiece
+Aragon's Sunfire	亞拉崗太陽火焰 Aragon's Sunfire
+Aragon's Icy Stare	亞拉崗冰之凝視 Aragon's Icy Stare
+Aragon's Storm Cloud	亞拉崗暴風雲 Aragon's Storm Cloud
+Orphan's Call	孤兒的呼喚 Orphan's Call
+Guillaume's Face	吉永之臉 Guillaume's Face
+Willhelm's Pride	魏爾海姆的自尊 Willhelm's Pride
+Magnus' Skin	馬格納斯之皮 Magnus' Skin
+Wihtstan's Guard	惠斯坦的武裝 Whitstan's Guard
+Titan's Revenge	泰坦的復仇 Titan's Revenge
+Shakabra's Crux	賽可伯的謎題 Shakabra's Crux
+Lycander's Aim	雷山德的指標 Lycander's Aim
+Shadow's Touch	影之接觸 Shadow Touch
+The Prowler	遊盪者 The Prowler
+Mortal Crescent	死亡新月 Mortal Crescent
+Cutthroat	巴特克的猛擊 Bartuc's Chop Chop
+Sarmichian Justice	武士的正義 Samurai Justice
+Annihilus	毀滅 Annihilus
+Arreat's Face	亞瑞特的面容 Arreat's Face
+The Harbinger	先兆 The Harbinger
+Doomseer	末日先知 Doomseer
+Howling Visage	狂號的面孔 Howling Visage
+Terra	提拉守護者 Terra's Guardian
+Syrian	三重葉 Triad's Foliage
+Jalal's Mane	加爾的長髮 Jalal's Mane
+Malignant	邪心骨 Malignant Skull
+Apothecary's Tote	葯商的計算器 Apothecary's Tote
+Apocrypha	偽經 Apocrypha
+Foci of Visjerei	費斯傑利的焦點 Foci of the Vizjerei
+Homunculus	侏儒 Homunculus
+Aurora's Guard	奧羅拉的守護 Aurora's Guard
+Crest of Morn	黎明徽章 Crest of Morn
+Herald of Zakarum	撒卡蘭姆使者 Herald of Zakarum
+Akarat's Protector	阿卡拉特的保護者 Akarat's Protector
+Ancient Eye	古代之眼 Ancient Eye
+Globe of Visjerei	費斯傑利之球 Globe of the Vizjerei
+The Oculus	眼球 The Oculus
+Phoenix Egg	鳳凰蛋 Phoenix Egg
+Xenos	異地 Xenos
+Nagas	蛇龍 Nagas
+Wyvern's Head	翼龍首 Wyvern's Head
+Sightless Veil	目盲面紗 Sightless Veil
+ChampionFormatX	%0 %1
+EskillKickSing	踢擊
+EskillKickPlur	踢擊
+EskillPetLife	靈獸生命
+EskillWolfDef	狼防禦值：
+EskillPassiveFeral	對狼和熊的被動加成
+Eskillperhit12	每一擊
+Eskillincasehit	擊中
+Eskillincasemastery	%d機率做出致命一擊
+Eskillincaseraven	每隻烏鴉所耗的法力
+ob5	傑瑞德之石
+pad	庫拉斯特之盾 Kurast Shield
+axf	斧手
+Eskillkickdamage	踢擊傷害：
+ModStre10k	踢擊傷害：
+ModStre10L	施展機率
+Class Specific	指定職業
+fana	冰凍的安亞
+qsta5q14	拉蘇克會在你指定的武器上面增加凹槽。
+qstsa5q42a	在瓦特大廳中找出尼拉塞克。
+qstsa5q31a	救出安亞。
+qstsa5q21a	從他們的牢房中救出戰士，並把他們帶回來。
+qstsa5q43a	安亞會為你量身打造一項物品。
+qstsa5q62a	在巴爾腐化世界之石以前，殺掉位於世界之石大廳中的巴爾。
+qstsa5q61a	找到巴爾的王室。
+x	無法進入遊戲。你的人物必須在惡夢級的困難度中殺死巴爾，才能進入地獄級的遊戲。
+x	無法進入遊戲。你的人物必須在殺死巴爾，才能進入惡夢級的遊戲。
+x	創造新
+x	人物
+act1X	修女的悲慟
+act2X	沙漠的旅程
+act3X	墨菲斯托的叢林
+act4X	進入地獄
+strepilogueX	恐怖的終結
+act5X	找尋巴爾
+strlastcinematic	毀滅的末日
+CfgSay7	說撤退
+0sc	知識卷軸
+tr2	右點即可施展}抵抗卷軸
+of Lightning Strike	閃電攻擊的
+of Plague Jab	瘟疫戳刺的
+of Charged Strike	充能一擊的
+of Impaling Strike	刺爆的
+of Poison Jab	劇毒戳刺的
+of Power Strike	威力一擊的
+of the Colossus	大食巨人的
+of the Kraken	半人馬的
+Tal Rasha's Wrappings	塔-拉夏的外袍 Tal Rasha's Wrappings
+Tal Rasha's Fire-Spun Cloth	塔-拉夏的纖細衣服 Tal Rasha's Fine-Spun Cloth
+Tal Rasha's Adjudication	塔-拉夏的判決 Tal Rasha's Adjudication
+Tal Rasha's Howling Wind	塔-拉夏的守護 Tal Rasha's Guardianship
+Tal Rasha's Lidless Eye	塔-拉夏的警戒之眼 Tal Rasha's Lidless Eye
+Tal Rasha's Horadric Crest	塔-拉夏的赫拉迪克紋章 Tal Rasha's Horadric Crest
+Hwanin's Seal	華寧的祝福 Hwanin's Blessing
+Heaven's Brethren	天堂的信徒 Heaven's Brethren
+Dangoon's Teaching	丹弓的教導 Dangoon's Teaching
+Ondal's Almighty	安戴爾的全靈 Ondal's Almighty
+Heaven's Taebaek	泰比克的光榮 Taebaek's Glory
+Haemosu's Adament	黑摩蘇的堅決 Haemosu's Adamant
+Lycander's Flank	雷山德的側腹 Lycander's Flank
+Constricting Ring	收縮戒指 Constricting Ring
+Ginther's Rift	金瑟的裂縫 Ginther's Rift
+Naj's Ancient Set	娜吉的古代遺跡 Naj's Ancient Vestige
+Naj's Light Plate	娜吉的輕鎧甲 Naj's Light Plate
+Naj's Circlet	娜吉的小環 Naj's Circlet
+Sander's Superstition	麥克奧雷的迷信 McAuley's Superstition
+Sander's Taboo	麥克奧雷的禁忌 McAuley's Taboo
+Sander's Basis	麥克奧雷的碎石 McAuley's Basis
+Sander's Derby	麥克奧雷的契約 McAuley's Pledge
+Sander's Court Jester	麥克奧雷的愚行 McAuley's Folly
+Ghost Liberator	鬼魂解放者 Ghost Liberator
+Wilhelm's Pride	威廉的自尊 Wilhelm's Pride
+Immortal King's Stone Crusher	不朽之王的碎魂者 Immortal King's Stone Crusher
+Immortal King's Pillar	不朽之王之柱 Immortal King's Pillar
+Immortal King's Forge	不朽之王的融爐 Immortal King's Forge
+Immortal King's Detail	不朽之王的瑣事 Immortal King's Detail
+Immortal King's Soul Cage 	不朽之王的靈魂牢籠 Immortal King's Soul Cage
+Immortal King's Will	不朽之王的意志 Immortal King's Will
+Immortal King	不朽之王 Immortal King
+Aldur's Gauntlet	艾爾多的律動 Aldur's Rhythm
+Ancient Statue 3	科力克的守護者
+Ancient Statue 2	馬道克守護者
+Ancient Statue 1	塔力克防禦者
+Baal Subject 1	破壞者卡蘭索
+Baal Subject 2	詛咒的阿克姆
+Baal Subject 3	血腥的巴特克
+Baal Subject 4	不潔的凡塔
+Baal Subject 5	古難記錄者
+Baal Subject 6	屠夫
+Baal Subject 6a	烘烤者
+Baal Subject 6b	燭台製作者
+Baal Crab Clone	巴爾
+Baal Crab to Stairs	巴爾
+BaalColdMage	死亡法師
+Baal Subject Mummy	解開者
+Baal Tentacle	腐爛的附肢
+Baals Minion	毀滅的僕從
+Hell1	艾巴當
+Hell2	冥河之洞
+Hell3	地獄魔窟
+To Hell1	前往艾巴當
+To Hell2	前往冥河之洞
+To Hell3	前往地獄魔窟
+Lord of Destruction	
+x	無法讀取檔案，轉換人物中斷
+EskillPerBlade	(每一刀)
+ExInsertSockets	可以放入凹槽物品
+McAuley's Superstition	山德的迷信 Sander's Superstition
+McAuley's Taboo	山德的禁忌 Sander's Taboo
+McAuley's Riprap	山德的碎石 Sander's Riprap
+McAuley's Paragon	山德的模範 Sander's Paragon
+McAuley's Folly	山德的愚行 Sander's Folly
+x	資料片光碟
+qstsa5q62b	殺死巴爾的僕眾
+x	(c) Copyright 2001 Blizzard Entertainment
+of the Plague	瘟疫的
+Go South	回到地獄
+ItemExpansiveChancX	攻擊時有 %d%% 機會施展等級 %d %s 
+ItemExpansiveChanc1	擊中敵人時有 %d%% 機會施展等級 %d %s 
+ItemExpansiveChanc2	被擊中時有 %d%% 機會施展等級 %d %s
+ItemExpcharmdesc	從物品欄裡隱藏得到額外空間
+StrMercEx12	防禦
+StrMercEx14	進攻
+StrMercEx15	戰鬥
+Eskillelementaldmg	元素聚氣傷害：
+Playersubtitles29	撤退！
+Playersubtitles30	快跑啊！
+LeaveCampDru	嗯，要開始了。
+LeaveCampAss	他們絕對不會發現我的。
+EnterDOEAss	真暗...太好了。
+EnterDOEDru	啊，原來這就是惡魔躲藏的地方。
+EnterBurialAss	誰的傑作被埋在這裡？
+EnterBurialDru	把死人埋起來...真是奇怪。
+EnterMonasteryAss	這裡竟是這樣的污穢...
+EnterMonasteryDru	此地流出嚴重的邪氣。
+EnterForgottenTAss	誰會想要記得這個地方？
+EnterForgottenTDru	我聞的出來這座高塔為什麼會被廢棄。
+EnterJailAss	試著囚禁我，惡魔們
+EnterJailDru	牢籠是沒辦法囚禁自然之力的。
+EnterCatacombsAss	我不喜歡這下面的東西。
+EnterCatacombsDru	超自然的力量不尋常的強大。
+CompletingDOEAss	蘿格的考驗已經通過了。
+CompletingDOEDru	罷了！就這樣嗎？
+CompletingBurialAss	我殺死的東西不會再復活。
+CompletingBurialDru	你的日子已經結束了，血鳥。
+FindingInifusAss	這棵樹怎麼會逃過腐敗之氣的污染？
+FindingInifusDru	這棵死樹似乎充滿了能量。
+FindingCairnAss	這些岩石擁有古老的力量。
+FindingCairnDru	在我老家這種岩石多的是。
+FindingTristramAss	崔斯特瑞姆....這就是第一個落入暗黑破壞神魔掌的城市。
+FindingTristramDru	廢墟...所有城市最後的命運。
+RescueCainAss	凱恩！前往蘿格的營地。
+RescueCainDru	迪卡-凱恩，離開這個地方！ 
+HoradricMalusAss	一把鐵鎚！這應該是屬於恰西的東西。
+HoradricMalusDru	恰西拿到這把鐵鎚一定會很感激。
+CompletingForgottenTPal	這麼多寶藏....這些惡臭真的算不上什麼。
+CompletingForgottenTPal	這座塔自有其迷人之處。
+CompletingAndarielAss	死神與你同在，安達利爾.
+CompletingAndarielDru	安達利爾，你的時代過去了。
+EnteringRadamentAss	為什麼惡魔總是藏身在這種古怪的地方？ 
+EnteringRadamentDru	面對光明或是在黑暗中潛行。
+CompletingRadamentAss	報仇了...這是為亞特瑪做的。
+CompletingRadamentDru	羅達門特，變回塵土吧。
+BeginTaintedSunAss	日蝕....從來不是好預兆。
+BeginTaintedSunDru	奇怪...一次突發的日蝕。
+EnteringClawViperAss	黑暗的魔法在更黑暗的古墓中流竄...
+EnteringClawViperDru	蛇...我恨蛇。
+CompletingTaintedSunAss	巨蛇！我以為還更糟咧。
+CompletingTaintedSunDru	陽光再度溫暖這個世界。
+EnteringArcaneAss	庇難所-赫拉森的妄想之地。
+EnteringArcaneDru	這絕對不是天然形成的建築。
+FindingSummonerAss	召喚者，黑暗的魔法已經讓你墮落了。
+FindingSummonerDru	這個地方會讓任何人發狂。
+CompletingSummonerAss	赫拉森。你的誘餌已經死了。
+CompletingSummonerDru	終於....現在我可以離開這個扭曲的惡夢了。
+FindingdecoyTombAss	赫拉迪姆在這邊留下了他們的標記。
+FindingdecoyTombDru	赫拉迪克標記充滿了神秘。
+FindingTrueTombAss	我可以感覺到塔-拉夏的存在。
+FindingTrueTombDru	原來，塔-拉夏...這就是你的永眠之地。
+CompletingTombAss	我應該追蹤罪惡之源，直到世界的盡頭為止。
+CompletingTombDru	暗黑破壞神....我遲早會找到你的。
+FindingLamEsenAss	黑色之書是為黑暗想法所撰寫的。
+FindingLamEsenDru	一份古老的手稿....這可能有用。
+CompletingLamEsenAss	人不可貌相，書也是一樣。
+CompletingLamEsenAss	奧瑪斯...你對書籍的品味有點奇怪。
+CompletingLamEsenDru	奧瑪斯...好好研究這本書。
+FindingBeneathCityAss	我認為遺忘之塔真是臭氣沖天。
+FindingBeneathCityDru	這個臭味比魯-高因的下水道還噁心。
+FindingDrainLeverAss	拉柄就是設計來拉動的。
+FindingDrainLeverDru	終於出現了...排水拉柄。
+CompletingBeneathCityAss	這是唯一我想清乾淨的排水道。
+CompletingBeneathCityDru	從垃圾中尋寶...
+CompletingBladeAss	真是把漂亮的刀！我該和奧瑪斯談談。
+CompletingBladeDru	奧瑪斯可能知道一些與這把不尋常的刀有關的事情。
+FindingJadeFigAss	嗯....一個玉製雕像。我該拿它怎麼辦？ 
+FindingJadeFigDru	啊....看來像是玉製的....應該有點價值吧。
+FindingTempleAss	我對這個地方感到不安。
+FindingTempleDru	這個神殿是邪惡的巢穴。
+CompletingTempleAss	這個地方的黑暗魔法已經被打散了。
+CompletingTempleDru	這個地方又再度有了希望。
+FindingGuardianTowerAss	墨菲斯托...我是來找你的。
+FindingGuardianTowerDru	我心中充滿翻騰的憎恨。
+CompletingGuardianTowerAss	墨菲斯托，你不是我的對手。
+CompletingGuardianTowerAss	墨菲斯托的憎恨是空虛的劇毒。
+FreezingIzualAma	再見了，衣卒爾。
+FreezingIzualAss	墮落者...歸天吧。
+FreezingIzualDru	我一點也不可憐他。永遠的湮滅就是他的下場。
+KillingdDiabloSor	恐怖再也無法於地獄橫行了。
+KillingdDiabloBar	永恆的痛苦太便宜你了，暗黑破壞神。
+KillingdDiabloNec	我已經證明我比你強了，暗黑破壞神。
+KillingdDiabloPal	讓暗黑破壞神之死終結三大罪惡之源的統治吧！ 
+KillingdDiabloAms	恐怖的國度已經終結了。
+KillingdDiabloAss	一個英雄所犯的錯誤終於修正了。
+KillingdDiabloDru	這是一場「恐怖」瘟疫的結束。 
+LeavingTownAct5Sor	我的魔法可以破解這次圍城之戰。
+LeavingTownAct5Bar	整頓家園的時候到了！
+LeavingTownAct5Nec	要阻止我，光是一場圍城戰是不夠的。
+LeavingTownAct5Pal	巴爾。我來找你了。
+LeavingTownAct5Ams	一定要阻止這場圍城戰。
+LeavingTownAct5Ass	你會為你的殘暴付出代價的，巴爾。
+LeavingTownAct5Dru	巴爾！再也沒有什麼能阻止我了。
+CompletingStopSiegeSor	哈洛加斯的局勢緩和多了。
+CompletingStopSiegeBar	圍城的局勢已經打破了。
+CompletingStopSiegeNec	唉，唉，真是個難看的小惡魔。
+CompletingStopSiegePal	哈洛加斯已經不再受你們的威脅了，惡魔。
+CompletingStopSiegeAms	喔...是我幹的？
+CompletingStopSiegeAss	山克，你的指揮權到此結束了。
+CompletingStopSiegeDru	投石器再也沒有用了。
+RescueQual-KehkAct5Sor	跟我走。
+RescueQual-KehkAct5Bar	跟我走。
+RescueQual-KehkAct5Nec	跟我走。
+RescueQual-KehkAct5Pal	跟我走。
+RescueQual-KehkAct5Ams	跟我走。
+RescueQual-KehkAct5Ass	跟我走。
+RescueQual-KehkAct5Dru	跟我走。
+EnteringNihlathakAct5Sor	這是個陷阱嗎？ 
+EnteringNihlathakAct5Bar	一個懦夫的藏身之處。
+EnteringNihlathakAct5Nec	啊，這是熟悉的死神味道。
+EnteringNihlathakAct5Pal	我的老天！這是什麼地方？ 
+EnteringNihlathakAct5Ams	...尼拉塞克的老巢離家很遠。
+EnteringNihlathakAct5Ass	我早該知道的...
+EnteringNihlathakAct5Dru	尼拉塞克...你無法從我的手中逃掉的。
+CompletingNihlathakAct5Sor	你的力量無法和我相提並論。
+CompletingNihlathakAct5Bar	只有死神才適合叛徒。
+CompletingNihlathakAct5Nec	你是個很可憐的人，尼拉塞克.
+CompletingNihlathakAct5Pal	尼拉塞克。是什麼讓你變成這樣？
+CompletingNihlathakAct5Ams	和巴爾結盟...真是個悲慘的錯誤。
+CompletingNihlathakAct5Ass	你們這些黑暗法師都一樣-沈溺在力量之中。
+CompletingNihlathakAct5Dru	背叛者，你已得到應得的獎賞。
+EnteringTopMountAct5Sor	傳說中的古代人家鄉。
+EnteringTopMountAct5Bar	亞瑞特山的守護者在此靜候。
+EnteringTopMountAct5Nec	古代人的安息之地...
+EnteringTopMountAct5Pal	顛峰-野蠻人的聖地。
+EnteringTopMountAct5Ams	傳說中的古代人家鄉。
+EnteringTopMountAct5Ass	我會證明我的能力。
+EnteringTopMountAct5Dru	終於到了...亞瑞特山的顛峰。
+EnteringWorldstoneAct5Sor	世界之石的力量流經了我的身體。
+EnteringWorldstoneAct5Bar	古代人的大廳...真是驚人。
+EnteringWorldstoneAct5Nec	那麼，這就是古代的守衛。
+EnteringWorldstoneAct5Pal	世界之石！讚頌光明！
+EnteringWorldstoneAct5Ams	世界之石！
+EnteringWorldstoneAct5Ass	世界之石。力量之源。
+EnteringWorldstoneAct5Dru	傳說中的世界之石-自然大地的守護者。
+CompletingDefeatBaalAct5Sor	三位中最後一個終於倒下了。
+CompletingDefeatBaalAct5Bar	罪惡之源再也不存在了。
+CompletingDefeatBaalAct5Nec	巴爾，絕對不要懷疑我的技能。
+CompletingDefeatBaalAct5Pal	巴爾，你再也無法污染這個人類的國度了。
+CompletingDefeatBaalAct5Ams	我的工作真的結束了。
+CompletingDefeatBaalAct5Ass	邪惡的兄弟會眾不再復見了。
+CompletingDefeatBaalAct5Dru	巴爾！和你的其他兄弟們一樣湮滅無蹤吧！
+Skillname222	烏鴉 (Raven)
+Skillsd222	鴉群召喚
+Skillld222	敵人的雙眼}召喚一群烏鴉啄出
+Skillan222	烏鴉
+Skillname223	猛毒花藤 (Poison Creeper)
+Skillsd223	召喚散佈疾病的蔓藤
+Skillld223	它的人散播疾病}召喚一條藤蔓，對所有接觸到
+Skillan223	猛毒花藤
+Skillname223	狼人變化 (Werewolf)
+Skillsd223	變形成狼人
+Skillld223	變形成狼人
+Skillan223	狼人變化
+Skillname225	變形術 (Lycanthropy)
+Skillsd225	被動 - 增進變形能力
+Skillld225	增進持續期間與生命}被動 - 當變形為狼人或熊人時
+Skillan225	變形術
+Skillname226	火風暴 (Firestorm)
+Skillsd226	釋出狂暴的混沌之力
+Skillld226	釋出狂暴的混沌之力來燒傷敵人
+Skillan226	火風暴
+Skillname227	橡木智者 (Oak Sage)
+Skillsd227	召喚出橡木的靈魂
+Skillld227	與你一行的夥伴增加生命點數}召喚此靈獸，可以為你和
+Skillan227	橡木智者
+Skillname228	召喚狼靈 (Summon Spirit Wolf)
+Skillsd228	召喚一頭狼
+Skillld228	為你作戰}召喚一頭具有傳送能力的狼， 
+Skillan228	召喚狼靈
+Skillname229	熊人變化 (Werebear)
+Skillsd229	變形成熊人
+Skillld229	變形成熊人
+Skillan229	熊人變化
+Skillname230	熔漿巨岩 (Molten Boulder)
+Skillsd230	投出一枚熔漿巨岩 
+Skillld230	巨石來震退敵人}打出一枚火焰
+Skillan230	熔漿巨岩
+Skillname231	極地風暴 (Arctic Blast)
+Skillsd231	射出一連串的冰塵
+Skillld231	以冰霜燒灼你面前的敵群}打出一連串的冰塵
+Skillan231	極地風暴
+Skillname232	食屍藤 (Carrion Vine)
+Skillsd232	召喚食屍藤
+Skillld232	並回復你的生命}召喚出一條蔓藤吞食屍體，
+Skillan232	食屍藤
+Skillname233	野性狂暴 (Feral Rage)
+Skillsd233	能竊取生命的狂怒攻擊 -變成狼人時
+Skillld233	每次成功攻擊后能竊取敵人生命}持續保持在狂怒狀態中攻擊 }在狼人型態之下，
+Skillan233	野性狂暴
+Skillname234	撞鎚 (Maul)
+Skillsd234	槌擊你的敵人- 變成熊人時
+Skillld234	每次成功攻擊都會造成額外的傷害}不停地槌擊你的敵人}在成為熊人型態時，
+Skillan234	撞鎚
+Skillname235	火山爆 (Fissure)
+Skillsd235	撕開大地來燒灼敵軍
+Skillld235	將他們燒成碎片}在敵人腳下開啟一道火山口，
+Skillan235	火山爆
+Skillname236	颶風裝甲 (Cyclone Armor)
+Skillsd236	保護你免於元素傷害
+Skillld236	火焰、冰冷和閃電的傷害}保護你免於受到
+Skillan236	颶風裝甲
+Skillname237	狼獾之心 (Heart of Wolverine)
+Skillsd237	召喚狼獾的靈魂
+Skillld237	增加傷害力和攻擊準確率}可為你和你的隊員}召喚出一頭靈獸
+Skillan237	狼獾之心
+Skillname238	召喚狂狼 (Summon Dire Wolf)
+Skillsd238	召喚一頭發怒的狼
+Skillld238	它對敵人造成的傷害}每吞食一具屍體都可以增加}召喚一頭狂怒的狼
+Skillan238	召喚狂狼
+Skillname239	狂犬病 (Rabies)
+Skillsd239	撕咬可造成疾病擴散-變成狼人時
+Skillld239	造成毒素的傷害}在撕咬敵人的同時}在狼人型態，
+Skillan239	狂犬病
+Skillname240	焰爪 (Fire Claws)
+Skillsd240	造成衝撞性的火焰攻擊
+Skillld240	並附加一次焰爪攻擊}可槌擊妳的敵人}再變成狼人或熊人型態時，
+Skillan240	焰爪
+Skillname241	小旋風 (Twister)
+Skillsd241	釋放出數道小型旋風
+Skillld241	在敵陣之中切出一條道路}釋放出數道小型旋風
+Skillan241	小旋風
+Skillname242	太陽藤 (Solar Creeper)
+Skillsd242	召喚食屍藤
+Skillld242	並恢復你的法力}召喚一條蔓藤吞食屍體
+Skillan242	太陽藤
+Skillname243	飢餓 (Hunger)
+Skillsd243	攻擊時偷取對方的生命和法力
+Skillld243	獲得生命與法力}可在撕咬敵人的同時}在狼人或熊人型態時，
+Skillan243	飢餓
+Skillname244	震波 (Shock Wave)
+Skillsd244	創造一道震波-變成熊之後
+Skillld244	來震暈靠近的敵人}可重踩地面造成一道震波}在熊人型態時，
+Skillan244	震波
+Skillname245	火山 (Volcano)
+Skillsd245	創造出火山
+Skillld245	降臨到你的敵人身上}召喚出一座火山，以死亡和毀滅的力量
+Skillan245	火山
+Skillname246	龍捲風 (Tornado)
+Skillsd246	創造一道龍捲風
+Skillld246	來粉碎你的敵人}創造一道鰭狀碎岩風
+Skillan246	龍捲風
+Skillname247	棘靈 (Spirit of Barbs)
+Skillsd247	召喚帶荊棘技能的靈獸
+Skillld247	隊伍時自身受到傷害反彈}召喚出靈獸，讓敵人攻擊你和你的
+Skillan247	棘靈
+Skillname248	召喚灰熊 (Summon Grizzly)
+Skillsd248	召喚出一頭大灰熊
+Skillld248	召喚出一頭殘暴的巨大灰熊
+Skillan248	召喚灰熊
+Skillname249	狂怒 (Fury)
+Skillsd249	多重攻擊-變成狼之後
+Skillld249	或針對同一個目標進行多次攻擊}可攻擊多個鄰近的目標}在變成狼人時，
+Skillan249	狂怒
+Skillname250	毀天滅地 (Armageddon)
+Skillsd250	在敵人上方降下火雨
+Skillld250	殘暴的燒毀接近的敵人}創造一場小流星雨
+Skillan250	毀天滅地
+Skillname251	暴風 (Hurricane)
+Skillsd251	創造出一場強大的風暴
+Skillld251	將你的敵人掃成碎片}創造一場強大的冰雨狂風，
+Skillan251	暴風
+Skillname252	火焰爆震 (Fire Blast)
+Skillsd252	丟出火焰炸彈
+Skillld252	來炸碎你的敵人}丟出火焰炸彈
+Skillan252	火焰爆震
+Skillname253	支配利爪 (Claw Mastery)
+Skillsd253	被動-加強使用爪類的戰鬥技術
+Skillld253	爪類武器的技術}被動-加強你在使用
+Skillan253	支配利爪
+Skillname254	心靈戰鎚 (Psychic Hammer)
+Skillsd254	以心靈力量形成的鐵鎚來傷害你的敵人
+Skillld254	轟擊敵人並將之打退}創造出一把能量戰鎚，}使用你的心靈力量
+Skillan254	心靈戰鎚
+Skillname255	虎擊 (Tiger Strike)
+Skillsd255	聚氣性技巧-增加最後一擊所造成的傷害
+Skillld255	普通攻擊用來釋放聚氣的力量}必須使用龍系技巧當最後一擊或}最後一擊所造成的加成傷害。}聚氣性技巧-連擊可以累加}
+Skillan255	虎擊
+Skillname256	龍爪 (Dragon Talon)
+Skillsd256	踢擊你的對手}}最後一擊
+Skillld256	會加上聚氣後的加成傷害來施展踢擊}把你的對手從面前踢開}}最後一擊}
+Skillan256	龍爪
+Skillname257	雷電網 (Shock Web)
+Skillsd257	擲出一幅以雷電構成的網
+Skillld257	來電擊你的敵人}擲出一幅以雷電構成的網
+Skillan257	雷電網
+Skillname258	刃之守衛 (Blade Sentinel)
+Skillsd258	打出旋轉不停的守護之刃
+Skillld258	一連串的刀鋒不斷巡邏}在你和目標之間，會出現
+Skillan258	刃之守衛
+Skillname259	速度爆發 (Burst of Speed)
+Skillsd259	增加攻擊和移動速度
+Skillld259	增加攻擊和移動速度}在一段時間中
+Skillan259	速度爆發
+Skillname260	焰拳 (Fists of Fire)
+Skillsd260	在最後一擊中增加火焰系的傷害}}聚氣性技巧
+Skillld260	必需使用龍系的最後一擊才能釋放積存的力量}此時只能使用爪類武器或是空手搏鬥，}最後一擊中火焰系傷害的量}連擊可以累加}}聚氣性技巧}
+Skillan260	焰拳
+Skillname261	雙龍爪 (Dragon Claw)
+Skillsd261	雙爪攻擊}}最後一擊
+Skillld261	雙爪攻擊時都帶著之前積存的力量}來解決你的敵人。}使用你手中的雙爪武器}}最後一擊}
+Skillan261	雙龍爪
+Skillname262	電能守衛 (Charged Bolt Sentry)
+Skillsd262	可放出閃電光球的陷阱
+Skillld262	打擊接近或想通過的敵人}佈下一個可放出閃電光球的陷阱
+Skillan262	電能守衛
+Skillname263	火焰復甦 (Wake of Fire)
+Skillsd263	一個會打出火焰波浪的陷阱
+Skillld263	一個會打出火焰波浪的陷阱
+Skillan263	火焰復甦
+Skillname264	武器格擋 (Weapon Block)
+Skillsd264	被動-在使用雙爪類武器時可以格擋
+Skillld264	有機會進行格檔}被動-當手持雙爪類武器時
+Skillan264	武器格擋
+Skillname265	魔影斗蓬 (Cloak of Shadows)
+Skillsd265	讓你的敵人瞎掉
+Skillld265	並在一段時間降低他們的防禦值}施展一道魔影讓附近的敵人瞎掉
+Skillan265	魔影斗蓬
+Skillname266	眼鏡蛇攻擊 (Cobra Strike)
+Skillsd266	偷取生命和法力的能力}在最後一擊同時加上}}聚氣性技巧
+Skillld266	普通攻擊用來釋放聚氣的力量}必須使用龍系技巧當最後一擊或}最後一擊中同時偷取對方的生命和法力的數量。}連擊可以累加}}聚氣性技巧}
+Skillan266	眼鏡蛇攻擊
+Skillname267	刃之怒 (Blade Fury)
+Skillsd267	丟出旋轉的刀刃
+Skillld267	在敵人身上飛旋反彈，造成傷害}擲出不停旋轉的刀刃
+Skillan267	刃之怒
+Skillname268	能量消解 (Fade)
+Skillsd268	暫時提高各方面防護能力
+Skillld268	抵抗詛咒}一段時間內提高各方面的抵抗能力並
+Skillan268	能量消解
+Skillname269	影子戰士 (Shadow Warrior)
+Skillsd269	召喚出一個自己的影子
+Skillld269	並模仿你的技能和你並肩作戰}召喚出一個自己的影子
+Skillan269	影子戰士
+Skillname270	雷電爪 (Claws of Thunder)
+Skillsd270	在最後一擊中增加閃電傷害。}}聚氣性技巧
+Skillld270	必需使用龍系的最後一擊才能釋放聚氣的力量}此時只能使用爪類武器或是空手搏鬥，}最後一擊中閃電傷害的威力}連擊可以累加}}聚氣性技巧}
+Skillan270	雷電爪
+Skillname271	神龍擺尾 (Dragon Tail)
+Skillsd271	爆炸性的踢擊}}最後一擊
+Skillld271	增加聚氣的加成傷害}震退你身後的敵人，並施展爆炸性的踢擊，}}最後一擊}
+Skillan271	神龍擺尾
+Skillname272	雷光守衛 (Lightning Sentry)
+Skillsd272	佈下一個打出閃電的陷阱
+Skillld272	將經過的敵人烤成焦炭}佈下一個會打出閃電的陷阱，
+Skillan272	雷光守衛
+Skillname273	復甦獄火 (Wake of Inferno)
+Skillsd273	噴散出火焰的陷阱
+Skillld273	對經過的敵人打出不斷擴散的火焰
+Skillan273	復甦獄火
+Skillname274	心靈爆震 (Mind Blast)
+Skillsd274	強制性的心靈爆震
+Skillld274	並轉化失智的敵人}來震暈一群敵人}使用你的心靈力量
+Skillan274	心靈爆震
+Skillname275	寒冰刃 (Blades of Ice)
+Skillsd275	在最後一擊增加冰冷傷害。}}聚氣性技巧
+Skillld275	普通攻擊來釋放聚氣的力量}必須使用龍系技巧當最後一擊或}必須使用爪累武器，}的冰冷傷害，}連擊可以累加最後一擊}}聚氣性技巧}
+Skillan275	寒冰刃
+Skillname276	飛龍在天 (Dragon Flight)
+Skillsd276	傳送並對著敵人施展踢擊}}最後一擊
+Skillld276	在附上聚氣後的加成傷害}並施展毀滅性的踢擊。}傳送到敵人的身邊}}最後一擊}
+Skillan276	飛龍在天
+Skillname277	亡者守衛 (Death Sentry)
+Skillsd277	讓附近的屍體成為爆炸的陷阱
+Skillld277	佈成爆炸性的陷阱}對敵人射出閃電或將在你面前倒下的敵人
+Skillan277	亡者守衛
+Skillname278	刀刃之盾 (Blade Shield)
+Skillsd278	展開防禦性的刀刃
+Skillld278	把附近的敵人切成碎片}旋轉不停的刀刃
+Skillan278	刀刃之盾
+Skillname279	毒牙 (Venom)
+Skillsd279	將你的爪類武器塗毒
+Skillld279	在你的爪類武器上增加毒性傷害
+Skillan279	毒牙
+Skillname280	影子大師 (Shadow Master)
+Skillsd280	召喚你的影子
+Skillld280	來為你的陣營作戰}召喚一個強大的影子
+Skillan280	影子大師
+Skillname281	鳳凰攻擊 (Phoenix Strike)
+Skillsd281	作最後一擊}增加元素性新星}}聚氣性技巧
+Skillld281	普通攻擊來釋放聚氣的力量}必須使用龍系技巧當最後一擊或}增加元素性新星作最後一擊，}}聚氣性技巧}
+Skillan281	鳳凰攻擊
+ESkillHawk	烏鴉：
+ESkillSpikes	尖刺投射：
+ESkillStars	星星：
+ESkillWolf	狼：
+ESkillWolves	狼群：
+ESkillShoots	射擊
+ESkillTimes	次
+ESkillSpikes2	尖刺投射
+ESkillPerKick	每一踢
+EskillLifeSteal	偷取生命：
+Eskillchancetostun	震昏的機率：
+Eskillchancetoafflict	影響目標的機率：
+Eskillpowerup1	第一次聚氣：
+Eskillpowerup2	第二次聚氣：
+Eskillpowerup3	第三次聚氣：
+Eskillpowerupadd	加上
+Eskillsinishup	最後一擊加成
+Eskillpudlife	偷取生命的百分比
+Eskillpudmana	偷取生命和法力的百分比
+Eskillpudburning	燃燒性傷害
+Eskillpuddgmper	傷害百分比
+Eskilllowerresis	降低抵抗
+Eskilltomeleeattacks	對肉搏攻擊
+EskillManaSteal	偷取法力：
+Eskillferalpets	致命靈獸：
+Eskillpercentatt	攻擊百分比
+Eskillpercentlif	生命百分比
+Eskillpercentdmg	傷害百分比
+Eskillfinishmove	最後一擊-
+Eskillmanarecov	回復的法力：
+Eskillphoenix1	隕石傷害： 
+Eskillphoenix2	連鎖閃電傷害： 
+Eskillphoenix3	沌頓冰彈傷害： 
+Eskillthunder1	閃電傷害：
+Eskillthunder2	新星傷害：
+Eskillthunder3	閃電光球傷害：
+Eskillfistsoffire1	火焰傷害：
+Eskillfistsoffire2	火焰傷害範圍：
+Eskillfistsoffire3	燃燒持續期間： 
+Eskillbladesofice1	冰冷傷害：
+Eskillbladesofice2	冰冷傷害範圍：
+Eskillbladesofice3	冰凍持續期間：
+strUI5	烏鴉
+strUI6	狼
+strUI7	熊
+strUI8	猛毒花藤
+strUI9	食屍藤
+strUI10	太陽藤
+strUI11	棘靈
+strUI12	狼獾之心
+strUI13	蔓藤
+strUI14	靈
+UIFenirsui	狂狼
+UiRescuedBarUI	戰士
+UiShadowUI	影子
+StrUI18	專精
+Spike Generator	尖刺製造機
+Charged Bolt Sentry	電光衛兵
+Lightning Sentry	閃電衛兵
+Blade Creeper	刀鋒衛兵
+Invis Pet	靈獸
+Druid Hawk	烏鴉
+Druid Wolf	狼
+Druid Totem	德魯依靈
+Druid Fenris	狂狼
+Druid Spirit Wolf	精神之狼
+Druid Bear	大灰熊
+Druid Plague Poppy	瘟疫罌粟
+Druid Cycle of Life	生命輪迴
+Vine Creature	藤蔓生物
+Eagleexp	老鷹
+Wolf	狼
+Bear	熊
+Siege Door	攻城門
+Seige Tower	攻城塔
+RotWalker	腐行者
+ReanimatedHorde	再生屍
+ProwlingDead	爬行屍
+UnholyCorpse	邪氣屍
+DefiledWarrior	瀆神戰士
+Siege Beast	攻城獸
+CrushBiest	重壓獸
+BloodBringer	濺血妖
+GoreBearer	蝕肉妖
+DeamonSteed	惡魔座騎
+WailingSpirit	泣靈
+LifeSeeker	索命者
+LifeStealer	偷命者
+DeathlyVisage	死亡幻影
+BoundSpirit	縛靈
+BanishedSoul	流放魂
+Deathexp	死神
+Minionexp	僕魔
+Slayerexp	殺手
+IceBoar	冰野豬
+FireBoar	火野豬
+HellSpawn	地獄惡靈
+IceSpawn	冰封惡靈
+GreaterHellSpawn	高等地獄惡靈
+GreaterIceSpawn	高等冰封惡靈
+FanaticMinion	狂信者僕魔
+BerserkSlayer	狂戰士殺手
+ConsumedFireBoar	極火野豬
+ConsumedIceBoar	極冰野豬
+FrenziedHellSpawn	狂亂地獄惡靈
+FrenziedIceSpawn	狂亂冰封惡靈
+InsaneHellSpawn	瘋狂地獄惡靈
+InsaneIceSpawn	瘋狂冰封惡靈
+Succubusexp	女夢魔
+VileTemptress	邪惡淫婦
+StygianHarlot	冥河妖婦
+Hell Temptress	地獄妖婦
+Blood Temptress	血腥妖婦
+Dominus	賽連
+VileWitch	邪女巫
+StygianFury	冥河之怒
+Blood Witch	血女巫
+Hell Witch	地獄女巫
+OverSeer	督軍
+Lasher	鞭笞者
+OverLord	霸主
+BloodBoss	血腥統治者
+HellWhip	地獄之鞭
+MinionSpawner	惡魔傳送門
+MinionSlayerSpawner	惡魔傳送門
+MinionIce/fireBoarSpawner	惡魔傳送門
+Minionice/hellSpawnSpawner	惡魔傳送門
+MinionGreaterIce/hellSpawnSpawner	惡魔傳送門
+Imp1	惡魔妖精
+Imp2	惡魔嘍囉
+Imp3	惡魔小精靈
+Imp4	惡魔騙徒
+Imp5	惡魔幽靈
+CatapultN	投石器
+CatapultS	投石器
+CatapultE	投石器
+CatapultW	投石器
+Frozen Horror1	寒冰爬行者
+Frozen Horror2	寒冰恐懼者
+Frozen Horror3	冰凍之鞭
+Frozen Horror4	寒冰驚怖者
+Frozen Horror5	冰凍焦痕
+Blood Lord1	月之王
+Blood Lord2	夜之王
+Blood Lord3	血之王
+Blood Lord4	地獄之王
+Blood Lord5	死神之王
+Catapult Spotter N	投石器
+Catapult Spotter S	投石器
+Catapult Spotter E	投石器
+Catapult Spotter W	投石器
+Catapult Spotter Siege	投石器
+CatapultSiege	投石器
+Barricade Wall Right	防禦工事
+Barricade Wall Left	防禦工事
+Barricade Door	封死之門
+Barricade Tower	封閉之塔
+Siege Boss	督軍山克
+Evil hut	邪惡魔屋
+Death Mauler1	巨鎚死神
+Death Mauler2	爭吵死神
+Death Mauler3	揮砍死神
+Death Mauler4	狂戰士死神
+Death Mauler5	死神之長
+SnowYeti1	雪飄者
+SnowYeti2	墮落王
+SnowYeti3	寒冰霜
+SnowYeti4	冰封地獄
+Baal Throne	巴爾
+Baal Crab	巴爾
+Baal Taunt	巴爾
+Putrid Defiler1	腐敗污穢者
+Putrid Defiler2	卑劣污穢者
+Putrid Defiler3	臭氣污穢者
+Putrid Defiler4	惡臭污穢者
+Putrid Defiler5	下賤污穢者
+Pain Worm1	疼痛之蟲
+Pain Worm2	痛苦之蟲
+Pain Worm3	苦惱之蟲
+Pain Worm4	瘋狂之蟲
+Pain Worm5	悲苦之蟲
+WolfRider5	扭曲之墮落狼騎士
+WolfRider4	黑暗狼騎士
+WolfRider3	魔族狼騎士
+WolfRider2	殺戮狼騎士
+WolfRider1	墮落狼騎士
+Oak Sage	橡木智者
+Heart of Wolverine	狼獾之心
+Spirit of Barbs	倒刺之魂
+Shadow Warrior	影子戰士
+Death Sentry	死神衛兵
+Inferno Sentry	煉獄衛兵
+Shadow Master	影子大師
+Wake of Destruction	火焰復甦
+Ghostly	幽靈的
+Fanatic	狂信者
+Possessed	著魔者
+Berserk	狂戰士
+Larzuk	拉蘇克
+Drehya	安亞
+Malah	馬拉
+Nihlathak Town	尼拉塞克
+Qual-Kehk	夸爾凱克
+Act 5 Townguard	守衛
+Act 5 Combatant	戰鬥士
+Nihlathak	尼拉塞克
+POW	野蠻人俘虜
+Moe	莫
+Curly	克力
+Larry	賴瑞
+Ancient Barbarian 3	科力克
+Ancient Barbarian 2	馬道克
+Ancient Barbarian 1	塔力克
+Blaze Ripper	刀鋒撕裂者
+Magma Torquer	熔岩扭曲者
+Sharp Tooth Sayer	利牙殺手
+Vinvear Molech	芬伐摩勒曲
+Anodized Elite	地獄美女
+Snapchip Shatter	粉碎者
+Pindleskin	暴燥外皮
+Threash Socket	剝殼凹槽
+Eyeback Unleashed	狂暴者-眼魔
+Megaflow Rectifier	矯正者-怪異
+Dac Farren	達克法恩
+Bonesaw Breaker	骨鋸破壞者
+Axe Dweller	居斧者
+Frozenstein	冰凍怪魔
+strDruidOnly	（限德魯依使用）
+strAssassinOnly	（限刺客使用）
+strAmazonOnly	（限亞馬遜使用）
+strBarbarianOnly	（限野蠻人使用）
+StrSklTree26	召喚
+StrSklTree27	外型
+StrSklTree28	變形
+StrSklTree29	元素
+StrSklTree30	陷阱
+StrSklTree31	影子
+StrSklTree32	訓練
+StrSklTree33	武學
+StrSklTree34	藝術
+x	指揮大自然的力量，他可以召喚野生動物和強烈的風暴並肩作戰。
+x	專精於武藝，她的意志和身體都是致命性的武器。
+chestr	箱子
+barrel wilderness	桶子
+woodchestL	木箱
+burialchestL	埋藏的箱子
+burialchestR	埋藏的箱子
+well	井
+Waypoint	小站
+ChestL	箱子
+ChestSL	箱子
+ChestSR	箱子
+woodchestR	木箱
+chestR	箱子
+burningbodies	血肉堆
+burningpit	燃燒的洞穴
+tribal flag	部落的旗子
+flag widlerness	旗子
+eflg	城鎮的旗子
+chan	枝形吊燈
+jar	瓶子
+jar2	瓶子
+jar3	瓶子
+swingingheads	擺動的頭
+pole	柱子
+animatedskullsandrocks	骷髏和石塊
+hellgate	地獄之門
+gate	大門
+banner1	標誌
+banner2	標誌
+mrpole	柱子
+pene	儲物箱
+debris	殘骸
+woodchest2R	木箱
+woodchest2L	木箱
+object1	隱藏的儲物箱
+magic shrine2	魔法神殿
+torch2	火炬
+torch1	火炬
+tomb3	古墓
+tomb2	古墓
+tomb1	古墓
+ttor	火炬
+icecave_torch2	火炬
+icecave_torch1	火炬
+clientsmoke	煙霧
+deadbarbarian	死亡的野蠻人
+deadbarbarian18	死亡的野蠻人
+uncle f#%* comedy central(c)	莫
+cagedwussie1	籠子
+icecaveshrine2	神殿
+icecavejar4	瓶子
+icecavejar3	瓶子
+icecavejar2	瓶子
+icecavejar1	瓶子
+evilurn	邪氣之罐
+secret object	秘密物品
+Altar	祭壇
+Ldeathpole	死神之柱
+deathpole	死神之柱
+explodingchest	箱子
+banner 2	標誌
+banner 1	標誌
+pileofskullsandrocks	骷髏和石塊
+animated skulland rockpile	骷髏和石塊
+jar1	瓶子
+etorch2	火炬
+ettr	火炬
+ecfra	火焰
+etorch1	火炬
+healthshrine	生物神殿
+explodingbarrel	桶子
+flag wilderness	旗子
+object	隱藏的儲物箱
+Shrine2wilderness	神殿
+Shrine3wilderness	神殿
+pyox	火焰洞穴
+ptox	火炬洞穴
+Siege Control	圍城控制
+mrjar	隱藏的儲物箱
+object2	隱藏的儲物箱
+mrbox	盒子
+tomb3L	古墓
+tomb2L	古墓
+tomb1L	古墓
+red light	紅光
+groundtombL	古墓
+groundtomb	古墓
+deadperson	屍體
+candles	蠟蠋
+sbub	灌木
+ubub	灌木
+deadperson2	屍體
+Prison Door	牢門
+ancientsaltar	天堂的祭壇
+hiddenstash	隱藏的儲物箱
+eweaponrackL	武器架
+eweaponrackR	武器架
+earmorstandL	裝甲架
+earmorstandR	裝甲架
+qstsa5q1	哈洛加斯圍城戰
+qsta5q11	殺死在血腥丘陵的督軍山克，以阻止這場圍城戰
+qsta5q12	殺死督軍山克
+qsta5q13	和拉蘇克交談，以拿取你的獎賞
+qstsa5q2	亞瑞特山的救援行動
+qstsa5q21	找到在冰凍高地上的戰士
+qstsa5q22	救援在冰凍高地上面%d位以上的戰士
+qstsa5q23	回到夸爾凱克身邊，拿取你的獎賞
+qstsa5q24	以下列順序把符文裝進一個凹槽物品：
+qstsa5q3	冰之囚
+qstsa5q31	在水晶通道下的冰河中尋覓安亞
+qstsa5q32	和馬拉談話。
+qstsa5q33	利用馬拉給你的藥劑融化安亞
+qstsa5q34	與馬拉交談，以拿取你的獎賞
+qstsa5q35	與安亞交談
+qstsa5q4	哈洛加斯的反叛行動
+qstsa5q41	利用安亞的傳送點，前往尼拉塞克的神殿
+qstsa5q42	殺死尼拉塞克
+qstsa5q43	在你到達水晶通道、冰河路徑與亞瑞特山頂之前和安亞交談。
+qstsa5q5	通道的祭典
+qstsa5q51	沿著遠古之路行走在亞瑞特山頂找到古代人。
+qstsa5q52	在啟動天堂祭壇之後，與古代人交涉
+qstsa5q53	在不離開亞瑞特山的情況下，打倒所有的古代人。
+qstsa5q6	毀滅的前夕
+qstsa5q61	與古代人交涉
+qstsa5q62	殺死巴爾
+qstsa5q63	與泰瑞爾交談
+qstsa5q64	利用泰瑞爾的傳送點來到安全的地方
+Harrogath	哈洛加斯
+Bloody Foothills	血腥丘陵
+Rigid Highlands	冰凍高地
+Arreat Plateau	亞瑞特高原
+Crystalized Cavern Level 1	水晶通道
+Cellar of Pity	冰河
+Crystalized Cavern Level 2	冰河路徑
+Echo Chamber	漂泊者洞穴
+Tundra Wastelands	冰凍苔原
+Glacial Caves Level 1	遠古之路
+Glacial Caves Level 2	冰窖
+Rocky Summit	亞瑞特山脈顛峰
+Nihlathaks Temple	尼拉塞克的神殿
+Halls of Anguish	悲痛之廳
+Halls of Death's Calling	痛苦之廳
+Halls of Tormented Insanity	折磨之廳
+Halls of Vaught	瓦特之廳
+The Worldstone Keep Level 1	世界之石要塞第一層
+The Worldstone Keep Level 2	世界之石要塞第二層
+The Worldstone Keep Level 3	世界之石要塞第三層
+The Worldstone Chamber	世界之石大殿
+Throne of Destruction	毀滅的王座
+To Harrogath	前往哈洛加斯
+To The Bloody Foothills	前往血腥丘陵
+To The Rigid Highlands	前往冰凍高地
+To The Arreat Plateau	前往亞瑞特高原
+To The Crystalized Cavern Level 1	前往水晶通道
+To The Cellar of Pity	前往冰河
+To The Crystalized Cavern Level 2	前往冰河路徑
+To The Echo Chamber	前往漂泊者洞穴
+To The Tundra Wastelands	前往冰凍苔原
+To The Glacier Caves Level 1	前往遠古之路
+To The Glacier Caves Level 2	前往冰窖
+To The Rocky Summit	前往亞瑞特山脈顛峰
+To Nihlathaks Temple	前往尼拉塞克的神殿
+To The Halls of Anguish	前往悲痛之廳
+To The Halls of Death's Calling	前往痛苦之廳
+To The Halls of Tormented Insanity	前往折磨之廳
+To The Halls of Vaught	前往瓦特之廳
+To The Worldstone Keep Level 1	前往世界之石要塞第一層
+To The Worldstone Keep Level 2	前往世界之石要塞第二層
+To The Worldstone Keep Level 3	前往世界之石要塞第三層
+To The Worldstone Chamber	前往世界之石大殿
+To The Throne of Destruction	前往毀滅的王座
+hireiconinfo1	將藥水放在肖像上即可治療
+hireiconinfo2	按下滑鼠右鍵可打開物品欄(%s)
+hiredismiss	解散
+hiredismisshire	解散雇員
+hirerehire	重新雇用
+hireresurrect	復活
+hireresurrect2	復活 %s: %d
+hirechat1	多謝
+hirechat2	謝謝你
+hirechat3	我正需要
+hirepraise1	和一個真心關切的人共事真好
+hirepraise2	對你有好處
+hiredanger1	我覺得有危險
+hiredanger2	我恨透了這些害蟲
+hiredanger3	我有不好的預感
+hiredanger4	小心！
+hiredanger5	我最恨蜘蛛
+hiredanger6	噁，一群蛇！
+hirefeelstronger2	我的經驗更豐富了
+hirehelp1	我受傷了！
+hirehelp2	救命
+hirehelp3	我快死了
+hirehelp4	幫幫我！
+hiregreets1	早安
+hiregreets2	午安
+hiregreets3	晚安
+hiregreets4	你好
+CfgSkill9	技能9
+CfgSkill10	技能10
+CfgSkill11	技能11
+CfgSkill12	技能12
+CfgSkill13	技能13
+CfgSkill14	技能14
+CfgSkill15	技能15
+CfgSkill16	技能16
+CfgToggleminimap	切換小型地圖
+Cfgswapweapons	更換武器
+Cfghireling	雇員畫面
+MiniPanelHireinv	雇員物品欄
+MiniPanelHire	雇員
+x	資料片
+x	資料片人物
+x	轉換到
+x	點選「好」就可以把你原先的暗黑破壞神2人物轉入資料片遊戲中
+X	警告：當你轉換了你的人物之後，這個人物就只能出現在資料片中。
+X	
+X	你確定要繼續嗎？
+Go North	向北走
+Travel To Harrogath	前往哈洛加斯
+x	新的資料片人物
+x	新資料片開放性人物。
+x	新資料片國度人物。
+X	轉換到資料片
+X	創造新人物
+X	刪除人物
+X	無形的 (無法修復)
+X	這項物品無法修復
+Rename Instruct	請選擇一項想要以你的名稱個人化的物品
+Addsocketsui	增加凹槽
+Personalizeui	個人化
+Addsocketsui2	請選擇一項你想要增加凹槽的物品
+MercX101	伐德哈卡
+MercX102	可汗
+MercX103	克理斯克
+MercX104	柏斯
+MercX105	波姆
+MercX106	衛格萊夫
+MercX107	霍勒斯加
+MercX108	西勒德
+MercX109	海爾夫坦
+MercX110	海波加
+MercX111	海爾干特
+MercX112	海加力克
+MercX113	艾格索
+MercX114	波丹
+MercX115	伍夫加
+MercX116	希爾德
+MercX117	希斯洛夫
+MercX118	魏德
+MercX119	維克海亞特
+MercX120	安佛斯
+MercX121	席格龐特
+MercX122	希爾穆特
+MercX123	罕格斯特
+MercX124	弗克魏爾德
+MercX125	弗雷斯坦
+MercX126	荷那夫
+MercX127	高斯里夫
+MercX128	歐斯拉夫
+MercX129	亞門拉夫
+MercX130	加門得
+MercX131	菲瓦夫
+MercX132	艾得格理斯
+MercX133	奧蕾那
+MercX134	戴米安
+MercX135	艾弗
+MercX136	沃斯坦
+MercX137	沃夫
+MercX138	布溫
+MercX139	理夫
+MercX140	馬格納斯
+MercX141	格拉圖
+MercX142	圖魯斯
+MercX143	候克
+MercX144	科杜
+MercX145	猶瑟
+MercX146	艾普
+MercX147	伍夫
+MercX148	撒爾
+MercX149	卡林姆
+MercX150	烏瑞克
+MercX151	艾拉瑞克
+MercX152	愛瑟瑞得
+MercX153	卡登
+MercX154	伊爾吉夫
+MercX155	托斯提克
+MercX156	艾爾昆
+MercX157	艾蒙特
+MercX158	席古德
+MercX159	格姆
+MercX160	荷理斯
+MercX161	拉格那
+MercX162	托克爾
+MercX163	沃夫斯坦
+MercX164	阿爾班
+MercX165	巴洛克
+MercX166	比爾
+MercX167	狄奧多理
+	
+	

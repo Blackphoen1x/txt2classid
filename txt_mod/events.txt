@@ -1,0 +1,14 @@
+event	*desc
+ev0	hit by a missile
+ev1	damaged in melee
+ev2	damaged by missile
+ev3	melee attack atttempt
+ev4	do active state skill
+ev5	do damage in melee
+ev6	do missile damage
+ev7	do melee attack
+ev8	do missile attack
+ev9	killed something
+ev10	killed by something
+ev11	dealt damage
+ev12	gain a level
