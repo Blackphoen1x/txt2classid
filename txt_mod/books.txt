@@ -1,4 +1,0 @@
-Name	Namco	Completed	ScrollSpellCode	BookSpellCode	pSpell	SpellIcon	ScrollSkill	BookSkill	BaseCost	CostPerCharge
-unused	bk0	1	tsc	tbk	2	-1	sk219	sk220	250	50
-unused	bk1	1	isc	ibk	1		sk217	sk218	200	40
-unused	bk2	1				-1			500	100
