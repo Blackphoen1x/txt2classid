@@ -12,6 +12,7 @@
   "author": "Black phoen1x",
   "license": "ISC",
   "dependencies": {
-    "node-xlsx": "^0.21.0"
+    "node-xlsx": "^0.21.0",
+    "pkg": "^5.8.0"
   }
 }
